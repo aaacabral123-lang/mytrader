@@ -5,8 +5,10 @@ Each run, during NYSE hours only:
   1. settles orders from earlier runs and updates the robot's cash ledger
   2. once a day, re-reads the investor's latest 13F (trader-copycat) into trader/targets.json
   3. syncs positions from Alpaca into trader/portfolio.json and prices into trader/prices.json
-  4. proposes orders: first buy with trader-budget, after that trader-rebalance (drift band)
-  5. checks every order with trader-risk and sends only the PASS ones to Alpaca
+  4. once a day, writes trader/relatorios/<date>.md: portfolio, trader-news and trader-pelosi
+  5. sells any position whose trader-alerts stop rang, and keeps it out for a cooldown
+  6. otherwise proposes orders: first buy with trader-budget, after that trader-rebalance (drift band)
+  7. checks every order with trader-risk and sends only the PASS ones to Alpaca
 
 Settings live in trader/robo.json and trader/config.json. Keys come from the
 environment (ALPACA_API_KEY, ALPACA_SECRET_KEY), never from files.
@@ -42,7 +44,12 @@ ROBO_DEFAULTS = {
     "top": 5,
     "band": 5,
     "sell_untracked_on_new_13f": True,
+    "stop_loss_pct": 15,
+    "stop_cooldown_days": 30,
+    "daily_report": True,
 }
+STOP_PREFIX = "robo-stop-"
+TXN_TYPES = {"P": "compra", "S": "venda", "S (partial)": "venda parcial", "E": "troca"}
 
 
 class RoboError(Exception):
@@ -135,6 +142,15 @@ def skill(script, *args):
     return p.returncode, p.stdout
 
 
+def skill_json(script, *args):
+    """Run a skill script with --json; None when it failed or printed no JSON."""
+    _, out = skill(script, *(list(args) + ["--json"]))
+    try:
+        return json.loads(out)
+    except ValueError:
+        return None
+
+
 def settle(api, state, log):
     """Book fills of orders sent in earlier runs into the cash ledger."""
     still = []
@@ -184,17 +200,124 @@ def sync_portfolio(api, state, targets):
     prices.update(api.latest_prices(want))
     write_json(path("prices.json"), {"as_of": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
                                      "source": "alpaca", "prices": prices})
-    return held
+    return held, positions
 
 
-def propose(robo, held, new_13f):
+def check_stops(robo, positions, state, today, log):
+    """Keep one trader-alerts stop rule per position and turn the ones that ring into sell orders."""
+    pct = float(robo.get("stop_loss_pct") or 0)
+    rules_doc = read_json(path("alerts.json"), {"rules": []}) or {"rules": []}
+    rules = [r for r in rules_doc.get("rules", []) if not str(r.get("id", "")).startswith(STOP_PREFIX)]
+    if pct > 0:
+        for p in positions:
+            rules.append({"id": STOP_PREFIX + p["symbol"], "symbol": p["symbol"], "type": "stop",
+                          "price": round(float(p["avg_entry_price"]) * (1 - pct / 100.0), 2),
+                          "note": "robô: -%g%% do preço médio" % pct})
+    write_json(path("alerts.json"), dict(rules_doc, rules=rules))
+    if pct <= 0 or not positions:
+        return []
+    res = skill_json("trader-alerts/alerts.py", "check", "--no-write")
+    if res is None:
+        log("não consegui checar os stops nesta rodada (trader-alerts)")
+        return []
+    qty = {p["symbol"]: p["qty"] for p in positions}
+    orders = []
+    until = (dt.date.fromisoformat(today) + dt.timedelta(days=int(robo["stop_cooldown_days"]))).isoformat()
+    for ring in res.get("rings", []):
+        sym = ring.get("symbol")
+        if not str(ring.get("id", "")).startswith(STOP_PREFIX) or sym not in qty:
+            continue
+        orders.append({"symbol": sym, "side": "sell", "qty": qty[sym], "type": "market", "time_in_force": "day",
+                       "why": "stop: %s" % ring["message"]})
+        state.setdefault("cooldown", {})[sym] = until
+        log("STOP acionado em %s: %s Fica fora da carteira até %s." % (sym, ring["message"], until))
+    return orders
+
+
+def active_targets(targets, state, today):
+    """targets.json minus the stocks in stop cooldown; budget and rebalance renormalise the rest."""
+    cool = {s: d for s, d in (state.get("cooldown") or {}).items() if d > today}
+    state["cooldown"] = cool
+    doc = dict(targets, weights=[w for w in targets.get("weights", []) if w["ticker"] not in cool])
+    write_json(path("state", "targets_active.json"), doc)
+    return "trader/state/targets_active.json"
+
+
+def daily_report(cfg, targets, positions, state, today, log):
+    """Once a day: portfolio, news on the tickers (trader-news) and Congress trades (trader-pelosi)."""
+    if state.get("last_report") == today:
+        return
+    tickers = sorted({p["symbol"] for p in positions} | {w["ticker"] for w in targets.get("weights", [])})
+    invested = sum(float(p.get("market_value") or 0) for p in positions)
+    out = ["# Relatório do robô, %s" % today, "",
+           "## Carteira", "",
+           "Valor total: **$%.2f** (começou com $%.2f). Em ações: $%.2f. Caixa do robô: $%.2f."
+           % (invested + state["cash"], float(cfg.get("budget", 0)), invested, state["cash"]), ""]
+    if positions:
+        out += ["| Ação | Quantidade | Valor | Resultado |", "| --- | --- | --- | --- |"]
+        for p in sorted(positions, key=lambda p: -float(p.get("market_value") or 0)):
+            out.append("| %s | %.4f | $%.2f | %+.1f%% |" % (p["symbol"], float(p["qty"]), float(p.get("market_value") or 0),
+                                                         100 * float(p.get("unrealized_plpc") or 0)))
+    cool = state.get("cooldown") or {}
+    if cool:
+        out += ["", "Fora da carteira por stop: %s." % ", ".join("%s até %s" % kv for kv in sorted(cool.items()))]
+
+    out += ["", "## Notícias (últimas 24 h)", ""]
+    news = skill_json("trader-news/news.py", "--tickers", *(tickers + ["--hours", "24"]))
+    if news is None:
+        out.append("Não consegui ler as notícias hoje.")
+    elif not news.get("items"):
+        out.append("Nada novo sobre %s." % ", ".join(tickers))
+    for it in (news or {}).get("items", [])[:20]:
+        out.append("- **%s** %s: [%s](%s)%s" % (it.get("ticker", ""), "8-K na SEC" if it.get("kind") != "headline"
+                                                 else it.get("source", ""), it.get("title", ""), it.get("link", ""),
+                                                 " _(%s)_" % ", ".join(it["tags"]) if it.get("tags") else ""))
+
+    out += ["", "## Trades de políticos (Câmara dos EUA)", ""]
+    since = (dt.date.fromisoformat(today) - dt.timedelta(days=3)).isoformat()
+    pdfs = os.path.join(os.environ.get("RUNNER_TEMP") or "/tmp", "ptr-pdfs")
+    ptr = skill_json("trader-pelosi/ptr.py", "new", "--read", "--since", since, "--pdf-dir", pdfs,
+                     "--tickers", *tickers)
+    if ptr is None:
+        out.append("Não consegui ler as declarações hoje.")
+    elif not ptr.get("new"):
+        out.append("Nenhuma declaração nova.")
+    else:
+        mine, other = [], []
+        for rep in ptr.get("reports", []):
+            who = rep["filing"]["name"].replace("Hon. ", "")
+            for r in (rep.get("report") or {}).get("rows", []):
+                line = "%s: %s %s%s, %s (negócio em %s)" % (
+                    who, TXN_TYPES.get(r.get("type"), r.get("type")), r.get("asset", ""),
+                    " (%s)" % r["ticker"] if r.get("ticker") else "", r.get("amount", ""), r.get("date", "?"))
+                (mine if r.get("ticker") in tickers else other).append(line)
+        out.append("%d declaração(ões) nova(s)." % len(ptr["new"]))
+        if not mine and not other:
+            out += ["- %s, entregue em %s: [PDF](%s)" % (f["name"].replace("Hon. ", ""), f["filed"], f["url"])
+                    for f in ptr["new"][:25]]
+        if mine:
+            out += ["", "**Em ações que o robô tem ou segue:**"] + ["- " + l for l in mine]
+        if other:
+            out += ["", "Outras:"] + ["- " + l for l in other[:25]]
+            if len(other) > 25:
+                out.append("- e mais %d" % (len(other) - 25))
+    rel = path("relatorios", today + ".md")
+    os.makedirs(os.path.dirname(rel), exist_ok=True)
+    with open(rel, "w", encoding="utf-8") as fh:
+        fh.write("\n".join(out) + "\n\n_Não é recomendação de investimento._\n")
+    state["last_report"] = today
+    log("relatório do dia: trader/relatorios/%s.md" % today)
+
+
+def propose(robo, held, new_13f, cash, targets_path):
     """Write trader/orders.json via budget (first buy) or rebalance. Returns the orders."""
     if os.path.exists(path("orders.json")):
         os.remove(path("orders.json"))
     if not held:
-        skill("trader-budget/size.py", "--prices", "trader/prices.json", "--write")
+        skill("trader-budget/size.py", "--targets", targets_path, "--budget", "%.2f" % cash,
+              "--prices", "trader/prices.json", "--write")
     else:
-        args = ["--band", str(robo["band"]), "--write"]
+        args = ["--targets", targets_path, "--band", str(robo["band"]), "--write"]
         if new_13f and robo.get("sell_untracked_on_new_13f"):
             args.append("--sell-untracked")
         skill("trader-rebalance/rebalance.py", *args)
@@ -224,16 +347,22 @@ def run(dry_run=False):
 
     state = read_json(path("state", "robo.json")) or {"cash": float(cfg.get("budget", 0)), "pending": []}
     settle(api, state, log)
-    if state["pending"]:
-        log("%d ordem(ns) ainda abertas; espero a próxima rodada" % len(state["pending"]))
-        return finish(state, log)
-
     new_13f = refresh_targets(robo, state, today, log)
     targets = read_json(path("targets.json"))
     if not targets:
         raise RoboError("sem trader/targets.json; o 13F não pôde ser lido")
-    held = sync_portfolio(api, state, targets)
-    orders = propose(robo, held, new_13f)
+    held, positions = sync_portfolio(api, state, targets)
+    if robo.get("daily_report"):
+        daily_report(cfg, targets, positions, state, today, log)
+    if state["pending"]:
+        log("%d ordem(ns) ainda abertas; espero a próxima rodada" % len(state["pending"]))
+        return finish(state, log)
+
+    orders = check_stops(robo, positions, state, today, log)
+    if orders:
+        write_json(path("orders.json"), {"created_by": "robo (stop)", "paper": True, "orders": orders})
+    else:
+        orders = propose(robo, held, new_13f, state["cash"], active_targets(targets, state, today))
     if not orders:
         print("carteira dentro da meta; nada a fazer")
         return finish(state, log)

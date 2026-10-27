@@ -9,12 +9,17 @@ A cada 30 minutos, de segunda a sexta, o GitHub Actions roda `bot/robo.py`. Se a
 1. **Confere as ordens anteriores** e atualiza o caixa do robô com o que foi executado.
 2. **Uma vez por dia, lê o 13F** do investidor escolhido (`trader-copycat`). O padrão é a Berkshire Hathaway (Buffett), com as 5 maiores posições.
 3. **Sincroniza** as posições e os preços da Alpaca.
-4. **Decide se há oportunidade:**
+4. **Uma vez por dia, escreve um relatório** em `trader/relatorios/AAAA-MM-DD.md` com:
+   - a carteira: valor, ganho ou perda de cada ação;
+   - as notícias e os 8-K das ações que ele tem ou segue (`trader-news`);
+   - as declarações novas de compra e venda de deputados dos EUA, com destaque para as suas ações (`trader-pelosi`).
+5. **Stop de proteção** (`trader-alerts`): se uma ação cair 15% abaixo do preço médio de compra, ele vende tudo dela e a deixa de fora por 30 dias. Nesse tempo, o dinheiro vai para as outras ações da carteira.
+6. **Decide se há oportunidade:**
    - primeira vez: compra a carteira inteira dentro do orçamento (`trader-budget`);
    - depois: só opera se alguma ação se afastou mais de 5 pontos percentuais da meta (`trader-rebalance`). Quando uma ação cai muito, ele compra mais; quando sobe demais, vende um pouco;
    - quando sai um 13F novo, vende o que o investidor vendeu e compra o que ele comprou.
-5. **Passa cada ordem pelo controle de risco** (`trader-risk`) e só envia as aprovadas (PASS).
-6. **Registra tudo** em `trader/log/robo-AAAA-MM.md` e salva o estado no repositório.
+7. **Passa cada ordem pelo controle de risco** (`trader-risk`) e só envia as aprovadas (PASS).
+8. **Registra tudo** em `trader/log/robo-AAAA-MM.md` e salva o estado no repositório.
 
 ## Configuração (uma vez só)
 
@@ -31,7 +36,7 @@ A cada 30 minutos, de segunda a sexta, o GitHub Actions roda `bot/robo.py`. Se a
 ## Ajustes
 
 - `trader/config.json`: orçamento (`budget`, padrão US$ 5.000), caixa mínimo (`cash_buffer_pct`, 10%), máximo por ação (`max_position_pct`, 25%), máximo por ordem (`max_order_usd`), ordens por dia (`max_orders_per_day`) e tickers proibidos (`blocked`).
-- `trader/robo.json`: liga e desliga o robô (`enabled`), escolhe o investidor (`investor_cik`, `investor_name`; o CIK de qualquer fundo aparece com `python3 .claude/skills/trader-copycat/edgar13f.py find NOME`), define quantas posições copiar (`top`) e a faixa de desvio (`band`).
+- `trader/robo.json`: liga e desliga o robô (`enabled`), escolhe o investidor (`investor_cik`, `investor_name`; o CIK de qualquer fundo aparece com `python3 .claude/skills/trader-copycat/edgar13f.py find NOME`), define quantas posições copiar (`top`), a faixa de desvio (`band`), o stop (`stop_loss_pct`, 15; use 0 para desligar), os dias fora depois de um stop (`stop_cooldown_days`, 30) e se gera o relatório diário (`daily_report`).
 
 Para **parar o robô**, troque `"enabled": true` por `false` em `trader/robo.json`, ou desative o workflow em Actions.
 
