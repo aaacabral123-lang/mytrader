@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "investor_cik": "1067983",
+  "investor_name": "Berkshire Hathaway",
+  "top": 5,
+  "band": 5,
+  "sell_untracked_on_new_13f": true
+}

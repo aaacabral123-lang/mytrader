@@ -1,0 +1,48 @@
+name: Robô MyTrader (paper)
+
+on:
+  schedule:
+    # every 30 minutes, Mon-Fri, 13:00-20:59 UTC: covers NYSE hours in summer and winter time.
+    # The robot asks Alpaca whether the market is open and does nothing when it is closed.
+    - cron: "*/30 13-20 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Simular sem enviar ordens"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: robo
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rodar o robô
+        env:
+          ALPACA_API_KEY: ${{ secrets.ALPACA_API_KEY }}
+          ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: python3 bot/robo.py ${{ inputs.dry_run && '--dry-run' || '' }}
+
+      - name: Salvar estado e diário
+        if: always()
+        run: |
+          git config user.name "mytrader-robo"
+          git config user.email "mytrader-robo@users.noreply.github.com"
+          git add trader
+          git diff --cached --quiet && exit 0
+          git commit -m "robô: rodada $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase --quiet && git push
