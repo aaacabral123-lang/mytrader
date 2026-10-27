@@ -3,7 +3,10 @@
 
 Each run, during NYSE hours only:
   1. settles orders from earlier runs and updates the robot's cash ledger
-  2. once a day, re-reads the investor's latest 13F (trader-copycat) into trader/targets.json
+  2. refreshes trader/targets.json with the chosen strategy:
+       "screener" (default): every few days, trader-analyst reads the SEC numbers of the
+       universe, trader-screener applies trader/rules.json, the top picks get equal weights
+       "copycat": once a day, the investor's latest 13F (trader-copycat)
   3. syncs positions from Alpaca into trader/portfolio.json and prices into trader/prices.json
   4. once a day, writes trader/relatorios/<date>.md: portfolio, trader-news and trader-pelosi
   5. sells any position whose trader-alerts stop rang, and keeps it out for a cooldown
@@ -39,6 +42,13 @@ QUOTE_URL = os.environ.get("ROBO_TEST_DATA_URL") or DATA_URL
 
 ROBO_DEFAULTS = {
     "enabled": True,
+    "strategy": "screener",
+    "universe": ["AAPL", "MSFT", "NVDA", "GOOGL", "AMZN", "META", "AVGO", "TSLA", "ORCL", "CRM",
+                 "ADBE", "AMD", "NFLX", "CSCO", "QCOM", "TXN", "INTC", "JPM", "BAC", "WFC",
+                 "V", "MA", "AXP", "UNH", "LLY", "JNJ", "MRK", "ABBV", "PFE", "AMGN",
+                 "TMO", "ISRG", "PG", "KO", "PEP", "COST", "WMT", "HD", "LOW", "MCD",
+                 "NKE", "SBUX", "BKNG", "DIS", "XOM", "CVX", "CAT", "DE", "HON", "UPS"],
+    "screen_every_days": 7,
     "investor_cik": "1067983",
     "investor_name": "Berkshire Hathaway",
     "top": 5,
@@ -168,7 +178,60 @@ def settle(api, state, log):
     state["pending"] = still
 
 
-def refresh_targets(robo, state, today, log):
+def refresh_targets(api, robo, state, today, log):
+    """Returns True when the stocks to hold changed (then stocks that left are sold)."""
+    if robo.get("strategy", "screener") == "screener":
+        return refresh_screen(api, robo, state, today, log)
+    return refresh_13f(robo, state, today, log)
+
+
+def refresh_screen(api, robo, state, today, log):
+    """trader-analyst on the universe, then trader-screener; equal weights over the top picks.
+    A stock already picked stays while it still passes the rules, so the ranking alone never churns it."""
+    last = state.get("last_screen")
+    every = int(robo.get("screen_every_days") or 7)
+    if last and os.path.exists(path("targets.json")) and \
+            (dt.date.fromisoformat(today) - dt.date.fromisoformat(last)).days < every:
+        return False
+    universe = [t.upper() for t in robo["universe"]]
+    if os.path.exists(path("metrics.json")):
+        os.remove(path("metrics.json"))
+    skill("trader-analyst/facts.py", *(universe + ["--no-filings", "--metrics", "trader/metrics.json"]))
+    if not os.path.exists(path("metrics.json")):
+        log("não consegui ler os balanços na SEC (trader-analyst); sigo com as ações anteriores")
+        return False
+    write_json(path("state", "universe_prices.json"), {"as_of": today, "source": "alpaca",
+                                                       "prices": api.latest_prices(universe)})
+    res = skill_json("trader-screener/screen.py", "trader/metrics.json", "--rules", "trader/rules.json",
+                     "--prices", "trader/state/universe_prices.json", "--out", "trader/shortlist.json")
+    if res is None:
+        log("o screener falhou; sigo com as ações anteriores")
+        return False
+    state["last_screen"] = today
+    passed = [r["ticker"] for r in sorted(res.get("passed", []), key=lambda r: -(r.get("score") or 0))]
+    names = {r["ticker"]: r.get("name", "") for r in res.get("passed", [])}
+    prev_doc = read_json(path("targets.json"), {}) or {}
+    prev = [w["ticker"] for w in prev_doc.get("weights", [])] if "screener" in prev_doc.get("source", "") else []
+    top = int(robo["top"])
+    picks = [t for t in prev if t in passed][:top]
+    picks += [t for t in passed if t not in picks][:top - len(picks)]
+    if not picks:
+        log("nenhuma empresa passou nas regras de trader/rules.json; sigo com as ações anteriores")
+        return False
+    write_json(path("targets.json"), {
+        "source": "trader-screener: %s (%s), %d de %d empresas passaram"
+                  % (res.get("name", "rules"), today, len(passed), len(universe)),
+        "as_of": today,
+        "weights": [{"ticker": t, "name": names.get(t, ""), "weight": round(100.0 / len(picks), 4)}
+                    for t in picks]})
+    if set(picks) != set(prev):
+        log("ações escolhidas pelo screener: %s (antes: %s)" % (", ".join(picks), ", ".join(prev) or "nenhuma"))
+        return True
+    log("screener refeito: as mesmas ações continuam passando (%s)" % ", ".join(picks))
+    return False
+
+
+def refresh_13f(robo, state, today, log):
     """Re-read the 13F once a day. Returns True when the copied portfolio changed."""
     if state.get("last_13f_check") == today and os.path.exists(path("targets.json")):
         return False
@@ -243,6 +306,10 @@ def active_targets(targets, state, today):
     return "trader/state/targets_active.json"
 
 
+def robo_strategy(state):
+    return state.get("strategy", "screener")
+
+
 def daily_report(cfg, targets, positions, state, today, log):
     """Once a day: portfolio, news on the tickers (trader-news) and Congress trades (trader-pelosi)."""
     if state.get("last_report") == today:
@@ -261,6 +328,23 @@ def daily_report(cfg, targets, positions, state, today, log):
     cool = state.get("cooldown") or {}
     if cool:
         out += ["", "Fora da carteira por stop: %s." % ", ".join("%s até %s" % kv for kv in sorted(cool.items()))]
+
+    short = read_json(path("shortlist.json"))
+    if robo_strategy(state) == "screener" and short:
+        metrics = {c["ticker"]: c for c in (read_json(path("metrics.json"), {}) or {}).get("companies", [])}
+        picked = {w["ticker"] for w in targets.get("weights", [])}
+        out += ["", "## Por que essas ações (trader-analyst + trader-screener)", "",
+                "Regras: %s. %d passaram, %d não passaram."
+                % (short.get("name", ""), len(short.get("passed", [])), len(short.get("failed", []))), "",
+                "| Ação | Na carteira | Receita (cresc. 12m) | Margem operacional | P/L | Nota |",
+                "| --- | --- | --- | --- | --- | --- |"]
+        for r in short.get("passed", [])[:10]:
+            m = metrics.get(r["ticker"], {})
+            px = ((read_json(path("state", "universe_prices.json"), {}) or {}).get("prices") or {}).get(r["ticker"])
+            pe = "%.1f" % (px / m["eps_ttm"]) if px and (m.get("eps_ttm") or 0) > 0 else "?"
+            out.append("| %s | %s | %s%% | %s%% | %s | %s |" % (
+                r["ticker"], "sim" if r["ticker"] in picked else "", m.get("revenue_growth_yoy", "?"),
+                m.get("operating_margin", "?"), pe, r.get("score", "")))
 
     out += ["", "## Notícias (últimas 24 h)", ""]
     news = skill_json("trader-news/news.py", "--tickers", *(tickers + ["--hours", "24"]))
@@ -347,7 +431,8 @@ def run(dry_run=False):
 
     state = read_json(path("state", "robo.json")) or {"cash": float(cfg.get("budget", 0)), "pending": []}
     settle(api, state, log)
-    new_13f = refresh_targets(robo, state, today, log)
+    state["strategy"] = robo.get("strategy", "screener")
+    new_13f = refresh_targets(api, robo, state, today, log)
     targets = read_json(path("targets.json"))
     if not targets:
         raise RoboError("sem trader/targets.json; o 13F não pôde ser lido")
@@ -363,6 +448,14 @@ def run(dry_run=False):
         write_json(path("orders.json"), {"created_by": "robo (stop)", "paper": True, "orders": orders})
     else:
         orders = propose(robo, held, new_13f, state["cash"], active_targets(targets, state, today))
+        # rebalance rounds share counts to 4 decimals; never sell more than Alpaca says we hold
+        have = {p["symbol"]: p["qty"] for p in positions}
+        for o in orders:
+            if o["side"] == "sell" and "qty" in o and float(o["qty"]) > float(have.get(o["symbol"], 0)):
+                o["qty"] = have.get(o["symbol"], "0")
+        if orders:
+            doc = read_json(path("orders.json"), {})
+            write_json(path("orders.json"), dict(doc, orders=orders))
     if not orders:
         print("carteira dentro da meta; nada a fazer")
         return finish(state, log)
