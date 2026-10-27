@@ -34,6 +34,7 @@ import urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SKILLS = os.path.join(ROOT, ".claude", "skills")
 T = os.path.join(ROOT, "trader")
+PANEL = os.path.join(ROOT, "painel")
 PAPER_URL = "https://paper-api.alpaca.markets"
 DATA_URL = "https://data.alpaca.markets"
 # Tests point these at a local mock; anything else must stay paper.
@@ -195,6 +196,12 @@ def settle(api, state, log):
             state["cash"] = round(state["cash"] + (amount if o["side"] == "sell" else -amount), 2)
             log("%s %s: %s, %s ações a $%.2f (caixa do robô: $%.2f)"
                 % (o["side"], o["symbol"], o["status"], qty, px, state["cash"]))
+            if qty > 0:
+                state.setdefault("fills", []).append({
+                    "at": str(o.get("filled_at") or dt.datetime.now(dt.timezone.utc).isoformat())[:19] + "Z",
+                    "symbol": o["symbol"], "side": o["side"], "qty": round(qty, 6), "price": px,
+                    "amount": amount, "why": rec.get("why", "")})
+                state["fills"] = state["fills"][-100:]
             verb = "Compra" if o["side"] == "buy" else "Venda"
             if qty > 0:
                 notify("%s de %s executada" % (verb, o["symbol"]),
@@ -477,11 +484,12 @@ def run(dry_run=False):
     if not targets:
         raise RoboError("sem trader/targets.json; o 13F não pôde ser lido")
     held, positions = sync_portfolio(api, state, targets)
+    panel = (lambda: write_panel(api, cfg, state, targets, now)) if not dry_run else None
     if robo.get("daily_report"):
         daily_report(cfg, targets, positions, state, today, log)
     if state["pending"]:
         log("%d ordem(ns) ainda abertas; espero a próxima rodada" % len(state["pending"]))
-        return finish(state, log)
+        return finish(state, log, panel=panel)
 
     orders = check_stops(robo, positions, state, today, log)
     if orders:
@@ -498,7 +506,7 @@ def run(dry_run=False):
             write_json(path("orders.json"), dict(doc, orders=orders))
     if not orders:
         print("carteira dentro da meta; nada a fazer")
-        return finish(state, log)
+        return finish(state, log, panel=panel)
 
     code, out = skill("trader-risk/check.py", "--today", today, "--json")
     verdicts = json.loads(out)["results"] if out.strip() else []
@@ -518,7 +526,8 @@ def run(dry_run=False):
             log("[simulação] enviaria %s" % json.dumps(body))
             continue
         sent = api.submit(body)
-        state["pending"].append({"id": sent["id"], "symbol": o["symbol"], "side": o["side"]})
+        state["pending"].append({"id": sent["id"], "symbol": o["symbol"], "side": o["side"],
+                                 "why": o.get("why", "")[:160]})
         broker["orders"].append({"date": today, "at": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "status": "placed",
                                  "symbol": o["symbol"], "side": o["side"], "id": sent["id"],
                                  "approved_by": "robo (automatic, paper)", "why": o.get("why", "")})
@@ -533,12 +542,59 @@ def run(dry_run=False):
         write_json(path("state", "broker.json"), broker)
         time.sleep(5)
         settle(api, state, log)
-    return finish(state, log, save=not dry_run)
+    return finish(state, log, save=not dry_run, panel=panel)
 
 
-def finish(state, log, save=True):
+def write_panel(api, cfg, state, targets, now):
+    """painel/dados.json for the phone dashboard (GitHub Pages): balance, positions, history, picks."""
+    positions = api.positions()
+    invested = sum(float(p.get("market_value") or 0) for p in positions)
+    total = round(invested + state["cash"], 2)
+    start = float(cfg.get("budget", 0)) or total
+    hist = read_json(path("state", "historico.json"), []) or []
+    hist.append({"t": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "v": total})
+    hist = hist[-3000:]
+    write_json(path("state", "historico.json"), hist)
+    names = {w["ticker"]: w.get("name", "") for w in targets.get("weights", [])}
+    pos = []
+    for p in sorted(positions, key=lambda p: -float(p.get("market_value") or 0)):
+        value = float(p.get("market_value") or 0)
+        pos.append({"symbol": p["symbol"], "name": names.get(p["symbol"], ""), "qty": float(p["qty"]),
+                    "avg": float(p["avg_entry_price"]), "price": float(p["current_price"]), "value": round(value, 2),
+                    "pl": round(value - float(p["cost_basis"]), 2), "pl_pct": round(100 * float(p.get("unrealized_plpc") or 0), 2),
+                    "weight": round(100 * value / total, 2) if total else 0})
+    picks = []
+    short = read_json(path("shortlist.json"), {}) or {}
+    metrics = {c["ticker"]: c for c in (read_json(path("metrics.json"), {}) or {}).get("companies", [])}
+    uprices = (read_json(path("state", "universe_prices.json"), {}) or {}).get("prices") or {}
+    for r in short.get("passed", [])[:10]:
+        m = metrics.get(r["ticker"], {})
+        px, eps = uprices.get(r["ticker"]), m.get("eps_ttm") or 0
+        picks.append({"symbol": r["ticker"], "name": r.get("name", ""), "score": r.get("score"),
+                      "growth": m.get("revenue_growth_yoy"), "margin": m.get("operating_margin"),
+                      "pe": round(px / eps, 1) if px and eps > 0 else None,
+                      "held": r["ticker"] in names})
+    reports = sorted(f for f in os.listdir(path("relatorios"))) if os.path.isdir(path("relatorios")) else []
+    write_json(os.path.join(PANEL, "dados.json"), {
+        "as_of": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "paper": True,
+        "strategy": state.get("strategy"), "rules": short.get("name"),
+        "start": start, "total": total, "invested": round(invested, 2), "cash": state["cash"],
+        "change": round(total - start, 2), "change_pct": round(100 * (total / start - 1), 2) if start else 0,
+        "positions": pos, "targets": targets.get("weights", []), "cooldown": state.get("cooldown") or {},
+        "pending": len(state.get("pending", [])), "fills": list(reversed(state.get("fills", [])))[:30],
+        "picks": picks, "history": hist,
+        "report": "trader/relatorios/" + reports[-1] if reports else None,
+        "repo": os.environ.get("GITHUB_REPOSITORY")})
+
+
+def finish(state, log, save=True, panel=None):
     if save:
         write_json(path("state", "robo.json"), state)
+    if panel:
+        try:
+            panel()
+        except (RoboError, OSError, KeyError, ValueError) as e:
+            print("aviso: painel não atualizado (%s)" % e, file=sys.stderr)
     if log.lines:
         log.save()
     return 0

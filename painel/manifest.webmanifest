@@ -1,0 +1,14 @@
+{
+  "name": "Robô MyTrader",
+  "short_name": "Robô",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080f1d",
+  "theme_color": "#080f1d",
+  "description": "Painel do robô de paper trading: saldo, carteira e operações",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
