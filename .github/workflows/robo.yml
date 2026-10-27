@@ -30,6 +30,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Instalar pdftotext (para ler as declarações dos políticos)
+        run: sudo apt-get install -y -qq poppler-utils > /dev/null
+
       - name: Rodar o robô
         env:
           ALPACA_API_KEY: ${{ secrets.ALPACA_API_KEY }}

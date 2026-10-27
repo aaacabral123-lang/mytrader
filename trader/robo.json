@@ -4,5 +4,8 @@
   "investor_name": "Berkshire Hathaway",
   "top": 5,
   "band": 5,
-  "sell_untracked_on_new_13f": true
+  "sell_untracked_on_new_13f": true,
+  "stop_loss_pct": 15,
+  "stop_cooldown_days": 30,
+  "daily_report": true
 }
