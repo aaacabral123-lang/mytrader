@@ -37,6 +37,17 @@ A cada 30 minutos, de segunda a sexta, o GitHub Actions roda `bot/robo.py`. Se a
 
 **Nunca cole as chaves no chat nem em arquivos do repositório.** Elas ficam só nos Secrets.
 
+## No celular
+
+**Relatório:** instale o app do GitHub, abra o repositório `mytrader` e vá na pasta `trader/relatorios`. Cada dia de pregão tem um arquivo com a data.
+
+**Notificações** (com o app gratuito [ntfy](https://ntfy.sh), sem cadastro):
+1. Instale o **ntfy** no celular (App Store ou Google Play).
+2. No app, toque em **+** e assine um tópico com um nome secreto, por exemplo `mytrader-` seguido de letras e números aleatórios. Quem souber o nome consegue ler as mensagens, então não use nada fácil de adivinhar.
+3. No GitHub, crie o secret `NTFY_TOPIC` com esse mesmo nome.
+
+Você recebe um aviso a cada compra ou venda executada, quando um stop é acionado, quando o relatório do dia fica pronto (tocar abre o relatório) e se o robô der erro. Sem o secret `NTFY_TOPIC`, o robô simplesmente não envia notificações.
+
 ## Ajustes
 
 - `trader/rules.json`: as regras do screener. Operadores: `>`, `>=`, `<`, `<=`, `between`, `in`, `not in`. Métricas: `revenue_growth_yoy`, `eps_growth_yoy`, `gross_margin`, `operating_margin`, `net_margin`, `eps_ttm`, `pe`, `earnings_yield`. A seção `rank` define a nota.

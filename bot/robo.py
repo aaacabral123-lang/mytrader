@@ -143,6 +143,28 @@ class Alpaca:
         return {s: float(t["p"]) for s, t in trades.items() if t.get("p")}
 
 
+def notify(title, message, tags=(), click=None, priority=3):
+    """Push to the phone through ntfy (https://ntfy.sh) when NTFY_TOPIC is set; never fails the run."""
+    topic = os.environ.get("NTFY_TOPIC")
+    if not topic:
+        return
+    body = {"topic": topic, "title": title, "message": message, "tags": list(tags), "priority": priority}
+    if click:
+        body["click"] = click
+    server = os.environ.get("NTFY_SERVER") or "https://ntfy.sh"
+    req = urllib.request.Request(server.rstrip("/") + "/", data=json.dumps(body).encode(),
+                                 headers={"Content-Type": "application/json"}, method="POST")
+    try:
+        urllib.request.urlopen(req, timeout=15).close()
+    except (urllib.error.URLError, OSError) as e:
+        print("aviso: notificação não enviada (%s)" % e, file=sys.stderr)
+
+
+def github_link(rel):
+    repo = os.environ.get("GITHUB_REPOSITORY")
+    return "https://github.com/%s/blob/main/%s" % (repo, rel) if repo else None
+
+
 def skill(script, *args):
     """Run one of the skill scripts from the repo root; returns (exit code, stdout)."""
     cmd = [sys.executable, os.path.join(SKILLS, script)] + list(args)
@@ -173,6 +195,15 @@ def settle(api, state, log):
             state["cash"] = round(state["cash"] + (amount if o["side"] == "sell" else -amount), 2)
             log("%s %s: %s, %s ações a $%.2f (caixa do robô: $%.2f)"
                 % (o["side"], o["symbol"], o["status"], qty, px, state["cash"]))
+            verb = "Compra" if o["side"] == "buy" else "Venda"
+            if qty > 0:
+                notify("%s de %s executada" % (verb, o["symbol"]),
+                       "%.4f ações a $%.2f = $%.2f\nCaixa do robô: $%.2f (conta paper)"
+                       % (qty, px, amount, state["cash"]),
+                       tags=["chart_with_upwards_trend" if o["side"] == "buy" else "moneybag"])
+            else:
+                notify("%s de %s não executada" % (verb, o["symbol"]), "Status na Alpaca: %s" % o["status"],
+                       tags=["warning"])
         else:
             still.append(rec)
     state["pending"] = still
@@ -294,6 +325,8 @@ def check_stops(robo, positions, state, today, log):
                        "why": "stop: %s" % ring["message"]})
         state.setdefault("cooldown", {})[sym] = until
         log("STOP acionado em %s: %s Fica fora da carteira até %s." % (sym, ring["message"], until))
+        notify("Stop acionado em %s" % sym, "%s\nO robô vai vender e deixar %s de fora até %s."
+               % (ring["message"], sym, until), tags=["rotating_light"], priority=4)
     return orders
 
 
@@ -391,6 +424,13 @@ def daily_report(cfg, targets, positions, state, today, log):
         fh.write("\n".join(out) + "\n\n_Não é recomendação de investimento._\n")
     state["last_report"] = today
     log("relatório do dia: trader/relatorios/%s.md" % today)
+    total = invested + state["cash"]
+    budget = float(cfg.get("budget", 0)) or total
+    notify("Relatório do robô, %s" % today,
+           "Carteira: $%.2f (%+.1f%% desde o início)\nAções: %s\nNotícias novas: %d\nToque para abrir o relatório."
+           % (total, 100.0 * (total / budget - 1), ", ".join(sorted(p["symbol"] for p in positions)) or "nenhuma ainda",
+              len((news or {}).get("items", []))),
+           tags=["memo"], click=github_link("trader/relatorios/%s.md" % today))
 
 
 def propose(robo, held, new_13f, cash, targets_path):
@@ -510,9 +550,14 @@ def main(argv=None):
     a = ap.parse_args(argv)
     try:
         return run(a.dry_run)
-    except RoboError as e:
+    except Exception as e:
         print("erro: %s" % e, file=sys.stderr)
-        return 1
+        run_url = os.environ.get("GITHUB_RUN_ID") and "https://github.com/%s/actions/runs/%s" % (
+            os.environ.get("GITHUB_REPOSITORY"), os.environ["GITHUB_RUN_ID"])
+        notify("Robô com erro", str(e)[:400], tags=["x"], click=run_url or None, priority=4)
+        if isinstance(e, RoboError):
+            return 1
+        raise
 
 
 if __name__ == "__main__":
