@@ -31,7 +31,8 @@ jobs:
           python-version: "3.12"
 
       - name: Instalar pdftotext (para ler as declarações dos políticos)
-        run: sudo apt-get install -y -qq poppler-utils > /dev/null
+        continue-on-error: true
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
 
       - name: Rodar o robô
         env:
