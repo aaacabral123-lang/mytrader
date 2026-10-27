@@ -41,6 +41,8 @@ A cada 30 minutos, de segunda a sexta, o GitHub Actions roda `bot/robo.py`. Se a
 
 **Relatório:** instale o app do GitHub, abra o repositório `mytrader` e vá na pasta `trader/relatorios`. Cada dia de pregão tem um arquivo com a data.
 
+**Painel (saldo, carteira, gráfico e operações):** abra https://aaacabral123-lang.github.io/mytrader/painel/ no celular e use "Adicionar à Tela de Início" (iPhone: botão Compartilhar no Safari; Android: menu ⋮ no Chrome). Ele vira um ícone de app. Os dados são atualizados a cada rodada do robô.
+
 **Notificações** (com o app gratuito [ntfy](https://ntfy.sh), sem cadastro):
 1. Instale o **ntfy** no celular (App Store ou Google Play).
 2. No app, toque em **+** e assine um tópico com um nome secreto, por exemplo `mytrader-` seguido de letras e números aleatórios. Quem souber o nome consegue ler as mensagens, então não use nada fácil de adivinhar.
