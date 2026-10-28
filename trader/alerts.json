@@ -1,3 +1,39 @@
 {
-  "rules": []
+  "rules": [
+    {
+      "id": "robo-stop-ADBE",
+      "symbol": "ADBE",
+      "type": "stop",
+      "price": 211.68,
+      "note": "rob\u00f4: -15% do pre\u00e7o m\u00e9dio"
+    },
+    {
+      "id": "robo-stop-GOOGL",
+      "symbol": "GOOGL",
+      "type": "stop",
+      "price": 275.02,
+      "note": "rob\u00f4: -15% do pre\u00e7o m\u00e9dio"
+    },
+    {
+      "id": "robo-stop-MSFT",
+      "symbol": "MSFT",
+      "type": "stop",
+      "price": 450.88,
+      "note": "rob\u00f4: -15% do pre\u00e7o m\u00e9dio"
+    },
+    {
+      "id": "robo-stop-NVDA",
+      "symbol": "NVDA",
+      "type": "stop",
+      "price": 184.91,
+      "note": "rob\u00f4: -15% do pre\u00e7o m\u00e9dio"
+    },
+    {
+      "id": "robo-stop-ORCL",
+      "symbol": "ORCL",
+      "type": "stop",
+      "price": 110.45,
+      "note": "rob\u00f4: -15% do pre\u00e7o m\u00e9dio"
+    }
+  ]
 }

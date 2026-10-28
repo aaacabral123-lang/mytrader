@@ -1,5 +1,61 @@
 {
-  "cash": 5000.0,
-  "positions": [],
+  "cash": 500.05,
+  "positions": [
+    {
+      "ticker": "ADBE",
+      "shares": 3.613837134,
+      "lots": [
+        {
+          "id": "ADBE-alpaca",
+          "shares": 3.613837134,
+          "cost": 899.99
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "shares": 2.781610261,
+      "lots": [
+        {
+          "id": "GOOGL-alpaca",
+          "shares": 2.781610261,
+          "cost": 899.99
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "shares": 1.696660181,
+      "lots": [
+        {
+          "id": "MSFT-alpaca",
+          "shares": 1.696660181,
+          "cost": 899.99
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "shares": 4.137209836,
+      "lots": [
+        {
+          "id": "NVDA-alpaca",
+          "shares": 4.137209836,
+          "cost": 899.990002
+        }
+      ]
+    },
+    {
+      "ticker": "ORCL",
+      "shares": 6.926196706,
+      "lots": [
+        {
+          "id": "ORCL-alpaca",
+          "shares": 6.926196706,
+          "cost": 899.99
+        }
+      ]
+    }
+  ],
   "source": "Alpaca paper positions + robot cash ledger"
 }

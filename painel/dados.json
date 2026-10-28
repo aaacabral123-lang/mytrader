@@ -1,69 +1,69 @@
 {
-  "as_of": "2026-10-28T13:50:42Z",
+  "as_of": "2026-10-28T14:42:37Z",
   "paper": true,
   "strategy": "screener",
   "rules": "Growing, profitable, not priced for perfection",
   "start": 5000.0,
-  "total": 5002.21,
-  "invested": 4502.16,
+  "total": 5010.68,
+  "invested": 4510.63,
   "cash": 500.05,
-  "change": 2.21,
-  "change_pct": 0.04,
+  "change": 10.68,
+  "change_pct": 0.21,
   "positions": [
     {
       "symbol": "ORCL",
       "name": "ORACLE CORP",
       "qty": 6.926196706,
       "avg": 129.94,
-      "price": 130.16,
-      "value": 901.51,
-      "pl": 1.52,
-      "pl_pct": 0.17,
-      "weight": 18.02
-    },
-    {
-      "symbol": "MSFT",
-      "name": "MICROSOFT CORP",
-      "qty": 1.696660181,
-      "avg": 530.448,
-      "price": 530.685,
-      "value": 900.39,
-      "pl": 0.4,
-      "pl_pct": 0.04,
-      "weight": 18.0
-    },
-    {
-      "symbol": "GOOGL",
-      "name": "Alphabet Inc.",
-      "qty": 2.781610261,
-      "avg": 323.55,
-      "price": 323.66,
-      "value": 900.3,
-      "pl": 0.31,
-      "pl_pct": 0.03,
-      "weight": 18.0
-    },
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA CORP",
-      "qty": 4.137209836,
-      "avg": 217.535498,
-      "price": 217.6,
-      "value": 900.26,
-      "pl": 0.27,
-      "pl_pct": 0.03,
-      "weight": 18.0
+      "price": 130.78,
+      "value": 905.81,
+      "pl": 5.82,
+      "pl_pct": 0.65,
+      "weight": 18.08
     },
     {
       "symbol": "ADBE",
       "name": "ADOBE INC.",
       "qty": 3.613837134,
       "avg": 249.04,
-      "price": 248.96,
-      "value": 899.7,
-      "pl": -0.29,
-      "pl_pct": -0.03,
+      "price": 250.245,
+      "value": 904.34,
+      "pl": 4.35,
+      "pl_pct": 0.48,
+      "weight": 18.05
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA CORP",
+      "qty": 4.137209836,
+      "avg": 217.535498,
+      "price": 217.9101,
+      "value": 901.54,
+      "pl": 1.55,
+      "pl_pct": 0.17,
       "weight": 17.99
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "qty": 2.781610261,
+      "avg": 323.55,
+      "price": 323.83,
+      "value": 900.77,
+      "pl": 0.78,
+      "pl_pct": 0.09,
+      "weight": 17.98
+    },
+    {
+      "symbol": "MSFT",
+      "name": "MICROSOFT CORP",
+      "qty": 1.696660181,
+      "avg": 530.448,
+      "price": 529.3724,
+      "value": 898.17,
+      "pl": -1.82,
+      "pl_pct": -0.2,
+      "weight": 17.93
     }
   ],
   "targets": [
@@ -220,6 +220,10 @@
     {
       "t": "2026-10-28T13:50:42Z",
       "v": 5002.21
+    },
+    {
+      "t": "2026-10-28T14:42:37Z",
+      "v": 5010.68
     }
   ],
   "report": "trader/relatorios/2026-10-28.md",
