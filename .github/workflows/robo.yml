@@ -2,9 +2,10 @@ name: Robô MyTrader (paper)
 
 on:
   schedule:
-    # every 30 minutes, Mon-Fri, 13:00-20:59 UTC: covers NYSE hours in summer and winter time.
+    # twice an hour, Mon-Fri, 13:07-21:37 UTC: covers NYSE hours in summer and winter time.
+    # Off the :00/:30 marks, where GitHub delays or drops scheduled runs under load.
     # The robot asks Alpaca whether the market is open and does nothing when it is closed.
-    - cron: "*/30 13-20 * * 1-5"
+    - cron: "7,37 13-21 * * 1-5"
   workflow_dispatch:
     inputs:
       dry_run:
