@@ -1,74 +1,14 @@
 {
-  "created_by": "trader-rebalance",
-  "created_at": "2026-10-28T19:02:21",
-  "status": "proposed",
+  "created_by": "robo (stop)",
   "paper": true,
-  "note": "Proposals only, sells first. Nothing is placed until trader-risk passes each order and you say yes to it in the chat.",
-  "prices_as_of": "2026-10-28T19:02:18Z",
   "orders": [
-    {
-      "symbol": "ADBE",
-      "side": "sell",
-      "qty": "1.288",
-      "type": "market",
-      "time_in_force": "day",
-      "why": "drifted +6.2 points from its 11.2% target (band 2)"
-    },
-    {
-      "symbol": "GOOGL",
-      "side": "sell",
-      "qty": "1.0158",
-      "type": "market",
-      "time_in_force": "day",
-      "why": "drifted +6.5 points from its 11.2% target (band 2)"
-    },
-    {
-      "symbol": "MSFT",
-      "side": "sell",
-      "qty": "0.6112",
-      "type": "market",
-      "time_in_force": "day",
-      "why": "drifted +6.3 points from its 11.2% target (band 2)"
-    },
-    {
-      "symbol": "NVDA",
-      "side": "sell",
-      "qty": "1.48",
-      "type": "market",
-      "time_in_force": "day",
-      "why": "drifted +6.3 points from its 11.2% target (band 2)"
-    },
     {
       "symbol": "ORCL",
       "side": "sell",
-      "qty": "3.0124",
+      "qty": "3.913796706",
       "type": "market",
       "time_in_force": "day",
-      "why": "drifted +8.7 points from its 11.2% target (band 2)"
-    },
-    {
-      "symbol": "BLK",
-      "side": "buy",
-      "notional": "574",
-      "type": "market",
-      "time_in_force": "day",
-      "why": "drifted -11.2 points from its 11.2% target (band 2)"
-    },
-    {
-      "symbol": "MU",
-      "side": "buy",
-      "notional": "574",
-      "type": "market",
-      "time_in_force": "day",
-      "why": "drifted -11.2 points from its 11.2% target (band 2)"
-    },
-    {
-      "symbol": "UNP",
-      "side": "buy",
-      "notional": "574",
-      "type": "market",
-      "time_in_force": "day",
-      "why": "drifted -11.2 points from its 11.2% target (band 2)"
+      "why": "realizar lucro: ORCL is $146.40 is at or above your target $142.93 (rob\u00f4: +10% do pre\u00e7o m\u00e9dio)."
     }
   ]
 }

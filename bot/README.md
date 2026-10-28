@@ -26,6 +26,16 @@ A cada 30 minutos, de segunda a sexta, o GitHub Actions roda `bot/robo.py`. Se a
 7. **Passa cada ordem pelo controle de risco** (`trader-risk`) e só envia as aprovadas (PASS).
 8. **Registra tudo** em `trader/log/robo-AAAA-MM.md` e salva o estado no repositório.
 
+## Curto prazo (20% do dinheiro)
+
+Uma parte do robô (`curto` em `trader/robo.json`, 20% dos US$ 5.000 = US$ 1.000) opera **ETFs** no curto prazo, com caixa próprio. Os ETFs são SPY, QQQ, IWM, DIA, os de setor XL* e o SMH. Como o longo prazo só tem ações, as duas partes nunca compram a mesma coisa.
+
+- **Compra:** a partir das 15h de Nova York (16h ou 17h em Brasília, dependendo do horário de verão), quando um ETF está acima da média de 200 dias (tendência de alta) e teve uma queda forte de 2 a 3 dias (RSI de 2 dias abaixo de 10). No máximo 4 ETFs ao mesmo tempo, cada um com 1/4 do dinheiro do curto prazo.
+- **Venda:** quando o preço volta para cima da média de 5 dias (o repique), ou cai 8% abaixo da compra (stop), ou depois de 10 dias.
+- **Risco:** cada ordem passa pelo `trader-risk` com regras próprias (`trader/curto/`).
+
+O painel e o relatório mostram as duas partes separadas. Para desligar o curto prazo, use `"enabled": false` dentro de `curto`. Os ETFs que ele tiver continuam na conta e podem ser vendidos à mão.
+
 ## Configuração (uma vez só)
 
 1. Na Alpaca, entre na conta **Paper**. Se já tiver posições lá, use *Reset* para começar do zero, porque o robô considera tudo o que está na conta. Gere as chaves de API do paper.

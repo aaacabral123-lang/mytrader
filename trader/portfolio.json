@@ -1,58 +1,91 @@
 {
-  "cash": 500.05,
+  "cash": -486.97,
   "positions": [
     {
       "ticker": "ADBE",
-      "shares": 3.613837134,
+      "shares": 2.325837134,
       "lots": [
         {
           "id": "ADBE-alpaca",
-          "shares": 3.613837134,
-          "cost": 899.99
+          "shares": 2.325837134,
+          "cost": 579.22648
+        }
+      ]
+    },
+    {
+      "ticker": "BLK",
+      "shares": 0.497533956,
+      "lots": [
+        {
+          "id": "BLK-alpaca",
+          "shares": 0.497533956,
+          "cost": 573.989999
         }
       ]
     },
     {
       "ticker": "GOOGL",
-      "shares": 2.781610261,
+      "shares": 1.765810261,
       "lots": [
         {
           "id": "GOOGL-alpaca",
-          "shares": 2.781610261,
-          "cost": 899.99
+          "shares": 1.765810261,
+          "cost": 571.32791
         }
       ]
     },
     {
       "ticker": "MSFT",
-      "shares": 1.696660181,
+      "shares": 1.085460181,
       "lots": [
         {
           "id": "MSFT-alpaca",
-          "shares": 1.696660181,
-          "cost": 899.99
+          "shares": 1.085460181,
+          "cost": 575.780182
+        }
+      ]
+    },
+    {
+      "ticker": "MU",
+      "shares": 0.585072442,
+      "lots": [
+        {
+          "id": "MU-alpaca",
+          "shares": 0.585072442,
+          "cost": 573.99
         }
       ]
     },
     {
       "ticker": "NVDA",
-      "shares": 4.137209836,
+      "shares": 2.657209836,
       "lots": [
         {
           "id": "NVDA-alpaca",
-          "shares": 4.137209836,
-          "cost": 899.990002
+          "shares": 2.657209836,
+          "cost": 578.037465
         }
       ]
     },
     {
       "ticker": "ORCL",
-      "shares": 6.926196706,
+      "shares": 3.913796706,
       "lots": [
         {
           "id": "ORCL-alpaca",
-          "shares": 6.926196706,
-          "cost": 899.99
+          "shares": 3.913796706,
+          "cost": 508.558744
+        }
+      ]
+    },
+    {
+      "ticker": "UNP",
+      "shares": 1.919082836,
+      "lots": [
+        {
+          "id": "UNP-alpaca",
+          "shares": 1.919082836,
+          "cost": 573.99
         }
       ]
     }
