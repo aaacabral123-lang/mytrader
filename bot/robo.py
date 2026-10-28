@@ -169,6 +169,8 @@ def notify(title, message, tags=(), click=None, priority=3):
     topic = os.environ.get("NTFY_TOPIC")
     if not topic:
         return
+    if os.environ.get("ROBO_DRY_RUN"):
+        title = "[simulação] " + title
     body = {"topic": topic, "title": title, "message": message, "tags": list(tags), "priority": priority}
     if click:
         body["click"] = click
@@ -367,27 +369,42 @@ def check_stops(robo, positions, state, today, log):
             price, avg = float(p["current_price"]), float(p["avg_entry_price"])
             back = (dt.date.fromisoformat(today) + dt.timedelta(days=int(robo["take_profit_max_days"]))).isoformat()
             dip = float(robo.get("take_profit_reentry_dip_pct") or 0)
-            orders.append({"symbol": sym, "side": "sell", "qty": qty[sym], "type": "market", "time_in_force": "day",
-                           "why": "realizar lucro: %s" % ring["message"]})
-            state.setdefault("takeprofit", {})[sym] = {"sold_at": price, "date": today, "until": back,
-                                                      "rebuy_below": round(price * (1 - dip / 100.0), 2)}
             gain = 100 * (price / avg - 1)
-            log("LUCRO em %s: %+.1f%% sobre o preço médio $%.2f. Vende tudo; recompra abaixo de $%.2f ou em %s."
-                % (sym, gain, avg, price * (1 - dip / 100.0), back))
-            notify("Realizando lucro em %s (%+.1f%%)" % (sym, gain),
-                   "Preço $%.2f, preço médio $%.2f.\nO robô vende tudo e guarda o dinheiro para recomprar "
-                   "abaixo de $%.2f ou em %s." % (price, avg, price * (1 - dip / 100.0), back),
-                   tags=["tada", "moneybag"], priority=4)
+            orders.append({"symbol": sym, "side": "sell", "qty": qty[sym], "type": "market", "time_in_force": "day",
+                           "why": "realizar lucro: %s" % ring["message"],
+                           "_effect": {"key": "takeprofit", "value": {
+                               "sold_at": price, "date": today, "until": back,
+                               "rebuy_below": round(price * (1 - dip / 100.0), 2)},
+                               "log": "LUCRO em %s: %+.1f%% sobre o preço médio $%.2f. Vende tudo; recompra abaixo "
+                                      "de $%.2f ou em %s." % (sym, gain, avg, price * (1 - dip / 100.0), back),
+                               "title": "Realizando lucro em %s (%+.1f%%)" % (sym, gain),
+                               "message": "Preço $%.2f, preço médio $%.2f.\nO robô vende tudo e guarda o dinheiro "
+                                          "para recomprar abaixo de $%.2f ou em %s."
+                                          % (price, avg, price * (1 - dip / 100.0), back),
+                               "tags": ["tada", "moneybag"]}})
             continue
         if not str(ring.get("id", "")).startswith(STOP_PREFIX) or sym not in qty:
             continue
         orders.append({"symbol": sym, "side": "sell", "qty": qty[sym], "type": "market", "time_in_force": "day",
-                       "why": "stop: %s" % ring["message"]})
-        state.setdefault("cooldown", {})[sym] = until
-        log("STOP acionado em %s: %s Fica fora da carteira até %s." % (sym, ring["message"], until))
-        notify("Stop acionado em %s" % sym, "%s\nO robô vai vender e deixar %s de fora até %s."
-               % (ring["message"], sym, until), tags=["rotating_light"], priority=4)
+                       "why": "stop: %s" % ring["message"],
+                       "_effect": {"key": "cooldown", "value": until,
+                                   "log": "STOP acionado em %s: %s Fica fora da carteira até %s."
+                                          % (sym, ring["message"], until),
+                                   "title": "Stop acionado em %s" % sym,
+                                   "message": "%s\nO robô vai vender e deixar %s de fora até %s."
+                                              % (ring["message"], sym, until),
+                                   "tags": ["rotating_light"]}})
     return orders
+
+
+def apply_effect(state, o, log):
+    """What a stop or take-profit sale changes, booked only once its order was actually sent."""
+    e = o.get("_effect")
+    if not e:
+        return
+    state.setdefault(e["key"], {})[o["symbol"]] = e["value"]
+    log(e["log"])
+    notify(e["title"], e["message"], tags=e["tags"], priority=4)
 
 
 def active_targets(api, cfg, targets, state, today, log):
@@ -552,6 +569,8 @@ def clean_secrets():
 
 def run(dry_run=False):
     clean_secrets()
+    if dry_run:
+        os.environ["ROBO_DRY_RUN"] = "1"
     now = dt.datetime.now(dt.timezone.utc)
     log = Log(now)
     robo = dict(ROBO_DEFAULTS, **(read_json(path("robo.json"), {}) or {}))
@@ -595,7 +614,8 @@ def run(dry_run=False):
     orders = check_stops(robo, positions, state, today, log)
     config_path = "trader/config.json"
     if orders:
-        write_json(path("orders.json"), {"created_by": "robo (stop)", "paper": True, "orders": orders})
+        write_json(path("orders.json"), {"created_by": "robo (stop)", "paper": True,
+                                         "orders": [{k: v for k, v in o.items() if k != "_effect"} for o in orders]})
     else:
         targets_path, config_path = active_targets(api, cfg, targets, state, today, log)
         orders = propose(robo, held, new_13f, state["cash"], targets_path, config_path)
@@ -623,8 +643,9 @@ def run(dry_run=False):
         if v["verdict"] == "PASS":
             passed.append(o)
         else:
-            log("BLOQUEADA pelo risco: %s %s %s (%s)" % (o["side"], o["symbol"], v["amount"],
-                                                        "; ".join(v["reasons"])))
+            log("BLOQUEADA pelo risco: %s %s %s (%s)%s" % (o["side"], o["symbol"], v["amount"],
+                                                          "; ".join(v["reasons"]),
+                                                          "; tento de novo na próxima rodada" if o.get("_effect") else ""))
     # sells first so their cash is back before the buys
     for o in sorted(passed, key=lambda o: o["side"] != "sell"):
         body = {k: o[k] for k in ("symbol", "side", "type", "time_in_force", "qty", "notional") if k in o}
@@ -632,6 +653,7 @@ def run(dry_run=False):
             log("[simulação] enviaria %s" % json.dumps(body))
             continue
         sent = api.submit(body)
+        apply_effect(state, o, log)
         state["pending"].append({"id": sent["id"], "symbol": o["symbol"], "side": o["side"],
                                  "why": o.get("why", "")[:160]})
         broker["orders"].append({"date": today, "at": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "status": "placed",
