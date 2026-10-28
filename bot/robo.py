@@ -57,9 +57,13 @@ ROBO_DEFAULTS = {
     "sell_untracked_on_new_13f": True,
     "stop_loss_pct": 15,
     "stop_cooldown_days": 30,
+    "take_profit_pct": 10,
+    "take_profit_reentry_dip_pct": 5,
+    "take_profit_max_days": 10,
     "daily_report": True,
 }
 STOP_PREFIX = "robo-stop-"
+TAKE_PREFIX = "robo-take-"
 TXN_TYPES = {"P": "compra", "S": "venda", "S (partial)": "venda parcial", "E": "troca"}
 
 
@@ -305,27 +309,51 @@ def sync_portfolio(api, state, targets):
 
 
 def check_stops(robo, positions, state, today, log):
-    """Keep one trader-alerts stop rule per position and turn the ones that ring into sell orders."""
+    """Keep one trader-alerts stop rule and one take-profit target per position;
+    the ones that ring become sell orders for the whole position."""
     pct = float(robo.get("stop_loss_pct") or 0)
+    take = float(robo.get("take_profit_pct") or 0)
     rules_doc = read_json(path("alerts.json"), {"rules": []}) or {"rules": []}
-    rules = [r for r in rules_doc.get("rules", []) if not str(r.get("id", "")).startswith(STOP_PREFIX)]
-    if pct > 0:
-        for p in positions:
+    rules = [r for r in rules_doc.get("rules", [])
+             if not str(r.get("id", "")).startswith((STOP_PREFIX, TAKE_PREFIX))]
+    for p in positions:
+        avg = float(p["avg_entry_price"])
+        if pct > 0:
             rules.append({"id": STOP_PREFIX + p["symbol"], "symbol": p["symbol"], "type": "stop",
-                          "price": round(float(p["avg_entry_price"]) * (1 - pct / 100.0), 2),
-                          "note": "robô: -%g%% do preço médio" % pct})
+                          "price": round(avg * (1 - pct / 100.0), 2), "note": "robô: -%g%% do preço médio" % pct})
+        if take > 0:
+            rules.append({"id": TAKE_PREFIX + p["symbol"], "symbol": p["symbol"], "type": "target",
+                          "price": round(avg * (1 + take / 100.0), 2), "note": "robô: +%g%% do preço médio" % take})
     write_json(path("alerts.json"), dict(rules_doc, rules=rules))
-    if pct <= 0 or not positions:
+    if (pct <= 0 and take <= 0) or not positions:
         return []
     res = skill_json("trader-alerts/alerts.py", "check", "--no-write")
     if res is None:
         log("não consegui checar os stops nesta rodada (trader-alerts)")
         return []
     qty = {p["symbol"]: p["qty"] for p in positions}
+    pos = {p["symbol"]: p for p in positions}
     orders = []
     until = (dt.date.fromisoformat(today) + dt.timedelta(days=int(robo["stop_cooldown_days"]))).isoformat()
     for ring in res.get("rings", []):
         sym = ring.get("symbol")
+        if sym in qty and str(ring.get("id", "")).startswith(TAKE_PREFIX) and not any(o["symbol"] == sym for o in orders):
+            p = pos[sym]
+            price, avg = float(p["current_price"]), float(p["avg_entry_price"])
+            back = (dt.date.fromisoformat(today) + dt.timedelta(days=int(robo["take_profit_max_days"]))).isoformat()
+            dip = float(robo.get("take_profit_reentry_dip_pct") or 0)
+            orders.append({"symbol": sym, "side": "sell", "qty": qty[sym], "type": "market", "time_in_force": "day",
+                           "why": "realizar lucro: %s" % ring["message"]})
+            state.setdefault("takeprofit", {})[sym] = {"sold_at": price, "date": today, "until": back,
+                                                      "rebuy_below": round(price * (1 - dip / 100.0), 2)}
+            gain = 100 * (price / avg - 1)
+            log("LUCRO em %s: %+.1f%% sobre o preço médio $%.2f. Vende tudo; recompra abaixo de $%.2f ou em %s."
+                % (sym, gain, avg, price * (1 - dip / 100.0), back))
+            notify("Realizando lucro em %s (%+.1f%%)" % (sym, gain),
+                   "Preço $%.2f, preço médio $%.2f.\nO robô vende tudo e guarda o dinheiro para recomprar "
+                   "abaixo de $%.2f ou em %s." % (price, avg, price * (1 - dip / 100.0), back),
+                   tags=["tada", "moneybag"], priority=4)
+            continue
         if not str(ring.get("id", "")).startswith(STOP_PREFIX) or sym not in qty:
             continue
         orders.append({"symbol": sym, "side": "sell", "qty": qty[sym], "type": "market", "time_in_force": "day",
@@ -337,13 +365,32 @@ def check_stops(robo, positions, state, today, log):
     return orders
 
 
-def active_targets(targets, state, today):
-    """targets.json minus the stocks in stop cooldown; budget and rebalance renormalise the rest."""
+def active_targets(api, cfg, targets, state, today, log):
+    """targets.json minus the stocks in stop cooldown (budget and rebalance spread their weight over
+    the rest) and minus the stocks sold for profit, whose weight is held back as extra cash buffer
+    until they dip back (or the wait runs out). Returns (targets path, config path)."""
     cool = {s: d for s, d in (state.get("cooldown") or {}).items() if d > today}
     state["cooldown"] = cool
-    doc = dict(targets, weights=[w for w in targets.get("weights", []) if w["ticker"] not in cool])
+    waiting = state.get("takeprofit") or {}
+    prices = api.latest_prices(list(waiting)) if waiting else {}
+    for sym, tp in list(waiting.items()):
+        px = prices.get(sym)
+        if today >= tp["until"] or (px and px <= tp["rebuy_below"]):
+            why = ("caiu para $%.2f" % px) if px and px <= tp["rebuy_below"] else "acabou o prazo de espera"
+            log("recompra liberada em %s (%s; vendida a $%.2f)" % (sym, why, tp["sold_at"]))
+            notify("Recomprando %s" % sym, "%s: %s. Vendida a $%.2f em %s."
+                   % (sym, why, tp["sold_at"], tp["date"]), tags=["shopping_cart"])
+            del waiting[sym]
+    state["takeprofit"] = waiting
+    weights = targets.get("weights", [])
+    total = sum(float(w["weight"]) for w in weights) or 1
+    held_back = sum(float(w["weight"]) for w in weights if w["ticker"] in waiting) / total
+    doc = dict(targets, weights=[w for w in weights if w["ticker"] not in cool and w["ticker"] not in waiting])
     write_json(path("state", "targets_active.json"), doc)
-    return "trader/state/targets_active.json"
+    base = float(cfg.get("cash_buffer_pct") or 0)
+    active = dict(cfg, cash_buffer_pct=round(base + (100 - base) * held_back, 2))
+    write_json(path("state", "config_active.json"), active)
+    return "trader/state/targets_active.json", "trader/state/config_active.json"
 
 
 def robo_strategy(state):
@@ -365,6 +412,9 @@ def daily_report(cfg, targets, positions, state, today, log):
         for p in sorted(positions, key=lambda p: -float(p.get("market_value") or 0)):
             out.append("| %s | %.4f | $%.2f | %+.1f%% |" % (p["symbol"], float(p["qty"]), float(p.get("market_value") or 0),
                                                          100 * float(p.get("unrealized_plpc") or 0)))
+    for sym, tp in sorted((state.get("takeprofit") or {}).items()):
+        out += ["", "Lucro realizado em %s: vendida a $%.2f em %s; recompra abaixo de $%.2f ou em %s."
+                % (sym, tp["sold_at"], tp["date"], tp["rebuy_below"], tp["until"])]
     cool = state.get("cooldown") or {}
     if cool:
         out += ["", "Fora da carteira por stop: %s." % ", ".join("%s até %s" % kv for kv in sorted(cool.items()))]
@@ -440,15 +490,15 @@ def daily_report(cfg, targets, positions, state, today, log):
            tags=["memo"], click=github_link("trader/relatorios/%s.md" % today))
 
 
-def propose(robo, held, new_13f, cash, targets_path):
+def propose(robo, held, new_13f, cash, targets_path, config_path):
     """Write trader/orders.json via budget (first buy) or rebalance. Returns the orders."""
     if os.path.exists(path("orders.json")):
         os.remove(path("orders.json"))
     if not held:
-        skill("trader-budget/size.py", "--targets", targets_path, "--budget", "%.2f" % cash,
-              "--prices", "trader/prices.json", "--write")
+        skill("trader-budget/size.py", "--targets", targets_path, "--config", config_path,
+              "--budget", "%.2f" % cash, "--prices", "trader/prices.json", "--write")
     else:
-        args = ["--targets", targets_path, "--band", str(robo["band"]), "--write"]
+        args = ["--targets", targets_path, "--config", config_path, "--band", str(robo["band"]), "--write"]
         if new_13f and robo.get("sell_untracked_on_new_13f"):
             args.append("--sell-untracked")
         skill("trader-rebalance/rebalance.py", *args)
@@ -504,10 +554,12 @@ def run(dry_run=False):
         return finish(state, log, panel=panel)
 
     orders = check_stops(robo, positions, state, today, log)
+    config_path = "trader/config.json"
     if orders:
         write_json(path("orders.json"), {"created_by": "robo (stop)", "paper": True, "orders": orders})
     else:
-        orders = propose(robo, held, new_13f, state["cash"], active_targets(targets, state, today))
+        targets_path, config_path = active_targets(api, cfg, targets, state, today, log)
+        orders = propose(robo, held, new_13f, state["cash"], targets_path, config_path)
         # rebalance rounds share counts to 4 decimals; never sell more than Alpaca says we hold
         have = {p["symbol"]: p["qty"] for p in positions}
         for o in orders:
@@ -520,7 +572,7 @@ def run(dry_run=False):
         print("carteira dentro da meta; nada a fazer")
         return finish(state, log, panel=panel)
 
-    code, out = skill("trader-risk/check.py", "--today", today, "--json")
+    code, out = skill("trader-risk/check.py", "--today", today, "--config", config_path, "--json")
     verdicts = json.loads(out)["results"] if out.strip() else []
     broker = read_json(path("state", "broker.json")) or {"orders": []}
     passed = []
@@ -593,6 +645,7 @@ def write_panel(api, cfg, state, targets, now):
         "start": start, "total": total, "invested": round(invested, 2), "cash": state["cash"],
         "change": round(total - start, 2), "change_pct": round(100 * (total / start - 1), 2) if start else 0,
         "positions": pos, "targets": targets.get("weights", []), "cooldown": state.get("cooldown") or {},
+        "takeprofit": state.get("takeprofit") or {},
         "pending": len(state.get("pending", [])), "fills": list(reversed(state.get("fills", [])))[:30],
         "picks": picks, "history": hist,
         "report": "trader/relatorios/" + reports[-1] if reports else None,

@@ -113,5 +113,8 @@
     "PLTR"
   ],
   "investor_cik": "1067983",
-  "investor_name": "Berkshire Hathaway"
+  "investor_name": "Berkshire Hathaway",
+  "take_profit_pct": 10,
+  "take_profit_reentry_dip_pct": 5,
+  "take_profit_max_days": 10
 }

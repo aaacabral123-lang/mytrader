@@ -55,6 +55,7 @@ th:first-child,td:first-child{text-align:left}
 td.in{color:var(--up);font-weight:800}
 .notice{border-radius:12px;padding:12px;background:#24334b;color:#d7e4f7;font-size:13px;line-height:1.5}
 .warn{background:#493721;color:#ffe4ae}
+.ok{background:#153d35;color:#a6f0d6;margin:12px 0}
 a{color:#8fb6ff}
 footer{font-size:12px;color:#8fa0b9;line-height:1.6;margin-top:18px}
 button{background:#1d3354;border:1px solid #355174;color:#fff;padding:9px 12px;border-radius:11px;font-weight:700;font-size:13px;cursor:pointer}
@@ -141,6 +142,7 @@ function render(d) {
   const cool = Object.entries(d.cooldown || {});
   const notes = [
     d.pending ? `<div class="notice warn">${d.pending} ordem(ns) aguardando execução na Alpaca.</div>` : "",
+    ...Object.entries(d.takeprofit || {}).map(([s, t]) => `<div class="notice ok">Lucro realizado em <b>${esc(s)}</b>: vendida a ${usd(t.sold_at)}. Recompra abaixo de ${usd(t.rebuy_below)} ou em ${t.until.split("-").reverse().join("/")}.</div>`),
     cool.length ? `<div class="notice warn">Fora da carteira por stop: ${cool.map(([s, u]) => esc(s) + " até " + u.split("-").reverse().join("/")).join(", ")}.</div>` : ""
   ].join("");
   const report = d.report && d.repo ? `<a href="https://github.com/${d.repo}/blob/main/${d.report}">Abrir o relatório de hoje</a>` : "";
