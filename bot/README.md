@@ -18,6 +18,7 @@ A cada 30 minutos, de segunda a sexta, o GitHub Actions roda `bot/robo.py`. Se a
    - as notícias e os 8-K das ações que ele tem ou segue (`trader-news`);
    - as declarações novas de compra e venda de deputados dos EUA, com destaque para as suas ações (`trader-pelosi`).
 5. **Stop de proteção** (`trader-alerts`): se uma ação cair 15% abaixo do preço médio de compra, ele vende tudo dela e a deixa de fora por 30 dias. Nesse tempo, o dinheiro vai para as outras ações da carteira.
+5b. **Realizar lucro** (`trader-alerts`): se uma ação subir 10% acima do preço médio de compra, ele vende tudo dela e guarda esse dinheiro. Recompra quando ela cair 5% abaixo do preço de venda, ou depois de 10 dias se não cair.
 6. **Decide se há oportunidade:**
    - primeira vez: compra a carteira inteira dentro do orçamento (`trader-budget`);
    - depois: só opera se alguma ação se afastou mais de 2 pontos percentuais da meta (`trader-rebalance`). Quando uma ação cai muito, ele compra mais; quando sobe demais, vende um pouco;
@@ -54,7 +55,7 @@ Você recebe um aviso a cada compra ou venda executada, quando um stop é aciona
 
 - `trader/rules.json`: as regras do screener. Operadores: `>`, `>=`, `<`, `<=`, `between`, `in`, `not in`. Métricas: `revenue_growth_yoy`, `eps_growth_yoy`, `gross_margin`, `operating_margin`, `net_margin`, `eps_ttm`, `pe`, `earnings_yield`. A seção `rank` define a nota.
 - `trader/config.json`: orçamento (`budget`, padrão US$ 5.000), caixa mínimo (`cash_buffer_pct`, 10%), máximo por ação (`max_position_pct`, 25%), máximo por ordem (`max_order_usd`), ordens por dia (`max_orders_per_day`) e tickers proibidos (`blocked`).
-- `trader/robo.json`: liga e desliga o robô (`enabled`), escolhe a estratégia (`strategy`: `screener` ou `copycat`, para voltar a copiar um investidor pelo 13F com `investor_cik` e `investor_name`), a lista de empresas candidatas (`universe`), de quantos em quantos dias refazer a escolha (`screen_every_days`, 1), quantas ações ter (`top`, 8), a faixa de desvio (`band`), o stop (`stop_loss_pct`, 15; use 0 para desligar), os dias fora depois de um stop (`stop_cooldown_days`, 30) e se gera o relatório diário (`daily_report`).
+- `trader/robo.json`: liga e desliga o robô (`enabled`), escolhe a estratégia (`strategy`: `screener` ou `copycat`, para voltar a copiar um investidor pelo 13F com `investor_cik` e `investor_name`), a lista de empresas candidatas (`universe`), de quantos em quantos dias refazer a escolha (`screen_every_days`, 1), quantas ações ter (`top`, 8), a faixa de desvio (`band`), o stop (`stop_loss_pct`, 15; use 0 para desligar), os dias fora depois de um stop (`stop_cooldown_days`, 30), o lucro para vender (`take_profit_pct`, 10; 0 desliga), a queda para recomprar (`take_profit_reentry_dip_pct`, 5), o prazo máximo de espera (`take_profit_max_days`, 10) e se gera o relatório diário (`daily_report`).
 
 Para **parar o robô**, troque `"enabled": true` por `false` em `trader/robo.json`, ou desative o workflow em Actions.
 
