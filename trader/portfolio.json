@@ -1,5 +1,5 @@
 {
-  "cash": -486.97,
+  "cash": -151.4,
   "positions": [
     {
       "ticker": "ADBE",
@@ -14,12 +14,12 @@
     },
     {
       "ticker": "BLK",
-      "shares": 0.497533956,
+      "shares": 0.400633956,
       "lots": [
         {
           "id": "BLK-alpaca",
-          "shares": 0.497533956,
-          "cost": 573.989999
+          "shares": 0.400633956,
+          "cost": 462.199376
         }
       ]
     },
@@ -47,12 +47,12 @@
     },
     {
       "ticker": "MU",
-      "shares": 0.585072442,
+      "shares": 0.470772442,
       "lots": [
         {
           "id": "MU-alpaca",
-          "shares": 0.585072442,
-          "cost": 573.99
+          "shares": 0.470772442,
+          "cost": 461.85507
         }
       ]
     },
@@ -80,12 +80,12 @@
     },
     {
       "ticker": "UNP",
-      "shares": 1.919082836,
+      "shares": 1.544482836,
       "lots": [
         {
           "id": "UNP-alpaca",
-          "shares": 1.919082836,
-          "cost": 573.99
+          "shares": 1.544482836,
+          "cost": 461.948638
         }
       ]
     }

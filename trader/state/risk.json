@@ -6,9 +6,9 @@
       "index": 1,
       "symbol": "ADBE",
       "side": "sell",
-      "amount": "0.458 shares",
-      "value_usd": 113.17,
-      "fingerprint": "737086198a65acd1",
+      "amount": "0.4666 shares",
+      "value_usd": 115.8,
+      "fingerprint": "47940ff94dbf1f6f",
       "verdict": "BLOCK",
       "reasons": [
         "duplicate: a sell ADBE was already placed today"
@@ -17,22 +17,11 @@
     },
     {
       "index": 2,
-      "symbol": "BLK",
-      "side": "sell",
-      "amount": "0.0969 shares",
-      "value_usd": 111.64,
-      "fingerprint": "fe855c4e9ec4c34d",
-      "verdict": "PASS",
-      "reasons": [],
-      "warnings": []
-    },
-    {
-      "index": 3,
       "symbol": "GOOGL",
       "side": "sell",
-      "amount": "0.3457 shares",
-      "value_usd": 112.35,
-      "fingerprint": "cedaba524c9f19a8",
+      "amount": "0.3447 shares",
+      "value_usd": 111.92,
+      "fingerprint": "1c4da2675bacb7e4",
       "verdict": "BLOCK",
       "reasons": [
         "duplicate: a sell GOOGL was already placed today"
@@ -40,12 +29,12 @@
       "warnings": []
     },
     {
-      "index": 4,
+      "index": 3,
       "symbol": "MSFT",
       "side": "sell",
-      "amount": "0.2118 shares",
-      "value_usd": 111.89,
-      "fingerprint": "9a13da766646d140",
+      "amount": "0.214 shares",
+      "value_usd": 113.31,
+      "fingerprint": "d5a2b213e1908a82",
       "verdict": "BLOCK",
       "reasons": [
         "duplicate: a sell MSFT was already placed today"
@@ -53,23 +42,12 @@
       "warnings": []
     },
     {
-      "index": 5,
-      "symbol": "MU",
-      "side": "sell",
-      "amount": "0.1143 shares",
-      "value_usd": 112.06,
-      "fingerprint": "26320265426a179c",
-      "verdict": "PASS",
-      "reasons": [],
-      "warnings": []
-    },
-    {
-      "index": 6,
+      "index": 4,
       "symbol": "NVDA",
       "side": "sell",
-      "amount": "0.5157 shares",
-      "value_usd": 111.14,
-      "fingerprint": "95c77a4470bdc5bd",
+      "amount": "0.509 shares",
+      "value_usd": 109.33,
+      "fingerprint": "12fdecc4620649d5",
       "verdict": "BLOCK",
       "reasons": [
         "duplicate: a sell NVDA was already placed today"
@@ -77,35 +55,24 @@
       "warnings": []
     },
     {
-      "index": 7,
+      "index": 5,
       "symbol": "ORCL",
       "side": "sell",
-      "amount": "0.769 shares",
-      "value_usd": 112.85,
-      "fingerprint": "ae0770f9b73abc21",
+      "amount": "0.7478 shares",
+      "value_usd": 108.98,
+      "fingerprint": "7b2471660e84f80f",
       "verdict": "BLOCK",
       "reasons": [
         "duplicate: a sell ORCL was already placed today"
       ],
       "warnings": []
-    },
-    {
-      "index": 8,
-      "symbol": "UNP",
-      "side": "sell",
-      "amount": "0.3746 shares",
-      "value_usd": 111.94,
-      "fingerprint": "359409152ea5d334",
-      "verdict": "PASS",
-      "reasons": [],
-      "warnings": []
     }
   ],
-  "pass": 3,
+  "pass": 0,
   "block": 5,
   "warnings": [],
-  "cash_after": -151.34,
-  "prices_as_of": "2026-10-28T19:20:19Z",
-  "checked_at": "2026-10-28T19:20:25",
+  "cash_after": -151.4,
+  "prices_as_of": "2026-10-28T19:46:25Z",
+  "checked_at": "2026-10-28T19:46:31",
   "orders_file": "trader/orders.json"
 }
