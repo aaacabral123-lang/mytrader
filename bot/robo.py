@@ -358,7 +358,11 @@ def check_stops(robo, positions, state, today, log):
     if res is None:
         log("não consegui checar os stops nesta rodada (trader-alerts)")
         return []
-    qty = {p["symbol"]: p["qty"] for p in positions}
+    # trader-risk refuses a second sale of a symbol on the same day; leave those for tomorrow so a
+    # blocked stop or take-profit does not hold up the rest of the run
+    sold_today = {r["symbol"] for r in (read_json(path("state", "broker.json")) or {}).get("orders", [])
+                  if r.get("side") == "sell" and r.get("date") == today and r.get("status") == "placed"}
+    qty = {p["symbol"]: p["qty"] for p in positions if p["symbol"] not in sold_today}
     pos = {p["symbol"]: p for p in positions}
     orders = []
     until = (dt.date.fromisoformat(today) + dt.timedelta(days=int(robo["stop_cooldown_days"]))).isoformat()
