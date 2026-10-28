@@ -4,23 +4,108 @@
   "results": [
     {
       "index": 1,
+      "symbol": "ADBE",
+      "side": "sell",
+      "amount": "0.458 shares",
+      "value_usd": 113.17,
+      "fingerprint": "737086198a65acd1",
+      "verdict": "BLOCK",
+      "reasons": [
+        "duplicate: a sell ADBE was already placed today"
+      ],
+      "warnings": []
+    },
+    {
+      "index": 2,
+      "symbol": "BLK",
+      "side": "sell",
+      "amount": "0.0969 shares",
+      "value_usd": 111.64,
+      "fingerprint": "fe855c4e9ec4c34d",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 3,
+      "symbol": "GOOGL",
+      "side": "sell",
+      "amount": "0.3457 shares",
+      "value_usd": 112.35,
+      "fingerprint": "cedaba524c9f19a8",
+      "verdict": "BLOCK",
+      "reasons": [
+        "duplicate: a sell GOOGL was already placed today"
+      ],
+      "warnings": []
+    },
+    {
+      "index": 4,
+      "symbol": "MSFT",
+      "side": "sell",
+      "amount": "0.2118 shares",
+      "value_usd": 111.89,
+      "fingerprint": "9a13da766646d140",
+      "verdict": "BLOCK",
+      "reasons": [
+        "duplicate: a sell MSFT was already placed today"
+      ],
+      "warnings": []
+    },
+    {
+      "index": 5,
+      "symbol": "MU",
+      "side": "sell",
+      "amount": "0.1143 shares",
+      "value_usd": 112.06,
+      "fingerprint": "26320265426a179c",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 6,
+      "symbol": "NVDA",
+      "side": "sell",
+      "amount": "0.5157 shares",
+      "value_usd": 111.14,
+      "fingerprint": "95c77a4470bdc5bd",
+      "verdict": "BLOCK",
+      "reasons": [
+        "duplicate: a sell NVDA was already placed today"
+      ],
+      "warnings": []
+    },
+    {
+      "index": 7,
       "symbol": "ORCL",
       "side": "sell",
-      "amount": "3.913796706 shares",
-      "value_usd": 572.8,
-      "fingerprint": "ed58977bd6d8abb6",
+      "amount": "0.769 shares",
+      "value_usd": 112.85,
+      "fingerprint": "ae0770f9b73abc21",
       "verdict": "BLOCK",
       "reasons": [
         "duplicate: a sell ORCL was already placed today"
       ],
       "warnings": []
+    },
+    {
+      "index": 8,
+      "symbol": "UNP",
+      "side": "sell",
+      "amount": "0.3746 shares",
+      "value_usd": 111.94,
+      "fingerprint": "359409152ea5d334",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
     }
   ],
-  "pass": 0,
-  "block": 1,
+  "pass": 3,
+  "block": 5,
   "warnings": [],
-  "cash_after": -486.97,
-  "prices_as_of": "2026-10-28T19:17:17Z",
-  "checked_at": "2026-10-28T19:17:23",
+  "cash_after": -151.34,
+  "prices_as_of": "2026-10-28T19:20:19Z",
+  "checked_at": "2026-10-28T19:20:25",
   "orders_file": "trader/orders.json"
 }

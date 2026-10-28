@@ -129,6 +129,36 @@
       "id": "cb640e6c-4fc4-440a-80c1-f62fe13e536c",
       "approved_by": "robo (automatic, paper)",
       "why": "drifted -11.2 points from its 11.2% target (band 2)"
+    },
+    {
+      "date": "2026-10-28",
+      "at": "2026-10-28T19:20:19Z",
+      "status": "placed",
+      "symbol": "BLK",
+      "side": "sell",
+      "id": "8c33cf41-c596-4823-891c-a1ac7431927a",
+      "approved_by": "robo (automatic, paper)",
+      "why": "drifted +2.7 points from its 11.2% target (band 2)"
+    },
+    {
+      "date": "2026-10-28",
+      "at": "2026-10-28T19:20:19Z",
+      "status": "placed",
+      "symbol": "MU",
+      "side": "sell",
+      "id": "8ecb266f-89c8-439e-af87-f38dd456c047",
+      "approved_by": "robo (automatic, paper)",
+      "why": "drifted +2.7 points from its 11.2% target (band 2)"
+    },
+    {
+      "date": "2026-10-28",
+      "at": "2026-10-28T19:20:19Z",
+      "status": "placed",
+      "symbol": "UNP",
+      "side": "sell",
+      "id": "5d53db4e-8f51-4d93-b8fb-9265f16ad2d3",
+      "approved_by": "robo (automatic, paper)",
+      "why": "drifted +2.7 points from its 11.2% target (band 2)"
     }
   ]
 }

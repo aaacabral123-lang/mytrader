@@ -1,14 +1,74 @@
 {
-  "created_by": "robo (stop)",
+  "created_by": "trader-rebalance",
+  "created_at": "2026-10-28T19:20:25",
+  "status": "proposed",
   "paper": true,
+  "note": "Proposals only, sells first. Nothing is placed until trader-risk passes each order and you say yes to it in the chat.",
+  "prices_as_of": "2026-10-28T19:20:19Z",
   "orders": [
+    {
+      "symbol": "ADBE",
+      "side": "sell",
+      "qty": "0.458",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "drifted +2.8 points from its 11.2% target (band 2)"
+    },
+    {
+      "symbol": "BLK",
+      "side": "sell",
+      "qty": "0.0969",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "drifted +2.7 points from its 11.2% target (band 2)"
+    },
+    {
+      "symbol": "GOOGL",
+      "side": "sell",
+      "qty": "0.3457",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "drifted +2.7 points from its 11.2% target (band 2)"
+    },
+    {
+      "symbol": "MSFT",
+      "side": "sell",
+      "qty": "0.2118",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "drifted +2.7 points from its 11.2% target (band 2)"
+    },
+    {
+      "symbol": "MU",
+      "side": "sell",
+      "qty": "0.1143",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "drifted +2.7 points from its 11.2% target (band 2)"
+    },
+    {
+      "symbol": "NVDA",
+      "side": "sell",
+      "qty": "0.5157",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "drifted +2.7 points from its 11.2% target (band 2)"
+    },
     {
       "symbol": "ORCL",
       "side": "sell",
-      "qty": "3.913796706",
+      "qty": "0.769",
       "type": "market",
       "time_in_force": "day",
-      "why": "realizar lucro: ORCL is $146.46 is at or above your target $142.93 (rob\u00f4: +10% do pre\u00e7o m\u00e9dio)."
+      "why": "drifted +2.8 points from its 11.2% target (band 2)"
+    },
+    {
+      "symbol": "UNP",
+      "side": "sell",
+      "qty": "0.3746",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "drifted +2.7 points from its 11.2% target (band 2)"
     }
   ]
 }
