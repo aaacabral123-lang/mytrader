@@ -116,5 +116,14 @@
   "investor_name": "Berkshire Hathaway",
   "take_profit_pct": 10,
   "take_profit_reentry_dip_pct": 5,
-  "take_profit_max_days": 10
+  "take_profit_max_days": 10,
+  "curto": {
+    "enabled": true,
+    "pct": 20,
+    "max_positions": 4,
+    "rsi_entry": 10,
+    "stop_pct": 8,
+    "max_days": 10,
+    "entry_after": "15:00"
+  }
 }

@@ -47,7 +47,7 @@ h2{font-size:16px;margin:0 0 12px}
 .op b{font-variant-numeric:tabular-nums}
 .op small{display:block;color:var(--muted);font-size:12px;margin-top:2px}
 .pill{font-size:11px;font-weight:800;padding:3px 7px;border-radius:6px;margin-right:6px}
-.pill.buy{background:#153d35;color:#a6f0d6}.pill.sell{background:#512b35;color:#ffd0d7}
+.pill.buy{background:#153d35;color:#a6f0d6}.pill.sell{background:#512b35;color:#ffd0d7}.pill.short{background:#2b3560;color:#c3ccff;margin:0 0 0 6px}
 table{width:100%;border-collapse:collapse;font-size:13px;font-variant-numeric:tabular-nums}
 th{text-align:right;color:var(--muted);font-weight:600;font-size:11px;padding:0 0 8px}
 td{text-align:right;padding:8px 0;border-top:1px solid var(--line)}
@@ -112,6 +112,19 @@ function chart(hist, start) {
   <div class="chart-foot"><span>${when(hist[0].t)}</span><span>tracejado = início (${usd(start)})</span><span>${when(hist[hist.length - 1].t)}</span></div>`;
 }
 
+function shortTerm(c) {
+  if (!c) return "";
+  const rows = c.positions.map(p => `
+    <div class="pos">
+      <div><div class="sym">${esc(p.symbol)}</div><div class="name">desde ${p.since ? p.since.split("-").reverse().join("/") : "?"}</div></div>
+      <div><div class="val">${usd(p.value)}</div><div class="pl ${cls(p.pl)}">${sign(p.pl)}${usd(p.pl)} (${pct(p.pl_pct)})</div></div>
+      <div class="meta">${p.qty.toFixed(4)} cotas · entrada ${usd(p.avg)} · agora ${usd(p.price)}</div>
+    </div>`).join("") || '<p class="empty">Sem posição agora. Ele compra quando um ETF em alta tem uma queda forte de 2 a 3 dias.</p>';
+  return `<div class="panel"><h2>Curto prazo (ETFs)</h2>
+    <p class="muted" style="font-size:12px;margin:-6px 0 10px">${usd(c.value)} · <span class="${cls(c.change)}">${sign(c.change)}${usd(c.change)} (${pct(c.change_pct)})</span> desde ${usd(c.start)} · caixa ${usd(c.cash)}</p>
+    ${rows}</div>`;
+}
+
 function render(d) {
   $("#updated").textContent = "atualizado " + ago(d.as_of);
   const target = Object.fromEntries((d.targets || []).map(t => [t.ticker, t.weight]));
@@ -125,7 +138,7 @@ function render(d) {
 
   const fills = (d.fills || []).slice(0, 12).map(f => `
     <div class="op">
-      <div><span class="pill ${f.side}">${f.side === "buy" ? "COMPRA" : "VENDA"}</span><b>${esc(f.symbol)}</b>
+      <div><span class="pill ${f.side}">${f.side === "buy" ? "COMPRA" : "VENDA"}</span><b>${esc(f.symbol)}</b>${f.sleeve === "curto" ? ' <span class="pill short">CURTO</span>' : ""}
         <small>${f.qty.toFixed(4)} ações a ${usd(f.price)} · ${when(f.at)}</small></div>
       <b>${usd(f.amount)}</b>
     </div>`).join("") || '<p class="empty">Nenhuma operação ainda.</p>';
@@ -153,15 +166,17 @@ function render(d) {
       <div class="big">${usd(d.total)}</div>
       <div class="delta ${cls(d.change)}">${sign(d.change)}${usd(d.change)} (${pct(d.change_pct)}) desde o início</div>
       <div class="stats">
-        <div class="stat"><span>Em ações</span><strong>${usd(d.invested)}</strong></div>
-        <div class="stat"><span>Caixa</span><strong>${usd(d.cash)}</strong></div>
+        <div class="stat"><span>Longo prazo</span><strong>${usd(d.long_value ?? d.total)}</strong></div>
+        <div class="stat"><span>Curto prazo</span><strong>${d.curto ? usd(d.curto.value) : "–"}</strong></div>
         <div class="stat"><span>Começou com</span><strong>${usd(d.start)}</strong></div>
         <div class="stat"><span>Operações</span><strong>${(d.fills || []).length}</strong></div>
       </div>
     </div>
     ${notes}
     <div class="panel"><h2>Evolução</h2>${chart(d.history || [], d.start)}</div>
-    <div class="panel"><h2>Carteira</h2>${positions}</div>
+    <div class="panel"><h2>Longo prazo</h2>
+      <p class="muted" style="font-size:12px;margin:-6px 0 10px">Em ações ${usd(d.invested)} · caixa ${usd(d.cash)}</p>${positions}</div>
+    ${shortTerm(d.curto)}
     <div class="panel"><h2>Últimas operações</h2>${fills}</div>
     ${picks}
     <div class="panel" style="display:flex;justify-content:space-between;align-items:center;gap:10px">

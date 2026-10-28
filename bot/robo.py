@@ -12,6 +12,7 @@ Each run, during NYSE hours only:
   5. sells any position whose trader-alerts stop rang, and keeps it out for a cooldown
   6. otherwise proposes orders: first buy with trader-budget, after that trader-rebalance (drift band)
   7. checks every order with trader-risk and sends only the PASS ones to Alpaca
+  8. the short-term sleeve (bot/curto.py) trades ETF dips with its own cash, when "curto" is on
 
 Settings live in trader/robo.json and trader/config.json. Keys come from the
 environment (ALPACA_API_KEY, ALPACA_SECRET_KEY), never from files.
@@ -30,6 +31,8 @@ import sys
 import time
 import urllib.error
 import urllib.request
+
+import curto
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SKILLS = os.path.join(ROOT, ".claude", "skills")
@@ -140,6 +143,19 @@ class Alpaca:
     def submit(self, body):
         return self.call("POST", TRADE_URL + "/v2/orders", body)
 
+    def bars(self, symbols, start):
+        """Daily bars per symbol since start (YYYY-MM-DD), split-adjusted, following page tokens."""
+        out, token = {}, None
+        while True:
+            url = (QUOTE_URL + "/v2/stocks/bars?timeframe=1Day&adjustment=all&feed=iex&limit=10000&start=%s&symbols=%s"
+                   % (start, ",".join(sorted(symbols))) + ("&page_token=" + token if token else ""))
+            doc = self.call("GET", url) or {}
+            for sym, bars in (doc.get("bars") or {}).items():
+                out.setdefault(sym, []).extend(bars)
+            token = doc.get("next_page_token")
+            if not token:
+                return out
+
     def latest_prices(self, symbols):
         if not symbols:
             return {}
@@ -197,20 +213,22 @@ def settle(api, state, log):
             qty = float(o.get("filled_qty") or 0)
             px = float(o.get("filled_avg_price") or 0)
             amount = round(qty * px, 2)
-            state["cash"] = round(state["cash"] + (amount if o["side"] == "sell" else -amount), 2)
-            log("%s %s: %s, %s ações a $%.2f (caixa do robô: $%.2f)"
-                % (o["side"], o["symbol"], o["status"], qty, px, state["cash"]))
+            book = state["curto"] if rec.get("sleeve") == "curto" else state
+            book["cash"] = round(book["cash"] + (amount if o["side"] == "sell" else -amount), 2)
+            label = "curto prazo" if rec.get("sleeve") == "curto" else "longo prazo"
+            log("%s %s (%s): %s, %s ações a $%.2f (caixa do %s: $%.2f)"
+                % (o["side"], o["symbol"], label, o["status"], qty, px, label, book["cash"]))
             if qty > 0:
                 state.setdefault("fills", []).append({
                     "at": str(o.get("filled_at") or dt.datetime.now(dt.timezone.utc).isoformat())[:19] + "Z",
                     "symbol": o["symbol"], "side": o["side"], "qty": round(qty, 6), "price": px,
-                    "amount": amount, "why": rec.get("why", "")})
+                    "amount": amount, "why": rec.get("why", ""), "sleeve": rec.get("sleeve", "longo")})
                 state["fills"] = state["fills"][-100:]
             verb = "Compra" if o["side"] == "buy" else "Venda"
             if qty > 0:
-                notify("%s de %s executada" % (verb, o["symbol"]),
-                       "%.4f ações a $%.2f = $%.2f\nCaixa do robô: $%.2f (conta paper)"
-                       % (qty, px, amount, state["cash"]),
+                notify("%s de %s executada (%s)" % (verb, o["symbol"], label),
+                       "%.4f ações a $%.2f = $%.2f\nCaixa do %s: $%.2f (conta paper)"
+                       % (qty, px, amount, label, book["cash"]),
                        tags=["chart_with_upwards_trend" if o["side"] == "buy" else "moneybag"])
             else:
                 notify("%s de %s não executada" % (verb, o["symbol"]), "Status na Alpaca: %s" % o["status"],
@@ -293,8 +311,15 @@ def refresh_13f(robo, state, today, log):
     return False
 
 
-def sync_portfolio(api, state, targets):
-    positions = api.positions()
+def long_positions(api, robo):
+    """Alpaca positions that belong to the long-term sleeve (the short-term one only holds its ETFs)."""
+    c = curto.settings(robo)
+    etfs = set(u.upper() for u in c["universe"]) if c["enabled"] else set()
+    return [p for p in api.positions() if p["symbol"] not in etfs]
+
+
+def sync_portfolio(api, robo, state, targets):
+    positions = long_positions(api, robo)
     held = [{"ticker": p["symbol"], "shares": float(p["qty"]),
              "lots": [{"id": p["symbol"] + "-alpaca", "shares": float(p["qty"]),
                        "cost": float(p["cost_basis"])}]} for p in positions]
@@ -397,16 +422,20 @@ def robo_strategy(state):
     return state.get("strategy", "screener")
 
 
-def daily_report(cfg, targets, positions, state, today, log):
+def daily_report(api, robo, cfg, targets, positions, state, today, log):
     """Once a day: portfolio, news on the tickers (trader-news) and Congress trades (trader-pelosi)."""
     if state.get("last_report") == today:
         return
     tickers = sorted({p["symbol"] for p in positions} | {w["ticker"] for w in targets.get("weights", [])})
     invested = sum(float(p.get("market_value") or 0) for p in positions)
+    short_term = curto.summary(api, state, robo)
+    st_value = short_term["value"] if short_term else 0
     out = ["# Relatório do robô, %s" % today, "",
            "## Carteira", "",
-           "Valor total: **$%.2f** (começou com $%.2f). Em ações: $%.2f. Caixa do robô: $%.2f."
-           % (invested + state["cash"], float(cfg.get("budget", 0)), invested, state["cash"]), ""]
+           "Valor total do robô: **$%.2f** (começou com $%.2f)." % (invested + state["cash"] + st_value,
+                                                                  float(cfg.get("budget", 0))), "",
+           "**Longo prazo:** $%.2f (em ações $%.2f, caixa $%.2f)." % (invested + state["cash"], invested, state["cash"]),
+           ""]
     if positions:
         out += ["| Ação | Quantidade | Valor | Resultado |", "| --- | --- | --- | --- |"]
         for p in sorted(positions, key=lambda p: -float(p.get("market_value") or 0)):
@@ -418,6 +447,11 @@ def daily_report(cfg, targets, positions, state, today, log):
     cool = state.get("cooldown") or {}
     if cool:
         out += ["", "Fora da carteira por stop: %s." % ", ".join("%s até %s" % kv for kv in sorted(cool.items()))]
+    if short_term:
+        out += ["", "**Curto prazo (ETFs):** $%.2f (%+.1f%% desde $%.2f), caixa $%.2f."
+                % (short_term["value"], short_term["change_pct"], short_term["start"], short_term["cash"])]
+        for p in short_term["positions"]:
+            out.append("- %s: $%.2f (%+.1f%%), desde %s" % (p["symbol"], p["value"], p["pl_pct"], p["since"] or "?"))
 
     short = read_json(path("shortlist.json"))
     if robo_strategy(state) == "screener" and short:
@@ -481,7 +515,7 @@ def daily_report(cfg, targets, positions, state, today, log):
         fh.write("\n".join(out) + "\n\n_Não é recomendação de investimento._\n")
     state["last_report"] = today
     log("relatório do dia: trader/relatorios/%s.md" % today)
-    total = invested + state["cash"]
+    total = invested + state["cash"] + st_value
     budget = float(cfg.get("budget", 0)) or total
     notify("Relatório do robô, %s" % today,
            "Carteira: $%.2f (%+.1f%% desde o início)\nAções: %s\nNotícias novas: %d\nToque para abrir o relatório."
@@ -545,13 +579,18 @@ def run(dry_run=False):
     targets = read_json(path("targets.json"))
     if not targets:
         raise RoboError("sem trader/targets.json: não consegui escolher as ações nesta rodada (veja o erro acima)")
-    held, positions = sync_portfolio(api, state, targets)
-    panel = (lambda: write_panel(api, cfg, state, targets, now)) if not dry_run else None
+    curto.setup(state, cfg, robo, log, notify)
+    held, positions = sync_portfolio(api, robo, state, targets)
+    panel = (lambda: write_panel(api, robo, cfg, state, targets, now)) if not dry_run else None
     if robo.get("daily_report"):
-        daily_report(cfg, targets, positions, state, today, log)
-    if state["pending"]:
-        log("%d ordem(ns) ainda abertas; espero a próxima rodada" % len(state["pending"]))
-        return finish(state, log, panel=panel)
+        daily_report(api, robo, cfg, targets, positions, state, today, log)
+    ny_time = str(clock["timestamp"])[11:16]
+    curto.run(api, robo, cfg, state, today, ny_time, now, log, notify, skill_json, read_json, write_json, path,
+              dry_run=dry_run)
+    long_pending = [r for r in state["pending"] if r.get("sleeve") != "curto"]
+    if long_pending:
+        log("%d ordem(ns) do longo prazo ainda abertas; espero a próxima rodada" % len(long_pending))
+        return finish(state, log, panel=panel, save=not dry_run)
 
     orders = check_stops(robo, positions, state, today, log)
     config_path = "trader/config.json"
@@ -570,7 +609,10 @@ def run(dry_run=False):
             write_json(path("orders.json"), dict(doc, orders=orders))
     if not orders:
         print("carteira dentro da meta; nada a fazer")
-        return finish(state, log, panel=panel)
+        if not dry_run and state["pending"]:
+            time.sleep(5)
+            settle(api, state, log)
+        return finish(state, log, panel=panel, save=not dry_run)
 
     code, out = skill("trader-risk/check.py", "--today", today, "--config", config_path, "--json")
     verdicts = json.loads(out)["results"] if out.strip() else []
@@ -609,11 +651,12 @@ def run(dry_run=False):
     return finish(state, log, save=not dry_run, panel=panel)
 
 
-def write_panel(api, cfg, state, targets, now):
+def write_panel(api, robo, cfg, state, targets, now):
     """painel/dados.json for the phone dashboard (GitHub Pages): balance, positions, history, picks."""
-    positions = api.positions()
+    positions = long_positions(api, robo)
     invested = sum(float(p.get("market_value") or 0) for p in positions)
-    total = round(invested + state["cash"], 2)
+    short_term = curto.summary(api, state, robo)
+    total = round(invested + state["cash"] + (short_term["value"] if short_term else 0), 2)
     start = float(cfg.get("budget", 0)) or total
     hist = read_json(path("state", "historico.json"), []) or []
     hist.append({"t": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "v": total})
@@ -645,7 +688,8 @@ def write_panel(api, cfg, state, targets, now):
         "start": start, "total": total, "invested": round(invested, 2), "cash": state["cash"],
         "change": round(total - start, 2), "change_pct": round(100 * (total / start - 1), 2) if start else 0,
         "positions": pos, "targets": targets.get("weights", []), "cooldown": state.get("cooldown") or {},
-        "takeprofit": state.get("takeprofit") or {},
+        "takeprofit": state.get("takeprofit") or {}, "curto": short_term,
+        "long_value": round(invested + state["cash"], 2),
         "pending": len(state.get("pending", [])), "fills": list(reversed(state.get("fills", [])))[:30],
         "picks": picks, "history": hist,
         "report": "trader/relatorios/" + reports[-1] if reports else None,
