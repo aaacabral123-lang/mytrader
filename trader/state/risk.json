@@ -7,7 +7,7 @@
       "symbol": "ORCL",
       "side": "sell",
       "amount": "3.913796706 shares",
-      "value_usd": 572.45,
+      "value_usd": 572.8,
       "fingerprint": "ed58977bd6d8abb6",
       "verdict": "BLOCK",
       "reasons": [
@@ -20,7 +20,7 @@
   "block": 1,
   "warnings": [],
   "cash_after": -486.97,
-  "prices_as_of": "2026-10-28T19:13:57Z",
-  "checked_at": "2026-10-28T19:14:03",
+  "prices_as_of": "2026-10-28T19:17:17Z",
+  "checked_at": "2026-10-28T19:17:23",
   "orders_file": "trader/orders.json"
 }

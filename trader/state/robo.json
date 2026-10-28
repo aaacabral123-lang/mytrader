@@ -1,5 +1,5 @@
 {
-  "cash": 513.03,
+  "cash": -486.97,
   "pending": [],
   "strategy": "screener",
   "last_screen": "2026-10-28",
@@ -123,5 +123,97 @@
       "amount": 573.99,
       "why": "drifted -11.2 points from its 11.2% target (band 2)"
     }
-  ]
+  ],
+  "curto": {
+    "cash": 1000.0,
+    "start": 1000.0,
+    "positions": {},
+    "exited": {},
+    "signals": {
+      "SPY": {
+        "price": 770.04,
+        "rsi2": 78.4,
+        "sma_exit": 765.76,
+        "sma_trend": 725.18
+      },
+      "QQQ": {
+        "price": 722.45,
+        "rsi2": 84.83,
+        "sma_exit": 712.91,
+        "sma_trend": 677.5
+      },
+      "IWM": {
+        "price": 279.3,
+        "rsi2": 66.66,
+        "sma_exit": 277.76,
+        "sma_trend": 277.46
+      },
+      "DIA": {
+        "price": 523.15,
+        "rsi2": 44.57,
+        "sma_exit": 523.74,
+        "sma_trend": 502.94
+      },
+      "XLK": {
+        "price": 190.43,
+        "rsi2": 89.2,
+        "sma_exit": 186.36,
+        "sma_trend": 168.84
+      },
+      "XLF": {
+        "price": 55.94,
+        "rsi2": 45.89,
+        "sma_exit": 56.08,
+        "sma_trend": 53.37
+      },
+      "XLE": {
+        "price": 68.61,
+        "rsi2": 48.19,
+        "sma_exit": 68.68,
+        "sma_trend": 57.92
+      },
+      "XLV": {
+        "price": 179.41,
+        "rsi2": 56.98,
+        "sma_exit": 179.69,
+        "sma_trend": 157.38
+      },
+      "XLY": {
+        "price": 114.75,
+        "rsi2": 48.48,
+        "sma_exit": 114.52,
+        "sma_trend": 115.22
+      },
+      "XLP": {
+        "price": 86.63,
+        "rsi2": 13.38,
+        "sma_exit": 88.01,
+        "sma_trend": 83.49
+      },
+      "XLI": {
+        "price": 168.32,
+        "rsi2": 80.06,
+        "sma_exit": 166.92,
+        "sma_trend": 172.51
+      },
+      "XLU": {
+        "price": 42.46,
+        "rsi2": 32.65,
+        "sma_exit": 42.66,
+        "sma_trend": 43.79
+      },
+      "XLB": {
+        "price": 51.44,
+        "rsi2": 38.75,
+        "sma_exit": 51.53,
+        "sma_trend": 50.68
+      },
+      "SMH": {
+        "price": 565.77,
+        "rsi2": 90.21,
+        "sma_exit": 543.1,
+        "sma_trend": 517.91
+      }
+    }
+  }
 }
