@@ -1,101 +1,221 @@
 {
-  "as_of": "2026-10-28T18:46:06Z",
+  "as_of": "2026-10-28T19:01:51Z",
   "paper": true,
   "strategy": "screener",
   "rules": "Growing, profitable, not priced for perfection",
   "start": 5000.0,
-  "total": 5092.51,
-  "invested": 4592.46,
-  "cash": 500.05,
-  "change": 92.51,
-  "change_pct": 1.85,
+  "total": 5108.02,
+  "invested": 4594.99,
+  "cash": 513.03,
+  "change": 108.02,
+  "change_pct": 2.16,
   "positions": [
     {
       "symbol": "ORCL",
       "name": "ORACLE CORP",
-      "qty": 6.926196706,
+      "qty": 3.913796706,
       "avg": 129.94,
-      "price": 145.015,
-      "value": 1004.4,
-      "pl": 104.41,
-      "pl_pct": 11.6,
-      "weight": 19.72
-    },
-    {
-      "symbol": "GOOGL",
-      "name": "Alphabet Inc.",
-      "qty": 2.781610261,
-      "avg": 323.55,
-      "price": 324.525,
-      "value": 902.7,
-      "pl": 2.71,
-      "pl_pct": 0.3,
-      "weight": 17.73
-    },
-    {
-      "symbol": "MSFT",
-      "name": "MICROSOFT CORP",
-      "qty": 1.696660181,
-      "avg": 530.448,
-      "price": 528.05,
-      "value": 895.92,
-      "pl": -4.07,
-      "pl_pct": -0.45,
-      "weight": 17.59
-    },
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA CORP",
-      "qty": 4.137209836,
-      "avg": 217.535498,
-      "price": 216.48,
-      "value": 895.62,
-      "pl": -4.37,
-      "pl_pct": -0.48,
-      "weight": 17.59
+      "price": 146.99,
+      "value": 575.29,
+      "pl": 66.73,
+      "pl_pct": 13.12,
+      "weight": 11.26
     },
     {
       "symbol": "ADBE",
       "name": "ADOBE INC.",
-      "qty": 3.613837134,
+      "qty": 2.325837134,
       "avg": 249.04,
-      "price": 247.33,
-      "value": 893.81,
-      "pl": -6.18,
-      "pl_pct": -0.69,
-      "weight": 17.55
+      "price": 247.2,
+      "value": 574.95,
+      "pl": -4.28,
+      "pl_pct": -0.74,
+      "weight": 11.26
+    },
+    {
+      "symbol": "MSFT",
+      "name": "MICROSOFT CORP",
+      "qty": 1.085460181,
+      "avg": 530.448,
+      "price": 529.4401,
+      "value": 574.69,
+      "pl": -1.09,
+      "pl_pct": -0.19,
+      "weight": 11.25
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA CORP",
+      "qty": 2.657209836,
+      "avg": 217.535498,
+      "price": 216.264,
+      "value": 574.66,
+      "pl": -3.38,
+      "pl_pct": -0.58,
+      "weight": 11.25
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "qty": 1.765810261,
+      "avg": 323.55,
+      "price": 325.3692,
+      "value": 574.54,
+      "pl": 3.21,
+      "pl_pct": 0.56,
+      "weight": 11.25
+    },
+    {
+      "symbol": "MU",
+      "name": "MICRON TECHNOLOGY INC",
+      "qty": 0.585072442,
+      "avg": 981.058,
+      "price": 980.67,
+      "value": 573.76,
+      "pl": -0.23,
+      "pl_pct": -0.04,
+      "weight": 11.23
+    },
+    {
+      "symbol": "UNP",
+      "name": "UNION PACIFIC CORP",
+      "qty": 1.919082836,
+      "avg": 299.096,
+      "price": 298.97,
+      "value": 573.75,
+      "pl": -0.24,
+      "pl_pct": -0.04,
+      "weight": 11.23
+    },
+    {
+      "symbol": "BLK",
+      "name": "BlackRock, Inc.",
+      "qty": 0.497533956,
+      "avg": 1153.67,
+      "price": 1152.39,
+      "value": 573.35,
+      "pl": -0.64,
+      "pl_pct": -0.11,
+      "weight": 11.22
     }
   ],
   "targets": [
     {
       "ticker": "NVDA",
       "name": "NVIDIA CORP",
-      "weight": 20.0
+      "weight": 12.5
     },
     {
       "ticker": "ORCL",
       "name": "ORACLE CORP",
-      "weight": 20.0
+      "weight": 12.5
     },
     {
       "ticker": "GOOGL",
       "name": "Alphabet Inc.",
-      "weight": 20.0
+      "weight": 12.5
     },
     {
       "ticker": "MSFT",
       "name": "MICROSOFT CORP",
-      "weight": 20.0
+      "weight": 12.5
     },
     {
       "ticker": "ADBE",
       "name": "ADOBE INC.",
-      "weight": 20.0
+      "weight": 12.5
+    },
+    {
+      "ticker": "MU",
+      "name": "MICRON TECHNOLOGY INC",
+      "weight": 12.5
+    },
+    {
+      "ticker": "BLK",
+      "name": "BlackRock, Inc.",
+      "weight": 12.5
+    },
+    {
+      "ticker": "UNP",
+      "name": "UNION PACIFIC CORP",
+      "weight": 12.5
     }
   ],
   "cooldown": {},
   "pending": 0,
   "fills": [
+    {
+      "at": "2026-10-28T19:02:31Z",
+      "symbol": "UNP",
+      "side": "buy",
+      "qty": 1.919083,
+      "price": 299.096,
+      "amount": 573.99,
+      "why": "drifted -11.2 points from its 11.2% target (band 2)"
+    },
+    {
+      "at": "2026-10-28T19:02:31Z",
+      "symbol": "MU",
+      "side": "buy",
+      "qty": 0.585072,
+      "price": 981.058,
+      "amount": 573.99,
+      "why": "drifted -11.2 points from its 11.2% target (band 2)"
+    },
+    {
+      "at": "2026-10-28T19:02:31Z",
+      "symbol": "BLK",
+      "side": "buy",
+      "qty": 0.497534,
+      "price": 1153.67,
+      "amount": 573.99,
+      "why": "drifted -11.2 points from its 11.2% target (band 2)"
+    },
+    {
+      "at": "2026-10-28T19:02:30Z",
+      "symbol": "ORCL",
+      "side": "sell",
+      "qty": 3.0124,
+      "price": 146.809753,
+      "amount": 442.25,
+      "why": "drifted +8.7 points from its 11.2% target (band 2)"
+    },
+    {
+      "at": "2026-10-28T19:02:27Z",
+      "symbol": "NVDA",
+      "side": "sell",
+      "qty": 1.48,
+      "price": 216.38,
+      "amount": 320.24,
+      "why": "drifted +6.3 points from its 11.2% target (band 2)"
+    },
+    {
+      "at": "2026-10-28T19:02:25Z",
+      "symbol": "MSFT",
+      "side": "sell",
+      "qty": 0.6112,
+      "price": 529.522,
+      "amount": 323.64,
+      "why": "drifted +6.3 points from its 11.2% target (band 2)"
+    },
+    {
+      "at": "2026-10-28T19:02:23Z",
+      "symbol": "GOOGL",
+      "side": "sell",
+      "qty": 1.0158,
+      "price": 325.39,
+      "amount": 330.53,
+      "why": "drifted +6.5 points from its 11.2% target (band 2)"
+    },
+    {
+      "at": "2026-10-28T19:02:22Z",
+      "symbol": "ADBE",
+      "side": "sell",
+      "qty": 1.288,
+      "price": 247.12,
+      "amount": 318.29,
+      "why": "drifted +6.2 points from its 11.2% target (band 2)"
+    },
     {
       "at": "2026-10-28T13:51:02Z",
       "symbol": "ADBE",
@@ -144,30 +264,48 @@
   ],
   "picks": [
     {
+      "symbol": "MU",
+      "name": "MICRON TECHNOLOGY INC",
+      "score": 1.0,
+      "growth": 379.3,
+      "margin": 80.7,
+      "pe": 13.2,
+      "held": true
+    },
+    {
       "symbol": "NVDA",
       "name": "NVIDIA CORP",
-      "score": 0.857,
+      "score": 0.773,
       "growth": 105.9,
       "margin": 66.2,
-      "pe": 27.5,
+      "pe": 27.4,
       "held": true
     },
     {
       "symbol": "ORCL",
       "name": "ORACLE CORP",
-      "score": 0.66,
+      "score": 0.602,
       "growth": 29.6,
       "margin": 34.8,
-      "pe": 20.4,
+      "pe": 23.0,
+      "held": true
+    },
+    {
+      "symbol": "BLK",
+      "name": "BlackRock, Inc.",
+      "score": 0.545,
+      "growth": 30.6,
+      "margin": 34.7,
+      "pe": 27.6,
       "held": true
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc.",
-      "score": 0.571,
+      "score": 0.545,
       "growth": 24.2,
       "margin": 34.0,
-      "pe": 16.3,
+      "pe": 16.4,
       "held": true
     },
     {
@@ -176,43 +314,43 @@
       "score": 0.5,
       "growth": 17.7,
       "margin": 45.1,
-      "pe": 29.6,
+      "pe": 29.5,
+      "held": true
+    },
+    {
+      "symbol": "UNP",
+      "name": "UNION PACIFIC CORP",
+      "score": 0.455,
+      "growth": 15.3,
+      "margin": 40.9,
+      "pe": 23.3,
       "held": true
     },
     {
       "symbol": "ADBE",
       "name": "ADOBE INC.",
-      "score": 0.482,
+      "score": 0.42,
       "growth": 12.9,
       "margin": 34.8,
-      "pe": 13.9,
+      "pe": 13.8,
       "held": true
+    },
+    {
+      "symbol": "REGN",
+      "name": "REGENERON PHARMACEUTICALS, INC.",
+      "score": 0.387,
+      "growth": 16.7,
+      "margin": 30.1,
+      "pe": 20.0,
+      "held": false
     },
     {
       "symbol": "MA",
       "name": "Mastercard Inc",
-      "score": 0.429,
+      "score": 0.341,
       "growth": 14.1,
       "margin": 60.2,
-      "pe": 33.6,
-      "held": false
-    },
-    {
-      "symbol": "KO",
-      "name": "COCA COLA CO",
-      "score": 0.286,
-      "growth": 12.1,
-      "margin": 35.0,
-      "pe": 28.7,
-      "held": false
-    },
-    {
-      "symbol": "NFLX",
-      "name": "NETFLIX INC",
-      "score": 0.214,
-      "growth": 11.8,
-      "margin": 34.6,
-      "pe": 17.9,
+      "pe": 33.7,
       "held": false
     }
   ],
@@ -240,6 +378,10 @@
     {
       "t": "2026-10-28T18:46:06Z",
       "v": 5092.51
+    },
+    {
+      "t": "2026-10-28T19:01:51Z",
+      "v": 5108.02
     }
   ],
   "report": "trader/relatorios/2026-10-28.md",

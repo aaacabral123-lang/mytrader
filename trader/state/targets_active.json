@@ -1,31 +1,46 @@
 {
-  "source": "trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 8 de 50 empresas passaram",
+  "source": "trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 10 de 102 empresas passaram",
   "as_of": "2026-10-28",
   "weights": [
     {
       "ticker": "NVDA",
       "name": "NVIDIA CORP",
-      "weight": 20.0
+      "weight": 12.5
     },
     {
       "ticker": "ORCL",
       "name": "ORACLE CORP",
-      "weight": 20.0
+      "weight": 12.5
     },
     {
       "ticker": "GOOGL",
       "name": "Alphabet Inc.",
-      "weight": 20.0
+      "weight": 12.5
     },
     {
       "ticker": "MSFT",
       "name": "MICROSOFT CORP",
-      "weight": 20.0
+      "weight": 12.5
     },
     {
       "ticker": "ADBE",
       "name": "ADOBE INC.",
-      "weight": 20.0
+      "weight": 12.5
+    },
+    {
+      "ticker": "MU",
+      "name": "MICRON TECHNOLOGY INC",
+      "weight": 12.5
+    },
+    {
+      "ticker": "BLK",
+      "name": "BlackRock, Inc.",
+      "weight": 12.5
+    },
+    {
+      "ticker": "UNP",
+      "name": "UNION PACIFIC CORP",
+      "weight": 12.5
     }
   ]
 }

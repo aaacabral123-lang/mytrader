@@ -49,6 +49,86 @@
       "id": "eae9701a-37f1-4b3b-92ed-e90ce407b881",
       "approved_by": "robo (automatic, paper)",
       "why": "20.00% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 8 de 50 empresas passaram"
+    },
+    {
+      "date": "2026-10-28",
+      "at": "2026-10-28T19:01:51Z",
+      "status": "placed",
+      "symbol": "ADBE",
+      "side": "sell",
+      "id": "f26d16cb-63d1-4d56-a986-1231b88e1c55",
+      "approved_by": "robo (automatic, paper)",
+      "why": "drifted +6.2 points from its 11.2% target (band 2)"
+    },
+    {
+      "date": "2026-10-28",
+      "at": "2026-10-28T19:01:51Z",
+      "status": "placed",
+      "symbol": "GOOGL",
+      "side": "sell",
+      "id": "1849785a-c7d7-401f-a72e-5ae7d50149c0",
+      "approved_by": "robo (automatic, paper)",
+      "why": "drifted +6.5 points from its 11.2% target (band 2)"
+    },
+    {
+      "date": "2026-10-28",
+      "at": "2026-10-28T19:01:51Z",
+      "status": "placed",
+      "symbol": "MSFT",
+      "side": "sell",
+      "id": "43bfca01-9ff0-488e-a050-ae935835592f",
+      "approved_by": "robo (automatic, paper)",
+      "why": "drifted +6.3 points from its 11.2% target (band 2)"
+    },
+    {
+      "date": "2026-10-28",
+      "at": "2026-10-28T19:01:51Z",
+      "status": "placed",
+      "symbol": "NVDA",
+      "side": "sell",
+      "id": "8129e8cb-f2c0-4390-b3dd-bed2737349ff",
+      "approved_by": "robo (automatic, paper)",
+      "why": "drifted +6.3 points from its 11.2% target (band 2)"
+    },
+    {
+      "date": "2026-10-28",
+      "at": "2026-10-28T19:01:51Z",
+      "status": "placed",
+      "symbol": "ORCL",
+      "side": "sell",
+      "id": "ec8a438c-424b-4e84-b351-8f9776f5e119",
+      "approved_by": "robo (automatic, paper)",
+      "why": "drifted +8.7 points from its 11.2% target (band 2)"
+    },
+    {
+      "date": "2026-10-28",
+      "at": "2026-10-28T19:01:51Z",
+      "status": "placed",
+      "symbol": "BLK",
+      "side": "buy",
+      "id": "182d5d22-4c53-4f2a-8dc6-230c12cf4c2f",
+      "approved_by": "robo (automatic, paper)",
+      "why": "drifted -11.2 points from its 11.2% target (band 2)"
+    },
+    {
+      "date": "2026-10-28",
+      "at": "2026-10-28T19:01:51Z",
+      "status": "placed",
+      "symbol": "MU",
+      "side": "buy",
+      "id": "d2ee268e-f90a-41b5-a2e0-fb9f1822e2ef",
+      "approved_by": "robo (automatic, paper)",
+      "why": "drifted -11.2 points from its 11.2% target (band 2)"
+    },
+    {
+      "date": "2026-10-28",
+      "at": "2026-10-28T19:01:51Z",
+      "status": "placed",
+      "symbol": "UNP",
+      "side": "buy",
+      "id": "cb640e6c-4fc4-440a-80c1-f62fe13e536c",
+      "approved_by": "robo (automatic, paper)",
+      "why": "drifted -11.2 points from its 11.2% target (band 2)"
     }
   ]
 }
