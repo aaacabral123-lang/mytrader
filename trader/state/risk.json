@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-28",
+  "paper": true,
+  "results": [
+    {
+      "index": 1,
+      "symbol": "NVDA",
+      "side": "buy",
+      "amount": "$900",
+      "value_usd": 900.0,
+      "fingerprint": "8b6793a72170a62f",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 2,
+      "symbol": "ORCL",
+      "side": "buy",
+      "amount": "$900",
+      "value_usd": 900.0,
+      "fingerprint": "739cbb7be32e2e3d",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 3,
+      "symbol": "GOOGL",
+      "side": "buy",
+      "amount": "$900",
+      "value_usd": 900.0,
+      "fingerprint": "f149a6c08c90ab11",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 4,
+      "symbol": "MSFT",
+      "side": "buy",
+      "amount": "$900",
+      "value_usd": 900.0,
+      "fingerprint": "e85789fc8c77625f",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 5,
+      "symbol": "ADBE",
+      "side": "buy",
+      "amount": "$900",
+      "value_usd": 900.0,
+      "fingerprint": "51c5afc44732c776",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    }
+  ],
+  "pass": 5,
+  "block": 0,
+  "warnings": [],
+  "cash_after": 500.0,
+  "prices_as_of": "2026-10-28T13:48:44Z",
+  "checked_at": "2026-10-28T13:48:48",
+  "orders_file": "trader/orders.json"
+}

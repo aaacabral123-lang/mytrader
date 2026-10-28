@@ -455,7 +455,19 @@ def propose(robo, held, new_13f, cash, targets_path):
     return (read_json(path("orders.json"), {}) or {}).get("orders", [])
 
 
+SECRET_VARS = ("ALPACA_API_KEY", "ALPACA_SECRET_KEY", "SEC_USER_AGENT", "NTFY_TOPIC")
+
+
+def clean_secrets():
+    """Secrets pasted with a trailing Enter carry a newline, which urllib rejects in a header.
+    Trim them here (the skill scripts inherit this environment) and fold inner whitespace."""
+    for k in SECRET_VARS:
+        if k in os.environ:
+            os.environ[k] = " ".join(os.environ[k].split())
+
+
 def run(dry_run=False):
+    clean_secrets()
     now = dt.datetime.now(dt.timezone.utc)
     log = Log(now)
     robo = dict(ROBO_DEFAULTS, **(read_json(path("robo.json"), {}) or {}))
@@ -482,7 +494,7 @@ def run(dry_run=False):
     new_13f = refresh_targets(api, robo, state, today, log)
     targets = read_json(path("targets.json"))
     if not targets:
-        raise RoboError("sem trader/targets.json; o 13F não pôde ser lido")
+        raise RoboError("sem trader/targets.json: não consegui escolher as ações nesta rodada (veja o erro acima)")
     held, positions = sync_portfolio(api, state, targets)
     panel = (lambda: write_panel(api, cfg, state, targets, now)) if not dry_run else None
     if robo.get("daily_report"):

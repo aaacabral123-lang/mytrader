@@ -1,0 +1,50 @@
+{
+  "created_by": "trader-budget",
+  "created_at": "2026-10-28T13:48:48",
+  "status": "proposed",
+  "paper": true,
+  "note": "Proposals only. Nothing is placed until trader-risk passes each order and you say yes to it in the chat.",
+  "source": "trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 8 de 50 empresas passaram",
+  "orders": [
+    {
+      "symbol": "NVDA",
+      "side": "buy",
+      "notional": "900",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "20.00% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 8 de 50 empresas passaram"
+    },
+    {
+      "symbol": "ORCL",
+      "side": "buy",
+      "notional": "900",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "20.00% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 8 de 50 empresas passaram"
+    },
+    {
+      "symbol": "GOOGL",
+      "side": "buy",
+      "notional": "900",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "20.00% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 8 de 50 empresas passaram"
+    },
+    {
+      "symbol": "MSFT",
+      "side": "buy",
+      "notional": "900",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "20.00% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 8 de 50 empresas passaram"
+    },
+    {
+      "symbol": "ADBE",
+      "side": "buy",
+      "notional": "900",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "20.00% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 8 de 50 empresas passaram"
+    }
+  ]
+}
