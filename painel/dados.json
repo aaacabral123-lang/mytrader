@@ -1,0 +1,227 @@
+{
+  "as_of": "2026-10-28T13:50:42Z",
+  "paper": true,
+  "strategy": "screener",
+  "rules": "Growing, profitable, not priced for perfection",
+  "start": 5000.0,
+  "total": 5002.21,
+  "invested": 4502.16,
+  "cash": 500.05,
+  "change": 2.21,
+  "change_pct": 0.04,
+  "positions": [
+    {
+      "symbol": "ORCL",
+      "name": "ORACLE CORP",
+      "qty": 6.926196706,
+      "avg": 129.94,
+      "price": 130.16,
+      "value": 901.51,
+      "pl": 1.52,
+      "pl_pct": 0.17,
+      "weight": 18.02
+    },
+    {
+      "symbol": "MSFT",
+      "name": "MICROSOFT CORP",
+      "qty": 1.696660181,
+      "avg": 530.448,
+      "price": 530.685,
+      "value": 900.39,
+      "pl": 0.4,
+      "pl_pct": 0.04,
+      "weight": 18.0
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "qty": 2.781610261,
+      "avg": 323.55,
+      "price": 323.66,
+      "value": 900.3,
+      "pl": 0.31,
+      "pl_pct": 0.03,
+      "weight": 18.0
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA CORP",
+      "qty": 4.137209836,
+      "avg": 217.535498,
+      "price": 217.6,
+      "value": 900.26,
+      "pl": 0.27,
+      "pl_pct": 0.03,
+      "weight": 18.0
+    },
+    {
+      "symbol": "ADBE",
+      "name": "ADOBE INC.",
+      "qty": 3.613837134,
+      "avg": 249.04,
+      "price": 248.96,
+      "value": 899.7,
+      "pl": -0.29,
+      "pl_pct": -0.03,
+      "weight": 17.99
+    }
+  ],
+  "targets": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA CORP",
+      "weight": 20.0
+    },
+    {
+      "ticker": "ORCL",
+      "name": "ORACLE CORP",
+      "weight": 20.0
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
+      "weight": 20.0
+    },
+    {
+      "ticker": "MSFT",
+      "name": "MICROSOFT CORP",
+      "weight": 20.0
+    },
+    {
+      "ticker": "ADBE",
+      "name": "ADOBE INC.",
+      "weight": 20.0
+    }
+  ],
+  "cooldown": {},
+  "pending": 0,
+  "fills": [
+    {
+      "at": "2026-10-28T13:51:02Z",
+      "symbol": "ADBE",
+      "side": "buy",
+      "qty": 3.613837,
+      "price": 249.04,
+      "amount": 899.99,
+      "why": "20.00% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 8 de 50 empresas passaram"
+    },
+    {
+      "at": "2026-10-28T13:51:00Z",
+      "symbol": "MSFT",
+      "side": "buy",
+      "qty": 1.69666,
+      "price": 530.448,
+      "amount": 899.99,
+      "why": "20.00% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 8 de 50 empresas passaram"
+    },
+    {
+      "at": "2026-10-28T13:51:01Z",
+      "symbol": "GOOGL",
+      "side": "buy",
+      "qty": 2.78161,
+      "price": 323.55,
+      "amount": 899.99,
+      "why": "20.00% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 8 de 50 empresas passaram"
+    },
+    {
+      "at": "2026-10-28T13:51:01Z",
+      "symbol": "ORCL",
+      "side": "buy",
+      "qty": 6.926197,
+      "price": 129.94,
+      "amount": 899.99,
+      "why": "20.00% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 8 de 50 empresas passaram"
+    },
+    {
+      "at": "2026-10-28T13:51:02Z",
+      "symbol": "NVDA",
+      "side": "buy",
+      "qty": 4.13721,
+      "price": 217.535498,
+      "amount": 899.99,
+      "why": "20.00% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 8 de 50 empresas passaram"
+    }
+  ],
+  "picks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA CORP",
+      "score": 0.857,
+      "growth": 105.9,
+      "margin": 66.2,
+      "pe": 27.5,
+      "held": true
+    },
+    {
+      "symbol": "ORCL",
+      "name": "ORACLE CORP",
+      "score": 0.66,
+      "growth": 29.6,
+      "margin": 34.8,
+      "pe": 20.4,
+      "held": true
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "score": 0.571,
+      "growth": 24.2,
+      "margin": 34.0,
+      "pe": 16.3,
+      "held": true
+    },
+    {
+      "symbol": "MSFT",
+      "name": "MICROSOFT CORP",
+      "score": 0.5,
+      "growth": 17.7,
+      "margin": 45.1,
+      "pe": 29.6,
+      "held": true
+    },
+    {
+      "symbol": "ADBE",
+      "name": "ADOBE INC.",
+      "score": 0.482,
+      "growth": 12.9,
+      "margin": 34.8,
+      "pe": 13.9,
+      "held": true
+    },
+    {
+      "symbol": "MA",
+      "name": "Mastercard Inc",
+      "score": 0.429,
+      "growth": 14.1,
+      "margin": 60.2,
+      "pe": 33.6,
+      "held": false
+    },
+    {
+      "symbol": "KO",
+      "name": "COCA COLA CO",
+      "score": 0.286,
+      "growth": 12.1,
+      "margin": 35.0,
+      "pe": 28.7,
+      "held": false
+    },
+    {
+      "symbol": "NFLX",
+      "name": "NETFLIX INC",
+      "score": 0.214,
+      "growth": 11.8,
+      "margin": 34.6,
+      "pe": 17.9,
+      "held": false
+    }
+  ],
+  "history": [
+    {
+      "t": "2026-10-28T13:50:42Z",
+      "v": 5002.21
+    }
+  ],
+  "report": "trader/relatorios/2026-10-28.md",
+  "repo": "aaacabral123-lang/mytrader"
+}

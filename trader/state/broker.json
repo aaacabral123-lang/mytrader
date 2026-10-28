@@ -1,0 +1,54 @@
+{
+  "orders": [
+    {
+      "date": "2026-10-28",
+      "at": "2026-10-28T13:50:42Z",
+      "status": "placed",
+      "symbol": "NVDA",
+      "side": "buy",
+      "id": "6cb5c61a-96bb-47ab-b455-ae4f7357f8e5",
+      "approved_by": "robo (automatic, paper)",
+      "why": "20.00% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 8 de 50 empresas passaram"
+    },
+    {
+      "date": "2026-10-28",
+      "at": "2026-10-28T13:50:42Z",
+      "status": "placed",
+      "symbol": "ORCL",
+      "side": "buy",
+      "id": "33164e4e-4c7a-4c72-8bb7-5ce328b92014",
+      "approved_by": "robo (automatic, paper)",
+      "why": "20.00% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 8 de 50 empresas passaram"
+    },
+    {
+      "date": "2026-10-28",
+      "at": "2026-10-28T13:50:42Z",
+      "status": "placed",
+      "symbol": "GOOGL",
+      "side": "buy",
+      "id": "c721f0bf-acf6-42e6-8402-abc9fa3391d4",
+      "approved_by": "robo (automatic, paper)",
+      "why": "20.00% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 8 de 50 empresas passaram"
+    },
+    {
+      "date": "2026-10-28",
+      "at": "2026-10-28T13:50:42Z",
+      "status": "placed",
+      "symbol": "MSFT",
+      "side": "buy",
+      "id": "ead6d50d-8b2f-421a-ab0b-d2b47d15d764",
+      "approved_by": "robo (automatic, paper)",
+      "why": "20.00% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 8 de 50 empresas passaram"
+    },
+    {
+      "date": "2026-10-28",
+      "at": "2026-10-28T13:50:42Z",
+      "status": "placed",
+      "symbol": "ADBE",
+      "side": "buy",
+      "id": "eae9701a-37f1-4b3b-92ed-e90ce407b881",
+      "approved_by": "robo (automatic, paper)",
+      "why": "20.00% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 8 de 50 empresas passaram"
+    }
+  ]
+}

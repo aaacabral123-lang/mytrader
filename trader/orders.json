@@ -1,6 +1,6 @@
 {
   "created_by": "trader-budget",
-  "created_at": "2026-10-28T13:48:48",
+  "created_at": "2026-10-28T13:51:00",
   "status": "proposed",
   "paper": true,
   "note": "Proposals only. Nothing is placed until trader-risk passes each order and you say yes to it in the chat.",

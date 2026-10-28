@@ -61,7 +61,7 @@
         "revenue_growth_yoy 29.6 >= 10",
         "operating_margin 34.8 >= 25",
         "eps_ttm 6.38 > 0",
-        "pe 20.3 <= 35"
+        "pe 20.4 <= 35"
       ],
       "skipped": []
     },
@@ -73,7 +73,7 @@
         "revenue_growth_yoy 24.2 >= 10",
         "operating_margin 34 >= 25",
         "eps_ttm 19.91 > 0",
-        "pe 16.2 <= 35"
+        "pe 16.3 <= 35"
       ],
       "skipped": []
     },
@@ -85,7 +85,7 @@
         "revenue_growth_yoy 17.7 >= 10",
         "operating_margin 45.1 >= 25",
         "eps_ttm 17.95 > 0",
-        "pe 29.5 <= 35"
+        "pe 29.6 <= 35"
       ],
       "skipped": []
     },
@@ -97,7 +97,7 @@
         "revenue_growth_yoy 12.9 >= 10",
         "operating_margin 34.8 >= 25",
         "eps_ttm 17.91 > 0",
-        "pe 13.8 <= 35"
+        "pe 13.9 <= 35"
       ],
       "skipped": []
     },
@@ -133,7 +133,7 @@
         "revenue_growth_yoy 11.8 >= 10",
         "operating_margin 34.6 >= 25",
         "eps_ttm 3.46 > 0",
-        "pe 18 <= 35"
+        "pe 17.9 <= 35"
       ],
       "skipped": []
     }
@@ -148,7 +148,7 @@
     {
       "ticker": "ABBV",
       "why": [
-        "pe 80.5, needs <= 35"
+        "pe 80.6, needs <= 35"
       ]
     },
     {
@@ -166,7 +166,7 @@
     {
       "ticker": "AVGO",
       "why": [
-        "pe 44.1, needs <= 35"
+        "pe 44, needs <= 35"
       ]
     },
     {
@@ -232,7 +232,7 @@
     {
       "ticker": "TXN",
       "why": [
-        "pe 39.6, needs <= 35"
+        "pe 39.5, needs <= 35"
       ]
     },
     {
@@ -323,7 +323,7 @@
       "ticker": "TMO",
       "why": [
         "operating_margin 17.4, needs >= 25",
-        "pe 37.9, needs <= 35"
+        "pe 38, needs <= 35"
       ]
     },
     {
@@ -383,7 +383,7 @@
       "why": [
         "revenue_growth_yoy 5.1, needs >= 10",
         "operating_margin is missing",
-        "pe 113.3, needs <= 35"
+        "pe 113.4, needs <= 35"
       ]
     },
     {
@@ -391,7 +391,7 @@
       "why": [
         "revenue_growth_yoy 2.6, needs >= 10",
         "operating_margin is missing",
-        "pe 39.1, needs <= 35"
+        "pe 39.2, needs <= 35"
       ]
     },
     {
@@ -399,7 +399,7 @@
       "why": [
         "revenue_growth_yoy -1.4, needs >= 10",
         "operating_margin 10.5, needs >= 25",
-        "pe 59.6, needs <= 35"
+        "pe 59.5, needs <= 35"
       ]
     },
     {
@@ -407,7 +407,7 @@
       "why": [
         "revenue_growth_yoy -0.2, needs >= 10",
         "operating_margin 2.6, needs >= 25",
-        "pe 441, needs <= 35"
+        "pe 441.7, needs <= 35"
       ]
     },
     {
@@ -415,7 +415,7 @@
       "why": [
         "revenue_growth_yoy 5.9, needs >= 10",
         "operating_margin 5, needs >= 25",
-        "pe 42.9, needs <= 35"
+        "pe 43, needs <= 35"
       ]
     },
     {

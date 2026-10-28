@@ -1,0 +1,55 @@
+{
+  "cash": 500.05,
+  "pending": [],
+  "strategy": "screener",
+  "last_screen": "2026-10-28",
+  "last_report": "2026-10-28",
+  "cooldown": {},
+  "fills": [
+    {
+      "at": "2026-10-28T13:51:02Z",
+      "symbol": "NVDA",
+      "side": "buy",
+      "qty": 4.13721,
+      "price": 217.535498,
+      "amount": 899.99,
+      "why": "20.00% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 8 de 50 empresas passaram"
+    },
+    {
+      "at": "2026-10-28T13:51:01Z",
+      "symbol": "ORCL",
+      "side": "buy",
+      "qty": 6.926197,
+      "price": 129.94,
+      "amount": 899.99,
+      "why": "20.00% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 8 de 50 empresas passaram"
+    },
+    {
+      "at": "2026-10-28T13:51:01Z",
+      "symbol": "GOOGL",
+      "side": "buy",
+      "qty": 2.78161,
+      "price": 323.55,
+      "amount": 899.99,
+      "why": "20.00% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 8 de 50 empresas passaram"
+    },
+    {
+      "at": "2026-10-28T13:51:00Z",
+      "symbol": "MSFT",
+      "side": "buy",
+      "qty": 1.69666,
+      "price": 530.448,
+      "amount": 899.99,
+      "why": "20.00% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 8 de 50 empresas passaram"
+    },
+    {
+      "at": "2026-10-28T13:51:02Z",
+      "symbol": "ADBE",
+      "side": "buy",
+      "qty": 3.613837,
+      "price": 249.04,
+      "amount": 899.99,
+      "why": "20.00% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-10-28), 8 de 50 empresas passaram"
+    }
+  ]
+}
