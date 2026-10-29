@@ -143,12 +143,12 @@ class Alpaca:
     def submit(self, body):
         return self.call("POST", TRADE_URL + "/v2/orders", body)
 
-    def bars(self, symbols, start):
-        """Daily bars per symbol since start (YYYY-MM-DD), split-adjusted, following page tokens."""
+    def bars(self, symbols, start, timeframe="1Day"):
+        """Bars per symbol since start (YYYY-MM-DD), split-adjusted, following page tokens."""
         out, token = {}, None
         while True:
-            url = (QUOTE_URL + "/v2/stocks/bars?timeframe=1Day&adjustment=all&feed=iex&limit=10000&start=%s&symbols=%s"
-                   % (start, ",".join(sorted(symbols))) + ("&page_token=" + token if token else ""))
+            url = (QUOTE_URL + "/v2/stocks/bars?timeframe=%s&adjustment=all&feed=iex&limit=10000&start=%s&symbols=%s"
+                   % (timeframe, start, ",".join(sorted(symbols))) + ("&page_token=" + token if token else ""))
             doc = self.call("GET", url) or {}
             for sym, bars in (doc.get("bars") or {}).items():
                 out.setdefault(sym, []).extend(bars)
@@ -687,6 +687,7 @@ def write_panel(api, robo, cfg, state, targets, now):
     hist = read_json(path("state", "historico.json"), []) or []
     hist.append({"t": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "v": total})
     hist = hist[-3000:]
+    bench = benchmark(api, state, hist, start)
     write_json(path("state", "historico.json"), hist)
     names = {w["ticker"]: w.get("name", "") for w in targets.get("weights", [])}
     pos = []
@@ -714,7 +715,7 @@ def write_panel(api, robo, cfg, state, targets, now):
         "start": start, "total": total, "invested": round(invested, 2), "cash": state["cash"],
         "change": round(total - start, 2), "change_pct": round(100 * (total / start - 1), 2) if start else 0,
         "positions": pos, "targets": targets.get("weights", []), "cooldown": state.get("cooldown") or {},
-        "takeprofit": state.get("takeprofit") or {}, "curto": short_term,
+        "takeprofit": state.get("takeprofit") or {}, "curto": short_term, "benchmark": bench,
         "long_value": round(invested + state["cash"], 2),
         "pending": len(state.get("pending", [])), "fills": list(reversed(state.get("fills", [])))[:30],
         "picks": picks, "history": hist,
@@ -722,14 +723,40 @@ def write_panel(api, robo, cfg, state, targets, now):
         "repo": os.environ.get("GITHUB_REPOSITORY")})
 
 
+def benchmark(api, state, hist, start, symbol="SPY"):
+    """What the starting money would be worth in SPY bought at the open of the robot's first day.
+    Adds "b" to each history point (backfilling older ones once from hourly bars)."""
+    b = state.get("benchmark")
+    if not b:
+        day = hist[0]["t"][:10]
+        daily = api.bars([symbol], day).get(symbol) or []
+        first = next((x for x in daily if x["t"][:10] == day), None)
+        if not first:
+            return None
+        b = state["benchmark"] = {"symbol": symbol, "base": float(first["o"]), "since": day}
+        hourly = sorted(api.bars([symbol], day, "1Hour").get(symbol) or [], key=lambda x: x["t"])
+        for h in hist[:-1]:
+            done = [x for x in hourly
+                    if dt.datetime.fromisoformat(x["t"].replace("Z", "+00:00")) + dt.timedelta(hours=1)
+                    <= dt.datetime.fromisoformat(h["t"].replace("Z", "+00:00"))]
+            px = float(done[-1]["c"]) if done else b["base"]
+            h["b"] = round(start * px / b["base"], 2)
+    px = api.latest_prices([symbol]).get(symbol)
+    if not px:
+        return None
+    hist[-1]["b"] = round(start * px / b["base"], 2)
+    return {"symbol": symbol, "since": b["since"], "value": hist[-1]["b"],
+            "change_pct": round(100 * (px / b["base"] - 1), 2)}
+
+
 def finish(state, log, save=True, panel=None):
-    if save:
-        write_json(path("state", "robo.json"), state)
     if panel:
         try:
             panel()
         except (RoboError, OSError, KeyError, ValueError) as e:
             print("aviso: painel não atualizado (%s)" % e, file=sys.stderr)
+    if save:
+        write_json(path("state", "robo.json"), state)
     if log.lines:
         log.save()
     return 0

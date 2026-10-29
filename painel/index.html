@@ -25,6 +25,7 @@ h2{font-size:16px;margin:0 0 12px}
 .panel{background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:16px;margin:12px 0}
 .hero .label{font-size:13px;color:var(--muted)}
 .big{font-size:38px;font-weight:800;letter-spacing:-1px;margin:4px 0 2px;font-variant-numeric:tabular-nums}
+.vs{font-size:13px;color:var(--muted);margin-top:8px;line-height:1.5}
 .delta{font-size:15px;font-weight:700;font-variant-numeric:tabular-nums}
 .up{color:var(--up)}.down{color:var(--down)}
 .stats{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:14px}
@@ -95,21 +96,24 @@ function ago(iso) {
 function chart(hist, start) {
   if (hist.length < 2) return '<p class="empty">O gráfico aparece depois de algumas rodadas.</p>';
   const W = 600, H = 170, P = 6;
-  const vals = hist.map(h => h.v).concat([start]);
+  const vals = hist.map(h => h.v).concat([start], hist.filter(h => h.b != null).map(h => h.b));
   let lo = Math.min(...vals), hi = Math.max(...vals);
   if (hi - lo < 1) { hi += 1; lo -= 1; }
   const x = i => P + i * (W - 2 * P) / (hist.length - 1);
   const y = v => P + (hi - v) * (H - 2 * P) / (hi - lo);
   const pts = hist.map((h, i) => x(i).toFixed(1) + "," + y(h.v).toFixed(1));
+  const bpts = hist.map((h, i) => h.b == null ? null : x(i).toFixed(1) + "," + y(h.b).toFixed(1)).filter(Boolean);
   const last = hist[hist.length - 1].v;
   const color = last >= start ? "#86e0ba" : "#ffa4af";
   return `<svg id="chart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img" aria-label="Evolução do patrimônio">
     <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="${color}" stop-opacity=".35"/><stop offset="1" stop-color="${color}" stop-opacity="0"/></linearGradient></defs>
     <line x1="0" x2="${W}" y1="${y(start)}" y2="${y(start)}" stroke="#4a5d7c" stroke-dasharray="5 5" vector-effect="non-scaling-stroke"/>
     <polygon points="${x(0)},${H} ${pts.join(" ")} ${x(hist.length - 1)},${H}" fill="url(#g)"/>
+    ${bpts.length > 1 ? `<polyline points="${bpts.join(" ")}" fill="none" stroke="#8fb6ff" stroke-width="1.8" stroke-dasharray="2 4" vector-effect="non-scaling-stroke" stroke-linejoin="round"/>` : ""}
     <polyline points="${pts.join(" ")}" fill="none" stroke="${color}" stroke-width="2.5" vector-effect="non-scaling-stroke" stroke-linejoin="round"/>
   </svg>
-  <div class="chart-foot"><span>${when(hist[0].t)}</span><span>tracejado = início (${usd(start)})</span><span>${when(hist[hist.length - 1].t)}</span></div>`;
+  <div class="chart-foot"><span>${when(hist[0].t)}</span><span>${when(hist[hist.length - 1].t)}</span></div>
+  <div class="chart-foot" style="justify-content:flex-start;gap:14px"><span><b style="color:${color}">━</b> robô</span>${bpts.length > 1 ? '<span><b style="color:#8fb6ff">┅</b> se tivesse comprado SPY</span>' : ""}<span>tracejado cinza = início (${usd(start)})</span></div>`;
 }
 
 function shortTerm(c) {
@@ -165,6 +169,8 @@ function render(d) {
       <div class="label">Patrimônio do robô</div>
       <div class="big">${usd(d.total)}</div>
       <div class="delta ${cls(d.change)}">${sign(d.change)}${usd(d.change)} (${pct(d.change_pct)}) desde o início</div>
+      ${d.benchmark ? `<div class="vs">Se os ${usd(d.start)} estivessem no SPY: <b>${usd(d.benchmark.value)}</b> (${pct(d.benchmark.change_pct)}).
+        Robô <b class="${cls(d.change_pct - d.benchmark.change_pct)}">${sign(d.change_pct - d.benchmark.change_pct)}${(d.change_pct - d.benchmark.change_pct).toLocaleString("pt-BR", {minimumFractionDigits: 1, maximumFractionDigits: 1})} pontos</b> ${d.change_pct >= d.benchmark.change_pct ? "à frente" : "atrás"} do mercado.</div>` : ""}
       <div class="stats">
         <div class="stat"><span>Longo prazo</span><strong>${usd(d.long_value ?? d.total)}</strong></div>
         <div class="stat"><span>Curto prazo</span><strong>${d.curto ? usd(d.curto.value) : "–"}</strong></div>
