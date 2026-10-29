@@ -159,6 +159,46 @@
       "id": "5d53db4e-8f51-4d93-b8fb-9265f16ad2d3",
       "approved_by": "robo (automatic, paper)",
       "why": "drifted +2.7 points from its 11.2% target (band 2)"
+    },
+    {
+      "date": "2026-10-29",
+      "at": "2026-10-29T13:59:40Z",
+      "status": "placed",
+      "symbol": "ADBE",
+      "side": "sell",
+      "id": "eac35744-e0d1-4f65-82f3-703b04cf3fe4",
+      "approved_by": "robo (automatic, paper)",
+      "why": "drifted +3.2 points from its 11.2% target (band 2)"
+    },
+    {
+      "date": "2026-10-29",
+      "at": "2026-10-29T13:59:40Z",
+      "status": "placed",
+      "symbol": "MSFT",
+      "side": "sell",
+      "id": "e93a8c8a-26e1-43e2-ba7c-464f622983de",
+      "approved_by": "robo (automatic, paper)",
+      "why": "drifted +3.1 points from its 11.2% target (band 2)"
+    },
+    {
+      "date": "2026-10-29",
+      "at": "2026-10-29T13:59:40Z",
+      "status": "placed",
+      "symbol": "NVDA",
+      "side": "sell",
+      "id": "f60a477d-3539-4986-b6d8-a1fbdb18753d",
+      "approved_by": "robo (automatic, paper)",
+      "why": "drifted +2.9 points from its 11.2% target (band 2)"
+    },
+    {
+      "date": "2026-10-29",
+      "at": "2026-10-29T13:59:40Z",
+      "status": "placed",
+      "symbol": "ORCL",
+      "side": "sell",
+      "id": "f16b4ca0-d05b-4ce9-8f35-d1270ecbf4ba",
+      "approved_by": "robo (automatic, paper)",
+      "why": "drifted +2.5 points from its 11.2% target (band 2)"
     }
   ]
 }

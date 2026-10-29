@@ -1,78 +1,57 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "paper": true,
   "results": [
     {
       "index": 1,
       "symbol": "ADBE",
       "side": "sell",
-      "amount": "0.4666 shares",
-      "value_usd": 115.8,
-      "fingerprint": "47940ff94dbf1f6f",
-      "verdict": "BLOCK",
-      "reasons": [
-        "duplicate: a sell ADBE was already placed today"
-      ],
+      "amount": "0.5107 shares",
+      "value_usd": 126.49,
+      "fingerprint": "a79acaf548f6444a",
+      "verdict": "PASS",
+      "reasons": [],
       "warnings": []
     },
     {
       "index": 2,
-      "symbol": "GOOGL",
+      "symbol": "MSFT",
       "side": "sell",
-      "amount": "0.3447 shares",
-      "value_usd": 111.92,
-      "fingerprint": "1c4da2675bacb7e4",
-      "verdict": "BLOCK",
-      "reasons": [
-        "duplicate: a sell GOOGL was already placed today"
-      ],
+      "amount": "0.233 shares",
+      "value_usd": 122.88,
+      "fingerprint": "869690b09bc86472",
+      "verdict": "PASS",
+      "reasons": [],
       "warnings": []
     },
     {
       "index": 3,
-      "symbol": "MSFT",
+      "symbol": "NVDA",
       "side": "sell",
-      "amount": "0.214 shares",
-      "value_usd": 113.31,
-      "fingerprint": "d5a2b213e1908a82",
-      "verdict": "BLOCK",
-      "reasons": [
-        "duplicate: a sell MSFT was already placed today"
-      ],
+      "amount": "0.5473 shares",
+      "value_usd": 116.61,
+      "fingerprint": "6c40d772159c9185",
+      "verdict": "PASS",
+      "reasons": [],
       "warnings": []
     },
     {
       "index": 4,
-      "symbol": "NVDA",
-      "side": "sell",
-      "amount": "0.509 shares",
-      "value_usd": 109.33,
-      "fingerprint": "12fdecc4620649d5",
-      "verdict": "BLOCK",
-      "reasons": [
-        "duplicate: a sell NVDA was already placed today"
-      ],
-      "warnings": []
-    },
-    {
-      "index": 5,
       "symbol": "ORCL",
       "side": "sell",
-      "amount": "0.7478 shares",
-      "value_usd": 108.98,
-      "fingerprint": "7b2471660e84f80f",
-      "verdict": "BLOCK",
-      "reasons": [
-        "duplicate: a sell ORCL was already placed today"
-      ],
+      "amount": "0.7056 shares",
+      "value_usd": 98.88,
+      "fingerprint": "59803893e1299f51",
+      "verdict": "PASS",
+      "reasons": [],
       "warnings": []
     }
   ],
-  "pass": 0,
-  "block": 5,
+  "pass": 4,
+  "block": 0,
   "warnings": [],
-  "cash_after": -151.4,
-  "prices_as_of": "2026-10-28T19:46:25Z",
-  "checked_at": "2026-10-28T19:46:31",
+  "cash_after": 313.46,
+  "prices_as_of": "2026-10-29T14:00:03Z",
+  "checked_at": "2026-10-29T14:00:19",
   "orders_file": "trader/orders.json"
 }
