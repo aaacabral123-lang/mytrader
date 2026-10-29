@@ -120,10 +120,10 @@ function shortTerm(c) {
   if (!c) return "";
   const rows = c.positions.map(p => `
     <div class="pos">
-      <div><div class="sym">${esc(p.symbol)}</div><div class="name">desde ${p.since ? p.since.split("-").reverse().join("/") : "?"}</div></div>
+      <div><div class="sym">${esc(p.symbol)}</div><div class="name">${p.inverse_of ? "aposta na queda do " + esc(p.inverse_of) + " · " : ""}desde ${p.since ? p.since.split("-").reverse().join("/") : "?"}</div></div>
       <div><div class="val">${usd(p.value)}</div><div class="pl ${cls(p.pl)}">${sign(p.pl)}${usd(p.pl)} (${pct(p.pl_pct)})</div></div>
       <div class="meta">${p.qty.toFixed(4)} cotas · entrada ${usd(p.avg)} · agora ${usd(p.price)}</div>
-    </div>`).join("") || '<p class="empty">Sem posição agora. Ele compra quando um ETF em alta tem uma queda forte de 2 a 3 dias.</p>';
+    </div>`).join("") || '<p class="empty">Sem posição agora. Ele compra quando um ETF em alta tem uma queda forte de 2 a 3 dias, ou um ETF inverso quando o mercado em queda tem uma alta forte.</p>';
   return `<div class="panel"><h2>Curto prazo (ETFs)</h2>
     <p class="muted" style="font-size:12px;margin:-6px 0 10px">${usd(c.value)} · <span class="${cls(c.change)}">${sign(c.change)}${usd(c.change)} (${pct(c.change_pct)})</span> desde ${usd(c.start)} · caixa ${usd(c.cash)}</p>
     ${rows}</div>`;

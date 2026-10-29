@@ -316,7 +316,7 @@ def refresh_13f(robo, state, today, log):
 def long_positions(api, robo):
     """Alpaca positions that belong to the long-term sleeve (the short-term one only holds its ETFs)."""
     c = curto.settings(robo)
-    etfs = set(u.upper() for u in c["universe"]) if c["enabled"] else set()
+    etfs = curto.symbols(c) if c["enabled"] else set()
     return [p for p in api.positions() if p["symbol"] not in etfs]
 
 
