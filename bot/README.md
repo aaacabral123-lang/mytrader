@@ -32,6 +32,7 @@ Uma parte do robô (`curto` em `trader/robo.json`, 20% dos US$ 5.000 = US$ 1.000
 
 - **Compra:** a partir das 15h de Nova York (16h ou 17h em Brasília, dependendo do horário de verão), quando um ETF está acima da média de 200 dias (tendência de alta) e teve uma queda forte de 2 a 3 dias (RSI de 2 dias abaixo de 10). No máximo 4 ETFs ao mesmo tempo, cada um com 1/4 do dinheiro do curto prazo.
 - **Venda:** quando o preço volta para cima da média de 5 dias (o repique), ou cai 8% abaixo da compra (stop), ou depois de 10 dias.
+- **Ganhar na queda (ETFs inversos):** SH, PSQ, DOG e RWM sobem quando SPY, QQQ, DIA e IWM caem. Quando um desses índices está em tendência de queda (abaixo da média de 200 dias) e teve uma alta forte de 2 a 3 dias (RSI de 2 dias acima de 90), o robô compra o inverso dele. Vende quando o índice volta a cair abaixo da média de 5 dias, com o mesmo stop de 8% ou depois de 10 dias. Como ele só compra o ETF inverso, a perda máxima é o valor colocado: não há venda a descoberto nem margem.
 - **Risco:** cada ordem passa pelo `trader-risk` com regras próprias (`trader/curto/`).
 
 O painel e o relatório mostram as duas partes separadas. Para desligar o curto prazo, use `"enabled": false` dentro de `curto`. Os ETFs que ele tiver continuam na conta e podem ser vendidos à mão.

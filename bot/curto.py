@@ -1,9 +1,15 @@
-"""Short-term sleeve of the MyTrader robot: RSI(2) dip-buying on liquid ETFs.
+"""Short-term sleeve of the MyTrader robot: RSI(2) dip-buying on liquid ETFs, and the mirror
+image on inverse ETFs to profit from falls.
 
 Rules, on daily closes with the latest price standing in for today's close:
-  enter  price above its 200-day average (up-trend) and RSI(2) under rsi_entry (a sharp 2-3 day dip);
-         only from entry_after New York time, so the signal is read close to the close
-  exit   price back above its 5-day average (the bounce), or stop_pct under the entry, or max_days held
+  long   enter: price above its 200-day average (up-trend) and RSI(2) under rsi_entry (a sharp 2-3 day dip)
+         exit:  price back above its 5-day average (the bounce)
+  short  for an index with an inverse ETF (SPY->SH, QQQ->PSQ, DIA->DOG, IWM->RWM), buy the inverse ETF
+         enter: index below its 200-day average (down-trend) and RSI(2) over rsi_short_entry (a sharp rally)
+         exit:  index back below its 5-day average (the fall resumed)
+  both   also exit at stop_pct under the entry or after max_days; enter only from entry_after New York
+         time, so the signal is read close to the close
+Buying an inverse ETF caps the loss at the money put in: no margin, no borrowing, no short sale.
 
 The sleeve trades ETFs only, so its positions never mix with the long-term stocks in the same
 Alpaca account. It keeps its own cash ledger in state["curto"], and every order still goes
@@ -28,11 +34,18 @@ CURTO_DEFAULTS = {
     "stop_pct": 8,
     "max_days": 10,
     "entry_after": "15:00",
+    "rsi_short_entry": 90,
+    "inverse": {"SPY": "SH", "QQQ": "PSQ", "DIA": "DOG", "IWM": "RWM"},
 }
 
 
 def settings(robo):
     return dict(CURTO_DEFAULTS, **(robo.get("curto") or {}))
+
+
+def symbols(c):
+    """Every symbol the sleeve can hold: its ETFs and the inverse ETFs."""
+    return {u.upper() for u in c["universe"]} | {v.upper() for v in c["inverse"].values()}
 
 
 def sma(xs, n):
@@ -87,9 +100,11 @@ def run(api, robo, cfg, state, today, ny_time, now, log, notify, skill_json, rea
         log("curto prazo: ordem ainda aberta; espero a próxima rodada")
         return
     universe = [u.upper() for u in c["universe"]]
-    held = {p["symbol"]: p for p in api.positions() if p["symbol"] in universe}
+    inverse = {k.upper(): v.upper() for k, v in c["inverse"].items() if k.upper() in universe}
+    tracks = {v: k for k, v in inverse.items()}  # inverse ETF -> its index
+    held = {p["symbol"]: p for p in api.positions() if p["symbol"] in symbols(c)}
     hist = closes(api, universe, today)
-    last = api.latest_prices(universe)
+    last = api.latest_prices(universe + list(tracks))
     orders, signals = [], {}
     for s in universe:
         px = last.get(s)
@@ -100,16 +115,20 @@ def run(api, robo, cfg, state, today, ny_time, now, log, notify, skill_json, rea
                       "sma_trend": sma(xs, c["trend_sma"])}
 
     for s, p in held.items():
-        g = signals.get(s)
-        if not g:
+        g = signals.get(tracks.get(s, s))
+        price = last.get(s)
+        if not g or not price:
             continue
         entry = float(p["avg_entry_price"])
         since = (st["positions"].get(s) or {}).get("date", today)
         days = (dt.date.fromisoformat(today) - dt.date.fromisoformat(since)).days
         why = None
-        if g["price"] <= entry * (1 - c["stop_pct"] / 100.0):
-            why = "stop de %g%% (entrada $%.2f, agora $%.2f)" % (c["stop_pct"], entry, g["price"])
-        elif g["price"] > g["sma_exit"]:
+        if price <= entry * (1 - c["stop_pct"] / 100.0):
+            why = "stop de %g%% (entrada $%.2f, agora $%.2f)" % (c["stop_pct"], entry, price)
+        elif s in tracks and g["price"] < g["sma_exit"]:
+            why = "a queda veio: %s a $%.2f, abaixo da média de %d dias ($%.2f)" % (
+                tracks[s], g["price"], c["exit_sma"], g["sma_exit"])
+        elif s not in tracks and g["price"] > g["sma_exit"]:
             why = "repique: $%.2f acima da média de %d dias ($%.2f)" % (g["price"], c["exit_sma"], g["sma_exit"])
         elif days >= c["max_days"]:
             why = "prazo máximo de %d dias" % c["max_days"]
@@ -122,18 +141,27 @@ def run(api, robo, cfg, state, today, ny_time, now, log, notify, skill_json, rea
         slot = value / c["max_positions"]
         cash = st["cash"]
         free = c["max_positions"] - len(held) + len(orders)
-        picks = sorted((g["rsi2"], s) for s, g in signals.items()
-                       if s not in held and st.get("exited", {}).get(s) != today
-                       and g["rsi2"] is not None and g["rsi2"] < c["rsi_entry"] and g["price"] > g["sma_trend"])
-        for r, s in picks[:max(free, 0)]:
+
+        def fresh(s):
+            return s not in held and st.get("exited", {}).get(s) != today
+
+        # (how extreme the RSI is, symbol to buy, the reason); most extreme first
+        picks = [(g["rsi2"], s, "RSI(2) %.1f, acima da média de %d dias ($%.2f)"
+                  % (g["rsi2"], c["trend_sma"], g["sma_trend"]))
+                 for s, g in signals.items()
+                 if fresh(s) and g["rsi2"] is not None and g["rsi2"] < c["rsi_entry"] and g["price"] > g["sma_trend"]]
+        picks += [(100 - g["rsi2"], inverse[s], "aposta na queda de %s: RSI(2) %.1f, abaixo da média de %d dias "
+                   "($%.2f)" % (s, g["rsi2"], c["trend_sma"], g["sma_trend"]))
+                  for s, g in signals.items()
+                  if s in inverse and fresh(inverse[s]) and last.get(inverse[s]) and g["rsi2"] is not None
+                  and g["rsi2"] > c["rsi_short_entry"] and g["price"] < g["sma_trend"]]
+        for _, s, why in sorted(picks)[:max(free, 0)]:
             notional = math.floor(min(slot, cash))
             if notional < 5:
                 break
             cash -= notional
             orders.append({"symbol": s, "side": "buy", "notional": str(notional), "type": "market",
-                           "time_in_force": "day",
-                           "why": "curto prazo, entrada: RSI(2) %.1f, acima da média de %d dias ($%.2f)"
-                                  % (r, c["trend_sma"], signals[s]["sma_trend"])})
+                           "time_in_force": "day", "why": "curto prazo, entrada: " + why})
     st["signals"] = {s: {k: (round(v, 2) if v is not None else None) for k, v in g.items()}
                      for s, g in signals.items()}
     if not orders:
@@ -144,7 +172,7 @@ def run(api, robo, cfg, state, today, ny_time, now, log, notify, skill_json, rea
         "cash": st["cash"], "source": "curto prazo: posições em ETFs + caixa do curto prazo",
         "positions": [{"ticker": s, "shares": float(p["qty"])} for s, p in held.items()]})
     write_json(path("curto", "prices.json"), {"as_of": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "source": "alpaca",
-                                              "prices": {s: g["price"] for s, g in signals.items()}})
+                                              "prices": dict(last)})
     write_json(path("curto", "orders.json"), {"created_by": "robo (curto prazo)", "paper": True, "orders": orders})
     write_json(path("curto", "config.json"), {
         "budget": st["start"], "cash_buffer_pct": 0, "max_position_pct": 100.0 / c["max_positions"] + 10,
@@ -193,16 +221,18 @@ def summary(api, state, robo):
     st = state.get("curto")
     if not st:
         return None
-    universe = set(u.upper() for u in settings(robo)["universe"])
+    c = settings(robo)
+    tracks = {v.upper(): k.upper() for k, v in c["inverse"].items()}
     pos = []
     for p in api.positions():
-        if p["symbol"] not in universe:
+        if p["symbol"] not in symbols(c):
             continue
         since = (st["positions"].get(p["symbol"]) or {}).get("date")
         pos.append({"symbol": p["symbol"], "qty": float(p["qty"]), "avg": float(p["avg_entry_price"]),
                     "price": float(p["current_price"]), "value": round(float(p["market_value"]), 2),
                     "pl": round(float(p["market_value"]) - float(p["cost_basis"]), 2),
-                    "pl_pct": round(100 * float(p.get("unrealized_plpc") or 0), 2), "since": since})
+                    "pl_pct": round(100 * float(p.get("unrealized_plpc") or 0), 2), "since": since,
+                    "inverse_of": tracks.get(p["symbol"])})
     value = round(st["cash"] + sum(p["value"] for p in pos), 2)
     return {"start": st["start"], "cash": st["cash"], "value": value,
             "change": round(value - st["start"], 2),
