@@ -1,14 +1,14 @@
 {
-  "cash": -151.4,
+  "cash": 313.34,
   "positions": [
     {
       "ticker": "ADBE",
-      "shares": 2.325837134,
+      "shares": 1.815137134,
       "lots": [
         {
           "id": "ADBE-alpaca",
-          "shares": 2.325837134,
-          "cost": 579.22648
+          "shares": 1.815137134,
+          "cost": 452.041752
         }
       ]
     },
@@ -36,12 +36,12 @@
     },
     {
       "ticker": "MSFT",
-      "shares": 1.085460181,
+      "shares": 0.852460181,
       "lots": [
         {
           "id": "MSFT-alpaca",
-          "shares": 1.085460181,
-          "cost": 575.780182
+          "shares": 0.852460181,
+          "cost": 452.185798
         }
       ]
     },
@@ -58,23 +58,23 @@
     },
     {
       "ticker": "NVDA",
-      "shares": 2.657209836,
+      "shares": 2.109909836,
       "lots": [
         {
           "id": "NVDA-alpaca",
-          "shares": 2.657209836,
-          "cost": 578.060399
+          "shares": 2.109909836,
+          "cost": 458.998498
         }
       ]
     },
     {
       "ticker": "ORCL",
-      "shares": 3.913796706,
+      "shares": 3.208196706,
       "lots": [
         {
           "id": "ORCL-alpaca",
-          "shares": 3.913796706,
-          "cost": 508.558744
+          "shares": 3.208196706,
+          "cost": 416.87308
         }
       ]
     },
