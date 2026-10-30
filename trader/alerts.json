@@ -74,14 +74,14 @@
       "id": "robo-stop-NVDA",
       "symbol": "NVDA",
       "type": "stop",
-      "price": 184.91,
+      "price": 184.92,
       "note": "rob\u00f4: -15% do pre\u00e7o m\u00e9dio"
     },
     {
       "id": "robo-take-NVDA",
       "symbol": "NVDA",
       "type": "target",
-      "price": 239.3,
+      "price": 239.31,
       "note": "rob\u00f4: +10% do pre\u00e7o m\u00e9dio"
     },
     {
