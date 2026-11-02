@@ -64,6 +64,7 @@ ROBO_DEFAULTS = {
     "take_profit_reentry_dip_pct": 5,
     "take_profit_max_days": 10,
     "daily_report": True,
+    "long_term": True,
 }
 STOP_PREFIX = "robo-stop-"
 TAKE_PREFIX = "robo-take-"
@@ -545,6 +546,20 @@ def daily_report(api, robo, cfg, targets, positions, state, today, log):
            tags=["memo"], click=github_link("trader/relatorios/%s.md" % today))
 
 
+def move_to_short_term(state, log):
+    """With the long-term sleeve off and empty, its cash joins the short-term sleeve."""
+    st = state.get("curto")
+    amount = round(state["cash"], 2)
+    if st is None or abs(amount) < 0.01:
+        return
+    st["cash"] = round(st["cash"] + amount, 2)
+    st["start"] = round(st["start"] + amount, 2)
+    state["cash"] = 0.0
+    log("longo prazo desligado: $%.2f passados para o curto prazo (caixa do curto: $%.2f)" % (amount, st["cash"]))
+    notify("Tudo no curto prazo", "$%.2f do longo prazo foram para o curto prazo. Caixa do curto prazo: $%.2f."
+           % (amount, st["cash"]), tags=["zap"])
+
+
 def propose(robo, held, new_13f, cash, targets_path, config_path):
     """Write trader/orders.json via budget (first buy) or rebalance. Returns the orders."""
     if os.path.exists(path("orders.json")):
@@ -598,9 +613,10 @@ def run(dry_run=False):
     state = read_json(path("state", "robo.json")) or {"cash": float(cfg.get("budget", 0)), "pending": []}
     settle(api, state, log)
     state["strategy"] = robo.get("strategy", "screener")
-    new_13f = refresh_targets(api, robo, state, today, log)
-    targets = read_json(path("targets.json"))
-    if not targets:
+    long_term = robo.get("long_term", True)
+    new_13f = refresh_targets(api, robo, state, today, log) if long_term else False
+    targets = read_json(path("targets.json")) or ({} if not long_term else None)
+    if targets is None:
         raise RoboError("sem trader/targets.json: não consegui escolher as ações nesta rodada (veja o erro acima)")
     curto.setup(state, cfg, robo, log, notify)
     held, positions = sync_portfolio(api, robo, state, targets)
@@ -608,6 +624,9 @@ def run(dry_run=False):
     if robo.get("daily_report"):
         daily_report(api, robo, cfg, targets, positions, state, today, log)
     ny_time = str(clock["timestamp"])[11:16]
+    long_pending = [r for r in state["pending"] if r.get("sleeve") != "curto"]
+    if not long_term and not positions and not long_pending:
+        move_to_short_term(state, log)
     curto.run(api, robo, cfg, state, today, ny_time, now, log, notify, skill_json, read_json, write_json, path,
               dry_run=dry_run)
     long_pending = [r for r in state["pending"] if r.get("sleeve") != "curto"]
@@ -615,22 +634,31 @@ def run(dry_run=False):
         log("%d ordem(ns) do longo prazo ainda abertas; espero a próxima rodada" % len(long_pending))
         return finish(state, log, panel=panel, save=not dry_run)
 
-    orders = check_stops(robo, positions, state, today, log)
     config_path = "trader/config.json"
-    if orders:
-        write_json(path("orders.json"), {"created_by": "robo (stop)", "paper": True,
-                                         "orders": [{k: v for k, v in o.items() if k != "_effect"} for o in orders]})
-    else:
-        targets_path, config_path = active_targets(api, cfg, targets, state, today, log)
-        orders = propose(robo, held, new_13f, state["cash"], targets_path, config_path)
-        # rebalance rounds share counts to 4 decimals; never sell more than Alpaca says we hold
-        have = {p["symbol"]: p["qty"] for p in positions}
-        for o in orders:
-            if o["side"] == "sell" and "qty" in o and float(o["qty"]) > float(have.get(o["symbol"], 0)):
-                o["qty"] = have.get(o["symbol"], "0")
+    if not long_term:
+        # long-term sleeve switched off: sell its stocks; the cash moves to the short-term sleeve next run
+        orders = [{"symbol": p["symbol"], "side": "sell", "qty": p["qty"], "type": "market", "time_in_force": "day",
+                   "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"}
+                  for p in positions]
         if orders:
-            doc = read_json(path("orders.json"), {})
-            write_json(path("orders.json"), dict(doc, orders=orders))
+            write_json(path("orders.json"), {"created_by": "robo (longo prazo desligado)", "paper": True,
+                                             "orders": orders})
+    else:
+        orders = check_stops(robo, positions, state, today, log)
+        if orders:
+            write_json(path("orders.json"), {"created_by": "robo (stop)", "paper": True,
+                                             "orders": [{k: v for k, v in o.items() if k != "_effect"} for o in orders]})
+        else:
+            targets_path, config_path = active_targets(api, cfg, targets, state, today, log)
+            orders = propose(robo, held, new_13f, state["cash"], targets_path, config_path)
+            # rebalance rounds share counts to 4 decimals; never sell more than Alpaca says we hold
+            have = {p["symbol"]: p["qty"] for p in positions}
+            for o in orders:
+                if o["side"] == "sell" and "qty" in o and float(o["qty"]) > float(have.get(o["symbol"], 0)):
+                    o["qty"] = have.get(o["symbol"], "0")
+            if orders:
+                doc = read_json(path("orders.json"), {})
+                write_json(path("orders.json"), dict(doc, orders=orders))
     if not orders:
         print("carteira dentro da meta; nada a fazer")
         if not dry_run and state["pending"]:
@@ -716,6 +744,7 @@ def write_panel(api, robo, cfg, state, targets, now):
         "change": round(total - start, 2), "change_pct": round(100 * (total / start - 1), 2) if start else 0,
         "positions": pos, "targets": targets.get("weights", []), "cooldown": state.get("cooldown") or {},
         "takeprofit": state.get("takeprofit") or {}, "curto": short_term, "benchmark": bench,
+        "long_term": robo.get("long_term", True),
         "long_value": round(invested + state["cash"], 2),
         "pending": len(state.get("pending", [])), "fills": list(reversed(state.get("fills", [])))[:30],
         "picks": picks, "history": hist,

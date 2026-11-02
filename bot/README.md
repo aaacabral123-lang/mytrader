@@ -35,6 +35,8 @@ Uma parte do robô (`curto` em `trader/robo.json`, 20% dos US$ 5.000 = US$ 1.000
 - **Ganhar na queda (ETFs inversos):** SH, PSQ, DOG e RWM sobem quando SPY, QQQ, DIA e IWM caem. Quando um desses índices está em tendência de queda (abaixo da média de 200 dias) e teve uma alta forte de 2 a 3 dias (RSI de 2 dias acima de 90), o robô compra o inverso dele. Vende quando o índice volta a cair abaixo da média de 5 dias, com o mesmo stop de 8% ou depois de 10 dias. Como ele só compra o ETF inverso, a perda máxima é o valor colocado: não há venda a descoberto nem margem.
 - **Risco:** cada ordem passa pelo `trader-risk` com regras próprias (`trader/curto/`).
 
+**Só curto prazo:** com `"long_term": false` em `trader/robo.json`, o robô vende as ações do longo prazo, passa todo o dinheiro para o curto prazo e deixa de rodar o screener. Para voltar, use `true`: o longo prazo começa do zero com o caixa que tiver.
+
 O painel e o relatório mostram as duas partes separadas. Para desligar o curto prazo, use `"enabled": false` dentro de `curto`. Os ETFs que ele tiver continuam na conta e podem ser vendidos à mão.
 
 ## Configuração (uma vez só)
