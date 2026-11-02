@@ -180,8 +180,8 @@ function render(d) {
     </div>
     ${notes}
     <div class="panel"><h2>Evolução</h2>${chart(d.history || [], d.start)}</div>
-    <div class="panel"><h2>Longo prazo</h2>
-      <p class="muted" style="font-size:12px;margin:-6px 0 10px">Em ações ${usd(d.invested)} · caixa ${usd(d.cash)}</p>${positions}</div>
+    ${d.long_term === false && !d.positions.length ? "" : `<div class="panel"><h2>Longo prazo${d.long_term === false ? " (desligado, vendendo)" : ""}</h2>
+      <p class="muted" style="font-size:12px;margin:-6px 0 10px">Em ações ${usd(d.invested)} · caixa ${usd(d.cash)}</p>${positions}</div>`}
     ${shortTerm(d.curto)}
     <div class="panel"><h2>Últimas operações</h2>${fills}</div>
     ${picks}
