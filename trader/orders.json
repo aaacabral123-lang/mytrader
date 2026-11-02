@@ -1,0 +1,14 @@
+{
+  "created_by": "robo (stop)",
+  "paper": true,
+  "orders": [
+    {
+      "symbol": "MU",
+      "side": "sell",
+      "qty": "0.470772442",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "stop: MU is $832.36 is at or below your stop $833.90 (rob\u00f4: -15% do pre\u00e7o m\u00e9dio)."
+    }
+  ]
+}

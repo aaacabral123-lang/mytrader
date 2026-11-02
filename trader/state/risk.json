@@ -1,57 +1,24 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-11-02",
   "paper": true,
   "results": [
     {
       "index": 1,
-      "symbol": "ADBE",
+      "symbol": "MU",
       "side": "sell",
-      "amount": "0.5107 shares",
-      "value_usd": 126.49,
-      "fingerprint": "a79acaf548f6444a",
-      "verdict": "PASS",
-      "reasons": [],
-      "warnings": []
-    },
-    {
-      "index": 2,
-      "symbol": "MSFT",
-      "side": "sell",
-      "amount": "0.233 shares",
-      "value_usd": 122.88,
-      "fingerprint": "869690b09bc86472",
-      "verdict": "PASS",
-      "reasons": [],
-      "warnings": []
-    },
-    {
-      "index": 3,
-      "symbol": "NVDA",
-      "side": "sell",
-      "amount": "0.5473 shares",
-      "value_usd": 116.61,
-      "fingerprint": "6c40d772159c9185",
-      "verdict": "PASS",
-      "reasons": [],
-      "warnings": []
-    },
-    {
-      "index": 4,
-      "symbol": "ORCL",
-      "side": "sell",
-      "amount": "0.7056 shares",
-      "value_usd": 98.88,
-      "fingerprint": "59803893e1299f51",
+      "amount": "0.470772442 shares",
+      "value_usd": 391.98,
+      "fingerprint": "e00e4895fafe5782",
       "verdict": "PASS",
       "reasons": [],
       "warnings": []
     }
   ],
-  "pass": 4,
+  "pass": 1,
   "block": 0,
   "warnings": [],
-  "cash_after": 313.46,
-  "prices_as_of": "2026-10-29T14:00:03Z",
-  "checked_at": "2026-10-29T14:00:19",
+  "cash_after": 705.32,
+  "prices_as_of": "2026-11-02T20:35:00Z",
+  "checked_at": "2026-11-02T20:35:05",
   "orders_file": "trader/orders.json"
 }

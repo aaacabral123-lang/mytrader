@@ -199,6 +199,16 @@
       "id": "f16b4ca0-d05b-4ce9-8f35-d1270ecbf4ba",
       "approved_by": "robo (automatic, paper)",
       "why": "drifted +2.5 points from its 11.2% target (band 2)"
+    },
+    {
+      "date": "2026-11-02",
+      "at": "2026-11-02T20:35:00Z",
+      "status": "placed",
+      "symbol": "MU",
+      "side": "sell",
+      "id": "4d6804f5-399e-4228-8aaf-b11253d56b80",
+      "approved_by": "robo (automatic, paper)",
+      "why": "stop: MU is $832.36 is at or below your stop $833.90 (rob\u00f4: -15% do pre\u00e7o m\u00e9dio)."
     }
   ]
 }
