@@ -1,0 +1,34 @@
+{
+  "orders": [
+    {
+      "date": "2026-11-02",
+      "at": "2026-11-02T20:05:00Z",
+      "status": "placed",
+      "symbol": "XLK",
+      "side": "buy",
+      "id": "e79619e6-1404-4213-8801-8436bb4bc408",
+      "approved_by": "robo (automatic, paper)",
+      "why": "curto prazo, entrada: RSI(2) 5.4, acima da m\u00e9dia de 200 dias ($169.38)"
+    },
+    {
+      "date": "2026-11-02",
+      "at": "2026-11-02T20:05:00Z",
+      "status": "placed",
+      "symbol": "QQQ",
+      "side": "buy",
+      "id": "f7ac3264-6e91-411e-a877-428d83aac83d",
+      "approved_by": "robo (automatic, paper)",
+      "why": "curto prazo, entrada: RSI(2) 6.5, acima da m\u00e9dia de 200 dias ($678.66)"
+    },
+    {
+      "date": "2026-11-02",
+      "at": "2026-11-02T20:05:00Z",
+      "status": "placed",
+      "symbol": "SPY",
+      "side": "buy",
+      "id": "cb5bb657-3efd-4afc-bd05-07aa363b3b7c",
+      "approved_by": "robo (automatic, paper)",
+      "why": "curto prazo, entrada: RSI(2) 8.9, acima da m\u00e9dia de 200 dias ($726.29)"
+    }
+  ]
+}
