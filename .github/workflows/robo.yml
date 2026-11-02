@@ -2,14 +2,22 @@ name: Robô MyTrader (paper)
 
 on:
   schedule:
-    # twice an hour, Mon-Fri, 13:07-21:37 UTC: covers NYSE hours in summer and winter time.
-    # Off the :00/:30 marks, where GitHub delays or drops scheduled runs under load.
-    # The robot asks Alpaca whether the market is open and does nothing when it is closed.
-    - cron: "7,37 13-21 * * 1-5"
+    # Trading shifts: each one runs the robot every 30 minutes until the market closes or the
+    # job's ~6 h limit (bot/turno.py), so a late or skipped start costs at most one shift.
+    # Times in UTC; they cover NYSE hours in summer (13:30-20:00) and winter (14:30-21:00).
+    # A shift that starts while another runs waits in the queue and picks up where it stops.
+    - cron: "20 13 * * 1-5"
+    - cron: "50 14 * * 1-5"
+    - cron: "50 16 * * 1-5"
+    - cron: "50 19 * * 1-5"
   workflow_dispatch:
     inputs:
       dry_run:
         description: "Simular sem enviar ordens"
+        type: boolean
+        default: false
+      turno:
+        description: "Turno inteiro (rodar até a bolsa fechar) em vez de uma rodada só"
         type: boolean
         default: false
 
@@ -23,7 +31,7 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 360
     steps:
       - uses: actions/checkout@v4
 
@@ -41,7 +49,10 @@ jobs:
           ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-        run: python3 bot/robo.py ${{ inputs.dry_run && '--dry-run' || '' }}
+        run: |
+          git config user.name "mytrader-robo"
+          git config user.email "mytrader-robo@users.noreply.github.com"
+          python3 bot/turno.py ${{ (github.event_name == 'workflow_dispatch' && !inputs.turno) && '--once' || '' }} ${{ inputs.dry_run && '--dry-run' || '' }}
 
       - name: Salvar estado e diário
         if: always()
