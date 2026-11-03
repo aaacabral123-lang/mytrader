@@ -4,13 +4,13 @@ US$ 10.000 aplicados no início, com custo de 0,05% por operação. O SPY entra 
 
 | Estratégia | Rende por ano | Total | Pior queda | Pior ano | US$ 10 mil viraram |
 | --- | --- | --- | --- | --- | --- |
-| Só SPY (comprar e segurar) | +10.8% | +666.8% | -55.2% | 2008 (-36.8%) | $76,681 |
-| Filtro de mercado (SPY ↔ SH) | +0.5% | +10.2% | -55.2% | 2011 (-35.5%) | $11,015 |
-| Filtro de mercado (SPY ↔ caixa) | +6.8% | +270.2% | -27.4% | 2022 (-20.6%) | $37,017 |
-| Curto prazo (RSI 2) | +5.2% | +174.6% | -16.1% | 2018 (-8.1%) | $27,455 |
-| Robô hoje (80% filtro SH + 20% curto) | +1.7% | +39.6% | -45.1% | 2011 (-28.0%) | $13,955 |
-| 80% SPY + 20% curto | +9.9% | +555.4% | -43.4% | 2008 (-27.3%) | $65,539 |
-| 80% filtro caixa + 20% curto | +6.6% | +258.0% | -22.6% | 2022 (-16.0%) | $35,795 |
+| Só SPY (comprar e segurar) | +10.8% | +665.9% | -55.2% | 2008 (-36.8%) | $76,593 |
+| Filtro de mercado (SPY ↔ SH) | +0.5% | +10.0% | -55.2% | 2011 (-35.5%) | $11,003 |
+| Filtro de mercado (SPY ↔ caixa) | +6.8% | +269.7% | -27.4% | 2022 (-20.6%) | $36,975 |
+| Curto prazo (RSI 2) | +5.2% | +174.5% | -16.1% | 2018 (-8.1%) | $27,451 |
+| Robô hoje (80% filtro SH + 20% curto) | +1.7% | +39.4% | -45.1% | 2011 (-28.0%) | $13,944 |
+| 80% SPY + 20% curto | +9.9% | +554.8% | -43.4% | 2008 (-27.3%) | $65,478 |
+| 80% filtro caixa + 20% curto | +6.6% | +257.6% | -22.6% | 2022 (-16.0%) | $35,764 |
 
 Curto prazo: 1588 operações, 67% com lucro, média de +0.3% por operação. Filtro de mercado: 64 trocas de lado.
 
@@ -21,7 +21,7 @@ Curto prazo: 1588 operações, 67% com lucro, média de +0.3% por operação. Fi
 
 | Ano | Só SPY (comprar e segurar) | Filtro de mercado (SPY ↔ SH) | Curto prazo (RSI 2) | Robô hoje (80% filtro SH + 20% curto) |
 | --- | --- | --- | --- | --- |
-| 2007 | +5.3% | -17.4% | +2.1% | -13.5% |
+| 2007 | +5.3% | -17.4% | +2.4% | -13.5% |
 | 2008 | -36.8% | +9.7% | +10.9% | +9.9% |
 | 2009 | +26.4% | +11.8% | +15.9% | +12.6% |
 | 2010 | +15.1% | -19.3% | +0.2% | -15.4% |
@@ -37,9 +37,9 @@ Curto prazo: 1588 operações, 67% com lucro, média de +0.3% por operação. Fi
 | 2020 | +18.3% | -16.7% | +2.6% | -12.8% |
 | 2021 | +28.7% | +28.7% | +7.7% | +24.6% |
 | 2022 | -18.2% | -27.0% | +2.4% | -21.1% |
-| 2023 | +26.2% | +10.9% | +5.6% | +9.8% |
+| 2023 | +26.2% | +10.9% | +5.5% | +9.8% |
 | 2024 | +24.9% | +24.9% | +9.2% | +21.8% |
 | 2025 | +17.7% | -3.3% | +8.2% | -1.0% |
-| 2026 | +11.8% | -2.0% | +16.3% | +1.6% |
+| 2026 | +11.6% | -2.2% | +16.0% | +1.5% |
 
 _Resultado passado não garante resultado futuro. Não é recomendação de investimento._
