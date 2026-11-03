@@ -28,6 +28,8 @@ A cada 30 minutos, de segunda a sexta, o GitHub Actions roda `bot/robo.py`. Se a
 
 ## Filtro de mercado (a favor na alta, contra na queda)
 
+**Desligado** (`"enabled": false`): no teste no passado (`trader/backtest/resultado.md`), trocar para o SH nas quedas rendeu +0,5% ao ano, contra +10,8% de só segurar o SPY.
+
 O longo prazo acompanha a tendência do mercado, medida pelo SPY e pela média dos últimos 200 dias (`market_filter` em `trader/robo.json`):
 
 - **Mercado em alta** (SPY acima da média): fica nas ações escolhidas pelo screener.

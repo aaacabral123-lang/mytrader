@@ -128,7 +128,7 @@
   },
   "long_term": true,
   "market_filter": {
-    "enabled": true,
+    "enabled": false,
     "symbol": "SPY",
     "inverse": "SH",
     "sma": 200,
