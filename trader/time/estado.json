@@ -1,0 +1,49 @@
+{
+  "noticias": {
+    "result": "140 novas, 7 graves",
+    "ok": true,
+    "last_run": "2026-11-03T16:20:56Z",
+    "last_day": "2026-11-03"
+  },
+  "politicos": {
+    "result": "2 declara\u00e7\u00f5es novas, 3 nas suas a\u00e7\u00f5es",
+    "ok": true,
+    "last_run": "2026-11-03T16:20:56Z",
+    "last_day": "2026-11-03"
+  },
+  "vigia": {
+    "result": "10 a\u00e7\u00f5es vigiadas, 1 alertas",
+    "ok": true,
+    "last_run": "2026-11-03T16:20:56Z",
+    "last_day": "2026-11-03"
+  },
+  "analista": {
+    "periods": {
+      "ADBE": "2026-08-28",
+      "BLK": "2026-06-30",
+      "GOOGL": "2026-09-30",
+      "MSFT": "2026-09-30",
+      "MU": "2026-09-03",
+      "NVDA": "2026-07-26",
+      "ORCL": "2026-08-31",
+      "UNP": "2026-09-30"
+    },
+    "result": "8 empresas lidas, 0 com balan\u00e7o novo",
+    "ok": true,
+    "last_run": "2026-11-03T16:20:56Z",
+    "last_day": "2026-11-03"
+  },
+  "copiador": {
+    "accession": "0001193125-26-352200",
+    "result": "\u00faltimo 13F da Berkshire: 2026-06-30",
+    "ok": true,
+    "last_run": "2026-11-03T16:20:56Z",
+    "last_day": "2026-11-03"
+  },
+  "gestor": {
+    "result": "rodada feita",
+    "ok": true,
+    "last_run": "2026-11-03T16:20:56Z",
+    "last_day": "2026-11-03"
+  }
+}

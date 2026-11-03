@@ -1,0 +1,64 @@
+{
+  "rules": [
+    {
+      "id": "vigia-ADBE",
+      "symbol": "ADBE",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
+      "id": "vigia-BLK",
+      "symbol": "BLK",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
+      "id": "vigia-GOOGL",
+      "symbol": "GOOGL",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
+      "id": "vigia-MSFT",
+      "symbol": "MSFT",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
+      "id": "vigia-NVDA",
+      "symbol": "NVDA",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
+      "id": "vigia-ORCL",
+      "symbol": "ORCL",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
+      "id": "vigia-QQQ",
+      "symbol": "QQQ",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
+      "id": "vigia-SPY",
+      "symbol": "SPY",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
+      "id": "vigia-UNP",
+      "symbol": "UNP",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
+      "id": "vigia-XLK",
+      "symbol": "XLK",
+      "type": "pct_move",
+      "pct": 5
+    }
+  ]
+}
