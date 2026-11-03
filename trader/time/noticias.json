@@ -1,53 +1,92 @@
 {
-  "as_of": "2026-11-03T21:35:00Z",
+  "as_of": "2026-11-03T22:35:00Z",
   "items": [
     {
-      "id": "rss:6f0e1772-dd6c-3e12-b0db-cb9fa2da05fb",
+      "id": "rss:302637d6-5f3a-3187-90f1-799e12d253d0",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "NVDA",
-      "title": "How major US stock indexes fared Tuesday 11/3/2026",
-      "summary": "A rebound for some influential Big Tech stocks helped keep the U. market steady despite a fall for Apple and mixed trading elsewhere on Wall Street.",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-211437939.html?.tsrc=rss",
-      "time": "2026-11-03T21:14:37+00:00",
+      "ticker": "MU",
+      "title": "US tech stocks recover after selloff spooks investors over AI spending",
+      "summary": "Midterms didn\u2019t appear to have huge impact, though predicted wins for Democrats could mean more regulation",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-tech-stocks-recover-selloff-221845320.html?.tsrc=rss",
+      "time": "2026-11-03T22:18:45+00:00",
       "touches": [
+        "MU",
         "NVDA"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:2be5f576-51b2-3ce7-bc17-a58ff5ef5a11",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Super Micro Computer (SMCI) Stock Dropped, So What Is Driving Attention Now?",
-      "summary": "Super Micro Computer (SMCI) just added the NVIDIA Vera CPU rack to its Data Center Building Block Solutions portfolio, a product aimed at agentic AI factories that need dense, liquid cooled CPU capacity alongside high end GPUs. Super Micro Computer\u2019s share price has retreated sharply in recent weeks, with a 1 month share price return down 30.3% and a 1 day move lower by 7.6%. This follows a very large 5 year total shareholder return, which points to strong long term momentum that has recently...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-stock-211040745.html?.tsrc=rss",
-      "time": "2026-11-03T21:10:40+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:b653922f-e42a-3893-92b2-2399ae03d8ad",
+      "id": "rss:e5be454d-07fd-3d94-8114-a4e8ff2910de",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MSFT",
-      "title": "Arista Networks, Inc. Reports Third Quarter 2026 Financial Results",
-      "summary": "SANTA CLARA, Calif., November 03, 2026--Arista Networks, Inc. (NYSE: ANET), an industry leader in data-driven, client-to-cloud networking for large AI, data center, campus, and routing environments, today announced financial results for its third quarter ended September 30, 2026.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-inc-reports-third-210500149.html?.tsrc=rss",
-      "time": "2026-11-03T21:05:00+00:00",
+      "title": "Stock Market Election Night: Dow Futures, AI Stocks, Elon Musk In Focus; AMD, Arista Lead Earnings Winners (Live)",
+      "summary": "IBD's stock market election night coverage will focus on midterm results' impact on Dow Jones futures, Treasury yields, AI and more.",
+      "link": "https://finance.yahoo.com/m/e5be454d-07fd-3d94-8114-a4e8ff2910de/stock-market-election-night%3A.html?.tsrc=rss",
+      "time": "2026-11-03T22:12:42+00:00",
       "touches": [
-        "MSFT"
+        "MSFT",
+        "NVDA"
       ],
       "tags": [
         "earnings"
       ],
       "new": true
+    },
+    {
+      "id": "rss:04b56175-ac34-3b59-a701-ef938de40605",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "DATA GLOBAL PTY LTD Enters Australian Market with DGX B300 AI Server Cluster at Micron21 Data Centre",
+      "summary": "Australian AI inference provider DATA GLOBAL PTY LTD announced deployment of its NVIDIA DGX B300 AI server cluster at Micron21 Data Centre. Its Token Factory inference platform will soon launch commercially, marking the firm's strategic Australian market entry.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/data-global-pty-ltd-enters-220000365.html?.tsrc=rss",
+      "time": "2026-11-03T22:00:00+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:ba206994-8f6c-3504-a0ed-5f422d7c2b0d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "BLK",
+      "title": "Crypto Fears Set the Stage for Circle Earnings After Binance Hack",
+      "summary": "Circle Internet\u2019s stock got hit after the Binance hack. Solid earnings from the stablecoin issuer could get it back on track.",
+      "link": "https://finance.yahoo.com/m/ba206994-8f6c-3504-a0ed-5f422d7c2b0d/crypto-fears-set-the-stage.html?.tsrc=rss",
+      "time": "2026-11-03T21:07:00+00:00",
+      "touches": [
+        "BLK"
+      ],
+      "tags": [
+        "earnings",
+        "risk"
+      ],
+      "new": true
     }
   ],
-  "atencao": []
+  "atencao": [
+    {
+      "id": "rss:ba206994-8f6c-3504-a0ed-5f422d7c2b0d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "BLK",
+      "title": "Crypto Fears Set the Stage for Circle Earnings After Binance Hack",
+      "summary": "Circle Internet\u2019s stock got hit after the Binance hack. Solid earnings from the stablecoin issuer could get it back on track.",
+      "link": "https://finance.yahoo.com/m/ba206994-8f6c-3504-a0ed-5f422d7c2b0d/crypto-fears-set-the-stage.html?.tsrc=rss",
+      "time": "2026-11-03T21:07:00+00:00",
+      "touches": [
+        "BLK"
+      ],
+      "tags": [
+        "earnings",
+        "risk"
+      ],
+      "new": true
+    }
+  ]
 }
