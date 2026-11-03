@@ -27,7 +27,7 @@ import urllib.request
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "trader", "backtest")
 ETFS = ["SPY", "QQQ", "IWM", "DIA", "XLK", "XLF", "XLE", "XLV", "XLY", "XLP", "XLI", "XLU", "XLB", "SMH"]
-INVERSE_OF = ["QQQ", "DIA", "IWM"]
+INVERSE_OF = ["SPY", "QQQ", "DIA", "IWM"]
 COST = 0.0005
 SH_FEE = 0.0089 / 252
 START = "2007-01-01"
@@ -142,7 +142,7 @@ def run(px):
                      (not p_["inverse"] and last > sma5) or (p_["inverse"] and last < sma5))
             if exit_:
                 cash += p_["value"] * (1 - COST)
-                trades.append(p_["value"] * (1 - COST) / p_["cost"] - 1)
+                trades.append((p_["value"] * (1 - COST) / p_["cost"] - 1, p_["inverse"]))
                 del pos[key]
         # entries on d's close
         value = cash + sum(p_["value"] for p_ in pos.values())
@@ -187,12 +187,19 @@ def run(px):
             out.append(a + b)
         return out
 
-    wins = [t for t in trades if t > 0]
+    def tstats(ts):
+        return {"n": len(ts), "win_rate": sum(1 for t in ts if t > 0) / len(ts) if ts else 0,
+                "avg": sum(ts) / len(ts) if ts else 0}
+
+    longs = [t for t, inv in trades if not inv]
+    shorts = [t for t, inv in trades if inv]
+    wins = [t for t, _ in trades if t > 0]
     return dates, {"hold": hold, "filtro": filt, "filtro_caixa": filt_cash, "curto": curto,
                    "robo": mix(filt, curto), "hold_curto": mix(hold, curto),
                    "caixa_curto": mix(filt_cash, curto)}, {
         "flips": flips, "trades": len(trades), "win_rate": len(wins) / len(trades) if trades else 0,
-        "avg_trade": sum(trades) / len(trades) if trades else 0,
+        "avg_trade": sum(t for t, _ in trades) / len(trades) if trades else 0,
+        "long": tstats(longs), "inverse": tstats(shorts),
         "invested_share": None}
 
 
@@ -220,6 +227,10 @@ def report(dates, curves, tr):
             pct(s["worst_year"][1]), "{:,.0f}".format(10000 * (1 + s["total"]))))
     out += ["", "Curto prazo: %d operações, %.0f%% com lucro, média de %s por operação. Filtro de mercado: "
             "%d trocas de lado." % (tr["trades"], 100 * tr["win_rate"], pct(tr["avg_trade"]), tr["flips"]), "",
+            "- Compras na queda (a favor do mercado): %d operações, %.0f%% com lucro, média %s."
+            % (tr["long"]["n"], 100 * tr["long"]["win_rate"], pct(tr["long"]["avg"])),
+            "- Apostas na queda com ETF inverso (SH, PSQ, DOG, RWM): %d operações, %.0f%% com lucro, média %s."
+            % (tr["inverse"]["n"], 100 * tr["inverse"]["win_rate"], pct(tr["inverse"]["avg"])), "",
             "## Ano a ano", "", "| Ano | " + " | ".join(LABELS[k] for k in ("hold", "filtro", "curto", "robo")) + " |",
             "| --- | --- | --- | --- | --- |"]
     for y in sorted(rows["hold"]["yearly"]):
