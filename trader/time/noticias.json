@@ -1,65 +1,51 @@
 {
-  "as_of": "2026-11-03T21:05:00Z",
+  "as_of": "2026-11-03T21:35:00Z",
   "items": [
     {
-      "id": "rss:922e4924-8836-3717-adf7-a57a1b79d88f",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Uber president Jill Hazelbaker joins OpenAI as communications chief",
-      "summary": "Investing.com -- Uber Technologies Inc. announced Tuesday that President Jill Hazelbaker will leave the ride-hailing company to become chief corporate affairs officer at OpenAI, where she will oversee global communications and corporate positioning efforts.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/uber-president-jill-hazelbaker-joins-204431583.html?.tsrc=rss",
-      "time": "2026-11-03T20:44:31+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:f834eaec-7575-3168-8156-9cdb4f079d11",
+      "id": "rss:6f0e1772-dd6c-3e12-b0db-cb9fa2da05fb",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Sector Update: Tech Stocks Gain Late Afternoon",
-      "summary": "Tech stocks were higher late Tuesday afternoon with the State Street Technology Select Sector SPDR E",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-gain-afternoon-204401257.html?.tsrc=rss",
-      "time": "2026-11-03T20:44:01+00:00",
+      "title": "How major US stock indexes fared Tuesday 11/3/2026",
+      "summary": "A rebound for some influential Big Tech stocks helped keep the U. market steady despite a fall for Apple and mixed trading elsewhere on Wall Street.",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-211437939.html?.tsrc=rss",
+      "time": "2026-11-03T21:14:37+00:00",
       "touches": [
-        "NVDA",
-        "XLK"
+        "NVDA"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:eaaef1b6-9f28-37da-9ed0-775a02efdeb3",
+      "id": "rss:2be5f576-51b2-3ce7-bc17-a58ff5ef5a11",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "SPY",
-      "title": "S&P 500 after midterm elections: what history says and where the market stands",
-      "summary": "Investing.com -- History gives midterm elections one of the cleanest records in market seasonality.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-midterm-elections-history-204037875.html?.tsrc=rss",
-      "time": "2026-11-03T20:40:37+00:00",
+      "ticker": "NVDA",
+      "title": "Super Micro Computer (SMCI) Stock Dropped, So What Is Driving Attention Now?",
+      "summary": "Super Micro Computer (SMCI) just added the NVIDIA Vera CPU rack to its Data Center Building Block Solutions portfolio, a product aimed at agentic AI factories that need dense, liquid cooled CPU capacity alongside high end GPUs. Super Micro Computer\u2019s share price has retreated sharply in recent weeks, with a 1 month share price return down 30.3% and a 1 day move lower by 7.6%. This follows a very large 5 year total shareholder return, which points to strong long term momentum that has recently...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-stock-211040745.html?.tsrc=rss",
+      "time": "2026-11-03T21:10:40+00:00",
       "touches": [
-        "SPY"
+        "NVDA"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:dd1bbe35-1782-49fb-9efc-a1cd7faa6819",
+      "id": "rss:b653922f-e42a-3893-92b2-2399ae03d8ad",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Apple fails to impress Wall Street, bear market chatter heats up, and AI assessing job productivity",
-      "summary": "Market Hang's panel discusses Apple's (AAPL) stock and how memory prices are affecting the company's bottom line.  Plus, how the midterms factor into a bear market outlook, and whether AI is doing \"dirty work\" at the office and assessing job productivity. Today's panel includes Tema ETFs Chief Investment Strategist Paisley Nardini, Aptus Capital Advisors Head of Equity & Portfolio Manager David Wagner, Business Insider Today Executive Editor & Anchor Dan DeFrancesco, Barron\u2019s Tech Reporter Nate Wolf, and Wall Street Veteran & \u201cThe Buy Side\u201d Author Turney Duff.",
-      "link": "https://finance.yahoo.com/video/apple-fails-to-impress-wall-street-bear-market-chatter-heats-up-and-ai-assessing-job-productivity-185021345.html?.tsrc=rss",
-      "time": "2026-11-03T18:50:21+00:00",
+      "ticker": "MSFT",
+      "title": "Arista Networks, Inc. Reports Third Quarter 2026 Financial Results",
+      "summary": "SANTA CLARA, Calif., November 03, 2026--Arista Networks, Inc. (NYSE: ANET), an industry leader in data-driven, client-to-cloud networking for large AI, data center, campus, and routing environments, today announced financial results for its third quarter ended September 30, 2026.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-inc-reports-third-210500149.html?.tsrc=rss",
+      "time": "2026-11-03T21:05:00+00:00",
       "touches": [
-        "GOOGL"
+        "MSFT"
       ],
-      "tags": [],
+      "tags": [
+        "earnings"
+      ],
       "new": true
     }
   ],

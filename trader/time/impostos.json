@@ -1,0 +1,170 @@
+{
+  "as_of": "2026-11-03T21:35:00Z",
+  "report": {
+    "lots": [
+      {
+        "ticker": "ADBE",
+        "id": "ADBE-alpaca",
+        "date": "2026-10-28",
+        "shares": 2.019585488,
+        "cost": 495.99,
+        "price": 246.72,
+        "value": 498.27,
+        "gain": 2.28,
+        "term": "short",
+        "long_term_on": "2027-10-29"
+      },
+      {
+        "ticker": "BLK",
+        "id": "BLK-alpaca",
+        "date": "2026-10-28",
+        "shares": 0.424786446,
+        "cost": 495.99,
+        "price": 1160.83,
+        "value": 493.1,
+        "gain": -2.89,
+        "term": "short",
+        "long_term_on": "2027-10-29"
+      },
+      {
+        "ticker": "GOOGL",
+        "id": "GOOGL-alpaca",
+        "date": "2026-10-28",
+        "shares": 1.78815038,
+        "cost": 495.99,
+        "price": 278.96,
+        "value": 498.82,
+        "gain": 2.83,
+        "term": "short",
+        "long_term_on": "2027-10-29"
+      },
+      {
+        "ticker": "MSFT",
+        "id": "MSFT-alpaca",
+        "date": "2026-10-28",
+        "shares": 0.96296023,
+        "cost": 495.99,
+        "price": 521.91,
+        "value": 502.58,
+        "gain": 6.59,
+        "term": "short",
+        "long_term_on": "2027-10-29"
+      },
+      {
+        "ticker": "NVDA",
+        "id": "NVDA-alpaca",
+        "date": "2026-10-28",
+        "shares": 2.381935421,
+        "cost": 494.99,
+        "price": 206.78,
+        "value": 492.54,
+        "gain": -2.45,
+        "term": "short",
+        "long_term_on": "2027-10-29"
+      },
+      {
+        "ticker": "ORCL",
+        "id": "ORCL-alpaca",
+        "date": "2026-10-28",
+        "shares": 3.941746801,
+        "cost": 495.99,
+        "price": 125.435,
+        "value": 494.43,
+        "gain": -1.56,
+        "term": "short",
+        "long_term_on": "2027-10-29"
+      },
+      {
+        "ticker": "UNP",
+        "id": "UNP-alpaca",
+        "date": "2026-10-28",
+        "shares": 1.632372978,
+        "cost": 495.99,
+        "price": 305.185,
+        "value": 498.18,
+        "gain": 2.19,
+        "term": "short",
+        "long_term_on": "2027-10-29"
+      }
+    ],
+    "positions": [
+      {
+        "ticker": "ADBE",
+        "shares": 2.019585488,
+        "cost": 495.99,
+        "value": 498.27,
+        "short": 2.28,
+        "long": 0.0,
+        "gain": 2.28,
+        "pct": 0.46
+      },
+      {
+        "ticker": "BLK",
+        "shares": 0.424786446,
+        "cost": 495.99,
+        "value": 493.1,
+        "short": -2.89,
+        "long": 0.0,
+        "gain": -2.89,
+        "pct": -0.58
+      },
+      {
+        "ticker": "GOOGL",
+        "shares": 1.78815038,
+        "cost": 495.99,
+        "value": 498.82,
+        "short": 2.83,
+        "long": 0.0,
+        "gain": 2.83,
+        "pct": 0.57
+      },
+      {
+        "ticker": "MSFT",
+        "shares": 0.96296023,
+        "cost": 495.99,
+        "value": 502.58,
+        "short": 6.59,
+        "long": 0.0,
+        "gain": 6.59,
+        "pct": 1.33
+      },
+      {
+        "ticker": "NVDA",
+        "shares": 2.381935421,
+        "cost": 494.99,
+        "value": 492.54,
+        "short": -2.45,
+        "long": 0.0,
+        "gain": -2.45,
+        "pct": -0.49
+      },
+      {
+        "ticker": "ORCL",
+        "shares": 3.941746801,
+        "cost": 495.99,
+        "value": 494.43,
+        "short": -1.56,
+        "long": 0.0,
+        "gain": -1.56,
+        "pct": -0.31
+      },
+      {
+        "ticker": "UNP",
+        "shares": 1.632372978,
+        "cost": 495.99,
+        "value": 498.18,
+        "short": 2.19,
+        "long": 0.0,
+        "gain": 2.19,
+        "pct": 0.44
+      }
+    ],
+    "missing_prices": [],
+    "realized_ytd": {
+      "short": 0.0,
+      "long": 0.0,
+      "disallowed": 0.0,
+      "count": 0
+    }
+  }
+}
