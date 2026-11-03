@@ -1,51 +1,145 @@
 {
-  "as_of": "2026-11-03T19:35:00Z",
+  "as_of": "2026-11-03T20:05:00Z",
   "items": [
     {
-      "id": "rss:4ad20ed4-2d85-4a1b-93b1-0cc2cd9afeae",
+      "id": "rss:574b957b-38fb-3dae-9b4e-91ffaef31405",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Would you let AI chatbots smear your competitors?",
-      "summary": "Host and \"The Buy Side\" author Turney Duff, along with his panel of experts, weigh in on ethics and trust concerns surrounding companies' use of AI chatbots to smear competitors. Today's panel includes Paisley Nardini, Chief Investment Strategist at Tema ETFs; David Wagner, Head of Equity and Portfolio Manager at Aptus Capital Advisors; Dan DeFrancesco, Executive Editor and anchor of Business Insider Today; and Barron's reporter Nate Wolf.",
-      "link": "https://finance.yahoo.com/video/would-you-let-ai-chatbots-smear-your-competitors-191420766.html?.tsrc=rss",
-      "time": "2026-11-03T19:14:20+00:00",
+      "ticker": "MSFT",
+      "title": "Microsoft Corporation (MSFT) Is Betting Big on AI: Is Its Growth Story Just Getting Started?",
+      "summary": "Pershing Square Inc. recently released its Q3 2026 investor letter. A copy of the letter can be downloaded here. The letter reported 13% year-over-year growth in third-quarter fee-related earnings (FRE) to $63.7 million, while distributable earnings (DE) before taxes increased 8% to $61.0 million. After taxes, DE totaled $49.5 million, or $0.12 per share, down [\u2026]",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-corporation-msft-betting-big-193555181.html?.tsrc=rss",
+      "time": "2026-11-03T19:35:55+00:00",
       "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:dc363b9c-b614-3cf6-acf2-25172780a5ca",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Xcel Energy (XEL) Faces Community Pushback Over 780 MW AI Data Center Plan",
-      "summary": "Xcel Energy (NasdaqGS:XEL) and Google announced the 780 MW Project Skyway data center plan, tying new grid investments to AI computing needs. Local residents and environmental groups are challenging the project over expected water use and ecological impact around the proposed facilities. Regulators and consumer advocates are reviewing proposed customer protection measures that aim to separate data center costs from household bills. The Project Skyway backlash and customer safeguards matter,...",
-      "link": "https://finance.yahoo.com/energy/articles/xcel-energy-xel-faces-community-191153010.html?.tsrc=rss",
-      "time": "2026-11-03T19:11:53+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:d423bf72-b627-3b70-90d0-ca1504a62cd8",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Why Western Digital\u2019s (WDC) Massive Quarter Is Only the Beginning (ready)",
-      "summary": "We just published the list of the 10 Best and Cheap Stocks to Buy Heading into 2027 and Western Digital (NASDAQ:WDC) ranks 7th on this list. Wall Street\u2019s AI trade took a hard hit on October 30. Reuters reported that a selloff in tech shares pushed MSCI\u2019s global index down 1.5%, after results from Intel [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-western-digital-wdc-massive-185737464.html?.tsrc=rss",
-      "time": "2026-11-03T18:57:37+00:00",
-      "touches": [
-        "GOOGL"
+        "MSFT"
       ],
       "tags": [
         "earnings"
       ],
+      "new": true
+    },
+    {
+      "id": "rss:bd683a75-401f-3017-96a5-f390c3db9879",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-inference-startup-fal-doubles-193443073.html?.tsrc=rss",
+      "time": "2026-11-03T19:34:43+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:7ddbb1e8-f70b-36b6-9e20-2807226b3625",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Why Broadcom (AVGO) Anchors Our 10 Best Tech Stocks for the Next 5 Years",
+      "summary": "We just published the list of the 10 Best Tech Stocks for the Next 5 Years and Broadcom (AVGO) ranked 7th on this list. Big Tech just had a week investors will remember. At its low on Friday, Alphabet had lost $477 billion in market value for the week, its worst week ever and the [\u2026]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-avgo-anchors-10-193327821.html?.tsrc=rss",
+      "time": "2026-11-03T19:33:27+00:00",
+      "touches": [
+        "GOOGL",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:5ae13a0b-bada-39b9-a770-43e64c3c316e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "As Big Tech Sheds Billions, Meta (META) Signals a Top Buying Opportunity",
+      "summary": "We just published the list of the 10 Best Tech Stocks for the Next 5 Years and Meta Platforms (META) ranked 6th on this list. Big Tech just had a week investors will remember. At its low on Friday, Alphabet had lost $477 billion in market value for the week, its worst week ever and [\u2026]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/big-tech-sheds-billions-meta-193038566.html?.tsrc=rss",
+      "time": "2026-11-03T19:30:38+00:00",
+      "touches": [
+        "GOOGL",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:b54314e7-00a0-32ab-8b0e-3ff4f718791b",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Even Apple Can\u2019t Outrun Big Tech\u2019s Selloff. The Stock Still Looks Like a Buy.",
+      "summary": "Higher memory costs are testing Apple\u2019s defensive appeal, but services growth could support the case for buying the dip.",
+      "link": "https://finance.yahoo.com/m/b54314e7-00a0-32ab-8b0e-3ff4f718791b/even-apple-can%E2%80%99t-outrun-big.html?.tsrc=rss",
+      "time": "2026-11-03T19:19:00+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:ca77c408-cbe1-323a-86f2-824e37610fd2",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ORCL",
+      "title": "A Democratic Sweep of Midterms Could Turn Software Stocks Into a Defensive Play",
+      "summary": "A Democratic sweep in the midterms could spell bad news for the AI trade.",
+      "link": "https://finance.yahoo.com/m/ca77c408-cbe1-323a-86f2-824e37610fd2/a-democratic-sweep-of.html?.tsrc=rss",
+      "time": "2026-11-03T18:58:11+00:00",
+      "touches": [
+        "ORCL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:920200d1-6a70-3b40-8b3d-2e5b39a47696",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Top 3 Streaming Stocks to Watch as Digital Entertainment Demand Grows",
+      "summary": "Alphabet, Sony and Fox stand to benefit from the streaming boom as live sports, premium content and rising connected-TV ad spending reshape digital entertainment.",
+      "link": "https://finance.yahoo.com/media-advertising/articles/top-3-streaming-stocks-watch-184000974.html?.tsrc=rss",
+      "time": "2026-11-03T18:40:00+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:c43ab1ca-d62b-3a5e-828d-77c403df0ea2",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "AI Debt is Hitting Record Levels at the Worst Possible Time",
+      "summary": "AI is driving a massive increase in leverage. It\u2019ll need to be paid.",
+      "link": "https://finance.yahoo.com/m/c43ab1ca-d62b-3a5e-828d-77c403df0ea2/ai-debt-is-hitting-record.html?.tsrc=rss",
+      "time": "2026-11-03T18:38:00+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:eaf1365e-aaeb-30a5-8bcf-1202b5cd7696",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Best Value Stocks to Buy Now in November",
+      "summary": "Diving into how investors can find highly ranked--Zacks Rank #1 (Strong Buy) or #2 (Buy)--value stocks to buy now as Wall Street kicks off a busy week.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/best-value-stocks-buy-now-182900086.html?.tsrc=rss",
+      "time": "2026-11-03T18:29:00+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
       "new": true
     }
   ],
