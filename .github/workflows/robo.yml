@@ -2,10 +2,10 @@ name: Robô MyTrader (paper)
 
 on:
   schedule:
-    # Trading shifts: each one runs the robot every 30 minutes until the market closes or the
-    # job's ~6 h limit (bot/turno.py), so a late or skipped start costs at most one shift.
-    # Times in UTC; they cover NYSE hours in summer (13:30-20:00) and winter (14:30-21:00).
-    # A shift that starts while another runs waits in the queue and picks up where it stops.
+    # Shifts chain themselves (bot/turno.py --chain): each one runs the robot every 30 minutes
+    # while the market is open and queues the next shift before its ~6 h job limit, around the
+    # clock. These cron entries only restart the chain if it breaks; one that fires while a shift
+    # runs just waits in the queue (only one shift ever runs at a time).
     - cron: "20 13 * * 1-5"
     - cron: "50 14 * * 1-5"
     - cron: "50 16 * * 1-5"
@@ -23,6 +23,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: robo
@@ -49,10 +50,11 @@ jobs:
           ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
           git config user.name "mytrader-robo"
           git config user.email "mytrader-robo@users.noreply.github.com"
-          python3 bot/turno.py ${{ (github.event_name == 'workflow_dispatch' && !inputs.turno) && '--once' || '' }} ${{ inputs.dry_run && '--dry-run' || '' }}
+          python3 bot/turno.py ${{ (github.event_name == 'workflow_dispatch' && !inputs.turno) && '--once' || '--chain' }} ${{ inputs.dry_run && '--dry-run' || '' }}
 
       - name: Salvar estado e diário
         if: always()

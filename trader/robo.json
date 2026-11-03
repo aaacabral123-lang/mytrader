@@ -126,5 +126,12 @@
     "max_days": 10,
     "entry_after": "15:00"
   },
-  "long_term": true
+  "long_term": true,
+  "market_filter": {
+    "enabled": true,
+    "symbol": "SPY",
+    "inverse": "SH",
+    "sma": 200,
+    "buffer_pct": 2
+  }
 }
