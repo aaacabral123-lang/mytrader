@@ -120,11 +120,11 @@
   "curto": {
     "enabled": true,
     "pct": 20,
-    "max_positions": 6,
+    "max_positions": 4,
     "rsi_entry": 10,
     "stop_pct": 8,
     "max_days": 10,
     "entry_after": "15:00"
   },
-  "long_term": false
+  "long_term": true
 }
