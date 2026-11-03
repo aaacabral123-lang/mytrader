@@ -25,6 +25,9 @@ h2{font-size:16px;margin:0 0 12px}
 .panel{background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:16px;margin:12px 0}
 .hero .label{font-size:13px;color:var(--muted)}
 .big{font-size:38px;font-weight:800;letter-spacing:-1px;margin:4px 0 2px;font-variant-numeric:tabular-nums}
+.regime{font-size:13px;font-weight:700;padding:8px 10px;border-radius:10px;margin-bottom:12px;display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap}
+.regime.up{background:#153d35;color:#a6f0d6}.regime.down{background:#512b35;color:#ffd0d7}
+.regime small{font-weight:500;opacity:.85}
 .vs{font-size:13px;color:var(--muted);margin-top:8px;line-height:1.5}
 .delta{font-size:15px;font-weight:700;font-variant-numeric:tabular-nums}
 .up{color:var(--up)}.down{color:var(--down)}
@@ -166,6 +169,8 @@ function render(d) {
 
   $("#app").innerHTML = `
     <div class="panel hero">
+      ${d.regime ? `<div class="regime ${d.regime.regime === "queda" ? "down" : "up"}">${d.regime.regime === "queda" ? "▼ Mercado em queda: robô contra o mercado (" + esc(d.regime.inverse) + ")" : "▲ Mercado em alta: robô a favor do mercado"}
+        <small>${esc(d.regime.symbol)} ${pct(d.regime.distance_pct)} da média de ${d.regime.days} dias</small></div>` : ""}
       <div class="label">Patrimônio do robô</div>
       <div class="big">${usd(d.total)}</div>
       <div class="delta ${cls(d.change)}">${sign(d.change)}${usd(d.change)} (${pct(d.change_pct)}) desde o início</div>

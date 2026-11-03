@@ -65,6 +65,9 @@ ROBO_DEFAULTS = {
     "take_profit_max_days": 10,
     "daily_report": True,
     "long_term": True,
+    # the long-term sleeve follows the market's trend: stocks while SPY is above its 200-day average,
+    # the inverse ETF (profits from falls) once SPY closes buffer_pct under it, back above the average
+    "market_filter": {"enabled": True, "symbol": "SPY", "inverse": "SH", "sma": 200, "buffer_pct": 2},
 }
 STOP_PREFIX = "robo-stop-"
 TAKE_PREFIX = "robo-take-"
@@ -452,7 +455,10 @@ def daily_report(api, robo, cfg, targets, positions, state, today, log):
     invested = sum(float(p.get("market_value") or 0) for p in positions)
     short_term = curto.summary(api, state, robo)
     st_value = short_term["value"] if short_term else 0
+    reg = state.get("regime_info")
     out = ["# Relatório do robô, %s" % today, "",
+           ("**Mercado:** em %s (%s a $%.2f, %+.1f%% da média de %d dias)." % (
+               reg["regime"], reg["symbol"], reg["price"], reg["distance_pct"], reg["days"]) if reg else ""), "",
            "## Carteira", "",
            "Valor total do robô: **$%.2f** (começou com $%.2f)." % (invested + state["cash"] + st_value,
                                                                   float(cfg.get("budget", 0))), "",
@@ -618,6 +624,15 @@ def run(dry_run=False):
     targets = read_json(path("targets.json")) or ({} if not long_term else None)
     if targets is None:
         raise RoboError("sem trader/targets.json: não consegui escolher as ações nesta rodada (veja o erro acima)")
+    if long_term:
+        regime, flipped, info = market_regime(api, robo, state, today, log)
+        if regime == "queda":
+            targets = {"source": "filtro de mercado: %s abaixo da média de %d dias" % (info["symbol"], info["days"]),
+                       "as_of": today,
+                       "weights": [{"ticker": info["inverse"], "weight": 100,
+                                    "name": "ETF inverso (sobe quando o %s cai)" % info["symbol"]}]}
+        # a flip in either direction sells what the new targets no longer hold
+        new_13f = new_13f or flipped
     curto.setup(state, cfg, robo, log, notify)
     held, positions = sync_portfolio(api, robo, state, targets)
     panel = (lambda: write_panel(api, robo, cfg, state, targets, now)) if not dry_run else None
@@ -649,7 +664,10 @@ def run(dry_run=False):
             write_json(path("orders.json"), {"created_by": "robo (stop)", "paper": True,
                                              "orders": [{k: v for k, v in o.items() if k != "_effect"} for o in orders]})
         else:
-            targets_path, config_path = active_targets(api, cfg, targets, state, today, log)
+            # in a falling market the whole stock sleeve sits in the one inverse ETF, so lift the per-stock caps
+            cfg_now = cfg if state.get("regime", "alta") == "alta" else dict(
+                cfg, max_position_pct=100, max_order_usd=max(float(cfg.get("max_order_usd") or 0), float(cfg.get("budget", 0))))
+            targets_path, config_path = active_targets(api, cfg_now, targets, state, today, log)
             orders = propose(robo, held, new_13f, state["cash"], targets_path, config_path)
             # rebalance rounds share counts to 4 decimals; never sell more than Alpaca says we hold
             have = {p["symbol"]: p["qty"] for p in positions}
@@ -744,12 +762,51 @@ def write_panel(api, robo, cfg, state, targets, now):
         "change": round(total - start, 2), "change_pct": round(100 * (total / start - 1), 2) if start else 0,
         "positions": pos, "targets": targets.get("weights", []), "cooldown": state.get("cooldown") or {},
         "takeprofit": state.get("takeprofit") or {}, "curto": short_term, "benchmark": bench,
-        "long_term": robo.get("long_term", True),
+        "long_term": robo.get("long_term", True), "regime": state.get("regime_info"),
         "long_value": round(invested + state["cash"], 2),
         "pending": len(state.get("pending", [])), "fills": list(reversed(state.get("fills", [])))[:30],
         "picks": picks, "history": hist,
         "report": "trader/relatorios/" + reports[-1] if reports else None,
         "repo": os.environ.get("GITHUB_REPOSITORY")})
+
+
+def market_regime(api, robo, state, today, log):
+    """'alta' or 'queda' for the market, with hysteresis so it does not flip on every wiggle.
+    Returns (regime, changed, info)."""
+    f = dict(ROBO_DEFAULTS["market_filter"], **(robo.get("market_filter") or {}))
+    old = state.get("regime", "alta")
+    if not f["enabled"]:
+        return "alta", old != "alta", None
+    sym = f["symbol"]
+    start = (dt.date.fromisoformat(today) - dt.timedelta(days=int(f["sma"]) * 2)).isoformat()
+    closes = [float(b["c"]) for b in sorted(api.bars([sym], start).get(sym) or [], key=lambda b: b["t"])
+              if b["t"][:10] < today]
+    px = api.latest_prices([sym]).get(sym)
+    if not px or len(closes) < f["sma"]:
+        return old, False, None
+    xs = closes + [px]
+    avg = sum(xs[-int(f["sma"]):]) / int(f["sma"])
+    new = old
+    if old == "alta" and px < avg * (1 - f["buffer_pct"] / 100.0):
+        new = "queda"
+    elif old == "queda" and px > avg:
+        new = "alta"
+    info = {"regime": new, "symbol": sym, "price": round(px, 2), "sma": round(avg, 2), "days": int(f["sma"]),
+            "inverse": f["inverse"], "distance_pct": round(100 * (px / avg - 1), 2)}
+    state["regime"] = new
+    state["regime_info"] = info
+    if new != old:
+        if new == "queda":
+            msg = ("%s caiu para $%.2f, %.1f%% abaixo da média de %d dias ($%.2f): tendência de queda. O longo prazo "
+                   "vende as ações e compra %s, que sobe quando o mercado cai." % (sym, px, -info["distance_pct"],
+                                                                              int(f["sma"]), avg, f["inverse"]))
+        else:
+            msg = ("%s voltou para $%.2f, acima da média de %d dias ($%.2f): tendência de alta. O longo prazo vende "
+                   "%s e volta para as ações." % (sym, px, int(f["sma"]), avg, f["inverse"]))
+        log("MERCADO: " + msg)
+        notify("Mercado em %s" % new, msg, tags=["chart_with_downwards_trend" if new == "queda"
+                                               else "chart_with_upwards_trend"], priority=4)
+    return new, new != old, info
 
 
 def benchmark(api, state, hist, start, symbol="SPY"):

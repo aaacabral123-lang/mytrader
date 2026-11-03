@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """One trading shift: runs bot/robo.py every 30 minutes for as long as the market is open.
 
-GitHub's scheduler starts jobs late or drops them, so the workflow starts this shift a few times
-a day instead of one job per run. Inside the shift the timing is ours: a run on the :05 and :35
-New York half hours, the robot's files saved and pushed after each run, and an exit when the
-market closes or the job's time budget runs out (the next scheduled shift then takes over).
+GitHub's scheduler starts jobs hours late or drops them, so shifts chain themselves: with --chain,
+a shift that reaches its time budget (or, overnight and on weekends, sleeps through it waiting for
+the open) dispatches the next shift through the GitHub API before it exits. Inside a shift the
+timing is ours: a run on the :05 and :35 marks and the robot's files saved and pushed after each
+run. The cron entries in the workflow only restart the chain if it ever breaks.
 
     python3 bot/turno.py               # until the close or --max-minutes
     python3 bot/turno.py --once        # a single run, as before
@@ -52,6 +53,24 @@ def save(push):
         print("aviso: não consegui enviar o estado ao GitHub", file=sys.stderr)
 
 
+def dispatch_next():
+    """Queue the next shift (workflow_dispatch is the one event GITHUB_TOKEN may start)."""
+    repo, token = os.environ.get("GITHUB_REPOSITORY"), os.environ.get("GITHUB_TOKEN")
+    if not repo or not token:
+        print("aviso: sem GITHUB_REPOSITORY/GITHUB_TOKEN; o próximo turno não foi agendado", file=sys.stderr)
+        return
+    req = urllib.request.Request(
+        "https://api.github.com/repos/%s/actions/workflows/robo.yml/dispatches" % repo,
+        data=json.dumps({"ref": "main", "inputs": {"turno": "true"}}).encode(), method="POST",
+        headers={"Authorization": "Bearer " + token, "Accept": "application/vnd.github+json",
+                 "Content-Type": "application/json"})
+    try:
+        urllib.request.urlopen(req, timeout=30).close()
+        print("próximo turno agendado")
+    except Exception as e:  # never fail the shift over this; cron restarts the chain
+        print("aviso: não consegui agendar o próximo turno (%s)" % e, file=sys.stderr)
+
+
 def run_robot(args):
     # a fresh process each time, so code merged during the shift is picked up on the next run
     subprocess.run([sys.executable, os.path.join(ROOT, "bot", "robo.py")] + args, cwd=ROOT)
@@ -72,8 +91,11 @@ def main(argv=None):
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--max-minutes", type=float, default=340, help="stop after this long (job limit is 360)")
     ap.add_argument("--no-push", action="store_true", help="commit only (tests)")
+    ap.add_argument("--chain", action="store_true", help="queue the next shift instead of stopping")
     a = ap.parse_args(argv)
     robot_args = ["--dry-run"] if a.dry_run else []
+    if a.dry_run:
+        a.chain = False  # a simulated shift must not queue a real one
     if a.once:
         run_robot(robot_args)
         save(not a.no_push)
@@ -90,16 +112,21 @@ def main(argv=None):
             wake = next_slot(dt.datetime.now(dt.timezone.utc) + dt.timedelta(minutes=10))
         else:
             opens = ts(c["next_open"])
-            if ran_today or opens.date() != now.date():
+            if not a.chain and (ran_today or opens.date() != now.date()):
                 print("bolsa fechada; fim do turno")
                 return 0
             wake = opens + dt.timedelta(minutes=2)
             print("bolsa abre às %s; esperando" % opens.isoformat())
         wait = (wake - dt.datetime.now(dt.timezone.utc)).total_seconds()
         if time.monotonic() + wait >= deadline:
+            if a.chain:
+                time.sleep(max(deadline - time.monotonic(), 0))
             break
         time.sleep(max(wait, 5))
-    print("fim do tempo deste turno; o próximo turno agendado continua")
+    if a.chain:
+        dispatch_next()
+    else:
+        print("fim do tempo deste turno; o próximo turno agendado continua")
     return 0
 
 

@@ -26,6 +26,16 @@ A cada 30 minutos, de segunda a sexta, o GitHub Actions roda `bot/robo.py`. Se a
 7. **Passa cada ordem pelo controle de risco** (`trader-risk`) e só envia as aprovadas (PASS).
 8. **Registra tudo** em `trader/log/robo-AAAA-MM.md` e salva o estado no repositório.
 
+## Filtro de mercado (a favor na alta, contra na queda)
+
+O longo prazo acompanha a tendência do mercado, medida pelo SPY e pela média dos últimos 200 dias (`market_filter` em `trader/robo.json`):
+
+- **Mercado em alta** (SPY acima da média): fica nas ações escolhidas pelo screener.
+- **Mercado em queda** (SPY fecha 2% abaixo da média): vende as ações e coloca a parte de ações no **SH**, ETF que sobe quando o S&P 500 cai.
+- **Volta para as ações** quando o SPY sobe de novo acima da média.
+
+A margem de 2% evita trocas a cada pequena oscilação. O robô não prevê a queda: ele reage quando a tendência já virou. Por isso protege nas quedas longas, mas pode trocar tarde ou à toa quando o mercado só balança perto da média.
+
 ## Curto prazo (20% do dinheiro)
 
 Uma parte do robô (`curto` em `trader/robo.json`, 20% dos US$ 5.000 = US$ 1.000) opera **ETFs** no curto prazo, com caixa próprio. Os ETFs são SPY, QQQ, IWM, DIA, os de setor XL* e o SMH. Como o longo prazo só tem ações, as duas partes nunca compram a mesma coisa.
