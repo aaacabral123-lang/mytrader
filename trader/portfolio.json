@@ -1,5 +1,83 @@
 {
-  "cash": 3857.42,
-  "positions": [],
+  "cash": 386.49,
+  "positions": [
+    {
+      "ticker": "ADBE",
+      "shares": 2.019585488,
+      "lots": [
+        {
+          "id": "ADBE-alpaca",
+          "shares": 2.019585488,
+          "cost": 495.99
+        }
+      ]
+    },
+    {
+      "ticker": "BLK",
+      "shares": 0.424786446,
+      "lots": [
+        {
+          "id": "BLK-alpaca",
+          "shares": 0.424786446,
+          "cost": 495.99
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "shares": 1.78815038,
+      "lots": [
+        {
+          "id": "GOOGL-alpaca",
+          "shares": 1.78815038,
+          "cost": 495.99
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "shares": 0.96296023,
+      "lots": [
+        {
+          "id": "MSFT-alpaca",
+          "shares": 0.96296023,
+          "cost": 495.99
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "shares": 2.381935421,
+      "lots": [
+        {
+          "id": "NVDA-alpaca",
+          "shares": 2.381935421,
+          "cost": 494.99
+        }
+      ]
+    },
+    {
+      "ticker": "ORCL",
+      "shares": 3.941746801,
+      "lots": [
+        {
+          "id": "ORCL-alpaca",
+          "shares": 3.941746801,
+          "cost": 495.99
+        }
+      ]
+    },
+    {
+      "ticker": "UNP",
+      "shares": 1.632372978,
+      "lots": [
+        {
+          "id": "UNP-alpaca",
+          "shares": 1.632372978,
+          "cost": 495.99
+        }
+      ]
+    }
+  ],
   "source": "Alpaca paper positions + robot cash ledger"
 }

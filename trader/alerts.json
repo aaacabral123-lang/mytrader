@@ -1,3 +1,102 @@
 {
-  "rules": []
+  "rules": [
+    {
+      "id": "robo-stop-ADBE",
+      "symbol": "ADBE",
+      "type": "stop",
+      "price": 208.75,
+      "note": "rob\u00f4: -15% do pre\u00e7o m\u00e9dio"
+    },
+    {
+      "id": "robo-take-ADBE",
+      "symbol": "ADBE",
+      "type": "target",
+      "price": 270.15,
+      "note": "rob\u00f4: +10% do pre\u00e7o m\u00e9dio"
+    },
+    {
+      "id": "robo-stop-BLK",
+      "symbol": "BLK",
+      "type": "stop",
+      "price": 992.48,
+      "note": "rob\u00f4: -15% do pre\u00e7o m\u00e9dio"
+    },
+    {
+      "id": "robo-take-BLK",
+      "symbol": "BLK",
+      "type": "target",
+      "price": 1284.38,
+      "note": "rob\u00f4: +10% do pre\u00e7o m\u00e9dio"
+    },
+    {
+      "id": "robo-stop-GOOGL",
+      "symbol": "GOOGL",
+      "type": "stop",
+      "price": 235.77,
+      "note": "rob\u00f4: -15% do pre\u00e7o m\u00e9dio"
+    },
+    {
+      "id": "robo-take-GOOGL",
+      "symbol": "GOOGL",
+      "type": "target",
+      "price": 305.11,
+      "note": "rob\u00f4: +10% do pre\u00e7o m\u00e9dio"
+    },
+    {
+      "id": "robo-stop-MSFT",
+      "symbol": "MSFT",
+      "type": "stop",
+      "price": 437.81,
+      "note": "rob\u00f4: -15% do pre\u00e7o m\u00e9dio"
+    },
+    {
+      "id": "robo-take-MSFT",
+      "symbol": "MSFT",
+      "type": "target",
+      "price": 566.57,
+      "note": "rob\u00f4: +10% do pre\u00e7o m\u00e9dio"
+    },
+    {
+      "id": "robo-stop-NVDA",
+      "symbol": "NVDA",
+      "type": "stop",
+      "price": 176.64,
+      "note": "rob\u00f4: -15% do pre\u00e7o m\u00e9dio"
+    },
+    {
+      "id": "robo-take-NVDA",
+      "symbol": "NVDA",
+      "type": "target",
+      "price": 228.59,
+      "note": "rob\u00f4: +10% do pre\u00e7o m\u00e9dio"
+    },
+    {
+      "id": "robo-stop-ORCL",
+      "symbol": "ORCL",
+      "type": "stop",
+      "price": 106.96,
+      "note": "rob\u00f4: -15% do pre\u00e7o m\u00e9dio"
+    },
+    {
+      "id": "robo-take-ORCL",
+      "symbol": "ORCL",
+      "type": "target",
+      "price": 138.41,
+      "note": "rob\u00f4: +10% do pre\u00e7o m\u00e9dio"
+    },
+    {
+      "id": "robo-stop-UNP",
+      "symbol": "UNP",
+      "type": "stop",
+      "price": 258.27,
+      "note": "rob\u00f4: -15% do pre\u00e7o m\u00e9dio"
+    },
+    {
+      "id": "robo-take-UNP",
+      "symbol": "UNP",
+      "type": "target",
+      "price": 334.23,
+      "note": "rob\u00f4: +10% do pre\u00e7o m\u00e9dio"
+    }
+  ]
 }
