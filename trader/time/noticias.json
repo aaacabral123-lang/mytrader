@@ -1,34 +1,178 @@
 {
-  "as_of": "2026-11-03T18:05:00Z",
+  "as_of": "2026-11-03T18:35:00Z",
   "items": [
     {
-      "id": "rss:7b18e273-ff4c-3d4e-93ec-d5cf0fd73c20",
+      "id": "rss:017891a9-9df2-3e8e-9d09-bab73a6c1ca9",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ORCL",
-      "title": "Oracle's $20 Billion Raise Exposes the Cost of Its AI Expansion",
-      "summary": "The company also sold $10 billion of senior notes with coupons ranging from 7% to 8.65%.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/oracles-20-billion-raise-exposes-175834408.html?.tsrc=rss",
-      "time": "2026-11-03T17:58:34+00:00",
+      "ticker": "NVDA",
+      "title": "Samsung Secures AMD, Nvidia Orders for New Texas Chip Plant",
+      "summary": "Samsung reportedly secured buyers for all planned output from its second Taylor, Texas, facility.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/samsung-secures-amd-nvidia-orders-182115321.html?.tsrc=rss",
+      "time": "2026-11-03T18:21:15+00:00",
       "touches": [
-        "ORCL"
+        "NVDA"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:807fee38-8b4a-3673-8f4d-ff16d8bcb516",
+      "id": "rss:35d99a57-f4df-4685-a54a-116c860da5a5",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ORCL",
-      "title": "Oracle Stocks Gain 4.31% With $20 Billion Financing Package in Focus",
-      "summary": "New borrowing carries coupons of 7%--8.65%, adding a measurable cash cost to expansion.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-stocks-gain-4-31-174721310.html?.tsrc=rss",
-      "time": "2026-11-03T17:47:21+00:00",
+      "ticker": "GOOGL",
+      "title": "What does it mean for the AI trade that Apple is the priciest 'Mag 7' stock?",
+      "summary": "Host and \"The Buy Side\" author Turney Duff and his panel of experts weigh in on whether Apple is getting too expensive at about 36 times forward earnings and what signals lie beneath it about the AI trade's staying power. Today's panel includes Paisley Nardini, Chief Investment Strategist at Tema ETFs; David Wagner, Head of Equity and Portfolio Manager at Aptus Capital Advisors; Dan DeFrancesco, Executive Editor and anchor of Business Insider Today; and Barron's reporter Nate Wolf.",
+      "link": "https://finance.yahoo.com/video/what-does-it-mean-for-the-ai-trade-that-apple-is-the-priciest-mag-7-stock-181745077.html?.tsrc=rss",
+      "time": "2026-11-03T18:17:45+00:00",
       "touches": [
-        "ORCL"
+        "GOOGL",
+        "NVDA"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:a540567e-8ad1-3caa-b9b0-042da8c41519",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Alphabet Stocks Move Lower With $121.3 Billion Anthropic Commitment in Focus",
+      "summary": "Google's cloud opportunity carries a substantial delivery and capital-allocation requirement.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-stocks-move-lower-121-181127673.html?.tsrc=rss",
+      "time": "2026-11-03T18:11:27+00:00",
+      "touches": [
+        "GOOGL"
       ],
       "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:c92ee9a0-8a55-384c-bbd9-64c17d33331e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "QQQ",
+      "title": "Exchange-Traded Funds Higher, US Equities Mixed After Midday",
+      "summary": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV rose. Actively traded I",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-us-181052694.html?.tsrc=rss",
+      "time": "2026-11-03T18:10:52+00:00",
+      "touches": [
+        "QQQ",
+        "XLK"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:d8438467-152c-30ae-b56b-cc7e2f9d7ac9",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Microsoft Stocks Rise With $44.9 Billion Anthropic Commitment Disclosed",
+      "summary": "The amended filing adds customer-level detail to the scale of Microsoft's cloud opportunity.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-rise-44-9-180955025.html?.tsrc=rss",
+      "time": "2026-11-03T18:09:55+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:25136557-a884-389e-83c7-818c2fd5a492",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Nebius Group (NBIS) Unveils Live GPU Pricing And Builder Grants In Europe",
+      "summary": "Nebius Group (NasdaqGS:NBIS) introduced public live GPU spot pricing for its AI cloud customers, offering real time cost visibility. The provider launched reserve auctions and a capacity rebate program that links discounts to committed GPU usage levels. Nebius expanded its AI Builder Program across Europe with new grants and founder funding, including activity during Berlin Build Week. The company is working with NVIDIA in Europe to support AI builders, including joint engagement at Berlin...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nebius-group-nbis-unveils-live-180654082.html?.tsrc=rss",
+      "time": "2026-11-03T18:06:54+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "capital"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:07341dff-68ff-39b2-9693-405187b988eb",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Why Is Advanced Micro Devices (AMD) Backing A $6 Billion AI Assistant Startup?",
+      "summary": "Advanced Micro Devices (NasdaqGS:AMD) is backing a new US$6b AI startup called Hark focused on AI-native assistants. Nvidia and several other industry partners are co-investing in Hark to build integrated hardware and software for AI agents. Hark plans to design chips, system software and tools tailored for advanced personal assistants rather than general-purpose computing. The Hark investment by AMD and Nvidia fits into a broader shift toward AI agent infrastructure that recent research has...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/why-advanced-micro-devices-amd-180651035.html?.tsrc=rss",
+      "time": "2026-11-03T18:06:51+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:58b54c29-a0d8-3508-8b7b-ea01e550c321",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Bill Ackman Drops Stunning Take on AI Spending",
+      "summary": "Pershing Square says analysts price the AI costs but understate the returns.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/bill-ackman-drops-stunning-ai-180605817.html?.tsrc=rss",
+      "time": "2026-11-03T18:06:05+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:d9110084-e95f-3843-88e2-eeb243bf42c9",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Morgan Stanley Flags Major Turn in the AI Trade",
+      "summary": "Recent tech buying has mostly reflected short covering, not fresh conviction.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/morgan-stanley-flags-major-turn-180449865.html?.tsrc=rss",
+      "time": "2026-11-03T18:04:49+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:9c105fb4-d8a9-3938-855a-076faad9b2c9",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Yorkville Ives names top software pick for 2027: Microsoft leads on AI strength",
+      "summary": "Investing.com -- Yorkville Ives analyst Dan Ives highlighted his top software pick heading into 2027 in a recent note to clients, with Microsoft Corporation (NASDAQ:MSFT) emerging as the clear leader based on its enterprise artificial intelligence momentum and Azure cloud platform acceleration.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/yorkville-ives-names-top-software-180118017.html?.tsrc=rss",
+      "time": "2026-11-03T18:01:18+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:bff8e7e4-6408-34be-9702-32d7247a7b7f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "BLK",
+      "title": "Apollo Global Stock Dips 3.5% on Q3 Earnings Miss, Expenses Rise Y/Y",
+      "summary": "APO stock dips 3.5% in early trading after Q3'26 earnings miss estimates on rising expenses, despite strong revenue growth and expanding AUM.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apollo-global-stock-dips-3-171600239.html?.tsrc=rss",
+      "time": "2026-11-03T17:16:00+00:00",
+      "touches": [
+        "BLK"
+      ],
+      "tags": [
+        "earnings"
+      ],
       "new": true
     }
   ],

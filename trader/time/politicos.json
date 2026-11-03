@@ -1,34 +1,18 @@
 {
-  "as_of": "2026-11-03T16:20:56Z",
+  "as_of": "2026-11-03T18:35:00Z",
   "new": [
     {
-      "doc_id": "20035743",
+      "doc_id": "20035751",
       "type": "P",
       "type_name": "Periodic Transaction Report",
-      "last": "Beyer",
-      "first": "Donald Sternoff",
-      "name": "Hon. Donald Sternoff Beyer Jr",
-      "district": "VA08",
+      "last": "Wagner",
+      "first": "Ann",
+      "name": "Hon. Ann Wagner",
+      "district": "MO02",
       "year": 2026,
-      "filed": "2026-11-01",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035743.pdf"
-    },
-    {
-      "doc_id": "20035484",
-      "type": "P",
-      "type_name": "Periodic Transaction Report",
-      "last": "McGuire",
-      "first": "John J Mr",
-      "name": "Hon. John J Mr McGuire III",
-      "district": "VA05",
-      "year": 2026,
-      "filed": "2026-11-01",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf"
+      "filed": "2026-11-02",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035751.pdf"
     }
   ],
-  "hits": [
-    "John J Mr McGuire III: compra MU, $1,001 - $15,000",
-    "John J Mr McGuire III: compra MU, $1,001 - $15,000",
-    "John J Mr McGuire III: compra MU, $1,001 - $15,000"
-  ]
+  "hits": []
 }
