@@ -176,17 +176,21 @@ def run(px):
             p_["days"] += 1
         curto.append(cash + sum(p_["value"] for p_ in pos.values()))
 
-    # robo: 80/20, rebalanced each January
-    robo, a, b = [1.0], 0.8, 0.2
-    for k in range(1, len(dates)):
-        a *= filt[k] / filt[k - 1]
-        b *= curto[k] / curto[k - 1]
-        if dates[k][:4] != dates[k - 1][:4]:
-            tot = a + b
-            a, b = tot * 0.8, tot * 0.2
-        robo.append(a + b)
+    def mix(x, y, wx=0.8):
+        """wx of x and the rest of y, rebalanced each January."""
+        out, a, b = [1.0], wx, 1 - wx
+        for k in range(1, len(dates)):
+            a *= x[k] / x[k - 1]
+            b *= y[k] / y[k - 1]
+            if dates[k][:4] != dates[k - 1][:4]:
+                a, b = (a + b) * wx, (a + b) * (1 - wx)
+            out.append(a + b)
+        return out
+
     wins = [t for t in trades if t > 0]
-    return dates, {"hold": hold, "filtro": filt, "filtro_caixa": filt_cash, "curto": curto, "robo": robo}, {
+    return dates, {"hold": hold, "filtro": filt, "filtro_caixa": filt_cash, "curto": curto,
+                   "robo": mix(filt, curto), "hold_curto": mix(hold, curto),
+                   "caixa_curto": mix(filt_cash, curto)}, {
         "flips": flips, "trades": len(trades), "win_rate": len(wins) / len(trades) if trades else 0,
         "avg_trade": sum(trades) / len(trades) if trades else 0,
         "invested_share": None}
@@ -194,7 +198,8 @@ def run(px):
 
 LABELS = {"hold": "Só SPY (comprar e segurar)", "filtro": "Filtro de mercado (SPY ↔ SH)",
           "filtro_caixa": "Filtro de mercado (SPY ↔ caixa)", "curto": "Curto prazo (RSI 2)",
-          "robo": "Robô (80% filtro + 20% curto)"}
+          "robo": "Robô hoje (80% filtro SH + 20% curto)",
+          "hold_curto": "80% SPY + 20% curto", "caixa_curto": "80% filtro caixa + 20% curto"}
 
 
 def report(dates, curves, tr):
@@ -208,7 +213,7 @@ def report(dates, curves, tr):
            "do longo prazo (o screener não pode ser testado no passado).", "",
            "| Estratégia | Rende por ano | Total | Pior queda | Pior ano | US$ 10 mil viraram |",
            "| --- | --- | --- | --- | --- | --- |"]
-    for k in ("hold", "filtro", "filtro_caixa", "curto", "robo"):
+    for k in ("hold", "filtro", "filtro_caixa", "curto", "robo", "hold_curto", "caixa_curto"):
         s = rows[k]
         out.append("| %s | %s | %s | %s | %s (%s) | $%s |" % (
             LABELS[k], pct(s["cagr"]), pct(s["total"]), pct(s["max_drawdown"]), s["worst_year"][0],
