@@ -1,62 +1,66 @@
 {
-  "created_by": "robo (longo prazo desligado)",
+  "created_by": "trader-budget",
+  "created_at": "2026-11-03T15:43:05",
+  "status": "proposed",
   "paper": true,
+  "note": "Proposals only. Nothing is placed until trader-risk passes each order and you say yes to it in the chat.",
+  "source": "trader-screener: Growing, profitable, not priced for perfection (2026-11-03), 10 de 102 empresas passaram",
   "orders": [
     {
-      "symbol": "ADBE",
-      "side": "sell",
-      "qty": "1.815137134",
-      "type": "market",
-      "time_in_force": "day",
-      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"
-    },
-    {
-      "symbol": "BLK",
-      "side": "sell",
-      "qty": "0.400633956",
-      "type": "market",
-      "time_in_force": "day",
-      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"
-    },
-    {
-      "symbol": "GOOGL",
-      "side": "sell",
-      "qty": "1.765810261",
-      "type": "market",
-      "time_in_force": "day",
-      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"
-    },
-    {
-      "symbol": "MSFT",
-      "side": "sell",
-      "qty": "0.852460181",
-      "type": "market",
-      "time_in_force": "day",
-      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"
-    },
-    {
       "symbol": "NVDA",
-      "side": "sell",
-      "qty": "2.109909836",
+      "side": "buy",
+      "notional": "495",
       "type": "market",
       "time_in_force": "day",
-      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"
+      "why": "14.29% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-11-03), 10 de 102 empresas passaram"
     },
     {
       "symbol": "ORCL",
-      "side": "sell",
-      "qty": "3.208196706",
+      "side": "buy",
+      "notional": "496",
       "type": "market",
       "time_in_force": "day",
-      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"
+      "why": "14.29% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-11-03), 10 de 102 empresas passaram"
+    },
+    {
+      "symbol": "GOOGL",
+      "side": "buy",
+      "notional": "496",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "14.29% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-11-03), 10 de 102 empresas passaram"
+    },
+    {
+      "symbol": "MSFT",
+      "side": "buy",
+      "notional": "496",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "14.29% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-11-03), 10 de 102 empresas passaram"
+    },
+    {
+      "symbol": "ADBE",
+      "side": "buy",
+      "notional": "496",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "14.29% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-11-03), 10 de 102 empresas passaram"
+    },
+    {
+      "symbol": "BLK",
+      "side": "buy",
+      "notional": "496",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "14.29% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-11-03), 10 de 102 empresas passaram"
     },
     {
       "symbol": "UNP",
-      "side": "sell",
-      "qty": "1.544482836",
+      "side": "buy",
+      "notional": "496",
       "type": "market",
       "time_in_force": "day",
-      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"
+      "why": "14.29% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-11-03), 10 de 102 empresas passaram"
     }
   ]
 }

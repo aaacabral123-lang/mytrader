@@ -279,6 +279,76 @@
       "id": "98f502eb-4748-462c-8e21-dba02eac73e5",
       "approved_by": "robo (automatic, paper)",
       "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"
+    },
+    {
+      "date": "2026-11-03",
+      "at": "2026-11-03T15:42:38Z",
+      "status": "placed",
+      "symbol": "NVDA",
+      "side": "buy",
+      "id": "d7d96008-bf87-412b-b854-e8e15ced4a0f",
+      "approved_by": "robo (automatic, paper)",
+      "why": "14.29% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-11-03), 10 de 102 empresas passaram"
+    },
+    {
+      "date": "2026-11-03",
+      "at": "2026-11-03T15:42:38Z",
+      "status": "placed",
+      "symbol": "ORCL",
+      "side": "buy",
+      "id": "3b5c2d89-4554-46b0-aeba-eab3e169c40d",
+      "approved_by": "robo (automatic, paper)",
+      "why": "14.29% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-11-03), 10 de 102 empresas passaram"
+    },
+    {
+      "date": "2026-11-03",
+      "at": "2026-11-03T15:42:38Z",
+      "status": "placed",
+      "symbol": "GOOGL",
+      "side": "buy",
+      "id": "f1ba5e8a-bfcd-41fc-879e-5b4fa76443de",
+      "approved_by": "robo (automatic, paper)",
+      "why": "14.29% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-11-03), 10 de 102 empresas passaram"
+    },
+    {
+      "date": "2026-11-03",
+      "at": "2026-11-03T15:42:38Z",
+      "status": "placed",
+      "symbol": "MSFT",
+      "side": "buy",
+      "id": "9693e2e1-51c8-4fca-a5f7-059b6f875c6b",
+      "approved_by": "robo (automatic, paper)",
+      "why": "14.29% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-11-03), 10 de 102 empresas passaram"
+    },
+    {
+      "date": "2026-11-03",
+      "at": "2026-11-03T15:42:38Z",
+      "status": "placed",
+      "symbol": "ADBE",
+      "side": "buy",
+      "id": "da55e24a-0d9b-4693-b50c-b2e499edbe74",
+      "approved_by": "robo (automatic, paper)",
+      "why": "14.29% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-11-03), 10 de 102 empresas passaram"
+    },
+    {
+      "date": "2026-11-03",
+      "at": "2026-11-03T15:42:38Z",
+      "status": "placed",
+      "symbol": "BLK",
+      "side": "buy",
+      "id": "9affe664-6c8b-4f0f-8cf2-9ae77af06142",
+      "approved_by": "robo (automatic, paper)",
+      "why": "14.29% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-11-03), 10 de 102 empresas passaram"
+    },
+    {
+      "date": "2026-11-03",
+      "at": "2026-11-03T15:42:38Z",
+      "status": "placed",
+      "symbol": "UNP",
+      "side": "buy",
+      "id": "df7894fb-810c-4e41-9960-57a605636671",
+      "approved_by": "robo (automatic, paper)",
+      "why": "14.29% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-11-03), 10 de 102 empresas passaram"
     }
   ]
 }
