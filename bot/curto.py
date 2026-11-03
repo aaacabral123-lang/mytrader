@@ -4,7 +4,7 @@ image on inverse ETFs to profit from falls.
 Rules, on daily closes with the latest price standing in for today's close:
   long   enter: price above its 200-day average (up-trend) and RSI(2) under rsi_entry (a sharp 2-3 day dip)
          exit:  price back above its 5-day average (the bounce)
-  short  for an index with an inverse ETF (QQQ->PSQ, DIA->DOG, IWM->RWM), buy the inverse ETF
+  short  for an index with an inverse ETF (SPY->SH, QQQ->PSQ, DIA->DOG, IWM->RWM), buy the inverse ETF
          enter: index below its 200-day average (down-trend) and RSI(2) over rsi_short_entry (a sharp rally)
          exit:  index back below its 5-day average (the fall resumed)
   both   also exit at stop_pct under the entry or after max_days; enter only from entry_after New York
@@ -35,13 +35,17 @@ CURTO_DEFAULTS = {
     "max_days": 10,
     "entry_after": "15:00",
     "rsi_short_entry": 90,
-    # SH (inverse SPY) is left to the long-term market filter, so the two sleeves never share it
-    "inverse": {"QQQ": "PSQ", "DIA": "DOG", "IWM": "RWM"},
+    "inverse": {"SPY": "SH", "QQQ": "PSQ", "DIA": "DOG", "IWM": "RWM"},
 }
 
 
 def settings(robo):
-    return dict(CURTO_DEFAULTS, **(robo.get("curto") or {}))
+    c = dict(CURTO_DEFAULTS, **(robo.get("curto") or {}))
+    f = robo.get("market_filter") or {}
+    if f.get("enabled"):
+        # the long-term market filter holds its inverse ETF (SH); keep the sleeves from sharing it
+        c["inverse"] = {k: v for k, v in c["inverse"].items() if v != f.get("inverse", "SH")}
+    return c
 
 
 def symbols(c):
