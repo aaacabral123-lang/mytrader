@@ -82,6 +82,11 @@ def path(*p):
     return os.path.join(T, *p)
 
 
+def team_signals():
+    """What the robot team (bot/equipe.py) hands the gestor: symbols not to buy, a re-screen request."""
+    return read_json(path("time", "sinais.json"), {}) or {}
+
+
 def read_json(p, default=None):
     try:
         with open(p, encoding="utf-8") as fh:
@@ -256,7 +261,11 @@ def refresh_screen(api, robo, state, today, log):
     A stock already picked stays while it still passes the rules, so the ranking alone never churns it."""
     last = state.get("last_screen")
     every = int(robo.get("screen_every_days") or 7)
-    if last and os.path.exists(path("targets.json")) and \
+    asked = team_signals().get("rescreen")  # the analyst robot saw a new quarterly report
+    if asked and asked != state.get("rescreen_done"):
+        state["rescreen_done"] = asked
+        log("analista pediu: balanço novo, refazendo a escolha das ações")
+    elif last and os.path.exists(path("targets.json")) and \
             (dt.date.fromisoformat(today) - dt.date.fromisoformat(last)).days < every:
         return False
     universe = [t.upper() for t in robo["universe"]]
@@ -326,9 +335,15 @@ def long_positions(api, robo):
 
 def sync_portfolio(api, robo, state, targets):
     positions = long_positions(api, robo)
+    # one lot per position, dated by the robot's first recorded buy of it (trader-tax needs a date)
+    bought = {}
+    for f in state.get("fills", []):
+        if f.get("side") == "buy":
+            bought.setdefault(f["symbol"], f["at"][:10])
+    today = dt.datetime.now(dt.timezone.utc).date().isoformat()
     held = [{"ticker": p["symbol"], "shares": float(p["qty"]),
-             "lots": [{"id": p["symbol"] + "-alpaca", "shares": float(p["qty"]),
-                       "cost": float(p["cost_basis"])}]} for p in positions]
+             "lots": [{"id": p["symbol"] + "-alpaca", "shares": float(p["qty"]), "cost": float(p["cost_basis"]),
+                       "date": bought.get(p["symbol"], today)}]} for p in positions]
     write_json(path("portfolio.json"), {"cash": state["cash"], "positions": held,
                                         "source": "Alpaca paper positions + robot cash ledger"})
     prices = {p["symbol"]: float(p["current_price"]) for p in positions}
@@ -674,6 +689,12 @@ def run(dry_run=False):
             for o in orders:
                 if o["side"] == "sell" and "qty" in o and float(o["qty"]) > float(have.get(o["symbol"], 0)):
                     o["qty"] = have.get(o["symbol"], "0")
+            # the news robot blocks buying a stock with serious news for a few days
+            blocked = team_signals().get("bloqueio") or {}
+            for o in [o for o in orders if o["side"] == "buy" and o["symbol"] in blocked]:
+                log("compra de %s bloqueada pelo robô de notícias até %s: %s"
+                    % (o["symbol"], blocked[o["symbol"]]["until"], blocked[o["symbol"]]["why"]))
+            orders = [o for o in orders if not (o["side"] == "buy" and o["symbol"] in blocked)]
             if orders:
                 doc = read_json(path("orders.json"), {})
                 write_json(path("orders.json"), dict(doc, orders=orders))

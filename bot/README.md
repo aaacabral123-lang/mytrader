@@ -51,6 +51,22 @@ Uma parte do robô (`curto` em `trader/robo.json`, 20% dos US$ 5.000 = US$ 1.000
 
 O painel e o relatório mostram as duas partes separadas. Para desligar o curto prazo, use `"enabled": false` dentro de `curto`. Os ETFs que ele tiver continuam na conta e podem ser vendidos à mão.
 
+## Time de robôs
+
+Cada skill tem um robô com seu próprio ritmo (`bot/equipe.py`). O time roda 24 horas: a cada 30 minutos, um turno do GitHub chama todos os robôs que estiverem na hora.
+
+| Robô | Skill | Quando | O que faz |
+| --- | --- | --- | --- |
+| Gestor | budget, rebalance, risk, broker | a cada 30 min com a bolsa aberta | compra e vende (longo e curto prazo) |
+| Notícias | trader-news | a cada 30 min, 24 h | notícia grave (processo, investigação, falência, hack, balanço refeito) sobre uma ação sua: avisa e bloqueia novas compras dela por 5 dias |
+| Políticos | trader-pelosi | a cada 2 h, 24 h | avisa quando um deputado negociar ações que o robô tem ou segue |
+| Vigia de preços | trader-alerts | a cada 30 min com a bolsa aberta | avisa quando uma ação sua sobe ou cai 5% no dia |
+| Analista | trader-analyst | 1x por dia, 7h de Nova York | balanço novo de uma ação sua: avisa e pede ao gestor que refaça a escolha das ações |
+| Copiador | trader-copycat | 1x por dia, 8h de Nova York | avisa quando a Berkshire (Buffett) entrega um 13F novo |
+| Contador | trader-tax | 1x por dia, 16h30 de Nova York | ganhos e perdas por lote (`trader/time/impostos.json`) |
+
+Os robôs passam sinais ao gestor em `trader/time/sinais.json` e mostram o status no painel ("Time de robôs").
+
 ## Configuração (uma vez só)
 
 1. Na Alpaca, entre na conta **Paper**. Se já tiver posições lá, use *Reset* para começar do zero, porque o robô considera tudo o que está na conta. Gere as chaves de API do paper.

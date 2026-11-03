@@ -147,8 +147,10 @@ def run(api, robo, cfg, state, today, ny_time, now, log, notify, skill_json, rea
         cash = st["cash"]
         free = c["max_positions"] - len(held) + len(orders)
 
+        blocked = (read_json(path("time", "sinais.json"), {}) or {}).get("bloqueio") or {}
+
         def fresh(s):
-            return s not in held and st.get("exited", {}).get(s) != today
+            return s not in held and s not in blocked and st.get("exited", {}).get(s) != today
 
         # (how extreme the RSI is, symbol to buy, the reason); most extreme first
         picks = [(g["rsi2"], s, "RSI(2) %.1f, acima da média de %d dias ($%.2f)"

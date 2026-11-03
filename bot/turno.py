@@ -73,7 +73,7 @@ def dispatch_next():
 
 def run_robot(args):
     # a fresh process each time, so code merged during the shift is picked up on the next run
-    subprocess.run([sys.executable, os.path.join(ROOT, "bot", "robo.py")] + args, cwd=ROOT)
+    subprocess.run([sys.executable, os.path.join(ROOT, "bot", "equipe.py")] + args, cwd=ROOT)
 
 
 def next_slot(now, minutes=(5, 35)):
@@ -105,7 +105,8 @@ def main(argv=None):
     while time.monotonic() < deadline:
         c = clock()
         now = ts(c["timestamp"])
-        if c["is_open"]:
+        if c["is_open"] or a.chain:
+            # the team works around the clock; the gestor inside it only trades while the market is open
             run_robot(robot_args)
             save(not a.no_push)
             ran_today = True
