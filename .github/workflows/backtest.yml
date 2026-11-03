@@ -13,7 +13,7 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
 
@@ -23,6 +23,9 @@ jobs:
 
       - name: Rodar o teste
         run: python3 bot/backtest.py
+
+      - name: Otimizar o curto prazo (treino 2007-2016, prova 2017 em diante)
+        run: python3 bot/otimiza.py
 
       - name: Salvar o resultado
         run: |
