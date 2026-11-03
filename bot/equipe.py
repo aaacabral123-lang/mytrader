@@ -32,7 +32,7 @@ TIME = os.path.join(ROOT, "trader", "time")
 STATUS = os.path.join(ROOT, "painel", "time.json")
 SIGNALS = os.path.join(TIME, "sinais.json")
 BLOCK_DAYS = 5
-SERIOUS_TAGS = {"legal", "risk"}
+SIGNALS_VERSION = 2  # v1 blocked on headline keywords, which an opinion piece or a passing mention could trip
 SERIOUS_8K = {"1.03", "1.05", "2.04", "2.06", "3.01", "4.02"}
 
 ROBOTS = [
@@ -96,23 +96,24 @@ def r_noticias(ctx):
         "--hours", "48", "--state", "trader/state/news_time.json"]))
     if res is None:
         raise RuntimeError("trader-news não respondeu")
-    serious = []
-    for it in res.get("items", []):
-        tags = set(it.get("tags") or [])
-        items_8k = set(it.get("items") or [])
-        if tags & SERIOUS_TAGS or items_8k & SERIOUS_8K:
-            serious.append(it)
+    # only the company's own SEC filing counts: headline keywords ("bankrupt", "hack") also hit opinion pieces
+    # and stories that merely mention the company, so headlines are listed for the dashboard and never block
+    serious = [it for it in res.get("items", [])
+               if it.get("kind") != "headline" and set(it.get("items") or []) & SERIOUS_8K]
+    watch = [it for it in res.get("items", []) if it.get("kind") == "headline" and {"legal", "risk"} & set(it.get("tags") or [])]
     sig = ctx["signals"]
     until = (ctx["today"] + dt.timedelta(days=BLOCK_DAYS)).isoformat()
     for it in serious[:5]:
-        for sym in it.get("touches") or [it.get("ticker")]:
-            if sym:
-                sig.setdefault("bloqueio", {})[sym] = {"until": until, "why": it.get("title", "")[:140]}
-        robo.notify("Notícia grave: %s" % it.get("ticker", ""),
+        sym = it.get("ticker")
+        if sym:
+            sig.setdefault("bloqueio", {})[sym] = {"until": until, "why": it.get("title", "")[:140]}
+        robo.notify("Comunicado grave: %s" % it.get("ticker", ""),
                     "%s\nO gestor não compra %s até %s." % (it.get("title", ""), it.get("ticker", ""), until),
                     tags=["warning"], click=it.get("link"), priority=4)
-    robo.write_json(os.path.join(TIME, "noticias.json"), {"as_of": ctx["now_iso"], "items": res.get("items", [])[:40]})
-    return "%d novas, %d graves" % (len(res.get("items", [])), len(serious))
+    robo.write_json(os.path.join(TIME, "noticias.json"), {"as_of": ctx["now_iso"], "items": res.get("items", [])[:40],
+                                                          "atencao": watch[:20]})
+    return "%d novas, %d comunicados graves, %d manchetes de atenção" % (len(res.get("items", [])), len(serious),
+                                                                        len(watch))
 
 
 def r_politicos(ctx):
@@ -217,6 +218,8 @@ def tick(dry_run=False):
     is_open = bool(c.get("is_open"))
     state = robo.read_json(os.path.join(TIME, "estado.json"), {}) or {}
     signals = robo.read_json(SIGNALS, {}) or {}
+    if signals.get("versao") != SIGNALS_VERSION:
+        signals = {"versao": SIGNALS_VERSION}
     ny = dt.datetime.fromisoformat(str(c["timestamp"]).replace("Z", "+00:00"))
     today = ny.date()
     signals["bloqueio"] = {s: b for s, b in (signals.get("bloqueio") or {}).items() if b["until"] > today.isoformat()}
