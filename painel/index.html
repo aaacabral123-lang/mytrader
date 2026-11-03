@@ -51,6 +51,8 @@ h2{font-size:16px;margin:0 0 12px}
 .op b{font-variant-numeric:tabular-nums}
 .op small{display:block;color:var(--muted);font-size:12px;margin-top:2px}
 .pill{font-size:11px;font-weight:800;padding:3px 7px;border-radius:6px;margin-right:6px}
+.dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:#4a5d7c;margin-right:8px;vertical-align:middle}
+.dot.good{background:#86e0ba}.dot.bad{background:#ffa4af}
 .pill.buy{background:#153d35;color:#a6f0d6}.pill.sell{background:#512b35;color:#ffd0d7}.pill.short{background:#2b3560;color:#c3ccff;margin:0 0 0 6px}
 table{width:100%;border-collapse:collapse;font-size:13px;font-variant-numeric:tabular-nums}
 th{text-align:right;color:var(--muted);font-weight:600;font-size:11px;padding:0 0 8px}
@@ -201,12 +203,34 @@ async function load() {
     const r = await fetch("dados.json?t=" + Date.now(), {cache: "no-store"});
     if (!r.ok) throw new Error(r.status);
     render(await r.json());
+    loadTeam();
   } catch (e) {
     $("#updated").textContent = "ainda sem dados";
     $("#app").innerHTML = `<div class="notice">O robô ainda não rodou com a bolsa aberta. A primeira rodada é no próximo pregão,
       às 10h30 (horário de Brasília). Depois disso, este painel mostra o saldo, a carteira e as operações.</div>`;
   }
 }
+async function loadTeam() {
+  try {
+    const r = await fetch("time.json?t=" + Date.now(), {cache: "no-store"});
+    if (!r.ok) return;
+    const t = await r.json();
+    const rows = t.robots.map(b => `
+      <div class="op">
+        <div><span class="dot ${b.ok === false ? "bad" : b.last_run ? "good" : ""}"></span><b>${esc(b.nome)}</b>
+          <small>${esc(b.quando)} · ${esc(b.skills)}</small>
+          <small>${b.last_run ? esc(b.result || "") + " · " + when(b.last_run) : "ainda não rodou"}</small></div>
+      </div>`).join("");
+    const blocked = Object.entries(t.bloqueio || {});
+    const el = document.createElement("div");
+    el.className = "panel";
+    el.innerHTML = `<h2>Time de robôs</h2>${blocked.length ? `<div class="notice warn" style="margin-bottom:10px">Compras bloqueadas por notícia grave: ${blocked.map(([s, b]) => "<b>" + esc(s) + "</b> até " + b.until.split("-").reverse().join("/")).join(", ")}</div>` : ""}${rows}`;
+    const old = document.getElementById("team");
+    el.id = "team";
+    if (old) old.replaceWith(el); else $("#app").appendChild(el);
+  } catch (e) { /* the team panel is optional */ }
+}
+
 load();
 setInterval(load, 5 * 60 * 1000);
 document.addEventListener("visibilitychange", () => { if (!document.hidden) load(); });
