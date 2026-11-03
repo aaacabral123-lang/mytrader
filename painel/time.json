@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-03T16:20:56Z",
+  "as_of": "2026-11-03T16:35:00Z",
   "market_open": true,
   "bloqueio": {
     "BLK": {
@@ -21,7 +21,7 @@
       "nome": "Gestor",
       "skills": "trader-budget, trader-rebalance, trader-risk, trader-broker",
       "quando": "a cada 30 min com a bolsa aberta",
-      "last_run": "2026-11-03T16:20:56Z",
+      "last_run": "2026-11-03T16:35:00Z",
       "result": "rodada feita",
       "ok": true
     },
@@ -48,8 +48,8 @@
       "nome": "Vigia de pre\u00e7os",
       "skills": "trader-alerts",
       "quando": "a cada 30 min com a bolsa aberta",
-      "last_run": "2026-11-03T16:20:56Z",
-      "result": "10 a\u00e7\u00f5es vigiadas, 1 alertas",
+      "last_run": "2026-11-03T16:35:00Z",
+      "result": "10 a\u00e7\u00f5es vigiadas, 0 alertas",
       "ok": true
     },
     {
