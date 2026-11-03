@@ -1,0 +1,35 @@
+name: Teste no passado
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: backtest
+  cancel-in-progress: true
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rodar o teste
+        run: python3 bot/backtest.py
+
+      - name: Salvar o resultado
+        run: |
+          git config user.name "mytrader-robo"
+          git config user.email "mytrader-robo@users.noreply.github.com"
+          git add trader/backtest
+          git diff --cached --quiet && exit 0
+          git commit -m "teste no passado: $(date -u +%Y-%m-%d)"
+          for i in 1 2 3; do git pull --rebase --quiet && git push --quiet && exit 0; sleep 5; done
+          exit 1
