@@ -1,36 +1,65 @@
 {
-  "as_of": "2026-11-03T20:35:00Z",
+  "as_of": "2026-11-03T21:05:00Z",
   "items": [
     {
-      "id": "rss:a581dae0-65fa-3958-b61c-56730e525b0e",
+      "id": "rss:922e4924-8836-3717-adf7-a57a1b79d88f",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "BLK",
-      "title": "BlackRock (BLK) Could Be 13% Overvalued As Robotics ETF Launch Tests Valuation",
-      "summary": "BlackRock (BLK) has launched the iShares Future Robotics and Related Technologies Active ETF, giving investors another window into companies tied to automation, intelligent machines and the broader robotics value chain. Recent price action has been supportive for BlackRock, with the share price at US$1,167.15 after a 10.15% 1 month share price return and 7.57% year to date share price return, while the 3 year total shareholder return of 91.03% points to strong longer term momentum. Seize...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/blackrock-blk-could-13-overvalued-201151494.html?.tsrc=rss",
-      "time": "2026-11-03T20:11:51+00:00",
+      "ticker": "GOOGL",
+      "title": "Uber president Jill Hazelbaker joins OpenAI as communications chief",
+      "summary": "Investing.com -- Uber Technologies Inc. announced Tuesday that President Jill Hazelbaker will leave the ride-hailing company to become chief corporate affairs officer at OpenAI, where she will oversee global communications and corporate positioning efforts.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/uber-president-jill-hazelbaker-joins-204431583.html?.tsrc=rss",
+      "time": "2026-11-03T20:44:31+00:00",
       "touches": [
-        "BLK"
+        "GOOGL"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:37ed6111-bee9-3e78-b19f-f7f2ec9614c2",
+      "id": "rss:f834eaec-7575-3168-8156-9cdb4f079d11",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ORCL",
-      "title": "Quantinuum Q3 Preview: Should You Buy the Dip Ahead of Earnings?",
-      "summary": "Quantinuum's Oracle partnership, $100 million government award and Helios advances offer growth potential, but can they offset rising quantum stock pressures?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/quantinuum-q3-preview-buy-dip-190000386.html?.tsrc=rss",
-      "time": "2026-11-03T19:00:00+00:00",
+      "ticker": "NVDA",
+      "title": "Sector Update: Tech Stocks Gain Late Afternoon",
+      "summary": "Tech stocks were higher late Tuesday afternoon with the State Street Technology Select Sector SPDR E",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-gain-afternoon-204401257.html?.tsrc=rss",
+      "time": "2026-11-03T20:44:01+00:00",
       "touches": [
-        "ORCL"
+        "NVDA",
+        "XLK"
       ],
-      "tags": [
-        "earnings"
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:eaaef1b6-9f28-37da-9ed0-775a02efdeb3",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "SPY",
+      "title": "S&P 500 after midterm elections: what history says and where the market stands",
+      "summary": "Investing.com -- History gives midterm elections one of the cleanest records in market seasonality.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-midterm-elections-history-204037875.html?.tsrc=rss",
+      "time": "2026-11-03T20:40:37+00:00",
+      "touches": [
+        "SPY"
       ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:dd1bbe35-1782-49fb-9efc-a1cd7faa6819",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Apple fails to impress Wall Street, bear market chatter heats up, and AI assessing job productivity",
+      "summary": "Market Hang's panel discusses Apple's (AAPL) stock and how memory prices are affecting the company's bottom line.  Plus, how the midterms factor into a bear market outlook, and whether AI is doing \"dirty work\" at the office and assessing job productivity. Today's panel includes Tema ETFs Chief Investment Strategist Paisley Nardini, Aptus Capital Advisors Head of Equity & Portfolio Manager David Wagner, Business Insider Today Executive Editor & Anchor Dan DeFrancesco, Barron\u2019s Tech Reporter Nate Wolf, and Wall Street Veteran & \u201cThe Buy Side\u201d Author Turney Duff.",
+      "link": "https://finance.yahoo.com/video/apple-fails-to-impress-wall-street-bear-market-chatter-heats-up-and-ai-assessing-job-productivity-185021345.html?.tsrc=rss",
+      "time": "2026-11-03T18:50:21+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [],
       "new": true
     }
   ],
