@@ -1,67 +1,32 @@
 {
-  "as_of": "2026-11-03T17:05:00Z",
+  "as_of": "2026-11-03T17:35:00Z",
   "items": [
     {
-      "id": "rss:40d8a7d9-4ca5-3527-bf8f-0d83d185f024",
+      "id": "rss:ea7feb3f-3cac-37b0-b408-c6181773611f",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "5 Best Stocks to Buy For Next 10 Years",
-      "summary": "The AI bubble seems to be popping sooner than expected. Investors are running out of patience, and they want to know where the returns are on the huge AI investments. Tech stocks, including Amazon, Meta, Alphabet, and Intel, dropped hard after their latest earnings reports. Intel fell 29%, its biggest one-day drop in more than [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-stocks-buy-next-165149748.html?.tsrc=rss",
-      "time": "2026-11-03T16:51:49+00:00",
+      "ticker": "MSFT",
+      "title": "Origence Launches Origence Data Access, Offering Credit Unions Six Ways to Access and Share Origination Data",
+      "summary": "Solution helps credit unions move from data preparation to data intelligence while building a strong foundation for AI initiativesIrvine, CA, Nov. 03, 2026 (GLOBE NEWSWIRE) -- Origence, a leading provider of lending technology solutions, today announced Origence Data Access, a suite of reporting, analytics, integration and data sharing capabilities that give credit unions self-service access to their direct lending, indirect lending and account opening data. The new platform includes live, zero-",
+      "link": "https://finance.yahoo.com/technology/ai/articles/origence-launches-origence-data-access-173000183.html?.tsrc=rss",
+      "time": "2026-11-03T17:30:00+00:00",
       "touches": [
-        "GOOGL",
-        "MSFT",
-        "NVDA"
+        "MSFT"
       ],
       "tags": [
-        "earnings"
+        "capital"
       ],
       "new": true
     },
     {
-      "id": "rss:09fc6be3-72a9-300b-9a5e-b9e673d26085",
+      "id": "rss:12b1deb8-137e-3954-b3ca-ce680d1b6dea",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "AI spending boom could exceed $10 trillion, raising fears of financial fallout",
-      "summary": "Investing.com --The scale of the artificial intelligence investment boom is becoming a source of concern, with spending on infrastructure potentially exceeding $10 trillion if companies follow through on their current plans.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-spending-boom-could-exceed-164317229.html?.tsrc=rss",
-      "time": "2026-11-03T16:43:17+00:00",
-      "touches": [
-        "NVDA",
-        "QQQ"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:0524c8de-1f48-3c02-b1c1-f4a9e375ad45",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Apple Services Unit Faces Near-Term Pressure as Memory Costs Weigh on Margin Guidance, Morgan Stanley Says",
-      "summary": "Apple's (AAPL) services business faces near-term pressure amid factors including third-party licensi",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-services-unit-faces-near-163141277.html?.tsrc=rss",
-      "time": "2026-11-03T16:31:41+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:aa6e3866-4ff4-30cb-bab0-cd3b951e0c23",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Election Day Trading Splits the Benchmarks, With the Dow Lower and the Nasdaq Higher",
-      "summary": "Equity Insider News Commentary - Tuesday's session reversed the pattern of the day before. On Monday, the Dow Jones Industrial Average was the only one of the four major U.S. stock benchmarks to finish higher; by mid-morning on Election Day, the S&P 500, the Nasdaq Composite and the Russell 2000 were all in positive territory while the Dow was in the red, and the 10-year Treasury yield was higher. Quarterly results released on Monday and this morning gave investors a fresh batch of company-speci",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/election-day-trading-splits-benchmarks-163100939.html?.tsrc=rss",
-      "time": "2026-11-03T16:31:00+00:00",
+      "title": "Nvidia Stocks Rebound 2.84% Before November 17 AI Earnings Check",
+      "summary": "A regular-session recovery follows recent weakness, while existing revenue guidance defines the next operating hurdle.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-rebound-2-84-172150506.html?.tsrc=rss",
+      "time": "2026-11-03T17:21:50+00:00",
       "touches": [
         "NVDA"
       ],
@@ -71,117 +36,39 @@
       "new": true
     },
     {
-      "id": "rss:e069fb15-7436-3d11-a726-869df2e9644a",
+      "id": "rss:044ffb3f-1a48-3c54-be0e-ffa895693a79",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Chip Rally Powers Stock Gains on US Election Day",
-      "summary": "A revival of the\u00a0artificial-intelligence\u00a0trade sent\u00a0stocks\u00a0higher as US voting got underway in the midterm elections. A closely watched gauge of\u00a0chipmakers\u00a0climbed 3.5% after a recent selloff fueled by worries the AI spending spree is becoming harder to justify. Joe Quinlan, Chief Market Strategist at Bank of America, discusses the CapEx boom and what questions investors should be asking themselves.",
-      "link": "https://finance.yahoo.com/video/chip-rally-powers-stock-gains-162244634.html?.tsrc=rss",
-      "time": "2026-11-03T16:22:44+00:00",
+      "ticker": "SPY",
+      "title": "\u2018Great For Our Farmers, Great For Our Country\u2019: Trump Says \u2018Concept of a Deal\u2019 Reached With Canada",
+      "summary": "President Donald Trump said Sunday the U.S. is \u201cvery close\u201d to a trade deal with Canada, one in which Ottawa would pay for the Keystone pipeline, days before the midterm elections. US Has Been \u2018Losing Money\u2019 With Canada Trump told...",
+      "link": "https://finance.yahoo.com/economy/policy/articles/great-farmers-great-country-trump-163005769.html?.tsrc=rss",
+      "time": "2026-11-03T16:30:05+00:00",
       "touches": [
-        "NVDA"
+        "SPY"
       ],
-      "tags": [],
+      "tags": [
+        "deal"
+      ],
       "new": true
     },
     {
-      "id": "rss:7606f075-ef6f-3175-b4f0-15365f85ef56",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Is AI Platform Launch Altering The Investment Case For Honeywell (HON)?",
-      "summary": "Honeywell International recently launched Forge Plant Cognition, an industrial AI platform built with NVIDIA and Dell for complex refining and LNG operations. Its connected cabin automation now runs more than 8,400 staterooms on Royal Caribbean\u2019s Icon Class ships. These projects show Honeywell International pushing deeper into software rich automation, tying AI driven plant optimization to connected environment controls across energy and travel customers. We will now look at how Honeywell...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-platform-launch-altering-investment-161811070.html?.tsrc=rss",
-      "time": "2026-11-03T16:18:11+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:dd0d6245-1490-33a3-b976-5f981c787e2a",
+      "id": "rss:b7225f91-b6b4-3de8-bc25-c21d9b7ea1a8",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Google's AI News Summaries Could Come With a Price",
-      "summary": "An EU court adviser said Gemini responses may infringe copyright in certain circumstances.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/googles-ai-news-summaries-could-161649610.html?.tsrc=rss",
-      "time": "2026-11-03T16:16:49+00:00",
+      "title": "Google Parent Plans $1.5 Billion Prepaid Energy Deal Via Goldman",
+      "summary": "Google parent Alphabet Inc. is back in the municipal bond market for the second time this year with a $1.5 billion prepaid energy deal.",
+      "link": "https://finance.yahoo.com/energy/articles/google-parent-plans-1-5-161040920.html?.tsrc=rss",
+      "time": "2026-11-03T16:10:40+00:00",
       "touches": [
         "GOOGL"
       ],
       "tags": [
-        "legal"
+        "deal"
       ],
-      "new": true
-    },
-    {
-      "id": "rss:4e479c1b-a456-33a3-8507-366f7a50774a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Disney\u2019s Cost-Cutting Push Could Put Its Stock Rally to the Test",
-      "summary": "Shares are approaching their 52-week high as CEO Josh D\u2019Amaro pursues growth. Reported layoffs would add another element to the turnaround.",
-      "link": "https://finance.yahoo.com/m/4e479c1b-a456-33a3-8507-366f7a50774a/disney%E2%80%99s-cost-cutting-push.html?.tsrc=rss",
-      "time": "2026-11-03T15:51:00+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:57978adc-0341-3f79-b061-df59ae2343b3",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "TTD or GOOG: Which Is the Better Value Stock Right Now?",
-      "summary": "TTD vs. GOOG: Which Stock Is the Better Value Option?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ttd-goog-better-value-stock-154003163.html?.tsrc=rss",
-      "time": "2026-11-03T15:40:03+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:8f4f0cb0-3fdd-390d-a29a-ec3756e7236a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "Micron Tech Gains as Tech Giants Scramble to Lock in Multiyear Supply",
-      "summary": "Micron Technology Inc. (NASDAQ:MU) stock gained more than 3% on Tuesday as traders moved back into high-beta semiconductor names despite softer index futures. Nasdaq futures gained 0.74%, while S&P 500 futures were up 0.32% at the time of writing. Micron\u2019s relative strength comes after a pullback from its mid-year peak, with investors continuing to weigh tight memory supply and AI-driven demand against the risk that future capacity additions eventually create another oversupply cycle. Memory Sup",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-tech-gains-tech-giants-153440914.html?.tsrc=rss",
-      "time": "2026-11-03T15:34:40+00:00",
-      "touches": [
-        "MU"
-      ],
-      "tags": [],
       "new": true
     }
   ],
-  "atencao": [
-    {
-      "id": "rss:dd0d6245-1490-33a3-b976-5f981c787e2a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Google's AI News Summaries Could Come With a Price",
-      "summary": "An EU court adviser said Gemini responses may infringe copyright in certain circumstances.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/googles-ai-news-summaries-could-161649610.html?.tsrc=rss",
-      "time": "2026-11-03T16:16:49+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [
-        "legal"
-      ],
-      "new": true
-    }
-  ]
+  "atencao": []
 }
