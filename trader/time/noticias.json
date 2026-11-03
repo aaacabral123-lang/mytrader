@@ -1,72 +1,34 @@
 {
-  "as_of": "2026-11-03T17:35:00Z",
+  "as_of": "2026-11-03T18:05:00Z",
   "items": [
     {
-      "id": "rss:ea7feb3f-3cac-37b0-b408-c6181773611f",
+      "id": "rss:7b18e273-ff4c-3d4e-93ec-d5cf0fd73c20",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Origence Launches Origence Data Access, Offering Credit Unions Six Ways to Access and Share Origination Data",
-      "summary": "Solution helps credit unions move from data preparation to data intelligence while building a strong foundation for AI initiativesIrvine, CA, Nov. 03, 2026 (GLOBE NEWSWIRE) -- Origence, a leading provider of lending technology solutions, today announced Origence Data Access, a suite of reporting, analytics, integration and data sharing capabilities that give credit unions self-service access to their direct lending, indirect lending and account opening data. The new platform includes live, zero-",
-      "link": "https://finance.yahoo.com/technology/ai/articles/origence-launches-origence-data-access-173000183.html?.tsrc=rss",
-      "time": "2026-11-03T17:30:00+00:00",
+      "ticker": "ORCL",
+      "title": "Oracle's $20 Billion Raise Exposes the Cost of Its AI Expansion",
+      "summary": "The company also sold $10 billion of senior notes with coupons ranging from 7% to 8.65%.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracles-20-billion-raise-exposes-175834408.html?.tsrc=rss",
+      "time": "2026-11-03T17:58:34+00:00",
       "touches": [
-        "MSFT"
+        "ORCL"
       ],
-      "tags": [
-        "capital"
-      ],
+      "tags": [],
       "new": true
     },
     {
-      "id": "rss:12b1deb8-137e-3954-b3ca-ce680d1b6dea",
+      "id": "rss:807fee38-8b4a-3673-8f4d-ff16d8bcb516",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia Stocks Rebound 2.84% Before November 17 AI Earnings Check",
-      "summary": "A regular-session recovery follows recent weakness, while existing revenue guidance defines the next operating hurdle.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-rebound-2-84-172150506.html?.tsrc=rss",
-      "time": "2026-11-03T17:21:50+00:00",
+      "ticker": "ORCL",
+      "title": "Oracle Stocks Gain 4.31% With $20 Billion Financing Package in Focus",
+      "summary": "New borrowing carries coupons of 7%--8.65%, adding a measurable cash cost to expansion.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-stocks-gain-4-31-174721310.html?.tsrc=rss",
+      "time": "2026-11-03T17:47:21+00:00",
       "touches": [
-        "NVDA"
+        "ORCL"
       ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:044ffb3f-1a48-3c54-be0e-ffa895693a79",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "SPY",
-      "title": "\u2018Great For Our Farmers, Great For Our Country\u2019: Trump Says \u2018Concept of a Deal\u2019 Reached With Canada",
-      "summary": "President Donald Trump said Sunday the U.S. is \u201cvery close\u201d to a trade deal with Canada, one in which Ottawa would pay for the Keystone pipeline, days before the midterm elections. US Has Been \u2018Losing Money\u2019 With Canada Trump told...",
-      "link": "https://finance.yahoo.com/economy/policy/articles/great-farmers-great-country-trump-163005769.html?.tsrc=rss",
-      "time": "2026-11-03T16:30:05+00:00",
-      "touches": [
-        "SPY"
-      ],
-      "tags": [
-        "deal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:b7225f91-b6b4-3de8-bc25-c21d9b7ea1a8",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Google Parent Plans $1.5 Billion Prepaid Energy Deal Via Goldman",
-      "summary": "Google parent Alphabet Inc. is back in the municipal bond market for the second time this year with a $1.5 billion prepaid energy deal.",
-      "link": "https://finance.yahoo.com/energy/articles/google-parent-plans-1-5-161040920.html?.tsrc=rss",
-      "time": "2026-11-03T16:10:40+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [
-        "deal"
-      ],
+      "tags": [],
       "new": true
     }
   ],
