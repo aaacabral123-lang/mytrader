@@ -209,6 +209,76 @@
       "id": "4d6804f5-399e-4228-8aaf-b11253d56b80",
       "approved_by": "robo (automatic, paper)",
       "why": "stop: MU is $832.36 is at or below your stop $833.90 (rob\u00f4: -15% do pre\u00e7o m\u00e9dio)."
+    },
+    {
+      "date": "2026-11-03",
+      "at": "2026-11-03T15:41:03Z",
+      "status": "placed",
+      "symbol": "ADBE",
+      "side": "sell",
+      "id": "58627859-ef81-4c8c-be2f-68aae7b13366",
+      "approved_by": "robo (automatic, paper)",
+      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"
+    },
+    {
+      "date": "2026-11-03",
+      "at": "2026-11-03T15:41:03Z",
+      "status": "placed",
+      "symbol": "BLK",
+      "side": "sell",
+      "id": "faaaf696-e2c4-45d9-8a44-df096e34e2d4",
+      "approved_by": "robo (automatic, paper)",
+      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"
+    },
+    {
+      "date": "2026-11-03",
+      "at": "2026-11-03T15:41:03Z",
+      "status": "placed",
+      "symbol": "GOOGL",
+      "side": "sell",
+      "id": "d7f04250-e928-4b7a-87eb-3c1c8cd1e67a",
+      "approved_by": "robo (automatic, paper)",
+      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"
+    },
+    {
+      "date": "2026-11-03",
+      "at": "2026-11-03T15:41:03Z",
+      "status": "placed",
+      "symbol": "MSFT",
+      "side": "sell",
+      "id": "e7f178fc-01f1-4bef-a0d2-59104c154f49",
+      "approved_by": "robo (automatic, paper)",
+      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"
+    },
+    {
+      "date": "2026-11-03",
+      "at": "2026-11-03T15:41:03Z",
+      "status": "placed",
+      "symbol": "NVDA",
+      "side": "sell",
+      "id": "a4091528-e73c-4068-a66b-230fe311cb0b",
+      "approved_by": "robo (automatic, paper)",
+      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"
+    },
+    {
+      "date": "2026-11-03",
+      "at": "2026-11-03T15:41:03Z",
+      "status": "placed",
+      "symbol": "ORCL",
+      "side": "sell",
+      "id": "a70f6a36-69b1-46b2-8550-070ddd6acea2",
+      "approved_by": "robo (automatic, paper)",
+      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"
+    },
+    {
+      "date": "2026-11-03",
+      "at": "2026-11-03T15:41:03Z",
+      "status": "placed",
+      "symbol": "UNP",
+      "side": "sell",
+      "id": "98f502eb-4748-462c-8e21-dba02eac73e5",
+      "approved_by": "robo (automatic, paper)",
+      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"
     }
   ]
 }

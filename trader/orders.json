@@ -1,14 +1,62 @@
 {
-  "created_by": "robo (stop)",
+  "created_by": "robo (longo prazo desligado)",
   "paper": true,
   "orders": [
     {
-      "symbol": "MU",
+      "symbol": "ADBE",
       "side": "sell",
-      "qty": "0.470772442",
+      "qty": "1.815137134",
       "type": "market",
       "time_in_force": "day",
-      "why": "stop: MU is $832.36 is at or below your stop $833.90 (rob\u00f4: -15% do pre\u00e7o m\u00e9dio)."
+      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"
+    },
+    {
+      "symbol": "BLK",
+      "side": "sell",
+      "qty": "0.400633956",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"
+    },
+    {
+      "symbol": "GOOGL",
+      "side": "sell",
+      "qty": "1.765810261",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"
+    },
+    {
+      "symbol": "MSFT",
+      "side": "sell",
+      "qty": "0.852460181",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"
+    },
+    {
+      "symbol": "NVDA",
+      "side": "sell",
+      "qty": "2.109909836",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"
+    },
+    {
+      "symbol": "ORCL",
+      "side": "sell",
+      "qty": "3.208196706",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"
+    },
+    {
+      "symbol": "UNP",
+      "side": "sell",
+      "qty": "1.544482836",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"
     }
   ]
 }

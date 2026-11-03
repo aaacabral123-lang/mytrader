@@ -1,24 +1,90 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "paper": true,
   "results": [
     {
       "index": 1,
-      "symbol": "MU",
+      "symbol": "ADBE",
       "side": "sell",
-      "amount": "0.470772442 shares",
-      "value_usd": 391.98,
-      "fingerprint": "e00e4895fafe5782",
+      "amount": "1.815137134 shares",
+      "value_usd": 445.24,
+      "fingerprint": "b9a7ad45322966ec",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 2,
+      "symbol": "BLK",
+      "side": "sell",
+      "amount": "0.400633956 shares",
+      "value_usd": 467.22,
+      "fingerprint": "03be4fcb6760144c",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 3,
+      "symbol": "GOOGL",
+      "side": "sell",
+      "amount": "1.765810261 shares",
+      "value_usd": 489.83,
+      "fingerprint": "5e76f81883ea8480",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 4,
+      "symbol": "MSFT",
+      "side": "sell",
+      "amount": "0.852460181 shares",
+      "value_usd": 439.32,
+      "fingerprint": "41cb82808331c7fa",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 5,
+      "symbol": "NVDA",
+      "side": "sell",
+      "amount": "2.109909836 shares",
+      "value_usd": 438.06,
+      "fingerprint": "2710c39960713361",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 6,
+      "symbol": "ORCL",
+      "side": "sell",
+      "amount": "3.208196706 shares",
+      "value_usd": 402.85,
+      "fingerprint": "81adcc1f5b220611",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 7,
+      "symbol": "UNP",
+      "side": "sell",
+      "amount": "1.544482836 shares",
+      "value_usd": 469.37,
+      "fingerprint": "c9b3846902915329",
       "verdict": "PASS",
       "reasons": [],
       "warnings": []
     }
   ],
-  "pass": 1,
+  "pass": 7,
   "block": 0,
   "warnings": [],
-  "cash_after": 705.32,
-  "prices_as_of": "2026-11-02T20:35:00Z",
-  "checked_at": "2026-11-02T20:35:05",
+  "cash_after": 3857.1,
+  "prices_as_of": "2026-11-03T15:41:03Z",
+  "checked_at": "2026-11-03T15:41:09",
   "orders_file": "trader/orders.json"
 }

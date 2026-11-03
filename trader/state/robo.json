@@ -1,9 +1,9 @@
 {
-  "cash": 705.2,
+  "cash": 3857.42,
   "pending": [],
   "strategy": "screener",
   "last_screen": "2026-11-02",
-  "last_report": "2026-11-02",
+  "last_report": "2026-11-03",
   "cooldown": {
     "MU": "2026-12-02"
   },
@@ -234,6 +234,76 @@
       "amount": 391.86,
       "why": "stop: MU is $832.36 is at or below your stop $833.90 (rob\u00f4: -15% do pre\u00e7o m\u00e9dio).",
       "sleeve": "longo"
+    },
+    {
+      "at": "2026-11-03T15:41:10Z",
+      "symbol": "ADBE",
+      "side": "sell",
+      "qty": 1.815137,
+      "price": 245.21,
+      "amount": 445.09,
+      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo",
+      "sleeve": "longo"
+    },
+    {
+      "at": "2026-11-03T15:41:11Z",
+      "symbol": "BLK",
+      "side": "sell",
+      "qty": 0.400634,
+      "price": 1166.18,
+      "amount": 467.21,
+      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo",
+      "sleeve": "longo"
+    },
+    {
+      "at": "2026-11-03T15:41:15Z",
+      "symbol": "GOOGL",
+      "side": "sell",
+      "qty": 1.76581,
+      "price": 277.5,
+      "amount": 490.01,
+      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo",
+      "sleeve": "longo"
+    },
+    {
+      "at": "2026-11-03T15:41:15Z",
+      "symbol": "MSFT",
+      "side": "sell",
+      "qty": 0.85246,
+      "price": 515.508,
+      "amount": 439.45,
+      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo",
+      "sleeve": "longo"
+    },
+    {
+      "at": "2026-11-03T15:41:19Z",
+      "symbol": "NVDA",
+      "side": "sell",
+      "qty": 2.10991,
+      "price": 207.74,
+      "amount": 438.31,
+      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo",
+      "sleeve": "longo"
+    },
+    {
+      "at": "2026-11-03T15:41:20Z",
+      "symbol": "ORCL",
+      "side": "sell",
+      "qty": 3.208197,
+      "price": 125.64,
+      "amount": 403.08,
+      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo",
+      "sleeve": "longo"
+    },
+    {
+      "at": "2026-11-03T15:41:22Z",
+      "symbol": "UNP",
+      "side": "sell",
+      "qty": 1.544483,
+      "price": 303.71,
+      "amount": 469.07,
+      "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo",
+      "sleeve": "longo"
     }
   ],
   "curto": {
@@ -253,88 +323,88 @@
     "exited": {},
     "signals": {
       "SPY": {
-        "price": 753.18,
-        "rsi2": 7.19,
-        "sma_exit": 764.07,
-        "sma_trend": 726.28
+        "price": 755.05,
+        "rsi2": 37.41,
+        "sma_exit": 760.92,
+        "sma_trend": 726.62
       },
       "QQQ": {
-        "price": 682.22,
-        "rsi2": 5.63,
-        "sma_exit": 707.0,
-        "sma_trend": 678.65
+        "price": 686.26,
+        "rsi2": 31.93,
+        "sma_exit": 699.81,
+        "sma_trend": 678.98
       },
       "IWM": {
-        "price": 279.63,
-        "rsi2": 36.39,
-        "sma_exit": 280.9,
-        "sma_trend": 277.76
+        "price": 281.74,
+        "rsi2": 71.04,
+        "sma_exit": 281.12,
+        "sma_trend": 277.85
       },
       "DIA": {
-        "price": 520.07,
-        "rsi2": 49.15,
-        "sma_exit": 521.54,
-        "sma_trend": 503.44
+        "price": 517.1,
+        "rsi2": 24.6,
+        "sma_exit": 520.16,
+        "sma_trend": 503.58
       },
       "XLK": {
-        "price": 174.49,
-        "rsi2": 4.84,
-        "sma_exit": 184.67,
-        "sma_trend": 169.38
+        "price": 176.56,
+        "rsi2": 32.78,
+        "sma_exit": 182.03,
+        "sma_trend": 169.54
       },
       "XLF": {
-        "price": 57.59,
-        "rsi2": 85.27,
-        "sma_exit": 56.61,
-        "sma_trend": 53.42
+        "price": 57.33,
+        "rsi2": 65.73,
+        "sma_exit": 56.89,
+        "sma_trend": 53.44
       },
       "XLE": {
-        "price": 67.56,
-        "rsi2": 23.41,
-        "sma_exit": 68.59,
-        "sma_trend": 58.26
+        "price": 67.1,
+        "rsi2": 19.71,
+        "sma_exit": 68.31,
+        "sma_trend": 58.36
       },
       "XLV": {
-        "price": 184.89,
-        "rsi2": 96.75,
-        "sma_exit": 182.56,
-        "sma_trend": 157.82
+        "price": 185.22,
+        "rsi2": 90.07,
+        "sma_exit": 183.72,
+        "sma_trend": 157.98
       },
       "XLY": {
-        "price": 118.05,
-        "rsi2": 86.93,
-        "sma_exit": 116.07,
-        "sma_trend": 115.14
+        "price": 117.2,
+        "rsi2": 56.88,
+        "sma_exit": 116.44,
+        "sma_trend": 115.12
       },
       "XLP": {
-        "price": 90.88,
-        "rsi2": 95.04,
-        "sma_exit": 88.5,
-        "sma_trend": 83.63
+        "price": 89.31,
+        "rsi2": 42.9,
+        "sma_exit": 88.92,
+        "sma_trend": 83.67
       },
       "XLI": {
-        "price": 169.56,
-        "rsi2": 66.41,
-        "sma_exit": 168.71,
-        "sma_trend": 172.6
+        "price": 171.95,
+        "rsi2": 84.09,
+        "sma_exit": 169.55,
+        "sma_trend": 172.63
       },
       "XLU": {
-        "price": 43.72,
-        "rsi2": 92.45,
-        "sma_exit": 43.13,
+        "price": 43.63,
+        "rsi2": 80.31,
+        "sma_exit": 43.28,
         "sma_trend": 43.81
       },
       "XLB": {
-        "price": 53.63,
-        "rsi2": 99.47,
-        "sma_exit": 52.52,
-        "sma_trend": 50.75
+        "price": 52.97,
+        "rsi2": 46.98,
+        "sma_exit": 52.75,
+        "sma_trend": 50.78
       },
       "SMH": {
-        "price": 508.17,
-        "rsi2": 7.37,
-        "sma_exit": 543.71,
-        "sma_trend": 520.0
+        "price": 520.77,
+        "rsi2": 43.93,
+        "sma_exit": 536.29,
+        "sma_trend": 520.6
       }
     }
   },

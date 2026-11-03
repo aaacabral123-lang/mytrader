@@ -1,5 +1,5 @@
 {
-  "cash": 313.34,
+  "cash": 705.2,
   "positions": [
     {
       "ticker": "ADBE",
@@ -42,17 +42,6 @@
           "id": "MSFT-alpaca",
           "shares": 0.852460181,
           "cost": 452.185798
-        }
-      ]
-    },
-    {
-      "ticker": "MU",
-      "shares": 0.470772442,
-      "lots": [
-        {
-          "id": "MU-alpaca",
-          "shares": 0.470772442,
-          "cost": 461.85507
         }
       ]
     },
