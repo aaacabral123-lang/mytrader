@@ -1,211 +1,45 @@
 {
-  "as_of": "2026-11-03T19:05:00Z",
+  "as_of": "2026-11-03T19:35:00Z",
   "items": [
     {
-      "id": "rss:e1bfbaf4-30b3-3c10-ba6a-df05c8b7ec81",
+      "id": "rss:4ad20ed4-2d85-4a1b-93b1-0cc2cd9afeae",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Dell (DELL): A Top 10 Cheap AI Stock Trading at 13x Forward Earnings",
-      "summary": "We just published the list of the 10 Best and Cheap Stocks to Buy Heading into 2027 and Dell Technologies (NYSE:DELL) ranks 10th on this list. Wall Street\u2019s AI trade took a hard hit on October 30. Reuters reported that a selloff in tech shares pushed MSCI\u2019s global index down 1.5%, after results from Intel [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dell-dell-top-10-cheap-185313697.html?.tsrc=rss",
-      "time": "2026-11-03T18:53:13+00:00",
+      "title": "Would you let AI chatbots smear your competitors?",
+      "summary": "Host and \"The Buy Side\" author Turney Duff, along with his panel of experts, weigh in on ethics and trust concerns surrounding companies' use of AI chatbots to smear competitors. Today's panel includes Paisley Nardini, Chief Investment Strategist at Tema ETFs; David Wagner, Head of Equity and Portfolio Manager at Aptus Capital Advisors; Dan DeFrancesco, Executive Editor and anchor of Business Insider Today; and Barron's reporter Nate Wolf.",
+      "link": "https://finance.yahoo.com/video/would-you-let-ai-chatbots-smear-your-competitors-191420766.html?.tsrc=rss",
+      "time": "2026-11-03T19:14:20+00:00",
       "touches": [
         "GOOGL"
       ],
-      "tags": [
-        "earnings"
-      ],
+      "tags": [],
       "new": true
     },
     {
-      "id": "rss:d6a3f0c0-6462-34c3-84e7-cf4757da6294",
+      "id": "rss:dc363b9c-b614-3cf6-acf2-25172780a5ca",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Hedge Funds Are Snapping Up AppLovin (APP) at a Steep Discount",
-      "summary": "We just published the list of the 10 Best and Cheap Stocks to Buy Heading into 2027 and AppLovin (NASDAQ:APP) ranks 9th on this list. Wall Street\u2019s AI trade took a hard hit on October 30. Reuters reported that a selloff in tech shares pushed MSCI\u2019s global index down 1.5%, after results from Intel and [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hedge-funds-snapping-applovin-app-184845036.html?.tsrc=rss",
-      "time": "2026-11-03T18:48:45+00:00",
+      "title": "Xcel Energy (XEL) Faces Community Pushback Over 780 MW AI Data Center Plan",
+      "summary": "Xcel Energy (NasdaqGS:XEL) and Google announced the 780 MW Project Skyway data center plan, tying new grid investments to AI computing needs. Local residents and environmental groups are challenging the project over expected water use and ecological impact around the proposed facilities. Regulators and consumer advocates are reviewing proposed customer protection measures that aim to separate data center costs from household bills. The Project Skyway backlash and customer safeguards matter,...",
+      "link": "https://finance.yahoo.com/energy/articles/xcel-energy-xel-faces-community-191153010.html?.tsrc=rss",
+      "time": "2026-11-03T19:11:53+00:00",
       "touches": [
         "GOOGL"
       ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:3785eec3-a647-3e29-9fb8-bf7d10cf6b75",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Cboe Global Markets, Inc. (CBOE) Could Benefit From the Growing Options Trading Market: Here\u2019s Why",
-      "summary": "Mott Capital Management, an investment research and management firm, released its \u201cThematic Growth Strategy\u201d Q3 2026 investor letter. A copy of the letter can be downloaded here. The strategy generated a 9.01% YTD return through Q3 2026, trailing the S&P 500 Total Return Index\u2019s 12.75%. Sector rotation and weakness in technology shares shaped the market [\u2026]",
-      "link": "https://finance.yahoo.com/markets/options/articles/cboe-global-markets-inc-cboe-184500637.html?.tsrc=rss",
-      "time": "2026-11-03T18:45:00+00:00",
-      "touches": [
-        "MSFT"
-      ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:9717d825-63c1-316d-807a-44fcb5f7661a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "UnitedHealth Group Incorporated (UNH) Rebounded After Better-Than-Expected Results: Mott Capital\u2019s Take",
-      "summary": "Mott Capital Management, an investment research and management firm, released its \u201cThematic Growth Strategy\u201d Q3 2026 investor letter. A copy of the letter can be downloaded here. The strategy generated a 9.01% YTD return through Q3 2026, trailing the S&P 500 Total Return Index\u2019s 12.75%. Sector rotation and weakness in technology shares shaped the market [\u2026]",
-      "link": "https://finance.yahoo.com/healthcare/articles/unitedhealth-group-incorporated-unh-rebounded-184449658.html?.tsrc=rss",
-      "time": "2026-11-03T18:44:49+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:1dc78a3b-7381-3ca7-8fe9-e683cf484a96",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Microsoft Corporation (MSFT) Delivered Strong Fiscal Fourth-Quarter Results: Mott Capital\u2019s Take",
-      "summary": "Mott Capital Management, an investment research and management firm, released its \u201cThematic Growth Strategy\u201d Q3 2026 investor letter. A copy of the letter can be downloaded here. The strategy generated a 9.01% YTD return through Q3 2026, trailing the S&P 500 Total Return Index\u2019s 12.75%. Sector rotation and weakness in technology shares shaped the market [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-delivered-strong-184429966.html?.tsrc=rss",
-      "time": "2026-11-03T18:44:29+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:5ad2b76e-75ee-39a3-9677-d3e0df8407d9",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Illumina, Inc. (ILMN) Rallied, but Mott Capital Decided to Take Some Profits: Here\u2019s Why",
-      "summary": "Mott Capital Management, an investment research and management firm, released its \u201cThematic Growth Strategy\u201d Q3 2026 investor letter. A copy of the letter can be downloaded here. The strategy generated a 9.01% YTD return through Q3 2026, trailing the S&P 500 Total Return Index\u2019s 12.75%. Sector rotation and weakness in technology shares shaped the market [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/illumina-inc-ilmn-rallied-mott-184418841.html?.tsrc=rss",
-      "time": "2026-11-03T18:44:18+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:fc46842e-6469-3923-9cb8-6ba7c8b92c8f",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "GRAIL, Inc. (GRAL) Surged After FDA Panel Backed Its Cancer Detection Test: Here\u2019s Why",
-      "summary": "Mott Capital Management, an investment research and management firm, released its \u201cThematic Growth Strategy\u201d Q3 2026 investor letter. A copy of the letter can be downloaded here. The strategy generated a 9.01% YTD return through Q3 2026, trailing the S&P 500 Total Return Index\u2019s 12.75%. Sector rotation and weakness in technology shares shaped the market [\u2026]",
-      "link": "https://finance.yahoo.com/healthcare/articles/grail-inc-gral-surged-fda-184410703.html?.tsrc=rss",
-      "time": "2026-11-03T18:44:10+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:da4d6fec-7b17-3ff0-8b81-e91cf699a338",
+      "id": "rss:d423bf72-b627-3b70-90d0-ca1504a62cd8",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Schwab\u2019s (SCHW) Latest Move Proves Its Moat Is Doing Its Job",
-      "summary": "We just published the list of the 10 Best and Cheap Stocks to Buy Heading into 2027 and Charles Schwab (NYSE:SCHW) ranks 8th on this list. Wall Street\u2019s AI trade took a hard hit on October 30. Reuters reported that a selloff in tech shares pushed MSCI\u2019s global index down 1.5%, after results from Intel [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/schwab-schw-latest-move-proves-184342408.html?.tsrc=rss",
-      "time": "2026-11-03T18:43:42+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:bdaa26b8-b9db-3949-ae2e-812f2637f2ee",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Oracle (ORCL): A Top 10 Cheap AI Stock Trading at Just 11x Forward Earnings",
-      "summary": "We just published the list of the 10 Best and Cheap Stocks to Buy Heading into 2027 and Oracle (NYSE:ORCL) ranks 6th on this list. Wall Street\u2019s AI trade took a hard hit on October 30. Reuters reported that a selloff in tech shares pushed MSCI\u2019s global index down 1.5%, after results from Intel and [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-top-10-cheap-183905094.html?.tsrc=rss",
-      "time": "2026-11-03T18:39:05+00:00",
-      "touches": [
-        "GOOGL",
-        "ORCL"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:5b15996b-403a-3220-9548-d10a671f984e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Gradient Opens Its Doors to Tulsa for Global Entrepreneurship Week",
-      "summary": "Gradient, recently named the world's top Global Entrepreneur Support Organization by the International Business Innovation Association (INBIA), will open its doors November 16 to 20 for Tulsa's Global Entrepreneurship Week. More than 20 sessions are free and open to the public, bringing together founders, students, creatives, investors, and anyone with an idea. Registration is open now at joingradient.com/gew.",
-      "link": "https://finance.yahoo.com/small-business/articles/gradient-opens-doors-tulsa-global-183200830.html?.tsrc=rss",
-      "time": "2026-11-03T18:32:00+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:36d8b520-7615-37a4-bbd0-7ec92ab9468b",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Sector Update: Tech Stocks Rise Tuesday Afternoon",
-      "summary": "Tech stocks were higher Tuesday afternoon, with the State Street Technology Select Sector SPDR ETF (",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-tuesday-182519139.html?.tsrc=rss",
-      "time": "2026-11-03T18:25:19+00:00",
-      "touches": [
-        "NVDA",
-        "XLK"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:d2de1b93-5543-366d-b0e1-598f7f628d28",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "PLTR Beats on Q3 Earnings and Raises Guidance: Is the Stock a Buy?",
-      "summary": "Palantir's Q3 earnings beat, 96% revenue growth and raised 2026 guidance highlight AI momentum, but rising costs and U.S. concentration raise questions.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pltr-beats-q3-earnings-raises-173200200.html?.tsrc=rss",
-      "time": "2026-11-03T17:32:00+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:c6aac32a-32fa-344d-a767-6138e32ea344",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Reddit Stock Plunges 30% Post Q3 Earnings: Buy, Sell, or Hold?",
-      "summary": "RDDT's strong ad growth and rising user engagement support its prospects, but declining search traffic, higher costs, and premium valuation remain concerns.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-stock-plunges-30-post-172500236.html?.tsrc=rss",
-      "time": "2026-11-03T17:25:00+00:00",
+      "title": "Why Western Digital\u2019s (WDC) Massive Quarter Is Only the Beginning (ready)",
+      "summary": "We just published the list of the 10 Best and Cheap Stocks to Buy Heading into 2027 and Western Digital (NASDAQ:WDC) ranks 7th on this list. Wall Street\u2019s AI trade took a hard hit on October 30. Reuters reported that a selloff in tech shares pushed MSCI\u2019s global index down 1.5%, after results from Intel [\u2026]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-western-digital-wdc-massive-185737464.html?.tsrc=rss",
+      "time": "2026-11-03T18:57:37+00:00",
       "touches": [
         "GOOGL"
       ],

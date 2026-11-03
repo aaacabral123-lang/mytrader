@@ -1,68 +1,68 @@
 {
-  "as_of": "2026-11-03T19:05:06Z",
+  "as_of": "2026-11-03T19:35:03Z",
   "source": "yahoo",
   "note": "Delayed quotes for alerts and sizing checks. Your broker's price is the one that fills.",
   "prices": {
-    "ADBE": 248.26,
-    "BLK": 1164.83,
-    "GOOGL": 279.3,
-    "MSFT": 521.495,
-    "NVDA": 207.87,
-    "ORCL": 126.26,
-    "QQQ": 687.12,
-    "SPY": 756.1,
-    "UNP": 304.725,
-    "XLK": 176.81
+    "ADBE": 247.38,
+    "BLK": 1163.285,
+    "GOOGL": 279.03,
+    "MSFT": 521.225,
+    "NVDA": 206.79,
+    "ORCL": 124.635,
+    "QQQ": 685.51,
+    "SPY": 755.035,
+    "UNP": 304.715,
+    "XLK": 176.28
   },
   "detail": {
     "ADBE": {
       "prev_close": 251.47,
-      "time": "2026-11-03T19:04:44Z",
+      "time": "2026-11-03T19:35:02Z",
       "source": "yahoo"
     },
     "BLK": {
       "prev_close": 1167.15,
-      "time": "2026-11-03T19:04:33Z",
+      "time": "2026-11-03T19:35:03Z",
       "source": "yahoo"
     },
     "GOOGL": {
       "prev_close": 278.99,
-      "time": "2026-11-03T19:05:04Z",
+      "time": "2026-11-03T19:35:04Z",
       "source": "yahoo"
     },
     "MSFT": {
       "prev_close": 507.12,
-      "time": "2026-11-03T19:05:07Z",
+      "time": "2026-11-03T19:35:03Z",
       "source": "yahoo"
     },
     "NVDA": {
       "prev_close": 202.06,
-      "time": "2026-11-03T19:05:08Z",
+      "time": "2026-11-03T19:35:05Z",
       "source": "yahoo"
     },
     "ORCL": {
       "prev_close": 119.22,
-      "time": "2026-11-03T19:05:09Z",
+      "time": "2026-11-03T19:35:05Z",
       "source": "yahoo"
     },
     "QQQ": {
       "prev_close": 681.09,
-      "time": "2026-11-03T19:05:04Z",
+      "time": "2026-11-03T19:35:05Z",
       "source": "yahoo"
     },
     "SPY": {
       "prev_close": 752.1,
-      "time": "2026-11-03T19:05:09Z",
+      "time": "2026-11-03T19:35:07Z",
       "source": "yahoo"
     },
     "UNP": {
       "prev_close": 307.0,
-      "time": "2026-11-03T19:05:03Z",
+      "time": "2026-11-03T19:35:05Z",
       "source": "yahoo"
     },
     "XLK": {
       "prev_close": 174.22,
-      "time": "2026-11-03T19:05:05Z",
+      "time": "2026-11-03T19:35:06Z",
       "source": "yahoo"
     }
   }
