@@ -58,7 +58,7 @@ Cada skill tem um robô com seu próprio ritmo (`bot/equipe.py`). O time roda 24
 | Robô | Skill | Quando | O que faz |
 | --- | --- | --- | --- |
 | Gestor | budget, rebalance, risk, broker | a cada 30 min com a bolsa aberta | compra e vende (longo e curto prazo) |
-| Notícias | trader-news | a cada 30 min, 24 h | comunicado grave da própria empresa à SEC (8-K de falência, ataque hacker, dívida antecipada, baixa contábil, risco de sair da bolsa, balanço refeito): avisa e bloqueia novas compras dela por 5 dias. Manchetes com palavras como \"processo\" ou \"hack\" só aparecem no painel |
+| Notícias | trader-news | a cada 30 min, 24 h | comunicado grave da própria empresa à SEC (8-K de falência, ataque hacker, dívida antecipada, baixa contábil, risco de sair da bolsa, balanço refeito): avisa e bloqueia novas compras dela por 5 dias. Só entram notícias de fontes confiáveis: comunicados à SEC e Reuters, AP, Bloomberg, WSJ, Financial Times, CNBC, MarketWatch, Barron's, New York Times e Yahoo Finance (lista em `noticias_fontes` no `trader/robo.json`). Manchetes com palavras como \"processo\" ou \"hack\" só aparecem no painel |
 | Políticos | trader-pelosi | a cada 2 h, 24 h | avisa quando um deputado negociar ações que o robô tem ou segue |
 | Vigia de preços | trader-alerts | a cada 30 min com a bolsa aberta | avisa quando uma ação sua sobe ou cai 5% no dia |
 | Analista | trader-analyst | 1x por dia, 7h de Nova York | balanço novo de uma ação sua: avisa e pede ao gestor que refaça a escolha das ações |

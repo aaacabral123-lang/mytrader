@@ -30,6 +30,7 @@ import subprocess
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 
 import curto
@@ -80,6 +81,24 @@ class RoboError(Exception):
 
 def path(*p):
     return os.path.join(T, *p)
+
+
+# Newsrooms the news robot and the daily report trust; everything else in the Yahoo feed (opinion and
+# stock-pick sites such as fool.com, 247wallst.com, benzinga.com, stocktwits.com) is dropped. SEC 8-K
+# filings are always kept: they are the company's own statements.
+TRUSTED_NEWS = ["reuters.com", "apnews.com", "bloomberg.com", "wsj.com", "ft.com", "cnbc.com",
+                "marketwatch.com", "barrons.com", "nytimes.com", "finance.yahoo.com"]
+
+
+def trusted_news(items, robo=None):
+    """Only SEC filings and headlines whose link is on a trusted newsroom (robo.json "noticias_fontes")."""
+    domains = (robo or {}).get("noticias_fontes") or TRUSTED_NEWS
+    keep = []
+    for it in items:
+        host = urllib.parse.urlparse(it.get("link") or "").netloc.lower()
+        if it.get("kind") != "headline" or any(host == d or host.endswith("." + d) for d in domains):
+            keep.append(it)
+    return keep
 
 
 def team_signals():
@@ -515,6 +534,8 @@ def daily_report(api, robo, cfg, targets, positions, state, today, log):
 
     out += ["", "## Notícias (últimas 24 h)", ""]
     news = skill_json("trader-news/news.py", "--tickers", *(tickers + ["--hours", "24"]))
+    if news is not None:
+        news["items"] = trusted_news(news.get("items", []), robo)
     if news is None:
         out.append("Não consegui ler as notícias hoje.")
     elif not news.get("items"):
