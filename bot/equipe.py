@@ -96,6 +96,8 @@ def r_noticias(ctx):
         "--hours", "48", "--state", "trader/state/news_time.json"]))
     if res is None:
         raise RuntimeError("trader-news não respondeu")
+    everything = res.get("items", [])
+    res["items"] = robo.trusted_news(everything, ctx["robo"])
     # only the company's own SEC filing counts: headline keywords ("bankrupt", "hack") also hit opinion pieces
     # and stories that merely mention the company, so headlines are listed for the dashboard and never block
     serious = [it for it in res.get("items", [])
@@ -112,8 +114,8 @@ def r_noticias(ctx):
                     tags=["warning"], click=it.get("link"), priority=4)
     robo.write_json(os.path.join(TIME, "noticias.json"), {"as_of": ctx["now_iso"], "items": res.get("items", [])[:40],
                                                           "atencao": watch[:20]})
-    return "%d novas, %d comunicados graves, %d manchetes de atenção" % (len(res.get("items", [])), len(serious),
-                                                                        len(watch))
+    return "%d novas de fontes confiáveis (%d descartadas), %d comunicados graves, %d manchetes de atenção" % (
+        len(res["items"]), len(everything) - len(res["items"]), len(serious), len(watch))
 
 
 def r_politicos(ctx):
@@ -223,7 +225,8 @@ def tick(dry_run=False):
     ny = dt.datetime.fromisoformat(str(c["timestamp"]).replace("Z", "+00:00"))
     today = ny.date()
     signals["bloqueio"] = {s: b for s, b in (signals.get("bloqueio") or {}).items() if b["until"] > today.isoformat()}
-    ctx = {"now_iso": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "today": today, "signals": signals, "dry_run": dry_run}
+    ctx = {"now_iso": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "today": today, "signals": signals, "dry_run": dry_run,
+           "robo": dict(robo.ROBO_DEFAULTS, **(robo.read_json(robo.path("robo.json"), {}) or {}))}
     plan = [
         ("gestor", lambda: r_gestor(ctx), dict(need_open=True, is_open=is_open)),
         ("noticias", lambda: r_noticias(ctx), dict(every_min=30)),
