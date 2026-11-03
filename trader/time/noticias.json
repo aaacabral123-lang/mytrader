@@ -1,35 +1,70 @@
 {
-  "as_of": "2026-11-03T23:05:00Z",
+  "as_of": "2026-11-03T23:35:00Z",
   "items": [
     {
-      "id": "rss:50412834-6c6c-3561-b55f-7cd4f8192a85",
+      "id": "rss:68760004-2ef1-3fc4-9125-1ee6568f3719",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Adobe Systems (ADBE) Stock Sinks As Market Gains: Here's Why",
-      "summary": "In the closing of the recent trading day, Adobe Systems (ADBE) stood at $246.14, denoting a -2.12% move from the preceding trading day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-systems-adbe-stock-sinks-214501693.html?.tsrc=rss",
-      "time": "2026-11-03T21:45:01+00:00",
+      "ticker": "NVDA",
+      "title": "What Is Nvidia (NVDA) Asking Cloud Clients To Change Under New China Rules?",
+      "summary": "Nvidia (NasdaqGS:NVDA) has told data center and cloud customers to curb sales to Chinese clients to comply with new US export rules. The instruction reportedly requires at least 51% of future sales from these partners to come from non Chinese buyers. The policy affects global AI infrastructure providers that rely on Nvidia hardware to serve both Chinese and non Chinese enterprises. Nvidia's new 51% non Chinese sales rule for data center clients sits alongside wider pressures that our...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-asking-cloud-clients-232102833.html?.tsrc=rss",
+      "time": "2026-11-03T23:21:02+00:00",
       "touches": [
-        "ADBE"
+        "NVDA"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:b376e0da-afc1-3455-b2b6-329bc40c8acd",
+      "id": "rss:84028274-c22a-312b-b4ca-5c148c6a8a35",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MU",
-      "title": "Q4 QQQ Roadmap: Navigating AI Turbulence & Market Headwinds",
-      "summary": "As historical seasonality and political gridlock align with favorable risk-reward entries across core infrastructure names, the current pullback presents a compelling backdrop for the next leg higher.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/q4-qqq-roadmap-navigating-ai-212600565.html?.tsrc=rss",
-      "time": "2026-11-03T21:26:00+00:00",
+      "ticker": "ADBE",
+      "title": "Adobe (ADBE) Stock Sees Modest Fair Value Cut As Analysts Split On AI And ARR",
+      "summary": "Analysts have reset the internal fair value estimate for Adobe from US$275.06 to US$268.30, a modest change that still matters for how you think about the stock. This move reflects mixed research views, with some firms lifting price targets into the US$220 to US$315 range, while others trim targets toward US$225 to US$275 as they weigh freemium and AI potential against softer ARR trends and competition. As you read on, you will see how to track these shifting narratives and what they may mean...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-stock-sees-modest-231707869.html?.tsrc=rss",
+      "time": "2026-11-03T23:17:07+00:00",
       "touches": [
-        "MU",
-        "QQQ"
+        "ADBE"
       ],
-      "tags": [],
+      "tags": [
+        "analyst"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:514acb03-b37e-3ab6-b4bb-fa08de39ce80",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ORCL",
+      "title": "Oracle Stock Faces Questions After $20 Billion AI Funding Plan",
+      "summary": "In late October and early November 2026, Oracle raised US$20b through concurrent offerings of US$10b in common stock and US$10b in senior notes to fund heavy AI and cloud infrastructure spending. This included multiple tranches of fixed rate, senior, unsecured bonds with coupons between 7% and 8.65% and a US$10b equity sale at US$116 per share. The financing package, combined with Oracle\u2019s guidance on future free cash flow and a cap on new funding through fiscal 2030, sharpened focus on...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-faces-questions-20-231707584.html?.tsrc=rss",
+      "time": "2026-11-03T23:17:07+00:00",
+      "touches": [
+        "ORCL"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:5b1597ab-45d7-3b46-aa34-310b6c5d1e2b",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "AMD Forecast Exceeds Estimates as AI Chip Demand Soars",
+      "summary": "Advanced Micro Devices Inc., a key challenger to\u00a0Nvidia Corp.\u00a0in artificial intelligence chips, gave a revenue forecast that exceeded analysts' estimates, showing that demand for data center processors remains strong. Fourth-quarter revenue will be $17 billion, plus or minus 3%, the chipmaker said in\u00a0a statement\u00a0Tuesday. The outlook provided fresh evidence that AI spending is sustainable, soothing jittery investors. We get reaction from Kunjan Sobhani, Senior Semiconductor Analyst for Bloomberg Intelligence.",
+      "link": "https://finance.yahoo.com/video/amd-forecast-exceeds-estimates-ai-223434603.html?.tsrc=rss",
+      "time": "2026-11-03T22:34:34+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "earnings"
+      ],
       "new": true
     }
   ],
