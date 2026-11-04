@@ -1,39 +1,5 @@
 {
-  "as_of": "2026-11-04T06:05:00Z",
-  "items": [
-    {
-      "id": "rss:e2e05051-fd01-3f09-9512-758a26d9e6e3",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Oracle cancels $7 bln chip leasing deal with Tencent, FT reports",
-      "summary": "Investing.com-- Oracle has scuttled a $7 billion chip leasing contract with Tencent amid increased pressure from the Trump administration, the Financial Times reported on Wednesday.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-cancels-7-bln-chip-055216451.html?.tsrc=rss",
-      "time": "2026-11-04T05:52:16+00:00",
-      "touches": [
-        "NVDA",
-        "ORCL"
-      ],
-      "tags": [
-        "deal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:5f620930-8f1f-3b60-9a6f-c7aee9217a62",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia China clients to get 1% of $70 bln RTX chips ordered- Bloomberg",
-      "summary": "Investing.com -- Chinese artificial intelligence developers expect to receive just a fraction of the advanced chips ordered from NVIDIA Corp (NASDAQ:NVDA) over the coming months, Bloomberg reported on Wednesday.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-china-clients-1-70-053111298.html?.tsrc=rss",
-      "time": "2026-11-04T05:31:11+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-04T06:35:00Z",
+  "items": [],
   "atencao": []
 }
