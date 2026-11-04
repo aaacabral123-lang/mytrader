@@ -1,45 +1,15 @@
 {
-  "as_of": "2026-11-04T02:35:00Z",
+  "as_of": "2026-11-04T03:05:00Z",
   "items": [
     {
-      "id": "rss:a47c3e62-d676-3df5-a21d-bb2d83c3d316",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Microsoft (MSFT) Deepens Enterprise AI Networking Partnership",
-      "summary": "Microsoft (NasdaqGS:MSFT) and Lumen Technologies expanded their co-selling agreement to focus on AI-ready cloud networking for enterprises. The collaboration targets large organizations running distributed AI workloads on Microsoft Azure with integrated connectivity, security, and data services. Lumen plans to align its network and security offerings with Azure to support unified governance for enterprise AI agents and applications. The expanded Microsoft and Lumen AI networking push is...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-deepens-enterprise-ai-020744358.html?.tsrc=rss",
-      "time": "2026-11-04T02:07:44+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:b97c63a0-9ae8-3ce7-a9a1-da4964bc6a94",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "1Finity, a Fujitsu Company, Announces Availability of Full-Stack Enterprise AI-Native vRAN Solution",
-      "summary": "KAWASAKI, Japan, November 04, 2026--1Finity unveils full-stack AI-Native vRAN solution\u200b built on the NVIDIA AI Aerial platform, enabling Mobile Network Operators to monetize AI services",
-      "link": "https://finance.yahoo.com/technology/ai/articles/1finity-fujitsu-company-announces-availability-020000548.html?.tsrc=rss",
-      "time": "2026-11-04T02:00:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:30bf221c-48fe-32b1-a00c-08bf310be09f",
+      "id": "rss:5563aa5b-09fe-3ef2-a55d-6997bf6ad2aa",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Anthropic S-1: Record Growth, but is the IPO a Buy?",
-      "summary": "Anthropic's S-1 filing confirms its dominance as the fastest-growing tech giant in history.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-1-record-growth-ipo-005900863.html?.tsrc=rss",
-      "time": "2026-11-04T00:59:00+00:00",
+      "title": "Zohran Mamdani Says Google Uses \u2018Monopoly Power\u2019 to Push AI Into Schools: Corporations Shouldn\u2019t \u2018Dictate\u2019 How We Teach Children",
+      "summary": "New York City Mayor Zohran Mamdani accused Alphabet Inc.\u2018s (NASDAQ:GOOGL) (NASDAQ:GOOG) Google of trying to force AI into public schools, after the company said it will restrict its AI tools and Search for students in schools. Google Using \u2018Monopoly Power\u2019 In a post on X Tuesday, Mamdani said \u201cno corporation should have the power to dictate how we teach our children,\u201d and that Google is trying to use its \u201cmonopoly power to force AI\u201d into schools. Public schools, he added, exist to serve students",
+      "link": "https://finance.yahoo.com/technology/ai/articles/zohran-mamdani-says-google-uses-013616818.html?.tsrc=rss",
+      "time": "2026-11-04T01:36:16+00:00",
       "touches": [
         "GOOGL"
       ],
