@@ -1,37 +1,37 @@
 {
-  "as_of": "2026-11-04T09:05:00Z",
+  "as_of": "2026-11-04T09:35:00Z",
   "items": [
     {
-      "id": "rss:9d71d869-e653-3350-9466-7f70c53e3349",
+      "id": "rss:4b615743-3423-4998-8519-dfc1cd22bf04",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall after Democrats take control of House, Senate",
+      "summary": "Markets priced in a divided government and assessed what a Democratic sweep of midterm elections means for key industries.",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-091834396.html?.tsrc=rss",
+      "time": "2026-11-04T09:18:34+00:00",
+      "touches": [
+        "MU",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:f3fced52-7227-3222-88fa-5aad79845715",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "ORCL",
-      "title": "Market Chatter: Oracle Axes $7 Billion Tencent Chip-Leasing Deal Amid White House Pressure",
-      "summary": "Oracle (ORCL) has axed a $7 billion chip-leasing contract with Tencent, yielding to pressure from th",
-      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-oracle-axes-7-085230337.html?.tsrc=rss",
-      "time": "2026-11-04T08:52:30+00:00",
+      "title": "DoorDash And 2 Other Great Growth Stocks To Own",
+      "summary": "Democrats taking control of Congress has sharpened political focus on inflation, wages, and the cost of living. That puts faster growing, financially solid businesses in the spotlight as investors look for companies that can potentially grow earnings even as policy debates drag on. This article walks through three stocks that screen well for robust profit growth potential and balance sheet health, giving you a focused shortlist to research further. The three stocks highlighted here offer a...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/doordash-2-other-great-growth-091631021.html?.tsrc=rss",
+      "time": "2026-11-04T09:16:31+00:00",
       "touches": [
         "ORCL"
       ],
       "tags": [
-        "deal"
+        "earnings"
       ],
-      "new": true
-    },
-    {
-      "id": "rss:2760c154-7d63-3da1-87cd-76d43ac75291",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "Zacks Investment Ideas feature highlights: QQQ, CoreWeave, SanDisk, Marvell, Arm and Micron",
-      "summary": "QQQ faces AI funding fears, rate pressures and tech pullbacks, but historical post-midterm gains and improving technical conditions point to potential market recovery.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-073200537.html?.tsrc=rss",
-      "time": "2026-11-04T07:32:00+00:00",
-      "touches": [
-        "MU",
-        "QQQ"
-      ],
-      "tags": [],
       "new": true
     }
   ],
