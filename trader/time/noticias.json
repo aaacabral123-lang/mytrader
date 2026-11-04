@@ -1,15 +1,15 @@
 {
-  "as_of": "2026-11-04T16:35:00Z",
+  "as_of": "2026-11-04T17:05:00Z",
   "items": [
     {
-      "id": "rss:0b4333db-2499-3077-ad14-17e8c65b6539",
+      "id": "rss:caab1c98-2f89-3112-8245-0c4dd6fda2a3",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Silicon Valley investor shuts London office as US dominates AI",
-      "summary": "One of Silicon Valley\u2019s most successful venture-capital firms has shut down its London office as the US dominates a tidal wave of multibillion-dollar AI deals.",
-      "link": "https://uk.finance.yahoo.com/news/silicon-valley-investor-shuts-london-162447849.html?.tsrc=rss",
-      "time": "2026-11-04T16:24:47+00:00",
+      "title": "Angi Leads Home Services into AI Search with Google",
+      "summary": "Angi extends AI leadership as one of the first home services marketplaces available through AI Mode in Google SearchDENVER, Nov. 04, 2026 (GLOBE NEWSWIRE) -- Angi (formerly Angie\u2019s List) (NASDAQ: ANGI), a leading digital home services marketplace, today announced it is among the first home services marketplaces available through AI Mode in Google Search\u2014further positioning Angi at the forefront of how AI is transforming the home-project journey. Following Angi\u2019s launch as a connected app in Goog",
+      "link": "https://finance.yahoo.com/technology/ai/articles/angi-leads-home-services-ai-170000739.html?.tsrc=rss",
+      "time": "2026-11-04T17:00:00+00:00",
       "touches": [
         "GOOGL"
       ],
@@ -17,31 +17,46 @@
       "new": true
     },
     {
-      "id": "rss:15041bf7-d934-3711-bfe1-e6f98c605080",
+      "id": "rss:8c80f96f-96c4-38ef-83f9-9fccca03685c",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Microsoft Stocks Jump 3.5% as $25 Billion Debt Sale Is Due to Close",
-      "summary": "New financing adds flexibility while introducing a sizeable recurring interest commitment.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-jump-3-5-161943824.html?.tsrc=rss",
-      "time": "2026-11-04T16:19:43+00:00",
+      "ticker": "GOOGL",
+      "title": "Google Just Made a $15 Billion Bet on Southeast Asia",
+      "summary": "Google will build additional data-center campuses over two years while expanding digital skills programs across Malaysia.",
+      "link": "https://finance.yahoo.com/technology/articles/google-just-made-15-billion-165622988.html?.tsrc=rss",
+      "time": "2026-11-04T16:56:22+00:00",
       "touches": [
-        "MSFT"
+        "GOOGL"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:7716f984-8f83-3647-b651-3ce98e1349f1",
+      "id": "rss:81b3ee20-fe4b-3791-ae47-137bfef90aea",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Why Is Oracle (ORCL) Reworking Its AI Plans After A $7 Billion Deal Ended?",
-      "summary": "Oracle (NYSE:ORCL) reportedly cancelled a planned US$7b AI chip leasing agreement with Tencent after increased U.S. government pressure. The shelved arrangement involved providing Nvidia processors to Tencent through Oracle's cloud infrastructure for Chinese AI workloads. Deloitte announced a unified Oracle business group that brings together its Oracle consulting, implementation and managed services into a single unit. The scrapped Tencent chip deal and Deloitte's new Oracle-focused group...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/why-oracle-orcl-reworking-ai-161123177.html?.tsrc=rss",
-      "time": "2026-11-04T16:11:23+00:00",
+      "ticker": "GOOGL",
+      "title": "Advanced Micro Devices (AMD): AI Data Center Sales Jump 107% as Helios Racks Roll Out",
+      "summary": "We just published the list of the 10 Best Tech Stocks for the Next 5 Years and Advanced Micro Devices (AMD) ranked 9th on this list. Big Tech just had a week investors will remember. At its low on Friday, Alphabet had lost $477 billion in market value for the week, its worst week ever [\u2026]",
+      "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-ai-165614786.html?.tsrc=rss",
+      "time": "2026-11-04T16:56:14+00:00",
       "touches": [
-        "NVDA",
+        "GOOGL",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:9afecc88-01bd-33b5-98d8-690eac0f4f0b",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ORCL",
+      "title": "Oracle's $7 Billion AI Deal Collapses After US Intervention",
+      "summary": "Oracle reportedly canceled an AI chip leasing agreement worth about $7 billion.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracles-7-billion-ai-deal-165110379.html?.tsrc=rss",
+      "time": "2026-11-04T16:51:10+00:00",
+      "touches": [
         "ORCL"
       ],
       "tags": [
@@ -50,16 +65,16 @@
       "new": true
     },
     {
-      "id": "rss:c3979265-344f-4f8f-b735-6f726fa229cb",
+      "id": "rss:7b4e20be-4364-398d-8eae-053dc72411e1",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MU",
-      "title": "AI data center stocks and Musk's companies take hits as Democrats take control",
-      "summary": "The 8:30 hosts, Pras Subramanian, Jake Conley, and Defiance ETFs CIO Sylvia Jablonski, break down the latest market headlines, including the Democrats retaking Congress and its possible negative effects on AI stocks and Elon Musk's companies. Plus, the team dives into the stocks to watch: CVS (CVS), McDonald's (MCD), Meta (META), and Uber (UBER).",
-      "link": "https://finance.yahoo.com/video/ai-data-center-stocks-and-musks-companies-take-hits-as-democrats-take-control-144159419.html?.tsrc=rss",
-      "time": "2026-11-04T14:41:59+00:00",
+      "ticker": "ORCL",
+      "title": "Oracle Stocks Decline 2.1% as $20 Billion Financing Reaches Its Closing Date",
+      "summary": "The financing combines new equity with debt carrying coupons as high as 8.65%.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-stocks-decline-2-1-162818417.html?.tsrc=rss",
+      "time": "2026-11-04T16:28:18+00:00",
       "touches": [
-        "MU"
+        "ORCL"
       ],
       "tags": [],
       "new": true
