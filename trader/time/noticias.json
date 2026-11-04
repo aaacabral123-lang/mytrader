@@ -1,56 +1,70 @@
 {
-  "as_of": "2026-11-04T18:35:00Z",
+  "as_of": "2026-11-04T19:05:00Z",
   "items": [
     {
-      "id": "rss:0299ec13-b429-39c2-8d3e-7e0e6cc70c4a",
+      "id": "rss:14dbcca7-fe7f-309a-b6c8-3367ae10c6ec",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Alphabet (GOOGL) Is Spending $15 Billion On Malaysia Data Centers",
-      "summary": "Alphabet (NasdaqGS:GOOGL) announced a US$15b investment to expand Google data centers and AI infrastructure in Malaysia in 2026. The Malaysian expansion includes new cloud facilities intended to support regional AI demand from enterprise and public sector clients. An Alphabet shareholder filed a lawsuit against senior executives alleging Google's AI models were trained on copyrighted material without proper authorization. The US$15b Malaysia build out and the new copyright lawsuit only...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-spending-15-billion-181005178.html?.tsrc=rss",
-      "time": "2026-11-04T18:10:05+00:00",
+      "title": "Democrats\u2019 Big Win Sets Up a Debt Ceiling Fight. What the Election Means for Bonds.",
+      "summary": "Worries about increased federal spending are already showing up in the market.",
+      "link": "https://finance.yahoo.com/m/14dbcca7-fe7f-309a-b6c8-3367ae10c6ec/democrats%E2%80%99-big-win-sets-up-a.html?.tsrc=rss",
+      "time": "2026-11-04T18:51:00+00:00",
       "touches": [
-        "GOOGL"
+        "GOOGL",
+        "MSFT",
+        "ORCL"
       ],
-      "tags": [
-        "legal"
-      ],
+      "tags": [],
       "new": true
     },
     {
-      "id": "rss:baca3904-c9ba-3bb0-9e77-8ed7428738c5",
+      "id": "rss:5fc73fed-7141-312f-8a6b-9791e4ef3991",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "XLK",
-      "title": "Exchange-Traded Funds Higher as US Equities Advance After Midday",
-      "summary": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV rose after midday Wedne",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-us-180914189.html?.tsrc=rss",
-      "time": "2026-11-04T18:09:14+00:00",
+      "title": "Sector Update: Tech Stocks Mixed Wednesday Afternoon",
+      "summary": "Tech stocks were mixed Wednesday afternoon, with the State Street Technology Select Sector SPDR ETF",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-wednesday-182712833.html?.tsrc=rss",
+      "time": "2026-11-04T18:27:12+00:00",
       "touches": [
         "XLK"
       ],
       "tags": [],
       "new": true
-    }
-  ],
-  "atencao": [
+    },
     {
-      "id": "rss:0299ec13-b429-39c2-8d3e-7e0e6cc70c4a",
+      "id": "rss:d58819ae-9dfd-369b-865e-0165dc6e99c5",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Alphabet (GOOGL) Is Spending $15 Billion On Malaysia Data Centers",
-      "summary": "Alphabet (NasdaqGS:GOOGL) announced a US$15b investment to expand Google data centers and AI infrastructure in Malaysia in 2026. The Malaysian expansion includes new cloud facilities intended to support regional AI demand from enterprise and public sector clients. An Alphabet shareholder filed a lawsuit against senior executives alleging Google's AI models were trained on copyrighted material without proper authorization. The US$15b Malaysia build out and the new copyright lawsuit only...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-spending-15-billion-181005178.html?.tsrc=rss",
-      "time": "2026-11-04T18:10:05+00:00",
+      "title": "Mag 7 Stocks Rise After Elections, Set to Add $600B in Market Cap",
+      "summary": "Nvidia, Apple, Meta Platforms, Amazon.com, Tesla, Alphabet, and Microsoft were on track for their tenth largest combined one-day valuation gain ever.",
+      "link": "https://finance.yahoo.com/m/d58819ae-9dfd-369b-865e-0165dc6e99c5/mag-7-stocks-rise-after.html?.tsrc=rss",
+      "time": "2026-11-04T17:23:00+00:00",
       "touches": [
-        "GOOGL"
+        "GOOGL",
+        "MSFT"
       ],
-      "tags": [
-        "legal"
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:ae96017b-e925-3256-b539-6e0a073501d0",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Big Tech Stocks Soar as Traders Bet Democrats Will Slow AI Spend",
+      "summary": "The shares of US technology giants led the market higher on Wednesday as investors bet that a Democrat-controlled Congress will slow the massive spending on artificial intelligence that\u2019s eating up free cash flow.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/big-tech-stocks-soar-traders-170754816.html?.tsrc=rss",
+      "time": "2026-11-04T17:07:54+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT"
       ],
+      "tags": [],
       "new": true
     }
-  ]
+  ],
+  "atencao": []
 }

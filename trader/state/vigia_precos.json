@@ -1,48 +1,48 @@
 {
-  "as_of": "2026-11-04T18:35:14Z",
+  "as_of": "2026-11-04T19:05:04Z",
   "source": "yahoo",
   "note": "Delayed quotes for alerts and sizing checks. Your broker's price is the one that fills.",
   "prices": {
-    "ADBE": 248.1,
-    "BLK": 1228.005,
-    "GOOGL": 291.007,
+    "ADBE": 249.15,
+    "BLK": 1223.86,
+    "GOOGL": 291.14,
     "MSFT": 555.345,
-    "NVDA": 203.86,
-    "ORCL": 125.525,
+    "NVDA": 203.46,
+    "ORCL": 125.635,
     "QQQ": 698.27,
     "SPY": 763.53,
-    "UNP": 308.13,
-    "XLK": 177.1
+    "UNP": 307.38,
+    "XLK": 176.99
   },
   "detail": {
     "ADBE": {
       "prev_close": 246.14,
-      "time": "2026-11-04T18:35:12Z",
+      "time": "2026-11-04T19:04:59Z",
       "source": "yahoo"
     },
     "BLK": {
       "prev_close": 1161.32,
-      "time": "2026-11-04T18:34:59Z",
+      "time": "2026-11-04T19:05:01Z",
       "source": "yahoo"
     },
     "GOOGL": {
       "prev_close": 280.03,
-      "time": "2026-11-04T18:35:06Z",
+      "time": "2026-11-04T19:05:03Z",
       "source": "yahoo"
     },
     "MSFT": {
       "prev_close": 520.99,
-      "time": "2026-11-04T18:35:12Z",
+      "time": "2026-11-04T19:05:01Z",
       "source": "yahoo"
     },
     "NVDA": {
       "prev_close": 206.69,
-      "time": "2026-11-04T18:35:15Z",
+      "time": "2026-11-04T19:05:06Z",
       "source": "yahoo"
     },
     "ORCL": {
       "prev_close": 126.19,
-      "time": "2026-11-04T18:35:14Z",
+      "time": "2026-11-04T19:05:07Z",
       "source": "yahoo"
     },
     "QQQ": {
@@ -57,12 +57,12 @@
     },
     "UNP": {
       "prev_close": 303.43,
-      "time": "2026-11-04T18:35:09Z",
+      "time": "2026-11-04T19:04:47Z",
       "source": "yahoo"
     },
     "XLK": {
       "prev_close": 176.51,
-      "time": "2026-11-04T18:35:10Z",
+      "time": "2026-11-04T19:05:08Z",
       "source": "yahoo"
     }
   }

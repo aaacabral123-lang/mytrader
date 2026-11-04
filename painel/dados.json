@@ -1,91 +1,91 @@
 {
-  "as_of": "2026-11-04T18:35:18Z",
+  "as_of": "2026-11-04T19:05:09Z",
   "paper": true,
   "strategy": "screener",
   "rules": "Growing, profitable, not priced for perfection",
   "start": 5000.0,
-  "total": 4957.14,
-  "invested": 3561.0,
+  "total": 4956.19,
+  "invested": 3560.15,
   "cash": 386.49,
-  "change": -42.86,
-  "change_pct": -0.86,
+  "change": -43.81,
+  "change_pct": -0.88,
   "positions": [
     {
       "symbol": "MSFT",
       "name": "MICROSOFT CORP",
       "qty": 0.96296023,
       "avg": 515.068,
-      "price": 555.34,
-      "value": 534.77,
-      "pl": 38.78,
+      "price": 555.33,
+      "value": 534.76,
+      "pl": 38.77,
       "pl_pct": 7.82,
       "weight": 10.79
-    },
-    {
-      "symbol": "BLK",
-      "name": "BlackRock, Inc.",
-      "qty": 0.424786446,
-      "avg": 1167.622,
-      "price": 1228.0,
-      "value": 521.64,
-      "pl": 25.65,
-      "pl_pct": 5.17,
-      "weight": 10.52
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc.",
       "qty": 1.78815038,
       "avg": 277.376,
-      "price": 291.041,
-      "value": 520.43,
-      "pl": 24.44,
-      "pl_pct": 4.93,
+      "price": 291.14,
+      "value": 520.6,
+      "pl": 24.61,
+      "pl_pct": 4.96,
       "weight": 10.5
     },
     {
-      "symbol": "UNP",
-      "name": "UNION PACIFIC CORP",
-      "qty": 1.632372978,
-      "avg": 303.846,
-      "price": 308.12,
-      "value": 502.97,
-      "pl": 6.98,
-      "pl_pct": 1.41,
-      "weight": 10.15
+      "symbol": "BLK",
+      "name": "BlackRock, Inc.",
+      "qty": 0.424786446,
+      "avg": 1167.622,
+      "price": 1224.33,
+      "value": 520.08,
+      "pl": 24.09,
+      "pl_pct": 4.86,
+      "weight": 10.49
     },
     {
       "symbol": "ADBE",
       "name": "ADOBE INC.",
       "qty": 2.019585488,
       "avg": 245.59,
-      "price": 248.1,
-      "value": 501.06,
-      "pl": 5.07,
-      "pl_pct": 1.02,
-      "weight": 10.11
+      "price": 249.09,
+      "value": 503.06,
+      "pl": 7.07,
+      "pl_pct": 1.43,
+      "weight": 10.15
+    },
+    {
+      "symbol": "UNP",
+      "name": "UNION PACIFIC CORP",
+      "qty": 1.632372978,
+      "avg": 303.846,
+      "price": 307.36,
+      "value": 501.73,
+      "pl": 5.74,
+      "pl_pct": 1.16,
+      "weight": 10.12
     },
     {
       "symbol": "ORCL",
       "name": "ORACLE CORP",
       "qty": 3.941746801,
       "avg": 125.83,
-      "price": 125.52,
-      "value": 494.77,
-      "pl": -1.22,
-      "pl_pct": -0.25,
-      "weight": 9.98
+      "price": 125.62,
+      "value": 495.16,
+      "pl": -0.83,
+      "pl_pct": -0.17,
+      "weight": 9.99
     },
     {
       "symbol": "NVDA",
       "name": "NVIDIA CORP",
       "qty": 2.381935421,
       "avg": 207.81,
-      "price": 203.7705,
-      "value": 485.37,
-      "pl": -9.62,
-      "pl_pct": -1.94,
-      "weight": 9.79
+      "price": 203.515,
+      "value": 484.76,
+      "pl": -10.23,
+      "pl_pct": -2.07,
+      "weight": 9.78
     }
   ],
   "targets": [
@@ -137,114 +137,114 @@
   "curto": {
     "start": 1000.0,
     "cash": 757.53,
-    "value": 1009.65,
-    "change": 9.65,
-    "change_pct": 0.96,
+    "value": 1009.55,
+    "change": 9.55,
+    "change_pct": 0.95,
     "positions": [
       {
         "symbol": "XLK",
         "qty": 1.423925178,
         "avg": 175.564,
-        "price": 177.06,
-        "value": 252.12,
-        "pl": 2.13,
-        "pl_pct": 0.85,
+        "price": 176.99,
+        "value": 252.02,
+        "pl": 2.03,
+        "pl_pct": 0.81,
         "since": "2026-11-02",
         "inverse_of": null
       }
     ],
     "signals": {
       "SPY": {
-        "price": 768.04,
-        "rsi2": 84.05,
-        "sma_exit": 759.93,
+        "price": 767.92,
+        "rsi2": 83.95,
+        "sma_exit": 759.91,
         "sma_trend": 727.09
       },
       "QQQ": {
-        "price": 694.46,
-        "rsi2": 65.34,
-        "sma_exit": 693.39,
+        "price": 694.14,
+        "rsi2": 64.71,
+        "sma_exit": 693.33,
         "sma_trend": 679.42
       },
       "IWM": {
-        "price": 284.06,
-        "rsi2": 88.48,
-        "sma_exit": 281.29,
-        "sma_trend": 277.96
+        "price": 283.91,
+        "rsi2": 88.15,
+        "sma_exit": 281.26,
+        "sma_trend": 277.95
       },
       "DIA": {
-        "price": 532.14,
-        "rsi2": 88.73,
-        "sma_exit": 521.64,
+        "price": 532.42,
+        "rsi2": 88.91,
+        "sma_exit": 521.7,
         "sma_trend": 503.84
       },
       "XLK": {
-        "price": 177.24,
-        "rsi2": 43.24,
-        "sma_exit": 179.25,
+        "price": 176.94,
+        "rsi2": 39.31,
+        "sma_exit": 179.19,
         "sma_trend": 169.71
       },
       "XLF": {
-        "price": 58.9,
-        "rsi2": 89.57,
+        "price": 58.91,
+        "rsi2": 89.66,
         "sma_exit": 57.42,
         "sma_trend": 53.47
       },
       "XLE": {
-        "price": 63.27,
-        "rsi2": 4.2,
+        "price": 63.29,
+        "rsi2": 4.22,
         "sma_exit": 67.19,
         "sma_trend": 58.44
       },
       "XLV": {
-        "price": 188.99,
-        "rsi2": 93.29,
-        "sma_exit": 185.32,
+        "price": 189.32,
+        "rsi2": 93.66,
+        "sma_exit": 185.39,
         "sma_trend": 158.15
       },
       "XLY": {
-        "price": 122.8,
-        "rsi2": 92.33,
-        "sma_exit": 117.97,
+        "price": 122.73,
+        "rsi2": 92.25,
+        "sma_exit": 117.96,
         "sma_trend": 115.14
       },
       "XLP": {
-        "price": 92.19,
-        "rsi2": 79.67,
-        "sma_exit": 89.91,
+        "price": 92.28,
+        "rsi2": 80.04,
+        "sma_exit": 89.93,
         "sma_trend": 83.72
       },
       "XLI": {
-        "price": 169.56,
-        "rsi2": 41.86,
-        "sma_exit": 169.63,
-        "sma_trend": 172.67
+        "price": 169.33,
+        "rsi2": 39.4,
+        "sma_exit": 169.59,
+        "sma_trend": 172.66
       },
       "XLU": {
-        "price": 43.66,
-        "rsi2": 73.31,
+        "price": 43.63,
+        "rsi2": 71.66,
         "sma_exit": 43.47,
         "sma_trend": 43.82
       },
       "XLB": {
-        "price": 53.73,
-        "rsi2": 72.92,
-        "sma_exit": 53.05,
+        "price": 53.68,
+        "rsi2": 72.17,
+        "sma_exit": 53.04,
         "sma_trend": 50.81
       },
       "SMH": {
-        "price": 505.56,
-        "rsi2": 21.22,
-        "sma_exit": 523.31,
-        "sma_trend": 521.17
+        "price": 504.74,
+        "rsi2": 20.61,
+        "sma_exit": 523.15,
+        "sma_trend": 521.16
       }
     }
   },
   "benchmark": {
     "symbol": "SPY",
     "since": "2026-10-28",
-    "value": 4978.74,
-    "change_pct": -0.43
+    "value": 4977.9,
+    "change_pct": -0.44
   },
   "long_term": true,
   "regime": {
@@ -256,7 +256,7 @@
     "inverse": "SH",
     "distance_pct": 4.06
   },
-  "long_value": 3947.49,
+  "long_value": 3946.64,
   "pending": 0,
   "fills": [
     {
@@ -884,6 +884,11 @@
       "t": "2026-11-04T18:35:18Z",
       "v": 4957.14,
       "b": 4978.74
+    },
+    {
+      "t": "2026-11-04T19:05:09Z",
+      "v": 4956.19,
+      "b": 4977.9
     }
   ],
   "report": "trader/relatorios/2026-11-04.md",
