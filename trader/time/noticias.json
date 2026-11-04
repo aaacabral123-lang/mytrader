@@ -1,84 +1,86 @@
 {
-  "as_of": "2026-11-04T12:05:00Z",
+  "as_of": "2026-11-04T12:35:00Z",
   "items": [
     {
-      "id": "rss:99ed91be-3beb-3eb0-aee8-c64c515c6a6f",
+      "id": "rss:d5892081-3d3d-3a33-9d3e-0850e59efa1b",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Why Nvidia Stock Is Rising as Crackdown on Data Centers Looms",
-      "summary": "Nvidia stock was rising as investors concentrated on strong AI earnings rather than the threat that Democrats will restrict data-center construction.",
-      "link": "https://finance.yahoo.com/m/99ed91be-3beb-3eb0-aee8-c64c515c6a6f/why-nvidia-stock-is-rising-as.html?.tsrc=rss",
-      "time": "2026-11-04T11:49:00+00:00",
+      "title": "Schneider Electric (ENXTPA:SU) Unveiled Edge AI Tools For Industrial Sites",
+      "summary": "Schneider Electric (ENXTPA:SU) announced a collaboration with NVIDIA and Hewlett Packard Enterprise to speed up Physical AI deployment at the industrial edge. The partnership focuses on running AI workloads closer to factories and plants to address data governance, cybersecurity, and cost constraints. Schneider Electric also introduced TeSys Tera, an intelligent motor management system designed to bring real-time monitoring and predictive maintenance to aging facilities. The collaboration...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/schneider-electric-enxtpa-su-unveiled-121723323.html?.tsrc=rss",
+      "time": "2026-11-04T12:17:23+00:00",
       "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:b1d1e5f8-ee6a-3c54-8671-c19c4caaf44b",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "This Week In AI Chips - Unlocking North America's AI-Driven Semiconductor Potential",
-      "summary": "An international forum recently focused on the future of supply chains in North America, highlighting the critical role of artificial intelligence, advanced manufacturing, and applied research. Organized by the U.S. National Academy of Engineering and Tecnol\u00f3gico de Monterrey, the event gathered experts to discuss improving supply chain performance across Mexico, the United States, and Canada. Discussions underscored the potential for the region, particularly Mexico, to enhance its...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/week-ai-chips-unlocking-north-113733067.html?.tsrc=rss",
-      "time": "2026-11-04T11:37:33+00:00",
-      "touches": [
-        "MU",
         "NVDA"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:c8178ab1-b8fa-35aa-aac8-e311ec4a84be",
+      "id": "rss:fd5884cc-ba81-3bea-a976-6867f5eaefcc",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Oracle Stock Slips After $7 Billion Tencent Deal Is Canceled",
+      "summary": "The cancellation lands a day after Nvidia reportedly capped partners' Chinese cloud sales below half",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-slips-7-billion-121721676.html?.tsrc=rss",
+      "time": "2026-11-04T12:17:21+00:00",
+      "touches": [
+        "NVDA",
+        "ORCL"
+      ],
+      "tags": [
+        "deal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:339fdecf-ef70-3dfd-8f17-fbe8f1c64d67",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Citi cuts Adobe rating on \u2019rising risk of a hard reset\u2019",
+      "summary": "Investing.com -- Citi downgraded Adobe to Sell, saying it sees downside risk to consensus growth estimates into fiscal 2027 as a leadership transition coincides with mounting competitive and macro pressure on the company\u2019s Creative business.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/citi-cuts-adobe-rating-rising-120542527.html?.tsrc=rss",
+      "time": "2026-11-04T12:05:42+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [
+        "analyst"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:8408a5f1-35ff-4caf-b0cc-97b89909852b",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Social Buzz: Wallstreetbets Stocks Mostly Higher Premarket Wednesday; Super Micro Computer, AMD to Advance",
-      "summary": "The most-talked-about stocks in the Reddit subforum Wallstreetbets were mostly higher hours before W",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mostly-113226126.html?.tsrc=rss",
-      "time": "2026-11-04T11:32:26+00:00",
+      "title": "Elon says Grok Bot costs more than it makes",
+      "summary": "Elon Musk says the cost of serving Grok Bot is unsustainably high relative to revenue, and usage limits just tightened for paying users. Host Ejaaz Ahamadeen breaks down why the same chips earn more rented to Anthropic, the $60 billion Cursor bet, the bear and bull case, and whether AI is too expensive at today's prices.",
+      "link": "https://finance.yahoo.com/video/elon-says-grok-bot-costs-120000123.html?.tsrc=rss",
+      "time": "2026-11-04T12:00:00+00:00",
       "touches": [
-        "GOOGL",
-        "MU",
-        "NVDA"
+        "GOOGL"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:1aa3061a-60c6-39f9-a907-5e9b8a3df626",
+      "id": "rss:b97f5853-5c8e-375f-8456-18e79059956f",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "BLK",
-      "title": "Should You Invest in the iShares U.S. Financial Services ETF (IYG)?",
-      "summary": "Sector ETF report for IYG",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/invest-ishares-u-financial-services-102002854.html?.tsrc=rss",
-      "time": "2026-11-04T10:20:02+00:00",
+      "ticker": "MSFT",
+      "title": "HP Inc. Appoints Emma Walmsley as Chief Executive Officer",
+      "summary": "Bruce Broussard to Succeed Chip Bergh as Chair of the Board PALO ALTO, Calif., Nov. 04, 2026 (GLOBE NEWSWIRE) -- HP Inc. (NYSE: HPQ) today announced that its Board of Directors has unanimously appointed Emma Walmsley as Chief Executive Officer, effective January 4, 2027. Ms. Walmsley most recently served as Chief Executive Officer of GSK and has been a member of Microsoft\u2019s Board of Directors for seven years. She will succeed Bruce Broussard, who has served as Interim Chief Executive Officer sin",
+      "link": "https://finance.yahoo.com/technology/articles/hp-inc-appoints-emma-walmsley-120000023.html?.tsrc=rss",
+      "time": "2026-11-04T12:00:00+00:00",
       "touches": [
-        "BLK"
+        "MSFT"
       ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:0b66d3a0-a4ff-3644-a709-0a38cd62bf7d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "BLK",
-      "title": "Should You Invest in the iShares U.S. Healthcare Providers ETF (IHF)?",
-      "summary": "Sector ETF report for IHF",
-      "link": "https://finance.yahoo.com/healthcare/articles/invest-ishares-u-healthcare-providers-102002181.html?.tsrc=rss",
-      "time": "2026-11-04T10:20:02+00:00",
-      "touches": [
-        "BLK"
+      "tags": [
+        "people"
       ],
-      "tags": [],
       "new": true
     }
   ],
