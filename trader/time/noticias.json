@@ -1,23 +1,5 @@
 {
-  "as_of": "2026-11-04T00:35:00Z",
-  "items": [
-    {
-      "id": "rss:d32f3c98-5dfe-3a13-b808-00065ade19f0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "AMD EPS: Intel's Drag Makes No Sense",
-      "summary": "Recent earnings results show diverging paths for Intel and AMD.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-eps-intels-drag-makes-231300384.html?.tsrc=rss",
-      "time": "2026-11-03T23:13:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-04T01:05:00Z",
+  "items": [],
   "atencao": []
 }
