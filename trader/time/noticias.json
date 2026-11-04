@@ -1,68 +1,68 @@
 {
-  "as_of": "2026-11-04T19:05:00Z",
+  "as_of": "2026-11-04T19:35:00Z",
   "items": [
     {
-      "id": "rss:14dbcca7-fe7f-309a-b6c8-3367ae10c6ec",
+      "id": "rss:f29eb5d7-25b4-3c82-a057-ff325f49c66f",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Democrats\u2019 Big Win Sets Up a Debt Ceiling Fight. What the Election Means for Bonds.",
-      "summary": "Worries about increased federal spending are already showing up in the market.",
-      "link": "https://finance.yahoo.com/m/14dbcca7-fe7f-309a-b6c8-3367ae10c6ec/democrats%E2%80%99-big-win-sets-up-a.html?.tsrc=rss",
-      "time": "2026-11-04T18:51:00+00:00",
+      "title": "Cathie Wood Picks a Side Between Palantir and Google",
+      "summary": "Both stocks fell after earnings, but ARK responded very differently.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-picks-side-between-192037247.html?.tsrc=rss",
+      "time": "2026-11-04T19:20:37+00:00",
       "touches": [
-        "GOOGL",
-        "MSFT",
-        "ORCL"
+        "GOOGL"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:cddf679b-1767-43f6-a1a8-61510b86c00f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "California's billionaire tax on track for defeat as the state continues to count votes",
+      "summary": "The referendum would amend California's constitution and impose a one-time 5% tax on California residents and trusts with assets over $1 billion.",
+      "link": "https://finance.yahoo.com/economy/article/californias-billionaire-tax-on-track-for-defeat-as-the-state-continues-to-count-votes-190840319.html?.tsrc=rss",
+      "time": "2026-11-04T19:08:40+00:00",
+      "touches": [
+        "GOOGL"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:5fc73fed-7141-312f-8a6b-9791e4ef3991",
+      "id": "rss:8442d18e-9e3f-38da-80c4-49571894de2f",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "XLK",
-      "title": "Sector Update: Tech Stocks Mixed Wednesday Afternoon",
-      "summary": "Tech stocks were mixed Wednesday afternoon, with the State Street Technology Select Sector SPDR ETF",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-wednesday-182712833.html?.tsrc=rss",
-      "time": "2026-11-04T18:27:12+00:00",
+      "ticker": "GOOGL",
+      "title": "Alphabet Stock Jumps 5% as Midterm Election Rally Lifts Google Shares",
+      "summary": "Google Stock Surges After Midterms as Investors Return to Big Tech",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-jumps-5-midterm-185346799.html?.tsrc=rss",
+      "time": "2026-11-04T18:53:46+00:00",
       "touches": [
-        "XLK"
+        "GOOGL"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:d58819ae-9dfd-369b-865e-0165dc6e99c5",
+      "id": "rss:263eb53d-38d1-310c-bcc1-4b67bfd428f9",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Mag 7 Stocks Rise After Elections, Set to Add $600B in Market Cap",
-      "summary": "Nvidia, Apple, Meta Platforms, Amazon.com, Tesla, Alphabet, and Microsoft were on track for their tenth largest combined one-day valuation gain ever.",
-      "link": "https://finance.yahoo.com/m/d58819ae-9dfd-369b-865e-0165dc6e99c5/mag-7-stocks-rise-after.html?.tsrc=rss",
-      "time": "2026-11-04T17:23:00+00:00",
+      "title": "UBER Q3 Earnings Miss Estimates on Investment Loss, Revenue Beat",
+      "summary": "Uber's Q3 earnings miss estimates on investment losses despite revenue growth, as bookings surge 20% and operating profits improve across key businesses.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/uber-q3-earnings-miss-estimates-180600289.html?.tsrc=rss",
+      "time": "2026-11-04T18:06:00+00:00",
       "touches": [
-        "GOOGL",
-        "MSFT"
+        "GOOGL"
       ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:ae96017b-e925-3256-b539-6e0a073501d0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Big Tech Stocks Soar as Traders Bet Democrats Will Slow AI Spend",
-      "summary": "The shares of US technology giants led the market higher on Wednesday as investors bet that a Democrat-controlled Congress will slow the massive spending on artificial intelligence that\u2019s eating up free cash flow.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/big-tech-stocks-soar-traders-170754816.html?.tsrc=rss",
-      "time": "2026-11-04T17:07:54+00:00",
-      "touches": [
-        "GOOGL",
-        "MSFT"
+      "tags": [
+        "earnings"
       ],
-      "tags": [],
       "new": true
     }
   ],
