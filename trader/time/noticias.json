@@ -1,63 +1,47 @@
 {
-  "as_of": "2026-11-04T17:05:00Z",
+  "as_of": "2026-11-04T17:35:00Z",
   "items": [
     {
-      "id": "rss:caab1c98-2f89-3112-8245-0c4dd6fda2a3",
+      "id": "rss:16860b75-ad4b-3042-ba1d-f5c0b29ef313",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Angi Leads Home Services into AI Search with Google",
-      "summary": "Angi extends AI leadership as one of the first home services marketplaces available through AI Mode in Google SearchDENVER, Nov. 04, 2026 (GLOBE NEWSWIRE) -- Angi (formerly Angie\u2019s List) (NASDAQ: ANGI), a leading digital home services marketplace, today announced it is among the first home services marketplaces available through AI Mode in Google Search\u2014further positioning Angi at the forefront of how AI is transforming the home-project journey. Following Angi\u2019s launch as a connected app in Goog",
-      "link": "https://finance.yahoo.com/technology/ai/articles/angi-leads-home-services-ai-170000739.html?.tsrc=rss",
-      "time": "2026-11-04T17:00:00+00:00",
+      "ticker": "MSFT",
+      "title": "U.S. Stocks Jump After Democrats Sweep Congress",
+      "summary": "U.S. stocks are surging as investors react to a blue wave that puts Democrats in control of both chambers of Congress.",
+      "link": "https://www.wsj.com/finance/investing/stock-futures-edge-lower-treasurys-strengthen-after-democratic-sweep-f2198d07?.tsrc=rss",
+      "time": "2026-11-04T17:23:00+00:00",
       "touches": [
-        "GOOGL"
+        "MSFT"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:8c80f96f-96c4-38ef-83f9-9fccca03685c",
+      "id": "rss:aa7398d8-13aa-3f4b-a6d7-8ae61a78de79",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Google Just Made a $15 Billion Bet on Southeast Asia",
-      "summary": "Google will build additional data-center campuses over two years while expanding digital skills programs across Malaysia.",
-      "link": "https://finance.yahoo.com/technology/articles/google-just-made-15-billion-165622988.html?.tsrc=rss",
-      "time": "2026-11-04T16:56:22+00:00",
+      "ticker": "NVDA",
+      "title": "Nvidia's China Customers Face a Stunning 99% Chip Shortfall",
+      "summary": "Chinese technology companies reportedly expect to receive only a small fraction of their orders over the next four months.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-china-customers-face-stunning-171404473.html?.tsrc=rss",
+      "time": "2026-11-04T17:14:04+00:00",
       "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:81b3ee20-fe4b-3791-ae47-137bfef90aea",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Advanced Micro Devices (AMD): AI Data Center Sales Jump 107% as Helios Racks Roll Out",
-      "summary": "We just published the list of the 10 Best Tech Stocks for the Next 5 Years and Advanced Micro Devices (AMD) ranked 9th on this list. Big Tech just had a week investors will remember. At its low on Friday, Alphabet had lost $477 billion in market value for the week, its worst week ever [\u2026]",
-      "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-ai-165614786.html?.tsrc=rss",
-      "time": "2026-11-04T16:56:14+00:00",
-      "touches": [
-        "GOOGL",
         "NVDA"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:9afecc88-01bd-33b5-98d8-690eac0f4f0b",
+      "id": "rss:77d84330-3c01-3e22-9b94-a35599a3eb6d",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ORCL",
-      "title": "Oracle's $7 Billion AI Deal Collapses After US Intervention",
-      "summary": "Oracle reportedly canceled an AI chip leasing agreement worth about $7 billion.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/oracles-7-billion-ai-deal-165110379.html?.tsrc=rss",
-      "time": "2026-11-04T16:51:10+00:00",
+      "ticker": "GOOGL",
+      "title": "Jobber Integrates with AI Mode in Google Search, Opening a New Customer Acquisition Channel for Home and Commercial Service Businesses",
+      "summary": "Jobber, the leading provider of software for home and commercial service businesses, today announced a new integration with AI Mode in Google Search that enables eligible service pros to be discovered and booked through AI-powered search experiences.",
+      "link": "https://finance.yahoo.com/small-business/articles/jobber-integrates-ai-mode-google-171000613.html?.tsrc=rss",
+      "time": "2026-11-04T17:10:00+00:00",
       "touches": [
-        "ORCL"
+        "GOOGL"
       ],
       "tags": [
         "deal"
@@ -65,18 +49,70 @@
       "new": true
     },
     {
-      "id": "rss:7b4e20be-4364-398d-8eae-053dc72411e1",
+      "id": "rss:280f9056-9586-3201-ac6c-cdb248e692b6",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Dow Skyrockets 1,500 Points in Best Day Since Trump's Tariff Pause",
+      "summary": "The Dow was on track for its best post-Election Day performance since 1986.",
+      "link": "https://finance.yahoo.com/m/280f9056-9586-3201-ac6c-cdb248e692b6/dow-skyrockets-1%2C500-points.html?.tsrc=rss",
+      "time": "2026-11-04T17:02:21+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:60e38e98-9422-3876-8ec7-13b1870cd5a3",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "ORCL",
-      "title": "Oracle Stocks Decline 2.1% as $20 Billion Financing Reaches Its Closing Date",
-      "summary": "The financing combines new equity with debt carrying coupons as high as 8.65%.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-stocks-decline-2-1-162818417.html?.tsrc=rss",
-      "time": "2026-11-04T16:28:18+00:00",
+      "title": "CoreWeave and Oracle Face a New Threat From Texas",
+      "summary": "Gina Hinojosa has called for a pause on new data-center projects pending safeguards.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-oracle-face-threat-texas-170104243.html?.tsrc=rss",
+      "time": "2026-11-04T17:01:04+00:00",
       "touches": [
         "ORCL"
       ],
       "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:149f0f0b-95e5-36fa-9cb1-452f81cad5d8",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Another Downgrade Can\u2019t Shake Adobe Stock Before Earnings",
+      "summary": "Adobe stock rises even as Citi downgrades the shares to Sell from Neutral.",
+      "link": "https://finance.yahoo.com/m/149f0f0b-95e5-36fa-9cb1-452f81cad5d8/another-downgrade-can%E2%80%99t-shake.html?.tsrc=rss",
+      "time": "2026-11-04T16:59:00+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [
+        "earnings",
+        "analyst"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:ba4dfcdf-2148-31e7-b345-dc62d6f7f03f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "HP Inc. Looks Outside Tech, Tapping Pharma Heavyweight as New CEO",
+      "summary": "HP Inc. stock was gaining on the appointment of Emma Walmsley as its next chief executive.",
+      "link": "https://finance.yahoo.com/m/ba4dfcdf-2148-31e7-b345-dc62d6f7f03f/hp-inc.-looks-outside-tech%2C.html?.tsrc=rss",
+      "time": "2026-11-04T15:50:00+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [
+        "people"
+      ],
       "new": true
     }
   ],
