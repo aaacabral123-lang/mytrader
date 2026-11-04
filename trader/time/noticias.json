@@ -1,47 +1,15 @@
 {
-  "as_of": "2026-11-04T13:35:00Z",
+  "as_of": "2026-11-04T14:05:00Z",
   "items": [
     {
-      "id": "rss:762d358c-ec5a-3821-a3f9-e47c4e4c3f0c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "QQQ",
-      "title": "Stock Market Today: Dow Surges 800 Points On Election Results; Elon Musk-Led SpaceX, Tesla Dive (Live Coverage)",
-      "summary": "The Dow Jones index surges 800 points Wednesday on U.S. election results. Elon Musk-led SpaceX and Tesla dive.",
-      "link": "https://finance.yahoo.com/m/762d358c-ec5a-3821-a3f9-e47c4e4c3f0c/stock-market-today%3A-dow.html?.tsrc=rss",
-      "time": "2026-11-04T13:12:24+00:00",
-      "touches": [
-        "QQQ"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:12cb7c14-f23a-394e-93b3-2f78152fc1a9",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Bank Stock Looks To Finance Breakout In Troubled Market",
-      "summary": "While S&P 500 and Nasdaq remain mired below their 50-day lines, bank stock Esquire Financial looks to shore up its base.",
-      "link": "https://finance.yahoo.com/m/12cb7c14-f23a-394e-93b3-2f78152fc1a9/bank-stock-looks-to-finance.html?.tsrc=rss",
-      "time": "2026-11-04T13:00:48+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:3381269a-aec6-3f09-9f29-cfc2619fd540",
+      "id": "rss:8e1fab79-fec3-427d-bd25-0bce55623fa7",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Google Cloud Revenue Could Overtake Search In 2028. Can It Be A Cash Machine?",
-      "summary": "In a big transition for Google stock, cloud revenue could overtake search ads in 2028. But that doesn't mean cloud will be a cash engine.",
-      "link": "https://finance.yahoo.com/m/3381269a-aec6-3f09-9f29-cfc2619fd540/google-cloud-revenue-could.html?.tsrc=rss",
-      "time": "2026-11-04T13:00:40+00:00",
+      "title": "Why Elon Musk will keep funding Grok, no matter the cost",
+      "summary": "In the Loop Host Ejaaz Ahamadeen sets the table for why he believes Elon Musk is willing to keep pouring money into his AI project, Grok, no matter the cost. Ahamadeen explains why he believes personal AI assistants will become the \u201cmost important and valuable layer\u201d for how people interact with the broader digital world.",
+      "link": "https://finance.yahoo.com/video/why-elon-musk-will-keep-funding-grok-no-matter-the-cost-134354511.html?.tsrc=rss",
+      "time": "2026-11-04T13:43:54+00:00",
       "touches": [
         "GOOGL"
       ],
@@ -49,34 +17,82 @@
       "new": true
     },
     {
-      "id": "rss:d79b082d-0889-33f7-bba2-b168c739e9a2",
+      "id": "rss:b2d34831-e6e7-3e0d-bb44-959c0caa19a1",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MSFT",
-      "title": "WiseStamp Announces Integration with HiBob, Automating and Controlling Employee Data in Email Signatures",
-      "summary": "WiseStamp, the leading email signature management platform, today announced the launch of its new integration with HiBob, a Human Resources System used by thousands of businesses managing hundreds of thousands of employees worldwide.",
-      "link": "https://finance.yahoo.com/technology/articles/wisestamp-announces-integration-hibob-automating-130000962.html?.tsrc=rss",
-      "time": "2026-11-04T13:00:00+00:00",
+      "ticker": "GOOGL",
+      "title": "Global X Launches Magnificent Six ETF",
+      "summary": "NEW YORK, November 04, 2026--Global X launches the Global X Magnificent Six ETF, which seeks to provide exposure to Alphabet; Amazon; Apple; Meta; Microsoft; and NVIDIA.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/global-x-launches-magnificent-six-133000809.html?.tsrc=rss",
+      "time": "2026-11-04T13:30:00+00:00",
       "touches": [
-        "MSFT"
+        "GOOGL",
+        "NVDA"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:15254602-25d8-3f06-924f-6789242c2671",
+      "id": "rss:59cc3708-c7e7-3656-b56c-b03bddc4f847",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "Micron Stock Faces a Memory Price Conundrum in Wake of Democrat Success",
+      "summary": "Micron stock was edging down as investors digest the Democratic wave and signs rising memory prices are hitting some areas of the hardware market.",
+      "link": "https://finance.yahoo.com/m/59cc3708-c7e7-3656-b56c-b03bddc4f847/micron-stock-faces-a-memory.html?.tsrc=rss",
+      "time": "2026-11-04T13:15:00+00:00",
+      "touches": [
+        "MU"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:6adcdc67-6490-3bde-bd18-5a7b0270bfef",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Uber\u2019s Delivery Business Narrows Gap With Ride-Sharing. Now Comes the Robo-Taxi Push.",
+      "summary": "Uber\u2019s earnings grow as it prepares to invest billions on robo-taxis.",
+      "link": "https://finance.yahoo.com/m/6adcdc67-6490-3bde-bd18-5a7b0270bfef/uber%E2%80%99s-delivery-business.html?.tsrc=rss",
+      "time": "2026-11-04T12:47:00+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:df5899c4-44b0-3cdc-b940-83b54a31f033",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "ORCL",
-      "title": "Chubu Electric Power Grid Launches 10 Millionth Smart Meter with Oracle",
-      "summary": "Chubu Electric Power Grid Co., Inc. has deployed 10 million smart meters, marking a critical milestone in its Advanced Metering Infrastructure (AMI) initiative with Oracle. Following an upgrade to the latest version of Oracle Utilities Meter Data Management (MDM), the utility is now benefitting from improved scalability, interval-readiness, and operational resilience across its commercial and residential meters. With this implementation, Chubu Electric Power Grid can meet current business goals",
-      "link": "https://finance.yahoo.com/energy/articles/chubu-electric-power-grid-launches-130000233.html?.tsrc=rss",
-      "time": "2026-11-04T13:00:00+00:00",
+      "title": "The Market Loves the Democrat Sweep. It\u2019s More Complicated for AI Stocks.",
+      "summary": "All the news you need before the market opens.",
+      "link": "https://finance.yahoo.com/m/df5899c4-44b0-3cdc-b940-83b54a31f033/the-market-loves-the-democrat.html?.tsrc=rss",
+      "time": "2026-11-04T12:45:00+00:00",
       "touches": [
         "ORCL"
       ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:a199257d-547c-3b17-ad44-8f26811f778b",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "HP Names Emma Walmsley as New CEO, Ending Monthlong Search",
+      "summary": "HP Inc. named former GSK Plc chief executive officer Emma Walmsley as its new CEO, permanently filling the role after HP\u2019s Enrique Lores departed earlier this year.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/hp-names-emma-walmsley-ceo-124439611.html?.tsrc=rss",
+      "time": "2026-11-04T12:44:39+00:00",
+      "touches": [
+        "MSFT"
+      ],
       "tags": [
-        "analyst"
+        "people"
       ],
       "new": true
     }
