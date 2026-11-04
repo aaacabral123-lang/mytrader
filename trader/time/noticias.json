@@ -1,21 +1,19 @@
 {
-  "as_of": "2026-11-04T01:35:00Z",
+  "as_of": "2026-11-04T02:05:00Z",
   "items": [
     {
-      "id": "rss:213d2ed1-a0e8-3b27-845f-9f1331e7afe4",
+      "id": "rss:3dab2b83-1485-3464-b3fd-d96a4f255b1f",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "People Inc (PPLI) Q3 2026 Earnings Call Highlights: Digital Revenue Extends Growth Streak to 12 ...",
-      "summary": "People Inc (PPLI) posted 2% digital revenue growth and 49% licensing gains while cutting overhead and workforce, even as web sessions fell 26% on Google AI overviews.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/people-inc-ppli-q3-2026-010554012.html?.tsrc=rss",
-      "time": "2026-11-04T01:05:54+00:00",
+      "ticker": "NVDA",
+      "title": "THE KOREA INDUSTRY DAILY: ROBOTWORLD 2026 to Spotlight Physical AI and AI-Driven Manufacturing With 402 Exhibitors From 17 Countries",
+      "summary": "ROBOTWORLD 2026 will bring together 402 companies from 17 countries at the Korea International Exhibition Center (KINTEX) Nov. 4\u20137. The 1,198-booth exhibition will explore how Physical AI and AI-driven manufacturing systems are being developed for industrial applications.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/korea-industry-daily-robotworld-2026-014900079.html?.tsrc=rss",
+      "time": "2026-11-04T01:49:00+00:00",
       "touches": [
-        "GOOGL"
+        "NVDA"
       ],
-      "tags": [
-        "earnings"
-      ],
+      "tags": [],
       "new": true
     }
   ],
