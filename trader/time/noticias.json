@@ -1,54 +1,56 @@
 {
-  "as_of": "2026-11-04T18:05:00Z",
+  "as_of": "2026-11-04T18:35:00Z",
   "items": [
     {
-      "id": "rss:61b836fa-c6aa-37ef-95e6-b2fe31a66231",
+      "id": "rss:0299ec13-b429-39c2-8d3e-7e0e6cc70c4a",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MSFT",
-      "title": "AMD earnings analysis: questions answered and next catalysts",
-      "summary": "Investing.com -- Advanced Micro Devices (AMD) reported FQ3 2026 on Nov 3. Revenue was $13.38B against a $13.06B estimate, and EPS was $2.09 against $1.94 (+7.7%). Even so, the stock traded at $487.08 (+0.66%) as of Nov 4, 12:25 PM EST. The after-hours print of $518.99 (+7.25%) has faded. The stock is down 15.8% over the past week and 23.2% over the past month, and it sits well below its 52-week high of $658.52. The market had already priced in a strong quarter.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-earnings-analysis-questions-answered-180046265.html?.tsrc=rss",
-      "time": "2026-11-04T18:00:46+00:00",
+      "ticker": "GOOGL",
+      "title": "Alphabet (GOOGL) Is Spending $15 Billion On Malaysia Data Centers",
+      "summary": "Alphabet (NasdaqGS:GOOGL) announced a US$15b investment to expand Google data centers and AI infrastructure in Malaysia in 2026. The Malaysian expansion includes new cloud facilities intended to support regional AI demand from enterprise and public sector clients. An Alphabet shareholder filed a lawsuit against senior executives alleging Google's AI models were trained on copyrighted material without proper authorization. The US$15b Malaysia build out and the new copyright lawsuit only...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-spending-15-billion-181005178.html?.tsrc=rss",
+      "time": "2026-11-04T18:10:05+00:00",
       "touches": [
-        "MSFT",
-        "ORCL"
+        "GOOGL"
       ],
       "tags": [
-        "earnings"
+        "legal"
       ],
       "new": true
     },
     {
-      "id": "rss:c0765d4b-0aa2-30ca-ab28-e36ed5a2ba77",
+      "id": "rss:baca3904-c9ba-3bb0-9e77-8ed7428738c5",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MSFT",
-      "title": "AIMG\u00ae Sizes AI Governance Platforms Market at $12.5 Billion by 2030; Microsoft, Databricks and Salesforce Top AI LeaderMap\u00ae",
-      "summary": "AI Markets Group (AIMG) today published AI Governance Platforms, a Special Report sizing the market for software that approves, constrains and evidences enterprise AI use. AIMG estimates the market at $3.6 billion in 2027, rising to $12.5 billion by 2030, a 51% CAGR.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/aimg-sizes-ai-governance-platforms-175300103.html?.tsrc=rss",
-      "time": "2026-11-04T17:53:00+00:00",
+      "ticker": "XLK",
+      "title": "Exchange-Traded Funds Higher as US Equities Advance After Midday",
+      "summary": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV rose after midday Wedne",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-us-180914189.html?.tsrc=rss",
+      "time": "2026-11-04T18:09:14+00:00",
       "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:6244b031-b38b-3774-869d-6d45f6bb32c9",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "Micron Leads Three AI Memory Stocks With Major Upside Potential",
-      "summary": "AMD reported 45% revenue growth, while Supermicro nearly quadrupled quarterly sales.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/micron-leads-three-ai-memory-172901273.html?.tsrc=rss",
-      "time": "2026-11-04T17:29:01+00:00",
-      "touches": [
-        "MU"
+        "XLK"
       ],
       "tags": [],
       "new": true
     }
   ],
-  "atencao": []
+  "atencao": [
+    {
+      "id": "rss:0299ec13-b429-39c2-8d3e-7e0e6cc70c4a",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Alphabet (GOOGL) Is Spending $15 Billion On Malaysia Data Centers",
+      "summary": "Alphabet (NasdaqGS:GOOGL) announced a US$15b investment to expand Google data centers and AI infrastructure in Malaysia in 2026. The Malaysian expansion includes new cloud facilities intended to support regional AI demand from enterprise and public sector clients. An Alphabet shareholder filed a lawsuit against senior executives alleging Google's AI models were trained on copyrighted material without proper authorization. The US$15b Malaysia build out and the new copyright lawsuit only...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-spending-15-billion-181005178.html?.tsrc=rss",
+      "time": "2026-11-04T18:10:05+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [
+        "legal"
+      ],
+      "new": true
+    }
+  ]
 }
