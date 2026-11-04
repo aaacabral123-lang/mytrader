@@ -1,33 +1,15 @@
 {
-  "as_of": "2026-11-04T22:35:00Z",
+  "as_of": "2026-11-04T23:05:00Z",
   "items": [
     {
-      "id": "rss:7aa09f0f-4b47-3055-98d3-2cfacef7ba54",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Black Hills Corp. Reports 2026 Third-Quarter Results and Reaffirms 2026 Earnings Guidance",
-      "summary": "Reaffirms 2026 adjusted earnings guidance in the range of $4.25 to $4.45 per share, excluding merger-related costsLarge-load opportunities driving significant upside to current five-year plan from earnings and cash flow Executed definitive agreements to serve Google\u2019s planned data center with earnings initiating during 2027Requested Certificates of Public Convenience and Necessity for nearly $700 million of transmission expansion investments to serve the company\u2019s large-load opportunities Succes",
-      "link": "https://finance.yahoo.com/energy/articles/black-hills-corp-reports-2026-220500100.html?.tsrc=rss",
-      "time": "2026-11-04T22:05:00+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [
-        "earnings",
-        "deal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:a945593c-d697-3ab1-a864-eea8376eb6d4",
+      "id": "rss:52621df8-8ed7-3be5-8e58-8c1ea8a00b08",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MU",
-      "title": "SpaceX, Tesla, Micron, AMD, Lockheed, CVS, DJT, and More Stocks That Explain Today\u2019s Market",
-      "summary": "SpaceX and Tesla fall as Democrats win control of Congress.",
-      "link": "https://finance.yahoo.com/m/a945593c-d697-3ab1-a864-eea8376eb6d4/spacex%2C-tesla%2C-micron%2C-amd%2C.html?.tsrc=rss",
-      "time": "2026-11-04T21:51:00+00:00",
+      "title": "Micron (MU) Stock Sinks As Market Gains: Here's Why",
+      "summary": "Micron (MU) reached $795.23 at the closing of the latest trading day, reflecting a -7% change compared to its last close.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-stock-sinks-market-214502384.html?.tsrc=rss",
+      "time": "2026-11-04T21:45:02+00:00",
       "touches": [
         "MU"
       ],
@@ -35,64 +17,16 @@
       "new": true
     },
     {
-      "id": "rss:f069a436-2d76-3b34-8ed4-cf1e1c478d02",
+      "id": "rss:feb19e32-bf54-3d1d-82f4-c5b513b526b0",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MU",
-      "title": "These AI Data Center Stocks Are Rising, Bucking the Post-Election Slump",
-      "summary": "While hardware and other data center stocks were hard hit over fears of new regulations or moratoriums on data centers, this niche was holding up just fine on Wednesday.",
-      "link": "https://finance.yahoo.com/m/f069a436-2d76-3b34-8ed4-cf1e1c478d02/these-ai-data-center-stocks.html?.tsrc=rss",
-      "time": "2026-11-04T21:35:00+00:00",
+      "ticker": "ORCL",
+      "title": "Oracle (ORCL) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "summary": "Oracle (ORCL) reached $123.73 at the closing of the latest trading day, reflecting a -1.95% change compared to its last close.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-stock-slides-market-214502640.html?.tsrc=rss",
+      "time": "2026-11-04T21:45:02+00:00",
       "touches": [
-        "MU"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:1fc87a52-b8d5-3a41-98f8-4cbe40a21002",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Arm stock slips after hours as lack of blowout guidance offsets quarterly results",
-      "summary": "Investing.com -- Arm on Wednesday delivered a quarterly top- and bottom-line beat, but its current quarter profit and revenue guidance failed to comfortably beat expectations.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/arm-stock-slips-hours-lack-213203690.html?.tsrc=rss",
-      "time": "2026-11-04T21:32:03+00:00",
-      "touches": [
-        "GOOGL",
-        "MSFT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:bc49a9ba-6921-3e49-8174-aed50fc0fcf9",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "The Apple Supply Chain Faces Its Biggest Test Yet",
-      "summary": "Apple\u2019s supply chain excellence has enabled it to weather the memory shortage, but this is no ordinary chip cycle.",
-      "link": "https://finance.yahoo.com/m/bc49a9ba-6921-3e49-8174-aed50fc0fcf9/the-apple-supply-chain-faces.html?.tsrc=rss",
-      "time": "2026-11-04T21:10:00+00:00",
-      "touches": [
-        "MU"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:57598f2b-0d05-3aec-aa41-ee01200617b4",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "The Election Flipped Congress. It Also Flipped the Market.",
-      "summary": "With the midterms in the review mirror, Wall Street let out a sigh of relief and sent stocks surging.",
-      "link": "https://finance.yahoo.com/m/57598f2b-0d05-3aec-aa41-ee01200617b4/the-election-flipped.html?.tsrc=rss",
-      "time": "2026-11-04T21:04:15+00:00",
-      "touches": [
-        "MU"
+        "ORCL"
       ],
       "tags": [],
       "new": true
