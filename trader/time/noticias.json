@@ -1,82 +1,30 @@
 {
-  "as_of": "2026-11-04T15:35:00Z",
+  "as_of": "2026-11-04T16:05:00Z",
   "items": [
     {
-      "id": "rss:f01562a2-61e4-3a29-98d5-cc465a05e4de",
+      "id": "rss:8c06860a-7551-3bec-bc87-403ab1779931",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Bloom Energy (BE) Raises Full-Year Outlook Following 166% Revenue Surge",
-      "summary": "Polen Capital, an investment management company, released its Q3 2026 investor letter for its \u201c5Perspectives Growth Opportunities Strategy\u201d. The letter can be downloaded here. The Portfolio fell 6.2% in Q3 2026, underperforming the Russell 3000 Growth Index\u2019s 0.5% gain. Twist Bioscience, CrowdStrike, and an underweight in Micron helped relative performance, while Argan, an underweight in [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-raises-full-outlook-152625174.html?.tsrc=rss",
-      "time": "2026-11-04T15:26:25+00:00",
+      "ticker": "MU",
+      "title": "Micron Technology (MU) is Holding Firm on High-Bandwidth Memory (HBM)",
+      "summary": "BUFFALO Funds, an actively managed mutual fund advised by Kornitzer Capital Management, released its third-quarter 2026 investor letter for \u201cBuffalo Growth Fund\u201d. The letter can be downloaded here. The Buffalo Growth Fund advanced 4.57% in Q3, significantly outperforming the Russell 3000\u00ae Growth Index\u2019s 0.45%. The primary driver of this outperformance was stock selection in Information [\u2026]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-holding-firm-154652561.html?.tsrc=rss",
+      "time": "2026-11-04T15:46:52+00:00",
       "touches": [
-        "MSFT",
         "MU"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:441a3903-c8df-449b-8425-aa03f0270256",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Apple, Microsoft hit all-time highs as Nasdaq surges 2% in post-election rally: AlphaCheck",
-      "summary": "Stocks bounced on Wednesday after Democrats' sweeping mid-term elections.",
-      "link": "https://finance.yahoo.com/markets/article/apple-microsoft-hit-all-time-highs-as-nasdaq-surges-2-in-post-election-rally-alphacheck-152548814.html?.tsrc=rss",
-      "time": "2026-11-04T15:25:48+00:00",
-      "touches": [
-        "MSFT",
-        "XLK"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:2f3a487b-329f-3c49-93b5-aab5a7081479",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Argan (AGX) Shares Fall After Record Q2 Earnings as Backlog Dips to $2.5 Billion",
-      "summary": "Polen Capital, an investment management company, released its Q3 2026 investor letter for its \u201c5Perspectives Growth Opportunities Strategy\u201d. The letter can be downloaded here. The Portfolio fell 6.2% in Q3 2026, underperforming the Russell 3000 Growth Index\u2019s 0.5% gain. Twist Bioscience, CrowdStrike, and an underweight in Micron helped relative performance, while Argan, an underweight in [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/argan-agx-shares-fall-record-152439057.html?.tsrc=rss",
-      "time": "2026-11-04T15:24:39+00:00",
-      "touches": [
-        "MSFT",
-        "MU"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:a4d1d251-da9d-4f0b-9af9-dcf4dbe352c2",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Three reasons stocks are moving higher after the midterms",
-      "summary": "Yahoo Finance Executive Editor Brian Sozzi runs down three reasons why stocks are responding well to the midterm election results.",
-      "link": "https://finance.yahoo.com/video/three-reasons-stocks-are-moving-higher-after-the-midterms-152243298.html?.tsrc=rss",
-      "time": "2026-11-04T15:22:43+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:20859727-b3c8-33d1-9489-84c998a38fa1",
+      "id": "rss:fe9c9c89-4a95-3495-9ac4-4f77cf69a715",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "How Could Cadence Design Systems (CDNS) New AI Push Expand Its Market?",
-      "summary": "Cadence Design Systems (NasdaqGS:CDNS) introduced its Maestro AI Model Portfolio, a suite of AI agents for chip and system design workflows. The firm announced a collaboration with NVIDIA focused on agent security within these design environments. Cadence opened a sovereign AI data center in Munich to provide Europe-based infrastructure for AI and electronic design workloads. The Maestro AI rollout, NVIDIA security work and new Munich data center come in addition to other shifts our research...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/could-cadence-design-systems-cdns-151205481.html?.tsrc=rss",
-      "time": "2026-11-04T15:12:05+00:00",
+      "title": "BC-Most Active Stocks",
+      "summary": "NEW YORK (AP) \u2014 prices for the Nasdaq composite, NYSE and NYSE American listed most active stocks. Nasdaq most active stocks:Stock Name Volume High Low Last Change  Curis Inc.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-153021165.html?.tsrc=rss",
+      "time": "2026-11-04T15:30:21+00:00",
       "touches": [
         "NVDA"
       ],
@@ -84,128 +32,30 @@
       "new": true
     },
     {
-      "id": "rss:3b9e2da1-920f-3209-9197-724978ef1cb8",
+      "id": "rss:696ebbca-b588-325a-90e2-42cca3daa143",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "What Wall Street is Missing About Micron\u2019s (MU) Ultra-Low Earnings Multiple",
-      "summary": "We just published the list of the 10 Best Tech Stocks for the Next 5 Years and Micron Technology (MU) ranked 8th on this list. Big Tech just had a week investors will remember. At its low on Friday, Alphabet had lost $477 billion in market value for the week, its worst week ever and [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-missing-micron-mu-151107352.html?.tsrc=rss",
-      "time": "2026-11-04T15:11:07+00:00",
+      "title": "Amazon Leads Cloud Hyperscaler Stocks Higher. What 'Blue Tsunami' Means For Big Tech.",
+      "summary": "Investors may share a goal with progressive politicians to slow data center spending.",
+      "link": "https://finance.yahoo.com/m/696ebbca-b588-325a-90e2-42cca3daa143/amazon-leads-cloud.html?.tsrc=rss",
+      "time": "2026-11-04T15:24:02+00:00",
       "touches": [
         "GOOGL",
-        "MU",
-        "NVDA"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:7c54e2e5-60fe-355f-a430-3d18b5c65258",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "BLK",
-      "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
-      "summary": "Titan OS has raised $110 million in funding to date",
-      "link": "https://finance.yahoo.com/media-advertising/articles/titan-os-raises-46-million-150000272.html?.tsrc=rss",
-      "time": "2026-11-04T15:00:00+00:00",
-      "touches": [
-        "BLK"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:dc9b4b12-673a-3d7d-89e7-9c091c90010a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "The Ashton Real Estate Group, BHHS Florida Properties Group and ENRG Realty Join HouseCanary's Google Listings Program",
-      "summary": "HouseCanary, provider of a best-in-class property intelligence and valuation platform to financial institutions and real estate professionals, today announced that three brokerages have joined the Google Listings Program: REMAX Advantage, home of The Ashton Real Estate Group and The Sandoval Team; Berkshire Hathaway HomeServices Florida Properties Group; and ENRG Realty. Under the agreements, active listings from the more than 1,000 agents at these brokerages are now available for display in Goo",
-      "link": "https://finance.yahoo.com/real-estate/articles/ashton-real-estate-group-bhhs-150000266.html?.tsrc=rss",
-      "time": "2026-11-04T15:00:00+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:434d93d9-a0fa-323e-ac1d-5df5f21b6cb9",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Virtual Machines - Global Strategic Business Report 2026: Secure Share of a Market Accelerating at 16.8% CAGR to $36.9 Billion by 2032, Led by AWS, Microsoft, Google Cloud, VMware, and Oracle",
-      "summary": "Dublin, Nov. 04, 2026 (GLOBE NEWSWIRE) -- \"Virtual Machines - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global virtual machines market was valued at US$12.5 billion in 2025 and is projected to reach US$36.9 billion by 2032, expanding at a compound annual growth rate (CAGR) of 16.8%. Growth is being supported by increased cloud computing adoption, enterprise virtualization, hybrid IT deployment, cybersecurity requirements, virtual desktop infr",
-      "link": "https://finance.yahoo.com/technology/articles/virtual-machines-global-strategic-business-144700481.html?.tsrc=rss",
-      "time": "2026-11-04T14:47:00+00:00",
-      "touches": [
-        "MSFT",
-        "ORCL"
-      ],
-      "tags": [
-        "capital"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:abf7c753-32a3-34e2-9cc8-6418737903ee",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Adobe downgraded, Constellation upgraded: Wall Street's top analyst calls",
-      "summary": "Adobe downgraded, Constellation upgraded: Wall Street's top analyst calls",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/norwegian-cruise-downgrade-duolingo-upgraded-133748798.html?.tsrc=rss",
-      "time": "2026-11-04T14:43:22+00:00",
-      "touches": [
-        "ADBE"
-      ],
-      "tags": [
-        "analyst"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:7ec0afc5-b5d1-37c3-bed0-152bd4ffae3a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Blue wave threatens to derail America\u2019s AI boom",
-      "summary": "The Democrats\u2019 decisive victory in the US midterms threatens to slam the brakes on the AI boom.",
-      "link": "https://uk.finance.yahoo.com/news/blue-wave-threatens-derail-america-143323706.html?.tsrc=rss",
-      "time": "2026-11-04T14:33:23+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:f6db01e6-be01-3597-9dc4-d097728fc689",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Microsoft Corporation (MSFT) Outperforms with Record Quarter Driven by Azure Demand Surge",
-      "summary": "Polen Capital, an investment management company, released its \u201c5Perspectives Large Growth Strategy\u201d Q3 2026 investor letter. The letter can be downloaded here. In Q3 2026, the Polen 5Perspectives Large Growth Composite returned 0.0%, trailing the Russell 1000 Growth Index\u2019s 0.9%. The quarter saw heightened market volatility, particularly among AI equities, driven by concerns over hyperscaler [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-outperforms-record-143113465.html?.tsrc=rss",
-      "time": "2026-11-04T14:31:13+00:00",
-      "touches": [
         "MSFT"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:b1196b19-91de-3d16-92b4-5ea927337d07",
+      "id": "rss:b3080dbf-be13-3a97-af72-ec106e7fefdb",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "AI in Life Sciences Market to Worth USD 69.34 Billion by 2031, at a CAGR of 26.3% \u2013 MarketsandMarkets\u2122",
-      "summary": "Delray Beach, FL , Nov. 04, 2026 (GLOBE NEWSWIRE) -- MarketsandMarkets\u2122 projects the global AI in life sciences market to grow from USD 21.58 billion in 2026 to USD 69.34 billion by 2031, at a CAGR of 26.3% during the forecast period. Market growth is fueled by accelerating adoption of AI in drug discovery, clinical research, diagnostics, and precision medicine, along with increasing investments in AI-powered life sciences solutions and the growing availability of real-world and genomic data. Ge",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-life-sciences-market-worth-143000135.html?.tsrc=rss",
-      "time": "2026-11-04T14:30:00+00:00",
+      "title": "ACM Research to Report Q3 Earnings: What's in Store for the Stock?",
+      "summary": "ACMR's Q3 earnings are expected to rise 41.7%, fueled by strong demand for plating and advanced packaging tools, despite rising costs and margin pressures.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/acm-research-report-q3-earnings-145500315.html?.tsrc=rss",
+      "time": "2026-11-04T14:55:00+00:00",
       "touches": [
         "NVDA"
       ],
@@ -215,50 +65,16 @@
       "new": true
     },
     {
-      "id": "rss:2b092888-174b-3dda-b75e-482774b27b9d",
+      "id": "rss:78443239-f003-3956-b86f-858d03e14ec7",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "GOOGL Q3 Earnings Call Highlights AI Growth and Spending Pressures",
-      "summary": "Alphabet's Q3 earnings call spotlighted surging AI-driven cloud demand, expanding TPU sales and rising infrastructure costs weighing on cash flow and margins.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/googl-q3-earnings-call-highlights-140000677.html?.tsrc=rss",
-      "time": "2026-11-04T14:00:00+00:00",
+      "ticker": "MU",
+      "title": "Micron Stock Jumps 36% in Six Months: Is There More Upside Ahead?",
+      "summary": "MU's 36% six-month rally is fueled by surging AI memory demand, record revenues and strong earnings. Can its attractive valuation drive more upside?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-jumps-36-six-143700615.html?.tsrc=rss",
+      "time": "2026-11-04T14:37:00+00:00",
       "touches": [
-        "GOOGL"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:fe9c324f-e710-3fbb-aeca-0d467b5f6e9d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "MSFT Q1 Earnings Call Highlights Azure Growth and AI Spending",
-      "summary": "Microsoft's fiscal Q1 2027 earnings and revenues beat estimates as Azure growth accelerates, supported by strong cloud demand and rising AI adoption.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/msft-q1-earnings-call-highlights-140000405.html?.tsrc=rss",
-      "time": "2026-11-04T14:00:00+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:72237cc4-623a-309f-b5f7-86c85dcb4b7a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "IBM Plummets 18.5% in the Past Year: Time to Reassess the Stock?",
-      "summary": "IBM's 18.5% stock decline reflects AI disruption fears, margin pressures and stiff competition, even as hybrid cloud demand and rising earnings estimates offer hope.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-plummets-18-5-past-134600762.html?.tsrc=rss",
-      "time": "2026-11-04T13:46:00+00:00",
-      "touches": [
-        "MSFT"
+        "MU"
       ],
       "tags": [
         "earnings"
