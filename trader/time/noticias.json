@@ -1,16 +1,87 @@
 {
-  "as_of": "2026-11-04T21:35:00Z",
+  "as_of": "2026-11-04T22:05:00Z",
   "items": [
     {
-      "id": "rss:674be4e5-f476-3839-b6e5-64aa5ba299ae",
+      "id": "rss:a147bf9a-4218-3171-97a4-fb80fda211eb",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Top Research Reports for Microsoft, SpaceX & Marvell",
-      "summary": "Microsoft, SpaceX and Marvell headline today's research reports, with AI-driven growth, expanding infrastructure and rising demand balanced by capital spending and execution risks.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-microsoft-spacex-202500966.html?.tsrc=rss",
-      "time": "2026-11-04T20:25:00+00:00",
+      "ticker": "GOOGL",
+      "title": "Dow Jones Futures: Elections, Plunging Oil Fuel Big Rally; Apple, Microsoft, Amazon Flash Buy Signals. CoreWeave, SpaceX Skid.",
+      "summary": "Elections and diving oil prices sparked a stock market surge. Stocks from many sectors flash buy signals, but avoid this area.",
+      "link": "https://finance.yahoo.com/m/a147bf9a-4218-3171-97a4-fb80fda211eb/dow-jones-futures%3A-elections%2C.html?.tsrc=rss",
+      "time": "2026-11-04T21:53:05+00:00",
       "touches": [
+        "GOOGL",
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "sec:0001193125-26-447507",
+      "source": "SEC EDGAR",
+      "kind": "filing",
+      "form": "8-K",
+      "ticker": "ORCL",
+      "title": "ORACLE CORP filed a 8-K: other events",
+      "summary": "Current report",
+      "items": [
+        "8.01",
+        "9.01"
+      ],
+      "important": false,
+      "link": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526447507/0001193125-26-447507-index.htm",
+      "time": "2026-11-04T21:49:48+00:00",
+      "touches": [
+        "ORCL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:ac9e9872-76cd-38e7-a764-a03c3227a579",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "How Investors May Respond To Schneider Electric (ENXTPA:SU) AI Data Center Expansion",
+      "summary": "Schneider Electric has recently ramped up its AI focused data center offering, introducing its RapidScale Modular Data Center Reference Design 115, new liquid cooling and power gear, and a collaboration with NVIDIA and HPE to support high density AI workloads at the edge and in large facilities. The push into prefabricated AI infrastructure and edge Physical AI solutions points to Schneider Electric targeting faster deployment cycles, tighter control of equipment supply, and deeper...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-schneider-electric-211743833.html?.tsrc=rss",
+      "time": "2026-11-04T21:17:43+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "capital"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:dae0fb01-71b7-3a9c-a8c6-923ee6f3d8eb",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ORCL",
+      "title": "Credo Technology Group Holding (CRDO) Secures OCP Approval For Two Optical Telemetry Standards",
+      "summary": "Credo Technology Group Holding (NasdaqGS:CRDO) and Oracle secured OCP Community approval for two new optical telemetry specifications. The open standards cover transceiver telemetry collection and event logging designed to support AI network reliability. Both specifications are intended to encourage broader industry use of consistent monitoring across optical modules used in AI fabrics. Credo and Oracle leading these new OCP-approved telemetry standards for optical transceivers deserves...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/credo-technology-group-holding-crdo-211330667.html?.tsrc=rss",
+      "time": "2026-11-04T21:13:30+00:00",
+      "touches": [
+        "ORCL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:85f162f5-be29-3a0e-a0c4-7ead975d17dc",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Adobe (ADBE) Brings CX Enterprise Coworker to Major AI Platforms",
+      "summary": "Adobe (NasdaqGS: ADBE) introduced its CX Enterprise Coworker agentic AI into leading third party AI platforms from Anthropic, Google, Microsoft, OpenAI, and Databricks. The CX Enterprise Coworker is designed to help marketing teams coordinate customer experiences across multiple AI environments rather than only within Adobe's own suite. Global systems integrators and agencies are reported to be incorporating the CX Enterprise Coworker into large scale customer experience and marketing...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-brings-cx-enterprise-211230372.html?.tsrc=rss",
+      "time": "2026-11-04T21:12:30+00:00",
+      "touches": [
+        "ADBE",
+        "GOOGL",
         "MSFT"
       ],
       "tags": [],
