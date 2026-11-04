@@ -1,88 +1,98 @@
 {
-  "as_of": "2026-11-04T22:05:00Z",
+  "as_of": "2026-11-04T22:35:00Z",
   "items": [
     {
-      "id": "rss:a147bf9a-4218-3171-97a4-fb80fda211eb",
+      "id": "rss:7aa09f0f-4b47-3055-98d3-2cfacef7ba54",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Dow Jones Futures: Elections, Plunging Oil Fuel Big Rally; Apple, Microsoft, Amazon Flash Buy Signals. CoreWeave, SpaceX Skid.",
-      "summary": "Elections and diving oil prices sparked a stock market surge. Stocks from many sectors flash buy signals, but avoid this area.",
-      "link": "https://finance.yahoo.com/m/a147bf9a-4218-3171-97a4-fb80fda211eb/dow-jones-futures%3A-elections%2C.html?.tsrc=rss",
-      "time": "2026-11-04T21:53:05+00:00",
+      "title": "Black Hills Corp. Reports 2026 Third-Quarter Results and Reaffirms 2026 Earnings Guidance",
+      "summary": "Reaffirms 2026 adjusted earnings guidance in the range of $4.25 to $4.45 per share, excluding merger-related costsLarge-load opportunities driving significant upside to current five-year plan from earnings and cash flow Executed definitive agreements to serve Google\u2019s planned data center with earnings initiating during 2027Requested Certificates of Public Convenience and Necessity for nearly $700 million of transmission expansion investments to serve the company\u2019s large-load opportunities Succes",
+      "link": "https://finance.yahoo.com/energy/articles/black-hills-corp-reports-2026-220500100.html?.tsrc=rss",
+      "time": "2026-11-04T22:05:00+00:00",
       "touches": [
-        "GOOGL",
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "sec:0001193125-26-447507",
-      "source": "SEC EDGAR",
-      "kind": "filing",
-      "form": "8-K",
-      "ticker": "ORCL",
-      "title": "ORACLE CORP filed a 8-K: other events",
-      "summary": "Current report",
-      "items": [
-        "8.01",
-        "9.01"
-      ],
-      "important": false,
-      "link": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526447507/0001193125-26-447507-index.htm",
-      "time": "2026-11-04T21:49:48+00:00",
-      "touches": [
-        "ORCL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:ac9e9872-76cd-38e7-a764-a03c3227a579",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "How Investors May Respond To Schneider Electric (ENXTPA:SU) AI Data Center Expansion",
-      "summary": "Schneider Electric has recently ramped up its AI focused data center offering, introducing its RapidScale Modular Data Center Reference Design 115, new liquid cooling and power gear, and a collaboration with NVIDIA and HPE to support high density AI workloads at the edge and in large facilities. The push into prefabricated AI infrastructure and edge Physical AI solutions points to Schneider Electric targeting faster deployment cycles, tighter control of equipment supply, and deeper...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-schneider-electric-211743833.html?.tsrc=rss",
-      "time": "2026-11-04T21:17:43+00:00",
-      "touches": [
-        "NVDA"
+        "GOOGL"
       ],
       "tags": [
-        "capital"
+        "earnings",
+        "deal"
       ],
       "new": true
     },
     {
-      "id": "rss:dae0fb01-71b7-3a9c-a8c6-923ee6f3d8eb",
+      "id": "rss:a945593c-d697-3ab1-a864-eea8376eb6d4",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ORCL",
-      "title": "Credo Technology Group Holding (CRDO) Secures OCP Approval For Two Optical Telemetry Standards",
-      "summary": "Credo Technology Group Holding (NasdaqGS:CRDO) and Oracle secured OCP Community approval for two new optical telemetry specifications. The open standards cover transceiver telemetry collection and event logging designed to support AI network reliability. Both specifications are intended to encourage broader industry use of consistent monitoring across optical modules used in AI fabrics. Credo and Oracle leading these new OCP-approved telemetry standards for optical transceivers deserves...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/credo-technology-group-holding-crdo-211330667.html?.tsrc=rss",
-      "time": "2026-11-04T21:13:30+00:00",
+      "ticker": "MU",
+      "title": "SpaceX, Tesla, Micron, AMD, Lockheed, CVS, DJT, and More Stocks That Explain Today\u2019s Market",
+      "summary": "SpaceX and Tesla fall as Democrats win control of Congress.",
+      "link": "https://finance.yahoo.com/m/a945593c-d697-3ab1-a864-eea8376eb6d4/spacex%2C-tesla%2C-micron%2C-amd%2C.html?.tsrc=rss",
+      "time": "2026-11-04T21:51:00+00:00",
       "touches": [
-        "ORCL"
+        "MU"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:85f162f5-be29-3a0e-a0c4-7ead975d17dc",
+      "id": "rss:f069a436-2d76-3b34-8ed4-cf1e1c478d02",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Adobe (ADBE) Brings CX Enterprise Coworker to Major AI Platforms",
-      "summary": "Adobe (NasdaqGS: ADBE) introduced its CX Enterprise Coworker agentic AI into leading third party AI platforms from Anthropic, Google, Microsoft, OpenAI, and Databricks. The CX Enterprise Coworker is designed to help marketing teams coordinate customer experiences across multiple AI environments rather than only within Adobe's own suite. Global systems integrators and agencies are reported to be incorporating the CX Enterprise Coworker into large scale customer experience and marketing...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-brings-cx-enterprise-211230372.html?.tsrc=rss",
-      "time": "2026-11-04T21:12:30+00:00",
+      "ticker": "MU",
+      "title": "These AI Data Center Stocks Are Rising, Bucking the Post-Election Slump",
+      "summary": "While hardware and other data center stocks were hard hit over fears of new regulations or moratoriums on data centers, this niche was holding up just fine on Wednesday.",
+      "link": "https://finance.yahoo.com/m/f069a436-2d76-3b34-8ed4-cf1e1c478d02/these-ai-data-center-stocks.html?.tsrc=rss",
+      "time": "2026-11-04T21:35:00+00:00",
       "touches": [
-        "ADBE",
+        "MU"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:1fc87a52-b8d5-3a41-98f8-4cbe40a21002",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Arm stock slips after hours as lack of blowout guidance offsets quarterly results",
+      "summary": "Investing.com -- Arm on Wednesday delivered a quarterly top- and bottom-line beat, but its current quarter profit and revenue guidance failed to comfortably beat expectations.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/arm-stock-slips-hours-lack-213203690.html?.tsrc=rss",
+      "time": "2026-11-04T21:32:03+00:00",
+      "touches": [
         "GOOGL",
         "MSFT"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:bc49a9ba-6921-3e49-8174-aed50fc0fcf9",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "The Apple Supply Chain Faces Its Biggest Test Yet",
+      "summary": "Apple\u2019s supply chain excellence has enabled it to weather the memory shortage, but this is no ordinary chip cycle.",
+      "link": "https://finance.yahoo.com/m/bc49a9ba-6921-3e49-8174-aed50fc0fcf9/the-apple-supply-chain-faces.html?.tsrc=rss",
+      "time": "2026-11-04T21:10:00+00:00",
+      "touches": [
+        "MU"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:57598f2b-0d05-3aec-aa41-ee01200617b4",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "The Election Flipped Congress. It Also Flipped the Market.",
+      "summary": "With the midterms in the review mirror, Wall Street let out a sigh of relief and sent stocks surging.",
+      "link": "https://finance.yahoo.com/m/57598f2b-0d05-3aec-aa41-ee01200617b4/the-election-flipped.html?.tsrc=rss",
+      "time": "2026-11-04T21:04:15+00:00",
+      "touches": [
+        "MU"
       ],
       "tags": [],
       "new": true
