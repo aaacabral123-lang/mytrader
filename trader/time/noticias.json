@@ -1,84 +1,67 @@
 {
-  "as_of": "2026-11-04T16:05:00Z",
+  "as_of": "2026-11-04T16:35:00Z",
   "items": [
     {
-      "id": "rss:8c06860a-7551-3bec-bc87-403ab1779931",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "Micron Technology (MU) is Holding Firm on High-Bandwidth Memory (HBM)",
-      "summary": "BUFFALO Funds, an actively managed mutual fund advised by Kornitzer Capital Management, released its third-quarter 2026 investor letter for \u201cBuffalo Growth Fund\u201d. The letter can be downloaded here. The Buffalo Growth Fund advanced 4.57% in Q3, significantly outperforming the Russell 3000\u00ae Growth Index\u2019s 0.45%. The primary driver of this outperformance was stock selection in Information [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-holding-firm-154652561.html?.tsrc=rss",
-      "time": "2026-11-04T15:46:52+00:00",
-      "touches": [
-        "MU"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:fe9c9c89-4a95-3495-9ac4-4f77cf69a715",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "BC-Most Active Stocks",
-      "summary": "NEW YORK (AP) \u2014 prices for the Nasdaq composite, NYSE and NYSE American listed most active stocks. Nasdaq most active stocks:Stock Name Volume High Low Last Change  Curis Inc.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-153021165.html?.tsrc=rss",
-      "time": "2026-11-04T15:30:21+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:696ebbca-b588-325a-90e2-42cca3daa143",
+      "id": "rss:0b4333db-2499-3077-ad14-17e8c65b6539",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Amazon Leads Cloud Hyperscaler Stocks Higher. What 'Blue Tsunami' Means For Big Tech.",
-      "summary": "Investors may share a goal with progressive politicians to slow data center spending.",
-      "link": "https://finance.yahoo.com/m/696ebbca-b588-325a-90e2-42cca3daa143/amazon-leads-cloud.html?.tsrc=rss",
-      "time": "2026-11-04T15:24:02+00:00",
+      "title": "Silicon Valley investor shuts London office as US dominates AI",
+      "summary": "One of Silicon Valley\u2019s most successful venture-capital firms has shut down its London office as the US dominates a tidal wave of multibillion-dollar AI deals.",
+      "link": "https://uk.finance.yahoo.com/news/silicon-valley-investor-shuts-london-162447849.html?.tsrc=rss",
+      "time": "2026-11-04T16:24:47+00:00",
       "touches": [
-        "GOOGL",
+        "GOOGL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:15041bf7-d934-3711-bfe1-e6f98c605080",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Microsoft Stocks Jump 3.5% as $25 Billion Debt Sale Is Due to Close",
+      "summary": "New financing adds flexibility while introducing a sizeable recurring interest commitment.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-jump-3-5-161943824.html?.tsrc=rss",
+      "time": "2026-11-04T16:19:43+00:00",
+      "touches": [
         "MSFT"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:b3080dbf-be13-3a97-af72-ec106e7fefdb",
+      "id": "rss:7716f984-8f83-3647-b651-3ce98e1349f1",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "ACM Research to Report Q3 Earnings: What's in Store for the Stock?",
-      "summary": "ACMR's Q3 earnings are expected to rise 41.7%, fueled by strong demand for plating and advanced packaging tools, despite rising costs and margin pressures.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/acm-research-report-q3-earnings-145500315.html?.tsrc=rss",
-      "time": "2026-11-04T14:55:00+00:00",
+      "title": "Why Is Oracle (ORCL) Reworking Its AI Plans After A $7 Billion Deal Ended?",
+      "summary": "Oracle (NYSE:ORCL) reportedly cancelled a planned US$7b AI chip leasing agreement with Tencent after increased U.S. government pressure. The shelved arrangement involved providing Nvidia processors to Tencent through Oracle's cloud infrastructure for Chinese AI workloads. Deloitte announced a unified Oracle business group that brings together its Oracle consulting, implementation and managed services into a single unit. The scrapped Tencent chip deal and Deloitte's new Oracle-focused group...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/why-oracle-orcl-reworking-ai-161123177.html?.tsrc=rss",
+      "time": "2026-11-04T16:11:23+00:00",
       "touches": [
-        "NVDA"
+        "NVDA",
+        "ORCL"
       ],
       "tags": [
-        "earnings"
+        "deal"
       ],
       "new": true
     },
     {
-      "id": "rss:78443239-f003-3956-b86f-858d03e14ec7",
+      "id": "rss:c3979265-344f-4f8f-b735-6f726fa229cb",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MU",
-      "title": "Micron Stock Jumps 36% in Six Months: Is There More Upside Ahead?",
-      "summary": "MU's 36% six-month rally is fueled by surging AI memory demand, record revenues and strong earnings. Can its attractive valuation drive more upside?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-jumps-36-six-143700615.html?.tsrc=rss",
-      "time": "2026-11-04T14:37:00+00:00",
+      "title": "AI data center stocks and Musk's companies take hits as Democrats take control",
+      "summary": "The 8:30 hosts, Pras Subramanian, Jake Conley, and Defiance ETFs CIO Sylvia Jablonski, break down the latest market headlines, including the Democrats retaking Congress and its possible negative effects on AI stocks and Elon Musk's companies. Plus, the team dives into the stocks to watch: CVS (CVS), McDonald's (MCD), Meta (META), and Uber (UBER).",
+      "link": "https://finance.yahoo.com/video/ai-data-center-stocks-and-musks-companies-take-hits-as-democrats-take-control-144159419.html?.tsrc=rss",
+      "time": "2026-11-04T14:41:59+00:00",
       "touches": [
         "MU"
       ],
-      "tags": [
-        "earnings"
-      ],
+      "tags": [],
       "new": true
     }
   ],
