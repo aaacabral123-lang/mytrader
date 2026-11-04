@@ -1,118 +1,52 @@
 {
-  "as_of": "2026-11-04T17:35:00Z",
+  "as_of": "2026-11-04T18:05:00Z",
   "items": [
     {
-      "id": "rss:16860b75-ad4b-3042-ba1d-f5c0b29ef313",
+      "id": "rss:61b836fa-c6aa-37ef-95e6-b2fe31a66231",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MSFT",
-      "title": "U.S. Stocks Jump After Democrats Sweep Congress",
-      "summary": "U.S. stocks are surging as investors react to a blue wave that puts Democrats in control of both chambers of Congress.",
-      "link": "https://www.wsj.com/finance/investing/stock-futures-edge-lower-treasurys-strengthen-after-democratic-sweep-f2198d07?.tsrc=rss",
-      "time": "2026-11-04T17:23:00+00:00",
+      "title": "AMD earnings analysis: questions answered and next catalysts",
+      "summary": "Investing.com -- Advanced Micro Devices (AMD) reported FQ3 2026 on Nov 3. Revenue was $13.38B against a $13.06B estimate, and EPS was $2.09 against $1.94 (+7.7%). Even so, the stock traded at $487.08 (+0.66%) as of Nov 4, 12:25 PM EST. The after-hours print of $518.99 (+7.25%) has faded. The stock is down 15.8% over the past week and 23.2% over the past month, and it sits well below its 52-week high of $658.52. The market had already priced in a strong quarter.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-earnings-analysis-questions-answered-180046265.html?.tsrc=rss",
+      "time": "2026-11-04T18:00:46+00:00",
       "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:aa7398d8-13aa-3f4b-a6d7-8ae61a78de79",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia's China Customers Face a Stunning 99% Chip Shortfall",
-      "summary": "Chinese technology companies reportedly expect to receive only a small fraction of their orders over the next four months.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-china-customers-face-stunning-171404473.html?.tsrc=rss",
-      "time": "2026-11-04T17:14:04+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:77d84330-3c01-3e22-9b94-a35599a3eb6d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Jobber Integrates with AI Mode in Google Search, Opening a New Customer Acquisition Channel for Home and Commercial Service Businesses",
-      "summary": "Jobber, the leading provider of software for home and commercial service businesses, today announced a new integration with AI Mode in Google Search that enables eligible service pros to be discovered and booked through AI-powered search experiences.",
-      "link": "https://finance.yahoo.com/small-business/articles/jobber-integrates-ai-mode-google-171000613.html?.tsrc=rss",
-      "time": "2026-11-04T17:10:00+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [
-        "deal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:280f9056-9586-3201-ac6c-cdb248e692b6",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Dow Skyrockets 1,500 Points in Best Day Since Trump's Tariff Pause",
-      "summary": "The Dow was on track for its best post-Election Day performance since 1986.",
-      "link": "https://finance.yahoo.com/m/280f9056-9586-3201-ac6c-cdb248e692b6/dow-skyrockets-1%2C500-points.html?.tsrc=rss",
-      "time": "2026-11-04T17:02:21+00:00",
-      "touches": [
-        "GOOGL",
         "MSFT",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:60e38e98-9422-3876-8ec7-13b1870cd5a3",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ORCL",
-      "title": "CoreWeave and Oracle Face a New Threat From Texas",
-      "summary": "Gina Hinojosa has called for a pause on new data-center projects pending safeguards.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-oracle-face-threat-texas-170104243.html?.tsrc=rss",
-      "time": "2026-11-04T17:01:04+00:00",
-      "touches": [
         "ORCL"
       ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:c0765d4b-0aa2-30ca-ab28-e36ed5a2ba77",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "AIMG\u00ae Sizes AI Governance Platforms Market at $12.5 Billion by 2030; Microsoft, Databricks and Salesforce Top AI LeaderMap\u00ae",
+      "summary": "AI Markets Group (AIMG) today published AI Governance Platforms, a Special Report sizing the market for software that approves, constrains and evidences enterprise AI use. AIMG estimates the market at $3.6 billion in 2027, rising to $12.5 billion by 2030, a 51% CAGR.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/aimg-sizes-ai-governance-platforms-175300103.html?.tsrc=rss",
+      "time": "2026-11-04T17:53:00+00:00",
+      "touches": [
+        "MSFT"
+      ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:149f0f0b-95e5-36fa-9cb1-452f81cad5d8",
+      "id": "rss:6244b031-b38b-3774-869d-6d45f6bb32c9",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Another Downgrade Can\u2019t Shake Adobe Stock Before Earnings",
-      "summary": "Adobe stock rises even as Citi downgrades the shares to Sell from Neutral.",
-      "link": "https://finance.yahoo.com/m/149f0f0b-95e5-36fa-9cb1-452f81cad5d8/another-downgrade-can%E2%80%99t-shake.html?.tsrc=rss",
-      "time": "2026-11-04T16:59:00+00:00",
+      "ticker": "MU",
+      "title": "Micron Leads Three AI Memory Stocks With Major Upside Potential",
+      "summary": "AMD reported 45% revenue growth, while Supermicro nearly quadrupled quarterly sales.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/micron-leads-three-ai-memory-172901273.html?.tsrc=rss",
+      "time": "2026-11-04T17:29:01+00:00",
       "touches": [
-        "ADBE"
+        "MU"
       ],
-      "tags": [
-        "earnings",
-        "analyst"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:ba4dfcdf-2148-31e7-b345-dc62d6f7f03f",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "HP Inc. Looks Outside Tech, Tapping Pharma Heavyweight as New CEO",
-      "summary": "HP Inc. stock was gaining on the appointment of Emma Walmsley as its next chief executive.",
-      "link": "https://finance.yahoo.com/m/ba4dfcdf-2148-31e7-b345-dc62d6f7f03f/hp-inc.-looks-outside-tech%2C.html?.tsrc=rss",
-      "time": "2026-11-04T15:50:00+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [
-        "people"
-      ],
+      "tags": [],
       "new": true
     }
   ],
