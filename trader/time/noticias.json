@@ -1,21 +1,104 @@
 {
-  "as_of": "2026-11-04T10:05:00Z",
+  "as_of": "2026-11-04T10:35:00Z",
   "items": [
     {
-      "id": "rss:786350b1-efb3-3495-840f-7fb6e96eadda",
+      "id": "rss:dbbd9e17-d3d7-48a1-a646-a9c3f70c59dd",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Wall Street reacts to the stunning election day Blue Wave: winners, losers and those in between",
+      "summary": "The views on the markets begin to trickle in post mid-term election Blue Wave.",
+      "link": "https://finance.yahoo.com/economy/policy/article/wall-street-reacts-to-the-stunning-election-day-blue-wave-winners-losers-and-those-in-between-102511437.html?.tsrc=rss",
+      "time": "2026-11-04T10:25:11+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:45c55ae4-f173-3bf6-85fd-c8d174ab92c5",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Aptiv (APTV) Faces A Fair Value Test On Mixed Third Quarter Results",
+      "summary": "Aptiv (NYSE:APTV) is back in focus after third quarter results that combined solid earnings and new business wins with a more cautious cash flow outlook and fresh warnings about 2027 risks. The third quarter update lands after a rough stretch for Aptiv shareholders, with the share price down 47.3% year to date and the 1-year total shareholder return declining 39.6%. The latest 6.5% single-day drop and 12.1% 90-day share price decline suggest investors are still recalibrating growth hopes...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/aptiv-aptv-faces-fair-value-101923845.html?.tsrc=rss",
+      "time": "2026-11-04T10:19:23+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:c768f257-6bc4-34c1-b157-fbbb745bc0d2",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ORCL",
+      "title": "AI data center stocks drop as Democrats sweep U.S. midterms",
+      "summary": "Investing.com - Democrats swept the U.S. midterm elections, sparking a selloff in artificial intelligence data center stocks. Investors are bracing for tighter regulatory oversight, potential rollbacks of tech tax incentives, and heightened antitrust scrutiny, which could slow down the rapid expansion of AI infrastructure.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-data-center-stocks-drop-100424346.html?.tsrc=rss",
+      "time": "2026-11-04T10:04:24+00:00",
+      "touches": [
+        "ORCL"
+      ],
+      "tags": [
+        "legal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:60bdfc2a-0f23-3bb0-8dae-b406b0c118fb",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Market Chatter: Chinese Firms Face Shortage of Nvidia AI Chips Despite 6 Million Orders",
+      "summary": "Alibaba (BABA), Tencent and ByteDance have ordered about 6 million Nvidia (NVDA) RTX Pro 5500 chips",
+      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-chinese-firms-face-100312499.html?.tsrc=rss",
+      "time": "2026-11-04T10:03:12+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:810e3207-2ecb-382a-983d-abc5653c6427",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Google unveils $15 bn data centre investment in Malaysia",
-      "summary": "Google announced plans on Wednesday to invest $15 billion in Malaysia over the next two years to build data centres and other infrastructure as demand booms for artificial intelligence services.It said the $15 billion investment will be made \"over the next two years (2027 to 2028)\", expanding on a $2 billion investment announced in 2024.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/google-unveils-15-bn-data-093025850.html?.tsrc=rss",
-      "time": "2026-11-04T09:30:25+00:00",
+      "title": "Alphabet Is on the Ropes. It\u2019s an Opening for Long-Term Investors.",
+      "summary": "Options investors should view short-term volatility as an opportunity to bet on blue-chip stocks.",
+      "link": "https://finance.yahoo.com/m/810e3207-2ecb-382a-983d-abc5653c6427/alphabet-is-on-the-ropes..html?.tsrc=rss",
+      "time": "2026-11-04T10:00:00+00:00",
       "touches": [
-        "GOOGL"
+        "GOOGL",
+        "SPY"
       ],
       "tags": [],
       "new": true
     }
   ],
-  "atencao": []
+  "atencao": [
+    {
+      "id": "rss:c768f257-6bc4-34c1-b157-fbbb745bc0d2",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ORCL",
+      "title": "AI data center stocks drop as Democrats sweep U.S. midterms",
+      "summary": "Investing.com - Democrats swept the U.S. midterm elections, sparking a selloff in artificial intelligence data center stocks. Investors are bracing for tighter regulatory oversight, potential rollbacks of tech tax incentives, and heightened antitrust scrutiny, which could slow down the rapid expansion of AI infrastructure.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-data-center-stocks-drop-100424346.html?.tsrc=rss",
+      "time": "2026-11-04T10:04:24+00:00",
+      "touches": [
+        "ORCL"
+      ],
+      "tags": [
+        "legal"
+      ],
+      "new": true
+    }
+  ]
 }
