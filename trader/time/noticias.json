@@ -1,37 +1,19 @@
 {
-  "as_of": "2026-11-04T09:35:00Z",
+  "as_of": "2026-11-04T10:05:00Z",
   "items": [
     {
-      "id": "rss:4b615743-3423-4998-8519-dfc1cd22bf04",
+      "id": "rss:786350b1-efb3-3495-840f-7fb6e96eadda",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MU",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall after Democrats take control of House, Senate",
-      "summary": "Markets priced in a divided government and assessed what a Democratic sweep of midterm elections means for key industries.",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-midterm-elections-091834396.html?.tsrc=rss",
-      "time": "2026-11-04T09:18:34+00:00",
+      "ticker": "GOOGL",
+      "title": "Google unveils $15 bn data centre investment in Malaysia",
+      "summary": "Google announced plans on Wednesday to invest $15 billion in Malaysia over the next two years to build data centres and other infrastructure as demand booms for artificial intelligence services.It said the $15 billion investment will be made \"over the next two years (2027 to 2028)\", expanding on a $2 billion investment announced in 2024.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/google-unveils-15-bn-data-093025850.html?.tsrc=rss",
+      "time": "2026-11-04T09:30:25+00:00",
       "touches": [
-        "MU",
-        "NVDA"
+        "GOOGL"
       ],
       "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:f3fced52-7227-3222-88fa-5aad79845715",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ORCL",
-      "title": "DoorDash And 2 Other Great Growth Stocks To Own",
-      "summary": "Democrats taking control of Congress has sharpened political focus on inflation, wages, and the cost of living. That puts faster growing, financially solid businesses in the spotlight as investors look for companies that can potentially grow earnings even as policy debates drag on. This article walks through three stocks that screen well for robust profit growth potential and balance sheet health, giving you a focused shortlist to research further. The three stocks highlighted here offer a...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/doordash-2-other-great-growth-091631021.html?.tsrc=rss",
-      "time": "2026-11-04T09:16:31+00:00",
-      "touches": [
-        "ORCL"
-      ],
-      "tags": [
-        "earnings"
-      ],
       "new": true
     }
   ],
