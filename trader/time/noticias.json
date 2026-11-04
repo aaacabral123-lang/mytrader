@@ -1,86 +1,16 @@
 {
-  "as_of": "2026-11-04T21:05:00Z",
+  "as_of": "2026-11-04T21:35:00Z",
   "items": [
     {
-      "id": "sec:0001193125-26-447173",
-      "source": "SEC EDGAR",
-      "kind": "filing",
-      "form": "8-K",
+      "id": "rss:674be4e5-f476-3839-b6e5-64aa5ba299ae",
+      "source": "Yahoo Finance",
+      "kind": "headline",
       "ticker": "MSFT",
-      "title": "MICROSOFT CORP filed a 8-K: other events",
-      "summary": "Current report",
-      "items": [
-        "8.01",
-        "9.01"
-      ],
-      "important": false,
-      "link": "https://www.sec.gov/Archives/edgar/data/789019/000119312526447173/0001193125-26-447173-index.htm",
-      "time": "2026-11-04T21:01:27+00:00",
+      "title": "Top Research Reports for Microsoft, SpaceX & Marvell",
+      "summary": "Microsoft, SpaceX and Marvell headline today's research reports, with AI-driven growth, expanding infrastructure and rising demand balanced by capital spending and execution risks.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-microsoft-spacex-202500966.html?.tsrc=rss",
+      "time": "2026-11-04T20:25:00+00:00",
       "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:320b7e5f-4ca2-3ae1-8555-0827e63b9f9c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ORCL",
-      "title": "Sector Update: Tech Stocks Mixed Late Afternoon",
-      "summary": "Tech stocks were mixed late Wednesday afternoon, with the State Street Technology Select Sector SPDR",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-afternoon-204528692.html?.tsrc=rss",
-      "time": "2026-11-04T20:45:28+00:00",
-      "touches": [
-        "ORCL",
-        "XLK"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:e1bed619-96a6-3ef0-a1d1-b0df531d2bfb",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Lincoln, Cross Ocean buy distressed Addison office campus with $100M makeover in mind",
-      "summary": "Chase Prospere, senior vice president at Lincoln Property Company with an aerial view of 15301 Dallas Pkwy in Addison (Getty, Lincoln Property Company, Google Maps)Cross Ocean Partners and Lincoln Property Company are gambling that a $100 million renovation plan of The Colonnade office campus on the Dallas North Tollway will turn the 59 percent leased property around. The pair announced that they acquired the three building, 12.5-acre, 1 million-square-foot office campus out of receivership on T",
-      "link": "https://finance.yahoo.com/real-estate/articles/lincoln-cross-ocean-buy-distressed-201500387.html?.tsrc=rss",
-      "time": "2026-11-04T20:15:00+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [
-        "deal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:14c4d5f5-73c3-30f0-9ef8-1a94cafbe636",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "California Could Raise $100 Billion From Billionaires \u2014 But There's a $38.9 Billion Problem",
-      "summary": "California voters are deciding the fate of a proposed billionaire wealth tax in Tuesday\u2019s midterm elections, with supporters pointing to billions in potential public funding and business leaders warning that the measure could push wealthy residents out of the state....",
-      "link": "https://finance.yahoo.com/economy/policy/articles/california-could-raise-100-billion-193017734.html?.tsrc=rss",
-      "time": "2026-11-04T19:30:17+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:86d468a7-19d2-369d-a6dd-6cc1bfeb3a1a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Why the Blue Wave Isn't Crushing Every AI Play",
-      "summary": "Just yesterday, worries a blue wave would crush the AI trade loomed over Wall Street.",
-      "link": "https://finance.yahoo.com/m/86d468a7-19d2-369d-a6dd-6cc1bfeb3a1a/why-the-blue-wave-isn%27t.html?.tsrc=rss",
-      "time": "2026-11-04T19:05:36+00:00",
-      "touches": [
-        "GOOGL",
         "MSFT"
       ],
       "tags": [],

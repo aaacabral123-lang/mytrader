@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-03T21:35:00Z",
+  "as_of": "2026-11-04T21:35:00Z",
   "report": {
     "lots": [
       {
@@ -8,9 +8,9 @@
         "date": "2026-10-28",
         "shares": 2.019585488,
         "cost": 495.99,
-        "price": 246.72,
-        "value": 498.27,
-        "gain": 2.28,
+        "price": 249.31,
+        "value": 503.5,
+        "gain": 7.51,
         "term": "short",
         "long_term_on": "2027-10-29"
       },
@@ -20,9 +20,9 @@
         "date": "2026-10-28",
         "shares": 0.424786446,
         "cost": 495.99,
-        "price": 1160.83,
-        "value": 493.1,
-        "gain": -2.89,
+        "price": 1223.21,
+        "value": 519.6,
+        "gain": 23.61,
         "term": "short",
         "long_term_on": "2027-10-29"
       },
@@ -32,9 +32,9 @@
         "date": "2026-10-28",
         "shares": 1.78815038,
         "cost": 495.99,
-        "price": 278.96,
-        "value": 498.82,
-        "gain": 2.83,
+        "price": 290.71,
+        "value": 519.83,
+        "gain": 23.84,
         "term": "short",
         "long_term_on": "2027-10-29"
       },
@@ -44,9 +44,9 @@
         "date": "2026-10-28",
         "shares": 0.96296023,
         "cost": 495.99,
-        "price": 521.91,
-        "value": 502.58,
-        "gain": 6.59,
+        "price": 557.165,
+        "value": 536.53,
+        "gain": 40.54,
         "term": "short",
         "long_term_on": "2027-10-29"
       },
@@ -56,9 +56,9 @@
         "date": "2026-10-28",
         "shares": 2.381935421,
         "cost": 494.99,
-        "price": 206.78,
-        "value": 492.54,
-        "gain": -2.45,
+        "price": 201.22,
+        "value": 479.29,
+        "gain": -15.7,
         "term": "short",
         "long_term_on": "2027-10-29"
       },
@@ -68,9 +68,9 @@
         "date": "2026-10-28",
         "shares": 3.941746801,
         "cost": 495.99,
-        "price": 125.435,
-        "value": 494.43,
-        "gain": -1.56,
+        "price": 124.81,
+        "value": 491.97,
+        "gain": -4.02,
         "term": "short",
         "long_term_on": "2027-10-29"
       },
@@ -80,9 +80,9 @@
         "date": "2026-10-28",
         "shares": 1.632372978,
         "cost": 495.99,
-        "price": 305.185,
-        "value": 498.18,
-        "gain": 2.19,
+        "price": 309.055,
+        "value": 504.49,
+        "gain": 8.5,
         "term": "short",
         "long_term_on": "2027-10-29"
       }
@@ -92,71 +92,71 @@
         "ticker": "ADBE",
         "shares": 2.019585488,
         "cost": 495.99,
-        "value": 498.27,
-        "short": 2.28,
+        "value": 503.5,
+        "short": 7.51,
         "long": 0.0,
-        "gain": 2.28,
-        "pct": 0.46
+        "gain": 7.51,
+        "pct": 1.51
       },
       {
         "ticker": "BLK",
         "shares": 0.424786446,
         "cost": 495.99,
-        "value": 493.1,
-        "short": -2.89,
+        "value": 519.6,
+        "short": 23.61,
         "long": 0.0,
-        "gain": -2.89,
-        "pct": -0.58
+        "gain": 23.61,
+        "pct": 4.76
       },
       {
         "ticker": "GOOGL",
         "shares": 1.78815038,
         "cost": 495.99,
-        "value": 498.82,
-        "short": 2.83,
+        "value": 519.83,
+        "short": 23.84,
         "long": 0.0,
-        "gain": 2.83,
-        "pct": 0.57
+        "gain": 23.84,
+        "pct": 4.81
       },
       {
         "ticker": "MSFT",
         "shares": 0.96296023,
         "cost": 495.99,
-        "value": 502.58,
-        "short": 6.59,
+        "value": 536.53,
+        "short": 40.54,
         "long": 0.0,
-        "gain": 6.59,
-        "pct": 1.33
+        "gain": 40.54,
+        "pct": 8.17
       },
       {
         "ticker": "NVDA",
         "shares": 2.381935421,
         "cost": 494.99,
-        "value": 492.54,
-        "short": -2.45,
+        "value": 479.29,
+        "short": -15.7,
         "long": 0.0,
-        "gain": -2.45,
-        "pct": -0.49
+        "gain": -15.7,
+        "pct": -3.17
       },
       {
         "ticker": "ORCL",
         "shares": 3.941746801,
         "cost": 495.99,
-        "value": 494.43,
-        "short": -1.56,
+        "value": 491.97,
+        "short": -4.02,
         "long": 0.0,
-        "gain": -1.56,
-        "pct": -0.31
+        "gain": -4.02,
+        "pct": -0.81
       },
       {
         "ticker": "UNP",
         "shares": 1.632372978,
         "cost": 495.99,
-        "value": 498.18,
-        "short": 2.19,
+        "value": 504.49,
+        "short": 8.5,
         "long": 0.0,
-        "gain": 2.19,
-        "pct": 0.44
+        "gain": 8.5,
+        "pct": 1.71
       }
     ],
     "missing_prices": [],
