@@ -1,17 +1,35 @@
 {
-  "as_of": "2026-11-04T08:35:00Z",
+  "as_of": "2026-11-04T09:05:00Z",
   "items": [
     {
-      "id": "rss:488ad7b4-49df-3fa7-bf10-9da01dbd9b44",
+      "id": "rss:9d71d869-e653-3350-9466-7f70c53e3349",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ORCL",
+      "title": "Market Chatter: Oracle Axes $7 Billion Tencent Chip-Leasing Deal Amid White House Pressure",
+      "summary": "Oracle (ORCL) has axed a $7 billion chip-leasing contract with Tencent, yielding to pressure from th",
+      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-oracle-axes-7-085230337.html?.tsrc=rss",
+      "time": "2026-11-04T08:52:30+00:00",
+      "touches": [
+        "ORCL"
+      ],
+      "tags": [
+        "deal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:2760c154-7d63-3da1-87cd-76d43ac75291",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MU",
-      "title": "Down 51% From Its High: Is This 84.6% Margin NAND Flash Maker a Bargain?",
-      "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
-      "link": "https://finance.yahoo.com/technology/articles/down-51-high-84-6-070844476.html?.tsrc=rss",
-      "time": "2026-11-04T07:08:44+00:00",
+      "title": "Zacks Investment Ideas feature highlights: QQQ, CoreWeave, SanDisk, Marvell, Arm and Micron",
+      "summary": "QQQ faces AI funding fears, rate pressures and tech pullbacks, but historical post-midterm gains and improving technical conditions point to potential market recovery.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-073200537.html?.tsrc=rss",
+      "time": "2026-11-04T07:32:00+00:00",
       "touches": [
-        "MU"
+        "MU",
+        "QQQ"
       ],
       "tags": [],
       "new": true
