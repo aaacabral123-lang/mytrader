@@ -1,5 +1,18 @@
 {
-  "cash": 1000.0,
+  "cash": 250.03,
   "source": "curto prazo: posi\u00e7\u00f5es em ETFs + caixa do curto prazo",
-  "positions": []
+  "positions": [
+    {
+      "ticker": "QQQ",
+      "shares": 0.364632712
+    },
+    {
+      "ticker": "SPY",
+      "shares": 0.330974932
+    },
+    {
+      "ticker": "XLK",
+      "shares": 1.423925178
+    }
+  ]
 }

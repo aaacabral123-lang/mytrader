@@ -39,7 +39,7 @@
       "weight": 1
     }
   ],
-  "prices_as_of": "2026-11-03",
+  "prices_as_of": "2026-11-04",
   "passed": [
     {
       "ticker": "MU",
@@ -49,115 +49,115 @@
         "revenue_growth_yoy 379.3 >= 10",
         "operating_margin 80.7 >= 25",
         "eps_ttm 74.33 > 0",
-        "pe 11.6 <= 35"
+        "pe 11 <= 35"
       ],
       "skipped": []
     },
     {
       "ticker": "NVDA",
       "name": "NVIDIA CORP",
-      "score": 0.808,
+      "score": 0.792,
       "why": [
         "revenue_growth_yoy 105.9 >= 10",
         "operating_margin 66.2 >= 25",
         "eps_ttm 7.91 > 0",
-        "pe 26.3 <= 35"
+        "pe 25.6 <= 35"
       ],
       "skipped": []
     },
     {
       "ticker": "REGN",
       "name": "REGENERON PHARMACEUTICALS, INC.",
-      "score": 0.682,
+      "score": 0.656,
       "why": [
         "revenue_growth_yoy 36.3 >= 10",
         "operating_margin 40 >= 25",
         "eps_ttm 45.21 > 0",
-        "pe 21.4 <= 35"
+        "pe 21.8 <= 35"
       ],
       "skipped": []
     },
     {
       "ticker": "LRCX",
       "name": "LAM RESEARCH CORP",
-      "score": 0.567,
+      "score": 0.573,
       "why": [
         "revenue_growth_yoy 54.4 >= 10",
         "operating_margin 40 >= 25",
         "eps_ttm 6.71 > 0",
-        "pe 34.8 <= 35"
+        "pe 33.8 <= 35"
       ],
       "skipped": []
     },
     {
       "ticker": "ORCL",
       "name": "ORACLE CORP",
-      "score": 0.567,
+      "score": 0.552,
       "why": [
         "revenue_growth_yoy 29.6 >= 10",
         "operating_margin 34.8 >= 25",
         "eps_ttm 6.38 > 0",
-        "pe 19.7 <= 35"
+        "pe 19.6 <= 35"
       ],
       "skipped": []
     },
     {
       "ticker": "BLK",
       "name": "BlackRock, Inc.",
-      "score": 0.481,
+      "score": 0.459,
       "why": [
         "revenue_growth_yoy 30.6 >= 10",
         "operating_margin 34.7 >= 25",
         "eps_ttm 41.73 > 0",
-        "pe 28 <= 35"
+        "pe 28.7 <= 35"
       ],
       "skipped": []
     },
     {
       "ticker": "MSFT",
       "name": "MICROSOFT CORP",
-      "score": 0.481,
+      "score": 0.437,
       "why": [
         "revenue_growth_yoy 18.8 >= 10",
         "operating_margin 49.8 >= 25",
         "eps_ttm 19.15 > 0",
-        "pe 26.9 <= 35"
-      ],
-      "skipped": []
-    },
-    {
-      "ticker": "UNP",
-      "name": "UNION PACIFIC CORP",
-      "score": 0.462,
-      "why": [
-        "revenue_growth_yoy 15.3 >= 10",
-        "operating_margin 40.9 >= 25",
-        "eps_ttm 12.84 > 0",
-        "pe 23.7 <= 35"
+        "pe 28.5 <= 35"
       ],
       "skipped": []
     },
     {
       "ticker": "GOOGL",
       "name": "Alphabet Inc.",
-      "score": 0.443,
+      "score": 0.417,
       "why": [
         "revenue_growth_yoy 24.7 >= 10",
         "operating_margin 31.8 >= 25",
         "eps_ttm 19.16 > 0",
-        "pe 14.5 <= 35"
+        "pe 15 <= 35"
+      ],
+      "skipped": []
+    },
+    {
+      "ticker": "UNP",
+      "name": "UNION PACIFIC CORP",
+      "score": 0.417,
+      "why": [
+        "revenue_growth_yoy 15.3 >= 10",
+        "operating_margin 40.9 >= 25",
+        "eps_ttm 12.84 > 0",
+        "pe 23.8 <= 35"
       ],
       "skipped": []
     },
     {
       "ticker": "ADBE",
       "name": "ADOBE INC.",
-      "score": 0.394,
+      "score": 0.364,
       "why": [
         "revenue_growth_yoy 12.9 >= 10",
         "operating_margin 34.8 >= 25",
         "eps_ttm 17.91 > 0",
-        "pe 13.7 <= 35"
+        "pe 14 <= 35"
       ],
       "skipped": []
     }
@@ -166,19 +166,19 @@
     {
       "ticker": "AAPL",
       "why": [
-        "pe 36.7, needs <= 35"
+        "pe 38.7, needs <= 35"
       ]
     },
     {
       "ticker": "ABBV",
       "why": [
-        "pe 81.6, needs <= 35"
+        "pe 49.6, needs <= 35"
       ]
     },
     {
       "ticker": "AMGN",
       "why": [
-        "revenue_growth_yoy 9.5, needs >= 10"
+        "revenue_growth_yoy 8.5, needs >= 10"
       ]
     },
     {
@@ -190,19 +190,19 @@
     {
       "ticker": "ANET",
       "why": [
-        "pe 53.8, needs <= 35"
+        "pe 48.9, needs <= 35"
       ]
     },
     {
       "ticker": "AVGO",
       "why": [
-        "pe 42.6, needs <= 35"
+        "pe 41.8, needs <= 35"
       ]
     },
     {
       "ticker": "BKNG",
       "why": [
-        "revenue_growth_yoy 8.1, needs >= 10"
+        "revenue_growth_yoy -1.3, needs >= 10"
       ]
     },
     {
@@ -245,12 +245,6 @@
       "ticker": "INTU",
       "why": [
         "operating_margin 10.9, needs >= 25"
-      ]
-    },
-    {
-      "ticker": "JPM",
-      "why": [
-        "operating_margin is missing"
       ]
     },
     {
@@ -310,7 +304,7 @@
     {
       "ticker": "PLTR",
       "why": [
-        "pe 119.8, needs <= 35"
+        "pe 119.2, needs <= 35"
       ]
     },
     {
@@ -350,6 +344,12 @@
       ]
     },
     {
+      "ticker": "VRTX",
+      "why": [
+        "operating_margin 20.7, needs >= 25"
+      ]
+    },
+    {
       "ticker": "VZ",
       "why": [
         "revenue_growth_yoy 1.5, needs >= 10"
@@ -379,8 +379,8 @@
     {
       "ticker": "AMD",
       "why": [
-        "operating_margin 17.3, needs >= 25",
-        "pe 126.2, needs <= 35"
+        "operating_margin 21.2, needs >= 25",
+        "pe 104.1, needs <= 35"
       ]
     },
     {
@@ -450,14 +450,14 @@
       "ticker": "COST",
       "why": [
         "operating_margin 4, needs >= 25",
-        "pe 49.2, needs <= 35"
+        "pe 50, needs <= 35"
       ]
     },
     {
       "ticker": "CVS",
       "why": [
-        "revenue_growth_yoy 7.3, needs >= 10",
-        "operating_margin 4.4, needs >= 25"
+        "revenue_growth_yoy 5.4, needs >= 10",
+        "operating_margin 3.3, needs >= 25"
       ]
     },
     {
@@ -478,14 +478,14 @@
       "ticker": "ETN",
       "why": [
         "operating_margin is missing",
-        "pe 40.2, needs <= 35"
+        "pe 36.8, needs <= 35"
       ]
     },
     {
       "ticker": "GE",
       "why": [
         "operating_margin is missing",
-        "pe 37.1, needs <= 35"
+        "pe 38, needs <= 35"
       ]
     },
     {
@@ -513,14 +513,21 @@
       "ticker": "ISRG",
       "why": [
         "operating_margin 19.4, needs >= 25",
-        "pe 53.4, needs <= 35"
+        "pe 57.3, needs <= 35"
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "why": [
+        "revenue_growth_yoy 8.1, needs >= 10",
+        "operating_margin is missing"
       ]
     },
     {
       "ticker": "KLAC",
       "why": [
         "operating_margin is missing",
-        "pe 39.3, needs <= 35"
+        "pe 38.3, needs <= 35"
       ]
     },
     {
@@ -534,7 +541,7 @@
       "ticker": "LLY",
       "why": [
         "operating_margin is missing",
-        "pe 46.1, needs <= 35"
+        "pe 46.6, needs <= 35"
       ]
     },
     {
@@ -562,7 +569,7 @@
       "ticker": "NOW",
       "why": [
         "operating_margin 9.4, needs >= 25",
-        "pe 77.6, needs <= 35"
+        "pe 79.9, needs <= 35"
       ]
     },
     {
@@ -576,7 +583,7 @@
       "ticker": "PANW",
       "why": [
         "operating_margin 5, needs >= 25",
-        "pe 898.4, needs <= 35"
+        "pe 860.4, needs <= 35"
       ]
     },
     {
@@ -598,13 +605,6 @@
       "why": [
         "revenue_growth_yoy -4, needs >= 10",
         "operating_margin 16.3, needs >= 25"
-      ]
-    },
-    {
-      "ticker": "SYK",
-      "why": [
-        "revenue_growth_yoy 7.6, needs >= 10",
-        "operating_margin 15.9, needs >= 25"
       ]
     },
     {
@@ -638,8 +638,8 @@
     {
       "ticker": "UNH",
       "why": [
-        "revenue_growth_yoy 0.4, needs >= 10",
-        "operating_margin 7.1, needs >= 25"
+        "revenue_growth_yoy -0.4, needs >= 10",
+        "operating_margin 5.8, needs >= 25"
       ]
     },
     {
@@ -668,7 +668,7 @@
       "why": [
         "revenue_growth_yoy 4.6, needs >= 10",
         "operating_margin 20.3, needs >= 25",
-        "pe 37.4, needs <= 35"
+        "pe 38.3, needs <= 35"
       ]
     },
     {
@@ -676,7 +676,7 @@
       "why": [
         "revenue_growth_yoy 4.9, needs >= 10",
         "operating_margin is missing",
-        "pe 37.1, needs <= 35"
+        "pe 37.3, needs <= 35"
       ]
     },
     {
@@ -700,7 +700,7 @@
       "why": [
         "revenue_growth_yoy 5.9, needs >= 10",
         "operating_margin is missing",
-        "pe 41, needs <= 35"
+        "pe 41.4, needs <= 35"
       ]
     },
     {
@@ -708,7 +708,7 @@
       "why": [
         "revenue_growth_yoy 5.1, needs >= 10",
         "operating_margin is missing",
-        "pe 116.6, needs <= 35"
+        "pe 118.1, needs <= 35"
       ]
     },
     {
@@ -716,7 +716,7 @@
       "why": [
         "revenue_growth_yoy -0.4, needs >= 10",
         "operating_margin is missing",
-        "pe 43.5, needs <= 35"
+        "pe 43.9, needs <= 35"
       ]
     },
     {
@@ -724,7 +724,15 @@
       "why": [
         "revenue_growth_yoy -1.4, needs >= 10",
         "operating_margin 10.5, needs >= 25",
-        "pe 60.2, needs <= 35"
+        "pe 61.8, needs <= 35"
+      ]
+    },
+    {
+      "ticker": "SYK",
+      "why": [
+        "revenue_growth_yoy 7.6, needs >= 10",
+        "operating_margin 15.9, needs >= 25",
+        "pe 35.4, needs <= 35"
       ]
     },
     {
@@ -732,7 +740,7 @@
       "why": [
         "revenue_growth_yoy 9.1, needs >= 10",
         "operating_margin 18.6, needs >= 25",
-        "pe 36.7, needs <= 35"
+        "pe 37.2, needs <= 35"
       ]
     },
     {
@@ -740,7 +748,7 @@
       "why": [
         "revenue_growth_yoy -0.2, needs >= 10",
         "operating_margin 2.6, needs >= 25",
-        "pe 441.1, needs <= 35"
+        "pe 416.2, needs <= 35"
       ]
     },
     {
@@ -748,7 +756,7 @@
       "why": [
         "revenue_growth_yoy 5.9, needs >= 10",
         "operating_margin 5, needs >= 25",
-        "pe 45.4, needs <= 35"
+        "pe 46.1, needs <= 35"
       ]
     },
     {

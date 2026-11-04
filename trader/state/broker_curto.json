@@ -29,6 +29,16 @@
       "id": "cb5bb657-3efd-4afc-bd05-07aa363b3b7c",
       "approved_by": "robo (automatic, paper)",
       "why": "curto prazo, entrada: RSI(2) 8.9, acima da m\u00e9dia de 200 dias ($726.29)"
+    },
+    {
+      "date": "2026-11-04",
+      "at": "2026-11-04T14:35:11Z",
+      "status": "placed",
+      "symbol": "SPY",
+      "side": "sell",
+      "id": "c075a031-84e5-472d-a2dd-a56f1c7c722b",
+      "approved_by": "robo (automatic, paper)",
+      "why": "curto prazo, sa\u00edda: repique: $763.83 acima da m\u00e9dia de 5 dias ($759.09)"
     }
   ]
 }

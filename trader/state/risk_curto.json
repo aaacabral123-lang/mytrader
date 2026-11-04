@@ -1,46 +1,24 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-04",
   "paper": true,
   "results": [
     {
       "index": 1,
-      "symbol": "XLK",
-      "side": "buy",
-      "amount": "$250",
-      "value_usd": 250.0,
-      "fingerprint": "38a846bb7274ed6e",
-      "verdict": "PASS",
-      "reasons": [],
-      "warnings": []
-    },
-    {
-      "index": 2,
-      "symbol": "QQQ",
-      "side": "buy",
-      "amount": "$250",
-      "value_usd": 250.0,
-      "fingerprint": "c9e067121b018b2e",
-      "verdict": "PASS",
-      "reasons": [],
-      "warnings": []
-    },
-    {
-      "index": 3,
       "symbol": "SPY",
-      "side": "buy",
-      "amount": "$250",
-      "value_usd": 250.0,
-      "fingerprint": "04ec8e8661368cf1",
+      "side": "sell",
+      "amount": "0.330974932 shares",
+      "value_usd": 252.81,
+      "fingerprint": "302a5d43bd80d5ef",
       "verdict": "PASS",
       "reasons": [],
       "warnings": []
     }
   ],
-  "pass": 3,
+  "pass": 1,
   "block": 0,
   "warnings": [],
-  "cash_after": 250.0,
-  "prices_as_of": "2026-11-02T20:05:00Z",
-  "checked_at": "2026-11-02T20:05:00",
+  "cash_after": 502.84,
+  "prices_as_of": "2026-11-04T14:35:11Z",
+  "checked_at": "2026-11-04T14:35:49",
   "orders_file": "trader/curto/orders.json"
 }

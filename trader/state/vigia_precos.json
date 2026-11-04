@@ -1,68 +1,68 @@
 {
-  "as_of": "2026-11-03T20:35:12Z",
+  "as_of": "2026-11-04T14:35:05Z",
   "source": "yahoo",
   "note": "Delayed quotes for alerts and sizing checks. Your broker's price is the one that fills.",
   "prices": {
-    "ADBE": 246.75,
-    "BLK": 1160.835,
-    "GOOGL": 278.93,
-    "MSFT": 521.9,
-    "NVDA": 206.77,
-    "ORCL": 125.43,
-    "QQQ": 685.29,
-    "SPY": 753.99,
-    "UNP": 305.185,
-    "XLK": 176.415
+    "ADBE": 251.065,
+    "BLK": 1199.97,
+    "GOOGL": 287.24,
+    "MSFT": 547.68,
+    "NVDA": 201.46,
+    "ORCL": 125.23,
+    "QQQ": 689.11,
+    "SPY": 763.53,
+    "UNP": 305.82,
+    "XLK": 176.73
   },
   "detail": {
     "ADBE": {
-      "prev_close": 251.47,
-      "time": "2026-11-03T20:35:09Z",
+      "prev_close": 246.14,
+      "time": "2026-11-04T14:35:04Z",
       "source": "yahoo"
     },
     "BLK": {
-      "prev_close": 1167.15,
-      "time": "2026-11-03T20:35:11Z",
+      "prev_close": 1161.1,
+      "time": "2026-11-04T14:35:01Z",
       "source": "yahoo"
     },
     "GOOGL": {
-      "prev_close": 278.99,
-      "time": "2026-11-03T20:35:13Z",
+      "prev_close": 280.03,
+      "time": "2026-11-04T14:35:05Z",
       "source": "yahoo"
     },
     "MSFT": {
-      "prev_close": 507.12,
-      "time": "2026-11-03T20:35:14Z",
+      "prev_close": 520.99,
+      "time": "2026-11-04T14:35:07Z",
       "source": "yahoo"
     },
     "NVDA": {
-      "prev_close": 202.06,
-      "time": "2026-11-03T20:35:14Z",
+      "prev_close": 206.69,
+      "time": "2026-11-04T14:35:07Z",
       "source": "yahoo"
     },
     "ORCL": {
-      "prev_close": 119.22,
-      "time": "2026-11-03T20:35:15Z",
+      "prev_close": 126.21,
+      "time": "2026-11-04T14:35:06Z",
       "source": "yahoo"
     },
     "QQQ": {
-      "prev_close": 681.09,
-      "time": "2026-11-03T20:35:07Z",
+      "prev_close": 685.28,
+      "time": "2026-11-04T14:35:07Z",
       "source": "yahoo"
     },
     "SPY": {
-      "prev_close": 752.1,
-      "time": "2026-11-03T20:35:17Z",
+      "prev_close": 754.44,
+      "time": "2026-11-04T14:35:08Z",
       "source": "yahoo"
     },
     "UNP": {
-      "prev_close": 307.0,
-      "time": "2026-11-03T20:35:10Z",
+      "prev_close": 303.35,
+      "time": "2026-11-04T14:35:08Z",
       "source": "yahoo"
     },
     "XLK": {
-      "prev_close": 174.22,
-      "time": "2026-11-03T20:35:16Z",
+      "prev_close": 176.5,
+      "time": "2026-11-04T14:35:10Z",
       "source": "yahoo"
     }
   }

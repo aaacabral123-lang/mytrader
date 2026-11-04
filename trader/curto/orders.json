@@ -3,28 +3,12 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "XLK",
-      "side": "buy",
-      "notional": "250",
-      "type": "market",
-      "time_in_force": "day",
-      "why": "curto prazo, entrada: RSI(2) 5.4, acima da m\u00e9dia de 200 dias ($169.38)"
-    },
-    {
-      "symbol": "QQQ",
-      "side": "buy",
-      "notional": "250",
-      "type": "market",
-      "time_in_force": "day",
-      "why": "curto prazo, entrada: RSI(2) 6.5, acima da m\u00e9dia de 200 dias ($678.66)"
-    },
-    {
       "symbol": "SPY",
-      "side": "buy",
-      "notional": "250",
+      "side": "sell",
+      "qty": "0.330974932",
       "type": "market",
       "time_in_force": "day",
-      "why": "curto prazo, entrada: RSI(2) 8.9, acima da m\u00e9dia de 200 dias ($726.29)"
+      "why": "curto prazo, sa\u00edda: repique: $763.83 acima da m\u00e9dia de 5 dias ($759.09)"
     }
   ]
 }

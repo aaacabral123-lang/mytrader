@@ -1,46 +1,15 @@
 {
-  "as_of": "2026-11-04T14:05:00Z",
+  "as_of": "2026-11-04T14:35:00Z",
   "items": [
     {
-      "id": "rss:8e1fab79-fec3-427d-bd25-0bce55623fa7",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Why Elon Musk will keep funding Grok, no matter the cost",
-      "summary": "In the Loop Host Ejaaz Ahamadeen sets the table for why he believes Elon Musk is willing to keep pouring money into his AI project, Grok, no matter the cost. Ahamadeen explains why he believes personal AI assistants will become the \u201cmost important and valuable layer\u201d for how people interact with the broader digital world.",
-      "link": "https://finance.yahoo.com/video/why-elon-musk-will-keep-funding-grok-no-matter-the-cost-134354511.html?.tsrc=rss",
-      "time": "2026-11-04T13:43:54+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:b2d34831-e6e7-3e0d-bb44-959c0caa19a1",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Global X Launches Magnificent Six ETF",
-      "summary": "NEW YORK, November 04, 2026--Global X launches the Global X Magnificent Six ETF, which seeks to provide exposure to Alphabet; Amazon; Apple; Meta; Microsoft; and NVIDIA.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/global-x-launches-magnificent-six-133000809.html?.tsrc=rss",
-      "time": "2026-11-04T13:30:00+00:00",
-      "touches": [
-        "GOOGL",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:59cc3708-c7e7-3656-b56c-b03bddc4f847",
+      "id": "rss:ad50c8b2-2872-3a69-aa7e-aa5e725bf54f",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MU",
-      "title": "Micron Stock Faces a Memory Price Conundrum in Wake of Democrat Success",
-      "summary": "Micron stock was edging down as investors digest the Democratic wave and signs rising memory prices are hitting some areas of the hardware market.",
-      "link": "https://finance.yahoo.com/m/59cc3708-c7e7-3656-b56c-b03bddc4f847/micron-stock-faces-a-memory.html?.tsrc=rss",
-      "time": "2026-11-04T13:15:00+00:00",
+      "title": "Micron Technology  (MU) Pulls Back Amid Broader AI Memory Sell-Off; Underweight Position Aids Relative Returns",
+      "summary": "Polen Capital, an investment management company, released its \u201c5Perspectives Large Growth Strategy\u201d Q3 2026 investor letter. The letter can be downloaded here. In Q3 2026, the Polen 5Perspectives Large Growth Composite returned 0.0%, trailing the Russell 1000 Growth Index\u2019s 0.9%. The quarter saw heightened market volatility, particularly among AI equities, driven by concerns over hyperscaler [\u2026]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-pulls-back-142926407.html?.tsrc=rss",
+      "time": "2026-11-04T14:29:26+00:00",
       "touches": [
         "MU"
       ],
@@ -48,14 +17,14 @@
       "new": true
     },
     {
-      "id": "rss:6adcdc67-6490-3bde-bd18-5a7b0270bfef",
+      "id": "rss:6a347312-ea14-4b60-9cb0-e456249244f3",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Uber\u2019s Delivery Business Narrows Gap With Ride-Sharing. Now Comes the Robo-Taxi Push.",
-      "summary": "Uber\u2019s earnings grow as it prepares to invest billions on robo-taxis.",
-      "link": "https://finance.yahoo.com/m/6adcdc67-6490-3bde-bd18-5a7b0270bfef/uber%E2%80%99s-delivery-business.html?.tsrc=rss",
-      "time": "2026-11-04T12:47:00+00:00",
+      "title": "What sets AMD data centers apart as Intel stock keeps sliding?",
+      "summary": "Advanced Micro Devices (AMD) outpaced Wall Street estimates for the chipmaker's third quarter earnings, carried by the company's AI data center revenue nearly doubling to $8.55 billion Defiance ETFs CIO Sylvia Jablonski helps The 8:30 team dive into and compare AMD's stock reaction to its data centers, while Intel (INTC) continues to plunge lower.",
+      "link": "https://finance.yahoo.com/video/what-sets-amd-data-centers-apart-as-intel-stock-keeps-sliding-141848435.html?.tsrc=rss",
+      "time": "2026-11-04T14:18:48+00:00",
       "touches": [
         "NVDA"
       ],
@@ -65,14 +34,140 @@
       "new": true
     },
     {
-      "id": "rss:df5899c4-44b0-3cdc-b940-83b54a31f033",
+      "id": "rss:6f15b755-f7e3-3651-8698-19d852988d35",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "QQQ",
+      "title": "Exchange-Traded Funds, Equity Futures Rise Pre-Bell Wednesday as Investors React to US Midterm Election Results",
+      "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.9% and the actively trad",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-141810509.html?.tsrc=rss",
+      "time": "2026-11-04T14:18:10+00:00",
+      "touches": [
+        "QQQ",
+        "SPY"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:c7cfda24-812a-3e7d-a41e-138b0ad10480",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "CoreWeave, Nebius Slide As Blue Wave Clouds AI Boom",
+      "summary": "CoreWeave stock and Nebius shares sold off amid worries that the \"blue wave\" mid-term election results will slow the AI data center build-out.",
+      "link": "https://finance.yahoo.com/m/c7cfda24-812a-3e7d-a41e-138b0ad10480/coreweave%2C-nebius-slide-as.html?.tsrc=rss",
+      "time": "2026-11-04T14:09:03+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:c7deb20c-5705-33d0-8e66-e3eb17146aa3",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Equable Analysis: State and Local Pension Funds Have at Least $578 Billion Invested in AI Companies",
+      "summary": "State and local pension funds have between $578.1 billion and $706.6 billion invested in AI-related companies, according to an analysis released today by Equable Institute. This accounts for 9% to 11% of the total $6.42 trillion in state and local pension assets, as of June 30, 2026. Equable considers this range a conservative, lower-bound estimate.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/equable-analysis-state-local-pension-140600715.html?.tsrc=rss",
+      "time": "2026-11-04T14:06:00+00:00",
+      "touches": [
+        "MSFT",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:c97b97f5-dec5-324b-ad30-f8d1a62f99a9",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Adobe Integrates Agentic CX Enterprise Coworker Into AI Platforms from Anthropic, Google, Microsoft, OpenAI and More",
+      "summary": "SAN JOSE, Calif., November 04, 2026--Adobe (Nasdaq:ADBE), the global technology leader that unleashes creativity, productivity and customer experiences through innovative tools and platforms, today announced that Adobe CX Enterprise Coworker, the industry\u2019s leading agentic teammate for customer experience orchestration, is now available within leading AI platforms including ChatGPT (as a plugin), Claude, Databricks Genie, Gemini for business and Microsoft Copilot \u2013 with availability in Amazon Qu",
+      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-integrates-agentic-cx-enterprise-140000537.html?.tsrc=rss",
+      "time": "2026-11-04T14:00:00+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:d396799f-f18e-345a-a984-afa42102a231",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "BLK",
+      "title": "Render Expands Its Platform to Simplify Running AI Agents Inside Production Apps",
+      "summary": "SAN FRANCISCO, November 04, 2026--Render, the cloud for AI-native applications, today announced a major expansion of its platform that enables teams to effortlessly run AI agents inside of their production applications. The expansion introduces Render Sandboxes, Render Workflows, and Shared Filesystems, giving engineering teams the core infrastructure to build and scale agents on the same platform that already runs their APIs, databases, and background jobs. Render is already home to more than 8",
+      "link": "https://finance.yahoo.com/technology/ai/articles/render-expands-platform-simplify-running-140000257.html?.tsrc=rss",
+      "time": "2026-11-04T14:00:00+00:00",
+      "touches": [
+        "BLK"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:d55f2e5e-40fa-3b9f-823d-7b64c5fb2b34",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "AI Automation Market Growth 2027: Microsoft, AWS, Accenture, ServiceNow and Salesforce Race to Scale Agentic Automation",
+      "summary": "Top 10 Companies Hold 40.22% of a USD 167.71 Billion AI Automation Market: Precedence Research Company Intelligence on Expansion, Investment, Deployment and Enterprise AdoptionOttawa, Nov. 04, 2026 (GLOBE NEWSWIRE) -- Precedence Research today released updated company intelligence on the global AI automation market, which covers software and services that use AI to run business processes, IT operations, customer conversations and decisions with less manual effort. The market is valued at USD 167",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-automation-market-growth-2027-140000612.html?.tsrc=rss",
+      "time": "2026-11-04T14:00:00+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:35b68c1a-e6d6-3251-b8e1-7f2a83ca323d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Above Security Joins Microsoft for Startups Pegasus Program to Add Human Context to Microsoft Purview",
+      "summary": "Above Security (Above), the AI-native managed insider threat platform, announced today it has joined the Microsoft for Startups Pegasus Program, an invite-only program that helps select B2B startups sell faster by connecting them with Microsoft's global network of customers.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/above-security-joins-microsoft-startups-140000453.html?.tsrc=rss",
+      "time": "2026-11-04T14:00:00+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:c37f06ec-0ab1-3b16-a257-05ef26feb046",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Mediaocean Expands Prisma Direct to Search with Microsoft Advertising Integration",
+      "summary": "NEW YORK, November 04, 2026--Mediaocean Expands Prisma Direct to Search with Microsoft Advertising Integration",
+      "link": "https://finance.yahoo.com/media-advertising/articles/mediaocean-expands-prisma-direct-search-140000038.html?.tsrc=rss",
+      "time": "2026-11-04T14:00:00+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:e465c2db-8550-37cc-883d-1a2cb6a4cf26",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "ORCL",
-      "title": "The Market Loves the Democrat Sweep. It\u2019s More Complicated for AI Stocks.",
-      "summary": "All the news you need before the market opens.",
-      "link": "https://finance.yahoo.com/m/df5899c4-44b0-3cdc-b940-83b54a31f033/the-market-loves-the-democrat.html?.tsrc=rss",
-      "time": "2026-11-04T12:45:00+00:00",
+      "title": "Credo and Oracle Advance Optical Transceiver Telemetry Standardization with OCP Community",
+      "summary": "SAN JOSE, Calif., November 04, 2026--Credo and Oracle advance optical transceiver telemetry standardization with OCP Community.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/credo-oracle-advance-optical-transceiver-140000942.html?.tsrc=rss",
+      "time": "2026-11-04T14:00:00+00:00",
       "touches": [
         "ORCL"
       ],
@@ -80,20 +175,48 @@
       "new": true
     },
     {
-      "id": "rss:a199257d-547c-3b17-ad44-8f26811f778b",
+      "id": "rss:cef67672-da0f-3bdf-b7d0-8a62968c229e",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MSFT",
-      "title": "HP Names Emma Walmsley as New CEO, Ending Monthlong Search",
-      "summary": "HP Inc. named former GSK Plc chief executive officer Emma Walmsley as its new CEO, permanently filling the role after HP\u2019s Enrique Lores departed earlier this year.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hp-names-emma-walmsley-ceo-124439611.html?.tsrc=rss",
-      "time": "2026-11-04T12:44:39+00:00",
+      "ticker": "ORCL",
+      "title": "Rimini Street Awarded CANUT Third-Party Maintenance Framework Agreement",
+      "summary": "LAS VEGAS, November 04, 2026--Rimini Street, Inc. (Nasdaq: RMNI), the Software Support and Agentic AI ERP Company\u2122 and the leading third-party support provider for Oracle, SAP and VMware software, today announced that it had been selected as the awardee of the third-party support service lots (TMA) by CANUT, the French public purchasing center specializing in digital technology and telecommunications.",
+      "link": "https://finance.yahoo.com/technology/articles/rimini-street-awarded-canut-third-140000878.html?.tsrc=rss",
+      "time": "2026-11-04T14:00:00+00:00",
       "touches": [
-        "MSFT"
+        "ORCL"
       ],
-      "tags": [
-        "people"
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:81147dfa-197c-327c-96a8-12d42a84a567",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "ModelOp Unveils Industry-First Full-Stack AI Policy Enforcement With NVIDIA OpenShell",
+      "summary": "New NVIDIA OpenShell integration enforces AI policy at the operating system, making ModelOp the first AI governance platform to centrally manage and enforce policy at the process, execution, OS and network levelsPARK CITY, Utah, Nov. 04, 2026 (GLOBE NEWSWIRE) -- A critical governance gap is emerging as enterprises race to deploy autonomous AI: an agent can be fully approved, compliant on paper and still take actions that violate corporate policy. Today, ModelOp, the Enterprise AI Command Center",
+      "link": "https://finance.yahoo.com/technology/ai/articles/modelop-unveils-industry-first-full-135800127.html?.tsrc=rss",
+      "time": "2026-11-04T13:58:00+00:00",
+      "touches": [
+        "NVDA"
       ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:ed3e73a3-af1e-3788-813e-77dfaa9f3562",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLK",
+      "title": "Stock Market News for Nov 4, 2026",
+      "summary": "Wall Street closed mixed on Tuesday, pulled up by tech and industrial stocks.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-4-132500586.html?.tsrc=rss",
+      "time": "2026-11-04T13:25:00+00:00",
+      "touches": [
+        "XLK"
+      ],
+      "tags": [],
       "new": true
     }
   ],
