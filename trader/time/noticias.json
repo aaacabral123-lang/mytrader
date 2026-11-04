@@ -1,53 +1,20 @@
 {
-  "as_of": "2026-11-04T00:05:00Z",
+  "as_of": "2026-11-04T00:35:00Z",
   "items": [
     {
-      "id": "rss:b0895382-5b20-3fc0-b7ad-9481d179a21f",
+      "id": "rss:d32f3c98-5dfe-3a13-b808-00065ade19f0",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "CrowdStrike (CRWD) stock trades down, here is why",
-      "summary": "Shares of cybersecurity platform provider CrowdStrike (NASDAQ:CRWD) fell 2.5% in the morning session after software stocks extended the selloff from the previous session as investors continued to reprice valuations amid mounting artificial intelligence capital expenditure concerns and decelerating software bookings.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-crwd-stock-trades-down-234936695.html?.tsrc=rss",
-      "time": "2026-11-03T23:49:36+00:00",
+      "ticker": "NVDA",
+      "title": "AMD EPS: Intel's Drag Makes No Sense",
+      "summary": "Recent earnings results show diverging paths for Intel and AMD.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-eps-intels-drag-makes-231300384.html?.tsrc=rss",
+      "time": "2026-11-03T23:13:00+00:00",
       "touches": [
-        "GOOGL",
-        "ORCL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:4c1266a7-8650-3c13-9a0a-08b5b611d5d4",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Cloudflare, MongoDB, Datadog, JFrog, and Elastic shares plummet, what you need to know",
-      "summary": "A number of stocks fell in the morning session after software stocks extended the selloff from the previous session as investors continued to reprice valuations amid mounting artificial intelligence capital expenditure concerns and decelerating software bookings.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-mongodb-datadog-jfrog-elastic-234136948.html?.tsrc=rss",
-      "time": "2026-11-03T23:41:36+00:00",
-      "touches": [
-        "GOOGL",
-        "ORCL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:408c8f87-4eda-3391-8f53-6eb93267a790",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Why Reddit Stock Is In Focus After Strong Q3 And A Google Traffic Warning",
-      "summary": "Reddit reported Q3 2026 revenue of US$894.96 million and net income of US$283.26 million, alongside a completed US$340.37 million share repurchase covering 1.15% of shares. The business paired stronger earnings with a warning about lower daily users and weaker Google search referrals, while preparing a logged in only platform that concentrates on the audience already driving most monetization. We will now examine how Reddit's investment narrative is affected by the sharp Google search...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-reddit-stock-focus-strong-232429824.html?.tsrc=rss",
-      "time": "2026-11-03T23:24:29+00:00",
-      "touches": [
-        "GOOGL"
+        "NVDA"
       ],
       "tags": [
-        "earnings",
-        "capital"
+        "earnings"
       ],
       "new": true
     }
