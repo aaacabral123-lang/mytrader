@@ -1,85 +1,37 @@
 {
-  "as_of": "2026-11-04T12:35:00Z",
+  "as_of": "2026-11-04T13:05:00Z",
   "items": [
     {
-      "id": "rss:d5892081-3d3d-3a33-9d3e-0850e59efa1b",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Schneider Electric (ENXTPA:SU) Unveiled Edge AI Tools For Industrial Sites",
-      "summary": "Schneider Electric (ENXTPA:SU) announced a collaboration with NVIDIA and Hewlett Packard Enterprise to speed up Physical AI deployment at the industrial edge. The partnership focuses on running AI workloads closer to factories and plants to address data governance, cybersecurity, and cost constraints. Schneider Electric also introduced TeSys Tera, an intelligent motor management system designed to bring real-time monitoring and predictive maintenance to aging facilities. The collaboration...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/schneider-electric-enxtpa-su-unveiled-121723323.html?.tsrc=rss",
-      "time": "2026-11-04T12:17:23+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:fd5884cc-ba81-3bea-a976-6867f5eaefcc",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Oracle Stock Slips After $7 Billion Tencent Deal Is Canceled",
-      "summary": "The cancellation lands a day after Nvidia reportedly capped partners' Chinese cloud sales below half",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-slips-7-billion-121721676.html?.tsrc=rss",
-      "time": "2026-11-04T12:17:21+00:00",
-      "touches": [
-        "NVDA",
-        "ORCL"
-      ],
-      "tags": [
-        "deal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:339fdecf-ef70-3dfd-8f17-fbe8f1c64d67",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Citi cuts Adobe rating on \u2019rising risk of a hard reset\u2019",
-      "summary": "Investing.com -- Citi downgraded Adobe to Sell, saying it sees downside risk to consensus growth estimates into fiscal 2027 as a leadership transition coincides with mounting competitive and macro pressure on the company\u2019s Creative business.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/citi-cuts-adobe-rating-rising-120542527.html?.tsrc=rss",
-      "time": "2026-11-04T12:05:42+00:00",
-      "touches": [
-        "ADBE"
-      ],
-      "tags": [
-        "analyst"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:8408a5f1-35ff-4caf-b0cc-97b89909852b",
+      "id": "rss:0920f16c-e0e4-4b67-9e03-a5a623067eaf",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Elon says Grok Bot costs more than it makes",
-      "summary": "Elon Musk says the cost of serving Grok Bot is unsustainably high relative to revenue, and usage limits just tightened for paying users. Host Ejaaz Ahamadeen breaks down why the same chips earn more rented to Anthropic, the $60 billion Cursor bet, the bear and bull case, and whether AI is too expensive at today's prices.",
-      "link": "https://finance.yahoo.com/video/elon-says-grok-bot-costs-120000123.html?.tsrc=rss",
-      "time": "2026-11-04T12:00:00+00:00",
+      "title": "Why tech earnings are facing an unprecedented high bar",
+      "summary": "Piper Sandler chief investment strategist, Michael Kantrowitz, sits down with Yahoo Finance Breaking Business News Reporter Jake Conley to share his thoughts on the latest round of tech earnings.",
+      "link": "https://finance.yahoo.com/video/why-tech-earnings-facing-unprecedented-130000959.html?.tsrc=rss",
+      "time": "2026-11-04T13:00:00+00:00",
       "touches": [
         "GOOGL"
       ],
-      "tags": [],
+      "tags": [
+        "earnings"
+      ],
       "new": true
     },
     {
-      "id": "rss:b97f5853-5c8e-375f-8456-18e79059956f",
+      "id": "rss:b1507535-511d-3a35-83f0-27106c1a1948",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MSFT",
-      "title": "HP Inc. Appoints Emma Walmsley as Chief Executive Officer",
-      "summary": "Bruce Broussard to Succeed Chip Bergh as Chair of the Board PALO ALTO, Calif., Nov. 04, 2026 (GLOBE NEWSWIRE) -- HP Inc. (NYSE: HPQ) today announced that its Board of Directors has unanimously appointed Emma Walmsley as Chief Executive Officer, effective January 4, 2027. Ms. Walmsley most recently served as Chief Executive Officer of GSK and has been a member of Microsoft\u2019s Board of Directors for seven years. She will succeed Bruce Broussard, who has served as Interim Chief Executive Officer sin",
-      "link": "https://finance.yahoo.com/technology/articles/hp-inc-appoints-emma-walmsley-120000023.html?.tsrc=rss",
-      "time": "2026-11-04T12:00:00+00:00",
+      "ticker": "MU",
+      "title": "5 Value Stocks to Buy as AI Volatility Reshapes the Market",
+      "summary": "AI volatility is shaking markets, but value still shines. CVE, MU, SNDK, HPE and HMC pass a high earnings yield screen and carry Zacks Buy ratings.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-value-stocks-buy-ai-114900760.html?.tsrc=rss",
+      "time": "2026-11-04T11:49:00+00:00",
       "touches": [
-        "MSFT"
+        "MU"
       ],
       "tags": [
-        "people"
+        "earnings"
       ],
       "new": true
     }
