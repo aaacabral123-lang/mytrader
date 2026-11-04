@@ -37,12 +37,6 @@
       "pct": 5
     },
     {
-      "id": "vigia-QQQ",
-      "symbol": "QQQ",
-      "type": "pct_move",
-      "pct": 5
-    },
-    {
       "id": "vigia-UNP",
       "symbol": "UNP",
       "type": "pct_move",
