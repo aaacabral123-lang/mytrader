@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-04T03:05:00Z",
-  "items": [
-    {
-      "id": "rss:5563aa5b-09fe-3ef2-a55d-6997bf6ad2aa",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Zohran Mamdani Says Google Uses \u2018Monopoly Power\u2019 to Push AI Into Schools: Corporations Shouldn\u2019t \u2018Dictate\u2019 How We Teach Children",
-      "summary": "New York City Mayor Zohran Mamdani accused Alphabet Inc.\u2018s (NASDAQ:GOOGL) (NASDAQ:GOOG) Google of trying to force AI into public schools, after the company said it will restrict its AI tools and Search for students in schools. Google Using \u2018Monopoly Power\u2019 In a post on X Tuesday, Mamdani said \u201cno corporation should have the power to dictate how we teach our children,\u201d and that Google is trying to use its \u201cmonopoly power to force AI\u201d into schools. Public schools, he added, exist to serve students",
-      "link": "https://finance.yahoo.com/technology/ai/articles/zohran-mamdani-says-google-uses-013616818.html?.tsrc=rss",
-      "time": "2026-11-04T01:36:16+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-04T03:35:00Z",
+  "items": [],
   "atencao": []
 }
