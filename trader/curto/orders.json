@@ -3,12 +3,12 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "QQQ",
-      "side": "sell",
-      "qty": "0.364632712",
+      "symbol": "XLE",
+      "side": "buy",
+      "notional": "252",
       "type": "market",
       "time_in_force": "day",
-      "why": "curto prazo, sa\u00edda: repique: $698.53 acima da m\u00e9dia de 5 dias ($694.21)"
+      "why": "curto prazo, entrada: RSI(2) 4.0, acima da m\u00e9dia de 200 dias ($58.44)"
     }
   ]
 }

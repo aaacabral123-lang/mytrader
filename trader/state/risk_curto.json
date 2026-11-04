@@ -4,11 +4,11 @@
   "results": [
     {
       "index": 1,
-      "symbol": "QQQ",
-      "side": "sell",
-      "amount": "0.364632712 shares",
-      "value_usd": 254.71,
-      "fingerprint": "daf21519a8cbfe31",
+      "symbol": "XLE",
+      "side": "buy",
+      "amount": "$252",
+      "value_usd": 252.0,
+      "fingerprint": "a4468a48123ccc4c",
       "verdict": "PASS",
       "reasons": [],
       "warnings": []
@@ -17,8 +17,8 @@
   "pass": 1,
   "block": 0,
   "warnings": [],
-  "cash_after": 757.54,
-  "prices_as_of": "2026-11-04T15:02:44Z",
-  "checked_at": "2026-11-04T15:02:46",
+  "cash_after": 505.53,
+  "prices_as_of": "2026-11-04T20:05:37Z",
+  "checked_at": "2026-11-04T20:05:39",
   "orders_file": "trader/curto/orders.json"
 }
