@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-04T07:05:00Z",
-  "items": [],
+  "as_of": "2026-11-04T08:35:00Z",
+  "items": [
+    {
+      "id": "rss:488ad7b4-49df-3fa7-bf10-9da01dbd9b44",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "Down 51% From Its High: Is This 84.6% Margin NAND Flash Maker a Bargain?",
+      "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "link": "https://finance.yahoo.com/technology/articles/down-51-high-84-6-070844476.html?.tsrc=rss",
+      "time": "2026-11-04T07:08:44+00:00",
+      "touches": [
+        "MU"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
