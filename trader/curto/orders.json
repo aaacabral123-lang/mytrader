@@ -3,12 +3,12 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "SPY",
+      "symbol": "QQQ",
       "side": "sell",
-      "qty": "0.330974932",
+      "qty": "0.364632712",
       "type": "market",
       "time_in_force": "day",
-      "why": "curto prazo, sa\u00edda: repique: $763.83 acima da m\u00e9dia de 5 dias ($759.09)"
+      "why": "curto prazo, sa\u00edda: repique: $698.53 acima da m\u00e9dia de 5 dias ($694.21)"
     }
   ]
 }
