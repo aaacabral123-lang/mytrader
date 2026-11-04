@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-04T03:35:00Z",
-  "items": [],
+  "as_of": "2026-11-04T04:05:00Z",
+  "items": [
+    {
+      "id": "rss:7661ab69-157c-38cc-8a30-4a6dfbfe076d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Aptiv (APTV) Deepens Its Push Into Production Ready Automated Driving",
+      "summary": "Aptiv (NYSE:APTV) announced an expanded collaboration with NVIDIA to supply scalable automated-driving solutions using NVIDIA Hyperion and Halos. The partners plan to offer production-ready systems that automakers can integrate into next-generation vehicles using modular hardware and software architectures. Aptiv highlighted thermal management and system modularity as core technical features intended to support a wide range of vehicle platforms. The new Aptiv and NVIDIA Hyperion and Halos...",
+      "link": "https://finance.yahoo.com/technology/articles/aptiv-aptv-deepens-push-production-031701541.html?.tsrc=rss",
+      "time": "2026-11-04T03:17:01+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
