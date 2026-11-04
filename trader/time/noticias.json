@@ -1,104 +1,74 @@
 {
-  "as_of": "2026-11-04T10:35:00Z",
+  "as_of": "2026-11-04T11:05:00Z",
   "items": [
     {
-      "id": "rss:dbbd9e17-d3d7-48a1-a646-a9c3f70c59dd",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Wall Street reacts to the stunning election day Blue Wave: winners, losers and those in between",
-      "summary": "The views on the markets begin to trickle in post mid-term election Blue Wave.",
-      "link": "https://finance.yahoo.com/economy/policy/article/wall-street-reacts-to-the-stunning-election-day-blue-wave-winners-losers-and-those-in-between-102511437.html?.tsrc=rss",
-      "time": "2026-11-04T10:25:11+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:45c55ae4-f173-3bf6-85fd-c8d174ab92c5",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Aptiv (APTV) Faces A Fair Value Test On Mixed Third Quarter Results",
-      "summary": "Aptiv (NYSE:APTV) is back in focus after third quarter results that combined solid earnings and new business wins with a more cautious cash flow outlook and fresh warnings about 2027 risks. The third quarter update lands after a rough stretch for Aptiv shareholders, with the share price down 47.3% year to date and the 1-year total shareholder return declining 39.6%. The latest 6.5% single-day drop and 12.1% 90-day share price decline suggest investors are still recalibrating growth hopes...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/aptiv-aptv-faces-fair-value-101923845.html?.tsrc=rss",
-      "time": "2026-11-04T10:19:23+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:c768f257-6bc4-34c1-b157-fbbb745bc0d2",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ORCL",
-      "title": "AI data center stocks drop as Democrats sweep U.S. midterms",
-      "summary": "Investing.com - Democrats swept the U.S. midterm elections, sparking a selloff in artificial intelligence data center stocks. Investors are bracing for tighter regulatory oversight, potential rollbacks of tech tax incentives, and heightened antitrust scrutiny, which could slow down the rapid expansion of AI infrastructure.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-data-center-stocks-drop-100424346.html?.tsrc=rss",
-      "time": "2026-11-04T10:04:24+00:00",
-      "touches": [
-        "ORCL"
-      ],
-      "tags": [
-        "legal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:60bdfc2a-0f23-3bb0-8dae-b406b0c118fb",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Market Chatter: Chinese Firms Face Shortage of Nvidia AI Chips Despite 6 Million Orders",
-      "summary": "Alibaba (BABA), Tencent and ByteDance have ordered about 6 million Nvidia (NVDA) RTX Pro 5500 chips",
-      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-chinese-firms-face-100312499.html?.tsrc=rss",
-      "time": "2026-11-04T10:03:12+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:810e3207-2ecb-382a-983d-abc5653c6427",
+      "id": "rss:cf0b4a05-4a36-4b8c-a5a2-f56ed54813c3",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Alphabet Is on the Ropes. It\u2019s an Opening for Long-Term Investors.",
-      "summary": "Options investors should view short-term volatility as an opportunity to bet on blue-chip stocks.",
-      "link": "https://finance.yahoo.com/m/810e3207-2ecb-382a-983d-abc5653c6427/alphabet-is-on-the-ropes..html?.tsrc=rss",
-      "time": "2026-11-04T10:00:00+00:00",
+      "title": "The AI sell-off saved Apple from a sell-off of its own",
+      "summary": "A slightly less profitable Apple is still a safe bet against a host of companies trying to ad-lib an AI business model.",
+      "link": "https://finance.yahoo.com/technology/article/the-ai-sell-off-saved-apple-from-a-sell-off-of-its-own-110000291.html?.tsrc=rss",
+      "time": "2026-11-04T11:00:00+00:00",
       "touches": [
         "GOOGL",
-        "SPY"
+        "MSFT"
       ],
       "tags": [],
       "new": true
-    }
-  ],
-  "atencao": [
+    },
     {
-      "id": "rss:c768f257-6bc4-34c1-b157-fbbb745bc0d2",
+      "id": "rss:e7a9954e-ead3-3b44-80af-7561fa6b6423",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Google to Spend $15 Billion in Malaysia Data Center Expansion",
+      "summary": "Alphabet Inc.\u2019s Google said it plans to spend $15 billion to expand data center and cloud operations in Malaysia as the artificial intelligence boom fuels demand for digital infrastructure.",
+      "link": "https://finance.yahoo.com/technology/articles/google-spend-15-billion-malaysia-090000163.html?.tsrc=rss",
+      "time": "2026-11-04T09:00:00+00:00",
+      "touches": [
+        "GOOGL",
+        "ORCL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:0db9dce0-6041-3034-b72d-ea4f38815c6e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Meta Starts Debut Euro Bond Sale After $15 Billion US Deal",
+      "summary": "Meta Platforms Inc. is making its debut in the euro bond market, joining a burst of borrowing by the world\u2019s biggest technology companies as they race to finance trillions of dollars of investments in artificial intelligence.",
+      "link": "https://finance.yahoo.com/technology/articles/meta-starts-debut-euro-bond-082229966.html?.tsrc=rss",
+      "time": "2026-11-04T08:22:29+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT",
+        "ORCL"
+      ],
+      "tags": [
+        "deal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:dfa3a947-c48c-3416-937e-81e4ce49a16b",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "ORCL",
-      "title": "AI data center stocks drop as Democrats sweep U.S. midterms",
-      "summary": "Investing.com - Democrats swept the U.S. midterm elections, sparking a selloff in artificial intelligence data center stocks. Investors are bracing for tighter regulatory oversight, potential rollbacks of tech tax incentives, and heightened antitrust scrutiny, which could slow down the rapid expansion of AI infrastructure.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-data-center-stocks-drop-100424346.html?.tsrc=rss",
-      "time": "2026-11-04T10:04:24+00:00",
+      "title": "Oracle cancels $7bn Tencent AI deal under Trump pressure",
+      "summary": "Oracle has scrapped a multibillion-dollar chip leasing contract with Tencent after bowing to pressure from the Trump administration, in a sign...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-cancels-7bn-tencent-ai-050009803.html?.tsrc=rss",
+      "time": "2026-11-04T05:00:09+00:00",
       "touches": [
         "ORCL"
       ],
       "tags": [
-        "legal"
+        "deal"
       ],
       "new": true
     }
-  ]
+  ],
+  "atencao": []
 }
