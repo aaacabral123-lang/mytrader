@@ -1,577 +1,86 @@
 {
-  "as_of": "2026-11-04T11:35:00Z",
+  "as_of": "2026-11-04T12:05:00Z",
   "items": [
     {
-      "id": "rss:94cc65d4-fdb1-3aca-a798-411a04cf009b",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ORCL",
-      "title": "Does Tencent Holdings (SEHK:700) Look Fairly Valued After Its 36% Fall?",
-      "summary": "Tencent Holdings has seen its share price fall sharply this year, and that kind of reset puts the focus squarely on whether the current HK$401.60 level is still supported by the cash the business can generate over time. With fresh headlines on both AI infrastructure access and new payment partnerships, the question for investors is how those shifts affect the value implied by Tencent's future cash flows. The stock is down 35.5% year to date, which raises the question of whether the market is...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/does-tencent-holdings-sehk-700-111449931.html?.tsrc=rss",
-      "time": "2026-11-04T11:14:49+00:00",
-      "touches": [
-        "ORCL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:17e47e18-e3f2-3995-9fe8-850cc56ea4b5",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "3 Undervalued Stocks Trading Up To 48% Below Fair Value",
-      "summary": "Stock futures dropped after Democrats took full control of Congress, and that kind of political shock often leaves solid cash generators temporarily mispriced. When headlines fixate on Washington drama, some businesses quietly keep producing reliable cash while their share prices lag behind their long term value. This article highlights three such stocks that screen as attractively priced on cash flow so you can judge whether they belong on your watchlist. The stocks in the list below are...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-undervalued-stocks-trading-48-111234429.html?.tsrc=rss",
-      "time": "2026-11-04T11:12:34+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [
-        "legal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:67755754-32dc-373e-b40a-31c2308034c6",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Market Chatter: Alphabet's Google Expands Voluntary Employee Exit Packages to Five More Countries",
-      "summary": "Alphabet's Google (GOOGL, GOOG) expanded its voluntary employee exit program to certain workers in C",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-alphabet-apos-google-110724142.html?.tsrc=rss",
-      "time": "2026-11-04T11:07:24+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:146df6e9-3b23-33dc-910b-7c6cca81bea2",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Capital Group Cons. Equity (CGCV) Adds Microsoft and Philip Morris on Monday",
-      "summary": "The fund bought $158.6 million of stock, lifting all 69 of its increased positions with no sales.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/capital-group-cons-equity-cgcv-110605394.html?.tsrc=rss",
-      "time": "2026-11-04T11:06:05+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:87c6dd5b-aa3e-3775-871a-f907bf57961b",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "NEOS Nasdaq 100 High Income (QQQI) Buys $148.8 Million More SpaceX on Monday",
-      "summary": "The fund added $161.8 million in gross purchases, lifting all 101 positions with no sales.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/neos-nasdaq-100-high-income-110554691.html?.tsrc=rss",
-      "time": "2026-11-04T11:05:54+00:00",
-      "touches": [
-        "MSFT",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:34d26522-c7fe-3e3d-b848-5aaba524a7bb",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "State Street Comm Services SPDR (XLC) Sells $38.1 Million of Meta on Nov. 2",
-      "summary": "The fund sold $175.5 million of stock and bought nothing, trimming all 22 positions in its portfolio.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-comm-services-spdr-110533515.html?.tsrc=rss",
-      "time": "2026-11-04T11:05:33+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:838528bf-865f-3006-a8ee-191b23e18991",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "What iShares PHLX SOX Semiconductor (SOXX) Bought: AMD Leads on Nov. 2",
-      "summary": "The fund added $195.8 million in new buying across 29 positions on Monday, with Advanced Micro Devices topping the list at $18.1 million.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semiconductor-soxx-110529513.html?.tsrc=rss",
-      "time": "2026-11-04T11:05:29+00:00",
-      "touches": [
-        "MU",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:85b055b8-b04c-3a1d-a285-6f849f1f17e0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "What SPDR Portfolio S&P 500 Growth (SPYG) Bought: NVDA Leads on Nov. 2",
-      "summary": "The fund bought $207.4 million of stock on Monday, led by a $29.4 million add to NVIDIA.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spdr-portfolio-p-500-growth-110523312.html?.tsrc=rss",
-      "time": "2026-11-04T11:05:23+00:00",
-      "touches": [
-        "GOOGL",
-        "MSFT",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:17f01953-cbd1-32c5-90ff-294639f33621",
+      "id": "rss:99ed91be-3beb-3eb0-aee8-c64c515c6a6f",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "What JPMorgan Nasdaq Equity Premium Income (JEPQ) Sold: Marriott Leads on Monday",
-      "summary": "The fund sold $247.7 million more than it bought, cutting 78 positions and adding to just four.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-nasdaq-equity-premium-income-110516897.html?.tsrc=rss",
-      "time": "2026-11-04T11:05:16+00:00",
+      "title": "Why Nvidia Stock Is Rising as Crackdown on Data Centers Looms",
+      "summary": "Nvidia stock was rising as investors concentrated on strong AI earnings rather than the threat that Democrats will restrict data-center construction.",
+      "link": "https://finance.yahoo.com/m/99ed91be-3beb-3eb0-aee8-c64c515c6a6f/why-nvidia-stock-is-rising-as.html?.tsrc=rss",
+      "time": "2026-11-04T11:49:00+00:00",
       "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:37b9ca8c-a30e-3b8f-b839-ad112eb60355",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "What Direxion Daily S&P 500 Bull 3X ETF (SPXL) Sold: Apple Leads on Nov. 2",
-      "summary": "The fund sold $252.0 million of stock and bought nothing, cutting 380 positions while its assets stood at $6.48 billion.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/direxion-daily-p-500-bull-110509693.html?.tsrc=rss",
-      "time": "2026-11-04T11:05:09+00:00",
-      "touches": [
-        "MSFT",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:68dcf9a2-1d02-3def-9cac-5a8b263d0456",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Invesco NASDAQ 100 ETF (QQQM) Adds Apple and NVIDIA on Monday",
-      "summary": "The $105.97 billion fund bought $414.2 million of stock, lifting all 101 positions and selling nothing.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-nasdaq-100-etf-qqqm-110451942.html?.tsrc=rss",
-      "time": "2026-11-04T11:04:51+00:00",
-      "touches": [
-        "MSFT",
-        "MU",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:768a2f07-786b-3b9b-b110-4bae6b77ea3e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "State Street Tech Select SPDR (XLK) Buys $74.3 Million More Apple on Monday",
-      "summary": "The fund added $479.0 million across all 75 holdings, led by Apple, Nvidia and Microsoft, with no positions trimmed.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-tech-select-spdr-110444150.html?.tsrc=rss",
-      "time": "2026-11-04T11:04:44+00:00",
-      "touches": [
-        "MSFT",
-        "NVDA",
-        "XLK"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:c0bef12a-4a33-3647-a460-4e77dfef5bfe",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "What Direxion Daily Technology Bull 3X ETF (TECL) Sold: Apple Leads on Nov. 2",
-      "summary": "The fund sold $792.4 million of stock on Monday, cutting all 75 of its positions and making no buys.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/direxion-daily-technology-bull-3x-110438294.html?.tsrc=rss",
-      "time": "2026-11-04T11:04:38+00:00",
-      "touches": [
-        "MSFT",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:3e7a3713-2869-3e85-9447-77721f44aba0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Capital Group Dividend Value (CGDV) Buys $146.3 Million More AMAT on Nov. 2",
-      "summary": "The fund bought $146.3 million of Applied Materials and $135.8 million of FTAI Aviation while selling $558.0 million of Alphabet, for net sales of $328.8 million.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/capital-group-dividend-value-cgdv-110429760.html?.tsrc=rss",
-      "time": "2026-11-04T11:04:29+00:00",
-      "touches": [
-        "GOOGL",
         "NVDA"
       ],
       "tags": [
-        "capital"
+        "earnings"
       ],
       "new": true
     },
     {
-      "id": "rss:cb53fb0f-8e94-38a9-a126-b811fc7a2b16",
+      "id": "rss:b1d1e5f8-ee6a-3c54-8671-c19c4caaf44b",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "What iShares Core S&P 500 ETF (IVV) Bought: Apple Leads on Monday",
-      "summary": "The fund added $1.69 billion in net buys across 497 positions, with Apple at $129.0 million and Nvidia at $127.8 million.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-p-500-etf-110423326.html?.tsrc=rss",
-      "time": "2026-11-04T11:04:23+00:00",
+      "ticker": "MU",
+      "title": "This Week In AI Chips - Unlocking North America's AI-Driven Semiconductor Potential",
+      "summary": "An international forum recently focused on the future of supply chains in North America, highlighting the critical role of artificial intelligence, advanced manufacturing, and applied research. Organized by the U.S. National Academy of Engineering and Tecnol\u00f3gico de Monterrey, the event gathered experts to discuss improving supply chain performance across Mexico, the United States, and Canada. Discussions underscored the potential for the region, particularly Mexico, to enhance its...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/week-ai-chips-unlocking-north-113733067.html?.tsrc=rss",
+      "time": "2026-11-04T11:37:33+00:00",
       "touches": [
-        "GOOGL",
-        "MSFT",
+        "MU",
         "NVDA"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:0b21ec18-f29a-3575-81d5-00a25733ac10",
+      "id": "rss:c8178ab1-b8fa-35aa-aac8-e311ec4a84be",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MSFT",
-      "title": "INVESCO QQQ (QQQ) Adds Apple and NVIDIA on Monday",
-      "summary": "The $464.63 billion fund bought $3.88 billion of stock, lifting all 101 positions and selling nothing.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-qqq-adds-apple-110416560.html?.tsrc=rss",
-      "time": "2026-11-04T11:04:16+00:00",
+      "ticker": "GOOGL",
+      "title": "Social Buzz: Wallstreetbets Stocks Mostly Higher Premarket Wednesday; Super Micro Computer, AMD to Advance",
+      "summary": "The most-talked-about stocks in the Reddit subforum Wallstreetbets were mostly higher hours before W",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mostly-113226126.html?.tsrc=rss",
+      "time": "2026-11-04T11:32:26+00:00",
       "touches": [
-        "MSFT",
+        "GOOGL",
         "MU",
-        "NVDA",
-        "QQQ"
+        "NVDA"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:1dbedc01-4678-332e-95fc-5208d8f36e12",
+      "id": "rss:1aa3061a-60c6-39f9-a907-5e9b8a3df626",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "SPDR S&P 500 ETF (SPY) Buys $297.0 Million More Apple on Nov. 2",
-      "summary": "The fund added $3.90 billion in gross purchases, lifting 501 positions and trimming none.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spdr-p-500-etf-spy-110409530.html?.tsrc=rss",
-      "time": "2026-11-04T11:04:09+00:00",
+      "ticker": "BLK",
+      "title": "Should You Invest in the iShares U.S. Financial Services ETF (IYG)?",
+      "summary": "Sector ETF report for IYG",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/invest-ishares-u-financial-services-102002854.html?.tsrc=rss",
+      "time": "2026-11-04T10:20:02+00:00",
       "touches": [
-        "GOOGL",
-        "MSFT",
-        "NVDA",
-        "SPY"
+        "BLK"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:0e284f19-e4fc-3f93-a0f4-2bc5b426e323",
+      "id": "rss:0b66d3a0-a4ff-3644-a709-0a38cd62bf7d",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "ETFs Are Net Sellers of Alphabet (GOOGL) on Nov. 2",
-      "summary": "ETFs sold a net $285.8 million of Alphabet (GOOGL) on Monday.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-alphabet-googl-110221987.html?.tsrc=rss",
-      "time": "2026-11-04T11:02:21+00:00",
+      "ticker": "BLK",
+      "title": "Should You Invest in the iShares U.S. Healthcare Providers ETF (IHF)?",
+      "summary": "Sector ETF report for IHF",
+      "link": "https://finance.yahoo.com/healthcare/articles/invest-ishares-u-healthcare-providers-102002181.html?.tsrc=rss",
+      "time": "2026-11-04T10:20:02+00:00",
       "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:af421f13-f407-37a6-8f10-30d604307e9e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "QQQ",
-      "title": "ETFs Bought $108.2 Million of Palantir (PLTR) on Monday",
-      "summary": "ETFs added $108.2 million of Palantir shares on Monday, with 39 funds buying and 21 selling.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-108-2-million-110209390.html?.tsrc=rss",
-      "time": "2026-11-04T11:02:09+00:00",
-      "touches": [
-        "QQQ",
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:1bee8f8c-91e1-3e95-aadd-5a298185ea2b",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "QQQ",
-      "title": "ETFs Are Buying Costco (COST) on Monday",
-      "summary": "ETFs bought $110.6 million of Costco stock on Monday.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-costco-cost-monday-110203555.html?.tsrc=rss",
-      "time": "2026-11-04T11:02:03+00:00",
-      "touches": [
-        "QQQ",
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:0a3d92cc-8967-3add-b377-1c034af1fc90",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "QQQ",
-      "title": "46 ETFs Add to Texas Instruments (TXN) on Nov. 2",
-      "summary": "ETFs bought $146.7 million of Texas Instruments stock on Monday.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/46-etfs-add-texas-instruments-110151840.html?.tsrc=rss",
-      "time": "2026-11-04T11:01:51+00:00",
-      "touches": [
-        "QQQ",
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:3d149c36-32a1-3a43-8972-32129132dde8",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "QQQ",
-      "title": "Walmart (WMT) Sees $152.6 Million in Net ETF Buying on Monday",
-      "summary": "ETFs bought $152.6 million of Walmart stock on Monday, Nov. 2.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-sees-152-6-110145544.html?.tsrc=rss",
-      "time": "2026-11-04T11:01:45+00:00",
-      "touches": [
-        "QQQ",
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:4ed74426-a61f-3b24-bcc2-4e25396a3d88",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "ETFs Are Buying Alphabet (GOOG) on Nov. 2",
-      "summary": "ETFs bought $214.9 million of Alphabet (GOOG) stock on Monday, Nov. 2.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-alphabet-goog-nov-110141008.html?.tsrc=rss",
-      "time": "2026-11-04T11:01:41+00:00",
-      "touches": [
-        "GOOGL",
-        "QQQ",
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:ffb60b4c-ec43-359b-98fd-9fe7dccb89dc",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "QQQ",
-      "title": "Advanced Micro Devices (AMD) Sees $215.4 Million in Net ETF Buying on Nov. 2",
-      "summary": "ETFs bought $215.4 million of AMD shares on Monday, Nov. 2, with 44 funds buying and 24 selling.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-sees-110138060.html?.tsrc=rss",
-      "time": "2026-11-04T11:01:38+00:00",
-      "touches": [
-        "QQQ",
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:440e48af-b104-33ee-8064-017ac893939e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "QQQ",
-      "title": "ETFs Bought $237.0 Million of Applied Materials (AMAT) on Nov. 2",
-      "summary": "ETFs added $237.0 million of Applied Materials stock, with 51 funds buying and 26 selling.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-237-0-million-110135262.html?.tsrc=rss",
-      "time": "2026-11-04T11:01:35+00:00",
-      "touches": [
-        "QQQ"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:51ef9baa-db30-318e-bce1-b8725915e29d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "Micron (MU) Sees $262.9 Million in Net ETF Buying on Nov. 2",
-      "summary": "ETFs bought $262.9 million in Micron shares on Monday, Nov. 2.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-sees-262-9-110121077.html?.tsrc=rss",
-      "time": "2026-11-04T11:01:21+00:00",
-      "touches": [
-        "MU",
-        "QQQ",
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:2173f60e-fd75-3afa-b4d9-a4cf7f77e71f",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "QQQ",
-      "title": "ETFs Bought $263.0 Million of Tesla (TSLA) on Nov. 2",
-      "summary": "ETFs added $263.0 million of Tesla stock on Monday.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-263-0-million-110115567.html?.tsrc=rss",
-      "time": "2026-11-04T11:01:15+00:00",
-      "touches": [
-        "QQQ",
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:3c177950-d566-32cf-b6bc-8038056c8501",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "QQQ",
-      "title": "ETFs Are Buying SpaceX (SPCX) on Nov. 2",
-      "summary": "ETFs bought $264.7 million of SpaceX (SPCX) on Monday, with 23 funds buying and 7 selling.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-spacex-spcx-nov-110112377.html?.tsrc=rss",
-      "time": "2026-11-04T11:01:12+00:00",
-      "touches": [
-        "QQQ"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:acc579d0-e01b-3900-b643-45f6d15f00a3",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "QQQ",
-      "title": "53 ETFs Add to Broadcom (AVGO) Holdings on Nov. 2",
-      "summary": "ETFs bought $267.7 million of Broadcom stock on Monday.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/53-etfs-add-broadcom-avgo-110105667.html?.tsrc=rss",
-      "time": "2026-11-04T11:01:05+00:00",
-      "touches": [
-        "QQQ",
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:c3d188ed-6024-3374-9231-de347cb34f0e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "QQQ",
-      "title": "ETFs Are Buying Amazon.com (AMZN) on Nov. 2",
-      "summary": "ETFs bought $483.2 million of Amazon.com stock on Monday.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-amazon-com-amzn-110059286.html?.tsrc=rss",
-      "time": "2026-11-04T11:00:59+00:00",
-      "touches": [
-        "QQQ",
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:ceee77fd-9eda-3977-8b44-7d37771628a4",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "ETFs Bought $561.6 Million of Microsoft (MSFT) on Monday",
-      "summary": "ETFs bought $561.6 million of Microsoft stock, with 55 funds buying and 29 selling.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-561-6-million-110055500.html?.tsrc=rss",
-      "time": "2026-11-04T11:00:55+00:00",
-      "touches": [
-        "MSFT",
-        "QQQ",
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:38821285-af9a-3a3b-8f9f-8aa1ed5b88e0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "QQQ",
-      "title": "49 ETFs Add to Apple (AAPL) Holdings on Nov. 2",
-      "summary": "ETFs bought $697.8 million of Apple stock on Monday, with 49 buyers against 28 sellers.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/49-etfs-add-apple-aapl-110049232.html?.tsrc=rss",
-      "time": "2026-11-04T11:00:49+00:00",
-      "touches": [
-        "QQQ",
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:ce09e9fe-68d9-3c80-a287-0ddd24472449",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "55 ETFs Add to NVIDIA (NVDA) on Nov. 2",
-      "summary": "ETFs bought $786.7 million of NVIDIA stock on Monday, with 55 buyers against 29 sellers.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/55-etfs-add-nvidia-nvda-110043033.html?.tsrc=rss",
-      "time": "2026-11-04T11:00:43+00:00",
-      "touches": [
-        "NVDA",
-        "QQQ",
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:ec3b135d-8e26-3228-8000-ac8064ed107d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "ETF Activity: SPY Leads With $4.28 Billion Inflow on Nov. 2",
-      "summary": "Broad-market and tech funds drew the day's largest estimated inflows while leveraged tech saw a sharp exit.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etf-activity-spy-leads-4-110013253.html?.tsrc=rss",
-      "time": "2026-11-04T11:00:13+00:00",
-      "touches": [
-        "GOOGL",
-        "NVDA",
-        "QQQ",
-        "SPY"
+        "BLK"
       ],
       "tags": [],
       "new": true
     }
   ],
-  "atencao": [
-    {
-      "id": "rss:17e47e18-e3f2-3995-9fe8-850cc56ea4b5",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "3 Undervalued Stocks Trading Up To 48% Below Fair Value",
-      "summary": "Stock futures dropped after Democrats took full control of Congress, and that kind of political shock often leaves solid cash generators temporarily mispriced. When headlines fixate on Washington drama, some businesses quietly keep producing reliable cash while their share prices lag behind their long term value. This article highlights three such stocks that screen as attractively priced on cash flow so you can judge whether they belong on your watchlist. The stocks in the list below are...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-undervalued-stocks-trading-48-111234429.html?.tsrc=rss",
-      "time": "2026-11-04T11:12:34+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [
-        "legal"
-      ],
-      "new": true
-    }
-  ]
+  "atencao": []
 }
