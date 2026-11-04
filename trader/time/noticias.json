@@ -1,38 +1,37 @@
 {
-  "as_of": "2026-11-04T05:35:00Z",
+  "as_of": "2026-11-04T06:05:00Z",
   "items": [
     {
-      "id": "rss:d904137b-a407-3b59-b152-290d88fb4eaa",
+      "id": "rss:e2e05051-fd01-3f09-9512-758a26d9e6e3",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Apple AI tools come to China after two-year delay",
-      "summary": "Apple began on Wednesday a long-delayed trial rollout of in-house artificial intelligence tools for Chinese users, playing catch-up to homegrown smartphone makers in a major market for the US giant.The long-anticipated Chinese rollout of Apple Intelligence \"fills a long-standing gap in Apple's AI offering\", said Ivan Lam, a senior analyst at Counterpoint Research.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/apple-ai-tools-come-china-051903490.html?.tsrc=rss",
-      "time": "2026-11-04T05:19:03+00:00",
+      "ticker": "NVDA",
+      "title": "Oracle cancels $7 bln chip leasing deal with Tencent, FT reports",
+      "summary": "Investing.com-- Oracle has scuttled a $7 billion chip leasing contract with Tencent amid increased pressure from the Trump administration, the Financial Times reported on Wednesday.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-cancels-7-bln-chip-055216451.html?.tsrc=rss",
+      "time": "2026-11-04T05:52:16+00:00",
       "touches": [
-        "GOOGL"
+        "NVDA",
+        "ORCL"
       ],
       "tags": [
-        "capital"
+        "deal"
       ],
       "new": true
     },
     {
-      "id": "rss:26730ad8-0533-3ebe-962d-8f20a7163b54",
+      "id": "rss:5f620930-8f1f-3b60-9a6f-c7aee9217a62",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ORCL",
-      "title": "Marvell Technology And 2 More High Growth Stocks To Watch",
-      "summary": "Global central banks pausing rate hikes has pushed investors to look harder at where future earnings growth might come from. When cash and low risk assets feel less rewarding, businesses with the potential for strong profit expansion and solid balance sheets can draw more attention. This piece highlights three stocks from a US screener that focuses on financially robust companies with analyst forecasts for higher earnings over the next few years. The three stocks highlighted here offer a...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-2-more-high-043623524.html?.tsrc=rss",
-      "time": "2026-11-04T04:36:23+00:00",
+      "ticker": "NVDA",
+      "title": "Nvidia China clients to get 1% of $70 bln RTX chips ordered- Bloomberg",
+      "summary": "Investing.com -- Chinese artificial intelligence developers expect to receive just a fraction of the advanced chips ordered from NVIDIA Corp (NASDAQ:NVDA) over the coming months, Bloomberg reported on Wednesday.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-china-clients-1-70-053111298.html?.tsrc=rss",
+      "time": "2026-11-04T05:31:11+00:00",
       "touches": [
-        "ORCL"
+        "NVDA"
       ],
-      "tags": [
-        "earnings"
-      ],
+      "tags": [],
       "new": true
     }
   ],
