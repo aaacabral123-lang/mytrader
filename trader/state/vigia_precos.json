@@ -1,48 +1,49 @@
 {
-  "as_of": "2026-11-04T20:05:32Z",
+  "as_of": "2026-11-04T20:35:07Z",
   "source": "yahoo",
   "note": "Delayed quotes for alerts and sizing checks. Your broker's price is the one that fills.",
   "prices": {
-    "ADBE": 249.38,
-    "BLK": 1225.62,
-    "GOOGL": 291.59,
-    "MSFT": 558.33,
-    "NVDA": 202.35,
-    "ORCL": 124.682,
+    "ADBE": 249.165,
+    "BLK": 1223.01,
+    "GOOGL": 291.23,
+    "MSFT": 557.96,
+    "NVDA": 202.185,
+    "ORCL": 124.605,
     "QQQ": 698.27,
     "SPY": 763.53,
-    "UNP": 307.875,
-    "XLK": 176.73
+    "UNP": 308.21,
+    "XLK": 176.92,
+    "XLE": 63.175
   },
   "detail": {
     "ADBE": {
       "prev_close": 246.14,
-      "time": "2026-11-04T20:05:19Z",
+      "time": "2026-11-04T20:35:03Z",
       "source": "yahoo"
     },
     "BLK": {
       "prev_close": 1161.32,
-      "time": "2026-11-04T20:05:16Z",
+      "time": "2026-11-04T20:35:07Z",
       "source": "yahoo"
     },
     "GOOGL": {
       "prev_close": 280.03,
-      "time": "2026-11-04T20:05:32Z",
+      "time": "2026-11-04T20:35:07Z",
       "source": "yahoo"
     },
     "MSFT": {
       "prev_close": 520.99,
-      "time": "2026-11-04T20:05:32Z",
+      "time": "2026-11-04T20:35:07Z",
       "source": "yahoo"
     },
     "NVDA": {
       "prev_close": 206.69,
-      "time": "2026-11-04T20:05:33Z",
+      "time": "2026-11-04T20:35:08Z",
       "source": "yahoo"
     },
     "ORCL": {
       "prev_close": 126.19,
-      "time": "2026-11-04T20:05:34Z",
+      "time": "2026-11-04T20:35:08Z",
       "source": "yahoo"
     },
     "QQQ": {
@@ -57,12 +58,17 @@
     },
     "UNP": {
       "prev_close": 303.43,
-      "time": "2026-11-04T20:05:33Z",
+      "time": "2026-11-04T20:34:59Z",
       "source": "yahoo"
     },
     "XLK": {
       "prev_close": 176.51,
-      "time": "2026-11-04T20:05:33Z",
+      "time": "2026-11-04T20:35:11Z",
+      "source": "yahoo"
+    },
+    "XLE": {
+      "prev_close": 66.68,
+      "time": "2026-11-04T20:35:07Z",
       "source": "yahoo"
     }
   }

@@ -1,32 +1,92 @@
 {
-  "as_of": "2026-11-04T19:35:00Z",
+  "as_of": "2026-11-04T20:35:00Z",
   "items": [
     {
-      "id": "rss:f29eb5d7-25b4-3c82-a057-ff325f49c66f",
+      "id": "rss:a88182f8-06ec-3be5-b7fd-208d210ae2c0",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Cathie Wood Picks a Side Between Palantir and Google",
-      "summary": "Both stocks fell after earnings, but ARK responded very differently.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-picks-side-between-192037247.html?.tsrc=rss",
-      "time": "2026-11-04T19:20:37+00:00",
+      "ticker": "NVDA",
+      "title": "5 Cheapest AI Data Center Stocks to Buy According to Billionaires",
+      "summary": "AI data center investment keeps expanding, but the companies supplying that capacity face different paths to profit. The International Energy Agency\u2019s October 2026 report estimates that hyperscalers will spend more than $700 billion on capital investment this year, mostly on new data centers. The report also points out constrained electricity networks, connection queues, and slow [\u2026]",
+      "link": "https://finance.yahoo.com/technology/ai/articles/5-cheapest-ai-data-center-203221920.html?.tsrc=rss",
+      "time": "2026-11-04T20:32:21+00:00",
       "touches": [
-        "GOOGL"
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:d8a0eda4-a572-3927-84a1-a66a873725d2",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "AI Server Backlog Could Reshape The Dell Stock Story",
+      "summary": "CrowdStrike recently announced an integrated Falcon security offering for the Dell AI Factory with NVIDIA. At the same time, Dell expanded its own AI-focused cybersecurity, data protection and AI infrastructure services, including quantum-safe encryption, identity resilience tools and managed detection and response across AI workloads. These moves deepen Dell Technologies' role in securing enterprise AI stacks end to end, from data center infrastructure and AI servers to identity systems and...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ai-server-backlog-could-reshape-201419354.html?.tsrc=rss",
+      "time": "2026-11-04T20:14:19+00:00",
+      "touches": [
+        "NVDA"
       ],
       "tags": [
-        "earnings"
+        "capital"
       ],
       "new": true
     },
     {
-      "id": "rss:cddf679b-1767-43f6-a1a8-61510b86c00f",
+      "id": "rss:68f9d991-05da-38b4-b71a-e9c8b4516a4f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Citi Says Adobe Could Be Headed for a Hard Reset",
+      "summary": "Leadership changes and AI competition could force lower fiscal 2027 expectations.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/citi-says-adobe-could-headed-195303367.html?.tsrc=rss",
+      "time": "2026-11-04T19:53:03+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:1f761f57-8c3d-389c-93a7-adf84bf1c158",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ORCL",
+      "title": "Oracle Sees Massive Trading Surge After Selloff",
+      "summary": "A clearer AI funding path helped offset dilution and borrowing concerns.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-sees-massive-trading-surge-194803232.html?.tsrc=rss",
+      "time": "2026-11-04T19:48:03+00:00",
+      "touches": [
+        "ORCL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:31057d38-c579-3bf2-a543-03e7727d6981",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Alibaba and Tencent Face Stunning Nvidia Chip Shortfall Despite Millions of Orders",
+      "summary": "Nvidia's China Customers May Get Just 1% of Their AI Chip Orders in Four Months",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-tencent-face-stunning-nvidia-193759713.html?.tsrc=rss",
+      "time": "2026-11-04T19:37:59+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:d8a31cbe-c047-304f-bd37-28becb78600f",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "California's billionaire tax on track for defeat as the state continues to count votes",
-      "summary": "The referendum would amend California's constitution and impose a one-time 5% tax on California residents and trusts with assets over $1 billion.",
-      "link": "https://finance.yahoo.com/economy/article/californias-billionaire-tax-on-track-for-defeat-as-the-state-continues-to-count-votes-190840319.html?.tsrc=rss",
-      "time": "2026-11-04T19:08:40+00:00",
+      "title": "Alphabet Stocks Rise 1.4% as Euro Borrowing Meets a $200 Billion Spending Plan",
+      "summary": "The latest financing diversifies funding while cloud growth carries near-term margin pressure.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stocks-rise-1-4-193607695.html?.tsrc=rss",
+      "time": "2026-11-04T19:36:07+00:00",
       "touches": [
         "GOOGL"
       ],
@@ -34,14 +94,29 @@
       "new": true
     },
     {
-      "id": "rss:8442d18e-9e3f-38da-80c4-49571894de2f",
+      "id": "rss:9cbf3b9c-5945-382f-bf42-1dc6789c0992",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Nvidia Stocks Decline 1.35% as $108 Billion Guide Sets the Next Revenue Hurdle",
+      "summary": "The previous outlook also anticipates a lower gross margin than the preceding quarter.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-decline-1-35-193403778.html?.tsrc=rss",
+      "time": "2026-11-04T19:34:03+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:cf63ec24-fb4a-3191-a8a5-b476fc5c56f9",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Alphabet Stock Jumps 5% as Midterm Election Rally Lifts Google Shares",
-      "summary": "Google Stock Surges After Midterms as Investors Return to Big Tech",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-jumps-5-midterm-185346799.html?.tsrc=rss",
-      "time": "2026-11-04T18:53:46+00:00",
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google\u2019s AI policy",
+      "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/duckduckgo-pitches-itself-schools-amid-192952217.html?.tsrc=rss",
+      "time": "2026-11-04T19:29:52+00:00",
       "touches": [
         "GOOGL"
       ],
@@ -49,20 +124,185 @@
       "new": true
     },
     {
-      "id": "rss:263eb53d-38d1-310c-bcc1-4b67bfd428f9",
+      "id": "rss:86161f99-3ecf-38f3-8abb-a24e3a59d091",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "UBER Q3 Earnings Miss Estimates on Investment Loss, Revenue Beat",
-      "summary": "Uber's Q3 earnings miss estimates on investment losses despite revenue growth, as bookings surge 20% and operating profits improve across key businesses.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/uber-q3-earnings-miss-estimates-180600289.html?.tsrc=rss",
-      "time": "2026-11-04T18:06:00+00:00",
+      "ticker": "NVDA",
+      "title": "Fermaca Unveils NVIDIA-Powered AI Factory Platform to Power Mexico and Latin America",
+      "summary": "Fermaca today announced its designation as the first NVIDIA CloudPartner (NCP) based in Mexico, the first of its kind in the region and unveiled an AI factory platform designed to position the country as a producer of advanced AI capabilities for Mexico and Latin America. Beginning with Fermaca Digital Origins in Mexico City, the phased rollout combines Fermaca's infrastructure development and operating experience with the NVIDIA accelerated computing platform to expand access to the computing c",
+      "link": "https://finance.yahoo.com/technology/ai/articles/fermaca-unveils-nvidia-powered-ai-192900033.html?.tsrc=rss",
+      "time": "2026-11-04T19:29:00+00:00",
       "touches": [
-        "GOOGL"
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:1c0256da-ac0b-3d63-9152-7afd3bb6fb35",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Super Micro's AI Boom Just Got Much Bigger",
+      "summary": "Revenue nearly quadrupled as AI server demand overwhelmed Wall Street expectations.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/super-micros-ai-boom-just-192819629.html?.tsrc=rss",
+      "time": "2026-11-04T19:28:19+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:34f98c8e-63b0-3ad2-a920-221a21c7e3e5",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLE",
+      "title": "Sector Update: Energy Stocks Fall Wednesday Afternoon",
+      "summary": "Energy stocks were lower Wednesday afternoon, with the NYSE Energy Sector Index falling 5.4% and the",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-wednesday-184335445.html?.tsrc=rss",
+      "time": "2026-11-04T18:43:35+00:00",
+      "touches": [
+        "XLE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:2425a594-731f-3547-a1de-a64f3670e27f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLE",
+      "title": "Sector Update: Energy Stocks Decline Premarket Wednesday",
+      "summary": "Energy stocks were declining premarket Wednesday, with the State Street Energy Select Sector SPDR ET",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-premarket-142506383.html?.tsrc=rss",
+      "time": "2026-11-04T14:25:06+00:00",
+      "touches": [
+        "XLE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:888a5845-23f3-3950-92a7-64f6429f7e84",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLE",
+      "title": "Bet on These Oil & Gas ETFs Capitalizing on the US-Iran War Windfall",
+      "summary": "The US-Iran war has fueled record profits for American oil and gas giants. Discover four ETFs offering diversified exposure to this energy windfall.",
+      "link": "https://finance.yahoo.com/energy/articles/bet-oil-gas-etfs-capitalizing-134500348.html?.tsrc=rss",
+      "time": "2026-11-04T13:45:00+00:00",
+      "touches": [
+        "XLE"
       ],
       "tags": [
-        "earnings"
+        "capital"
       ],
+      "new": true
+    },
+    {
+      "id": "rss:ed7a9c06-3fd9-3778-a0d8-a5793edb04d5",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLE",
+      "title": "What State Street Energy Select Sector SPDR ETF (XLE) Sold: Exxon Leads on Monday",
+      "summary": "The fund sold $171.3 million of stock on Monday, Nov. 2, cutting all 21 of its positions and buying nothing.",
+      "link": "https://finance.yahoo.com/energy/articles/state-street-energy-select-sector-110544981.html?.tsrc=rss",
+      "time": "2026-11-04T11:05:44+00:00",
+      "touches": [
+        "XLE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:edaf7287-c7a2-3e05-9d23-1450d5219de3",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLE",
+      "title": "Sector Update: Energy Stocks Fall Late Afternoon",
+      "summary": "Energy stocks were lower late Tuesday afternoon, with the NYSE Energy Sector Index shedding 0.5% and",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-210314611.html?.tsrc=rss",
+      "time": "2026-11-03T21:03:14+00:00",
+      "touches": [
+        "XLE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:ab58da49-badc-3ab1-b93a-eb7a95225b4b",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLE",
+      "title": "Sector Update: Energy Stocks Decline Tuesday Afternoon",
+      "summary": "Energy stocks were lower Tuesday afternoon with the NYSE Energy Sector Index and the State Street En",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-tuesday-184914955.html?.tsrc=rss",
+      "time": "2026-11-03T18:49:14+00:00",
+      "touches": [
+        "XLE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:d3423e81-d193-3fc4-89e3-4d4327130e5c",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLE",
+      "title": "Sector Update: Energy",
+      "summary": "Energy stocks fell Tuesday afternoon with the NYSE Energy Sector Index and the State Street Energy S",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-181444380.html?.tsrc=rss",
+      "time": "2026-11-03T18:14:44+00:00",
+      "touches": [
+        "XLE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:d78eac10-6c59-3472-a438-3ae7c3860f61",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLE",
+      "title": "OPEC+ Holds Output Steady, Maintains 2M BPD Cuts: ETFs in Focus",
+      "summary": "OPEC+ holds December oil output steady amid Iran war disruptions, keeping crude prices elevated. Explore four energy ETFs poised to benefit.",
+      "link": "https://finance.yahoo.com/energy/articles/opec-holds-output-steady-maintains-152300233.html?.tsrc=rss",
+      "time": "2026-11-03T15:23:00+00:00",
+      "touches": [
+        "XLE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:29923b0e-0869-3bd9-b1d0-1f54b1055dc3",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLE",
+      "title": "Stock Market News for Nov 3, 2026",
+      "summary": "Wall Street closed mixed on Monday, pulled down by tech and energy stocks.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-3-132100899.html?.tsrc=rss",
+      "time": "2026-11-03T13:21:00+00:00",
+      "touches": [
+        "XLE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:f8b5703a-ce28-3630-83ab-d6229a0be2f5",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLE",
+      "title": "Sector Update: Energy Stocks Decline Late Afternoon",
+      "summary": "Energy stocks were lower late Monday afternoon, with the NYSE Energy Sector Index falling 3.5% and t",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-210002413.html?.tsrc=rss",
+      "time": "2026-11-02T21:00:02+00:00",
+      "touches": [
+        "XLE"
+      ],
+      "tags": [],
       "new": true
     }
   ],

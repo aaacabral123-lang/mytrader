@@ -43,6 +43,12 @@
       "pct": 5
     },
     {
+      "id": "vigia-XLE",
+      "symbol": "XLE",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
       "id": "vigia-XLK",
       "symbol": "XLK",
       "type": "pct_move",
