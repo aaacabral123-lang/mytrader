@@ -1,36 +1,19 @@
 {
-  "as_of": "2026-11-05T06:05:00Z",
+  "as_of": "2026-11-05T06:35:00Z",
   "items": [
     {
-      "id": "rss:db5107d3-1c64-3965-8e56-7f896ca117c6",
+      "id": "rss:2b15e863-8b9c-3e6f-aefa-6dcc8638899a",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MSFT",
-      "title": "Microsoft (MSFT) Stock Could Be Undervalued After Its 74% Five Year Run",
-      "summary": "Microsoft is trading near record territory after years of strong gains, and the question now is whether the cash the business generates can support a share price of about US$555.8. Over the past 5 years, Microsoft has returned 74.2% which puts a lot of investor confidence into focus around how durable its cash generation really is. Heavy AI related capital spending, funded in part through large bond issues and sizable data center buildouts, can support higher future cash flows but also...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-stock-could-undervalued-052250126.html?.tsrc=rss",
-      "time": "2026-11-05T05:22:50+00:00",
+      "title": "Microsoft declines Nscale Texas expansion ahead of $35 bln IPO - report",
+      "summary": "Investing.com -- Microsoft has declined to expand its Texas data center lease with Nscale, the Financial Times reported on Thursday, a fresh setback for the British AI infrastructure firm as it prepares a roughly $35 billion IPO.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-declines-nscale-texas-expansion-062524546.html?.tsrc=rss",
+      "time": "2026-11-05T06:25:24+00:00",
       "touches": [
         "MSFT"
       ],
       "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:4e1dd634-36ce-3c6e-bf8a-fdcb00b4b83a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "Top 3 AI Infrastructure Stocks To Watch In November 2026",
-      "summary": "AI data center stocks recently dipped while renewables surged after Democratic wins in the US midterms, as investors reacted to talk of tighter oversight for artificial intelligence and more support for clean energy. That kind of sharp rotation shows how quickly capital can shift into companies with strong earnings potential and solid finances. This article highlights three stocks that screen well on both counts from a high growth potential filter. The three stocks highlighted here offer a...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/top-3-ai-infrastructure-stocks-051816770.html?.tsrc=rss",
-      "time": "2026-11-05T05:18:16+00:00",
-      "touches": [
-        "MU"
-      ],
-      "tags": [
-        "earnings"
-      ],
       "new": true
     }
   ],
