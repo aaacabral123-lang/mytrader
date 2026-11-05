@@ -1,5 +1,5 @@
 {
-  "cash": 386.49,
+  "cash": 411.48,
   "positions": [
     {
       "ticker": "ADBE",
@@ -8,18 +8,6 @@
         {
           "id": "ADBE-alpaca",
           "shares": 2.019585488,
-          "cost": 495.99,
-          "date": "2026-10-28"
-        }
-      ]
-    },
-    {
-      "ticker": "BLK",
-      "shares": 0.424786446,
-      "lots": [
-        {
-          "id": "BLK-alpaca",
-          "shares": 0.424786446,
           "cost": 495.99,
           "date": "2026-10-28"
         }
@@ -70,6 +58,18 @@
           "shares": 3.941746801,
           "cost": 495.99,
           "date": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "ticker": "REGN",
+      "shares": 0.530957569,
+      "lots": [
+        {
+          "id": "REGN-alpaca",
+          "shares": 0.530957569,
+          "cost": 499.99,
+          "date": "2026-11-05"
         }
       ]
     },

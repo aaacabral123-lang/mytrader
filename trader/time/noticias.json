@@ -1,15 +1,32 @@
 {
-  "as_of": "2026-11-05T14:35:00Z",
+  "as_of": "2026-11-05T15:05:00Z",
   "items": [
     {
-      "id": "rss:6a8bad02-17b6-37de-a668-d527b8a250c8",
+      "id": "rss:e4256abe-f1be-3ca4-bd85-41fd686a5d55",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ORCL",
+      "title": "Pharmacovigilance and Drug Safety Software - Global Strategic Business Report 2026-2032 Featuring Oracle, ArisGlobal, Ennov, Extedo and More",
+      "summary": "Dublin, Nov. 05, 2026 (GLOBE NEWSWIRE) -- \"Pharmacovigilance and Drug Safety Software - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global pharmacovigilance and drug safety software market was valued at US$227.4 million in 2025 and is projected to reach US$336.5 million by 2032, expanding at a compound annual growth rate (CAGR) of 5.8%. Market growth is supported by increasingly stringent regulatory requirements, rising adverse event data volum",
+      "link": "https://finance.yahoo.com/healthcare/articles/pharmacovigilance-drug-safety-software-global-144900789.html?.tsrc=rss",
+      "time": "2026-11-05T14:49:00+00:00",
+      "touches": [
+        "ORCL"
+      ],
+      "tags": [
+        "capital"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:f2dca5a8-5058-3a9f-9ded-b941a75c33e1",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Unity Software Finds an Ad Machine Hiding Inside Video Games",
-      "summary": "Unity Software stock surges after the video game developer platform forecasts robust business growth.",
-      "link": "https://finance.yahoo.com/m/6a8bad02-17b6-37de-a668-d527b8a250c8/unity-software-finds-an-ad.html?.tsrc=rss",
-      "time": "2026-11-05T14:11:00+00:00",
+      "title": "Apple Makes Surprising Move to Rein In AI Spending",
+      "summary": "Apple still wants more AI usage but is demanding tighter cost control.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/apple-makes-surprising-move-rein-144725769.html?.tsrc=rss",
+      "time": "2026-11-05T14:47:25+00:00",
       "touches": [
         "GOOGL"
       ],
@@ -17,44 +34,14 @@
       "new": true
     },
     {
-      "id": "rss:26d55656-308e-33e0-bed8-e978dd70f828",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Concentrix Brings Agentic AI Migration Engine to Microsoft Marketplace",
-      "summary": "New patent-pending app accelerates migration from legacy CX platforms to Microsoft Dynamics 365Reduces CCaaS customer engagement platform migration time up to 50%Accelerates modernization, helping clients capture value from AI and transformation investments sooner NEWARK, Calif., Nov. 05, 2026 (GLOBE NEWSWIRE) -- Concentrix Corporation (NASDAQ: CNXC), a global technology and services leader, today announced the launch of its proprietary Concentrix Migration Engine for Dynamics 365 Contact Center",
-      "link": "https://finance.yahoo.com/technology/ai/articles/concentrix-brings-agentic-ai-migration-140500928.html?.tsrc=rss",
-      "time": "2026-11-05T14:05:00+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:0efab15b-ba27-3cea-8657-67d22f47f188",
+      "id": "rss:c1c18465-e452-3fab-bfd5-345aa9b5e237",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Supermicro Launches KV Cache Solution with IBM and NVIDIA Demonstrating Significant Inference Performance Benefits",
-      "summary": "Supermicro, Inc. (NASDAQ: SMCI), an AI, Enterprise, Storage, and 5G/Edge Total IT Solution Provider featuring Data Center Building Block Solutions\u00ae (DCBBS), today announced a new KV cache storage solution with IBM and NVIDIA. The joint solution integrates Supermicro Petascale all-flash storage servers using AMD EPYC 9005 Series processors (\"Turin\"), IBM Storage Scale software, along with NVIDIA Dynamo inference framework software and Spectrum-X Ethernet networking.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/supermicro-launches-kv-cache-solution-140500280.html?.tsrc=rss",
-      "time": "2026-11-05T14:05:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:d7c384d4-af62-3dae-a383-dac5c15508c9",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Tesla Optimus Rival Agility Robotics Begins Trading After SPAC Merger",
-      "summary": "Agility Robotics could pave the way for other robotics pure-plays.",
-      "link": "https://finance.yahoo.com/m/d7c384d4-af62-3dae-a383-dac5c15508c9/tesla-optimus-rival-agility.html?.tsrc=rss",
-      "time": "2026-11-05T14:00:23+00:00",
+      "title": "SpaceX Lessors Look To Sell $40 Bil AI Deal. ARK Buys The Dip On SPCX Stock.",
+      "summary": "Goldman Sachs, Apollo Global look to sell portions of $40 billion GPU deal with SpaceX. Cathie Wood buys the dip amid AI retreat.",
+      "link": "https://finance.yahoo.com/m/c1c18465-e452-3fab-bfd5-345aa9b5e237/spacex-lessors-look-to-sell.html?.tsrc=rss",
+      "time": "2026-11-05T14:43:43+00:00",
       "touches": [
         "NVDA"
       ],
@@ -64,104 +51,31 @@
       "new": true
     },
     {
-      "id": "rss:4f94ed53-c680-32d2-bf7b-702afed75cc2",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "firmly Raises $15 Million Series A and Launches Ask Agent to Help Merchants More Easily Adopt Agentic Commerce",
-      "summary": "Squarepoint Capital leads round with participation from J.P. Morgan Payments, Mastercard, Samsung NEXT and others to scale infrastructure connecting merchants to AI agents, marketplaces and shoppable platformsSEATTLE, Nov. 05, 2026 (GLOBE NEWSWIRE) -- firmly, the \u201cno-code\u201d agentic commerce platform connecting merchants to high-intent digital channels, today announced a $15 million Series A funding round led by Squarepoint Capital, with participation from strategic investors including J.P. Morgan",
-      "link": "https://finance.yahoo.com/technology/ai/articles/firmly-raises-15-million-series-140000826.html?.tsrc=rss",
-      "time": "2026-11-05T14:00:00+00:00",
-      "touches": [
-        "ADBE"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:1afe04e0-e958-3f9f-910e-22be0074957a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Blitzy Announces Collaboration with Microsoft to Accelerate Legacy Modernization and Software Development at Scale",
-      "summary": "Blitzy, an autonomous software development platform for enterprise codebases, today announced it will work with Microsoft Frontier Company to develop and deliver solutions and services to help enterprises understand, modernize, and continuously develop software across large, interconnected application estates. Blitzy enables business and IT to work from the same executable specification and software to continuously evolve at the pace the business requires. In addition to its work with Frontier C",
-      "link": "https://finance.yahoo.com/technology/articles/blitzy-announces-collaboration-microsoft-accelerate-140000986.html?.tsrc=rss",
-      "time": "2026-11-05T14:00:00+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:837567e9-f174-3ca5-a19a-b8288fa38cb1",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "VictoriaMetrics Expands in North America as Spotify and MongoDB Use Its Open-Source Stack to Run Observability at Scale",
-      "summary": "SAN FRANCISCO, November 05, 2026--VictoriaMetrics, a provider of open-source observability solutions, today announced it\u2019s building momentum for its next phase of growth with a fast-growing open-source community, continued product innovation and expanding enterprise adoption. The company is increasing its investment in North America to bring its cost-efficient observability technology to more engineering teams managing increasingly complex IT and AI infrastructure, with plans to expand its suppo",
-      "link": "https://finance.yahoo.com/technology/articles/victoriametrics-expands-north-america-spotify-140000553.html?.tsrc=rss",
-      "time": "2026-11-05T14:00:00+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:1b1cf76f-7a55-3c2e-a0cd-b9253a198376",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Recast Expands Right Click Tools to Deliver Greater Application Visibility, Cloud-First Management, and Stronger Security",
-      "summary": "MINNEAPOLIS, Nov. 05, 2026 (GLOBE NEWSWIRE) -- Recast, a leader in modern application and endpoint management, today announced a series of Right Click Tools enhancements. Managing applications is getting harder as endpoints become more distributed and increasingly operate beyond the corporate network. Recast\u2019s latest Right Click Tools capabilities bring application visibility, vulnerability insights, patching, and remote management together to help IT teams understand what\u2019s running across their",
-      "link": "https://finance.yahoo.com/technology/articles/recast-expands-click-tools-deliver-140000710.html?.tsrc=rss",
-      "time": "2026-11-05T14:00:00+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:3fe096fc-5cdf-3c16-a412-16b97a896386",
+      "id": "rss:38cb0654-6e49-3715-b4e4-f2f830876d7a",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "WICE Global Impact Summit Convenes 100+ Leaders in Washington to Tackle Global Challenges",
-      "summary": "More than 100 leaders from government, finance, technology, business, and philanthropy gathered October 21\u201322 for the 2026 WICE Global Impact Summit at The Penthouse in The Washington Post Building.",
-      "link": "https://finance.yahoo.com/technology/articles/wice-global-impact-summit-convenes-135200982.html?.tsrc=rss",
-      "time": "2026-11-05T13:52:00+00:00",
+      "title": "Stock Market Today: Dow Slips After Postelection Rally; Cava, Dutch Bros Plunge On Earnings News (Live Coverage)",
+      "summary": "The Dow Jones index rises Thursday after the postelection rally. Cava and Dutch Bros plunge on earnings.",
+      "link": "https://finance.yahoo.com/m/38cb0654-6e49-3715-b4e4-f2f830876d7a/stock-market-today%3A-dow-slips.html?.tsrc=rss",
+      "time": "2026-11-05T14:40:48+00:00",
       "touches": [
         "NVDA"
       ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:b26859f4-856d-3213-903e-31871ba5231c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "SpeedyIndex Launches Google Rank Tracker Without a Subscription: Pay Only for the Checks You Run",
-      "summary": "SpeedyIndex, a link indexing and index checking service, has launched a Google rank tracker that requires no subscription. Clients pay only for the checks they run, from the same token balance they already use for indexing.",
-      "link": "https://finance.yahoo.com/media-advertising/articles/speedyindex-launches-google-rank-tracker-134500756.html?.tsrc=rss",
-      "time": "2026-11-05T13:45:00+00:00",
-      "touches": [
-        "GOOGL"
+      "tags": [
+        "earnings"
       ],
-      "tags": [],
       "new": true
     },
     {
-      "id": "rss:ccae3362-d485-3cd8-a576-a27cef07ad8a",
+      "id": "rss:e3a25d38-c53e-364d-b498-95a8aa005cb8",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "One of the First 50 Websites on the Internet (Est. 1991) Reinvents Itself as an Agentic Systems Company: ARADIA Unveils Turnkey Private AI Appliances and the World's First B2A Partner Program for Autonomous Agents",
-      "summary": "In 1991, ARADIA (Aradia LLC, https://aradia.com) launched one of the first 50 websites on the World Wide Web. Today, the 34-year infrastructure pioneer announced its reinvention as a full-stack Agentic Systems company bringing business intelligence back inside private office walls. Built for sub-200-person organizations\u2014solopreneurs, executives, law firms, medical clinics, and wealth managers\u2014Aradia ships turnkey, air-gapped NVIDIA DGX supercomputers pre-compiled and hardened with leading open-s",
-      "link": "https://finance.yahoo.com/technology/ai/articles/one-first-50-websites-internet-134400114.html?.tsrc=rss",
-      "time": "2026-11-05T13:44:00+00:00",
+      "title": "Nvidia Partner Posts Stunning 46% Sales Jump",
+      "summary": "AI infrastructure demand is still accelerating despite concerns over hyperscaler spending.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-partner-posts-stunning-46-143404568.html?.tsrc=rss",
+      "time": "2026-11-05T14:34:04+00:00",
       "touches": [
         "NVDA"
       ],
@@ -169,95 +83,52 @@
       "new": true
     },
     {
-      "id": "rss:58b262e7-3c2a-3452-b404-767df7ff91cb",
+      "id": "rss:59a4bca6-75cf-305f-98f0-02f0ba924280",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "These AI Names Sat Out the Midterm Rally. Now, the Losses Are Intensifying.",
-      "summary": "As the dust settles from the U.S. midterm election rally, losses for the AI winners-turned-market laggards are intensifying.",
-      "link": "https://finance.yahoo.com/m/58b262e7-3c2a-3452-b404-767df7ff91cb/these-ai-names-sat-out-the.html?.tsrc=rss",
-      "time": "2026-11-05T13:41:56+00:00",
+      "ticker": "REGN",
+      "title": "Why Regeneron (REGN) Might be Well Poised for a Surge",
+      "summary": "Regeneron (REGN) shares have started gaining and might continue moving higher in the near term, as indicated by solid earnings estimate revisions.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-regeneron-regn-might-well-162002464.html?.tsrc=rss",
+      "time": "2026-11-04T16:20:02+00:00",
       "touches": [
-        "GOOGL",
-        "MSFT",
-        "NVDA"
+        "REGN"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:6fa18dd8-f9fd-3960-9bc7-82a27b67d6b9",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "REGN",
+      "title": "REGN vs. ILMN: Which Stock Is the Better Value Option?",
+      "summary": "REGN vs. ILMN: Which Stock Is the Better Value Option?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/regn-vs-ilmn-stock-better-154001705.html?.tsrc=rss",
+      "time": "2026-11-04T15:40:01+00:00",
+      "touches": [
+        "REGN"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:ecc95bb9-3244-4bbf-8d34-8d0e45e78242",
+      "id": "rss:1b88f154-2a88-34ce-b875-9c482d7fd3d1",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MSFT",
-      "title": "AI data centers have a bigger problem than water",
-      "summary": "In the Loop Host Ejaaz Ahamadeen wants to clear the air once and for all. While concerns over water consumption have dominated headlines, Ahamadeen examines how data centers recycle water and why earlier estimates of water usage have come under scrutiny. The bigger challenge may be electricity demand. Ahamadeen breaks down what hyperscalers are proposing to remedy the issue.",
-      "link": "https://finance.yahoo.com/video/ai-data-centers-have-a-bigger-problem-than-water-134050186.html?.tsrc=rss",
-      "time": "2026-11-05T13:40:50+00:00",
+      "ticker": "REGN",
+      "title": "BAYRY Q3 Earnings and Revenues Miss Estimates, Pharma Performs Well",
+      "summary": "Bayer's Q3 earnings and revenues miss estimates, but strong growth in Nubeqa and Kerendia boosts pharma performance and lifts 2026 EBITDA guidance.",
+      "link": "https://finance.yahoo.com/healthcare/articles/bayry-q3-earnings-revenues-miss-181200425.html?.tsrc=rss",
+      "time": "2026-11-03T18:12:00+00:00",
       "touches": [
-        "MSFT"
+        "REGN"
       ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:efc90544-9a34-3d50-8078-910a620f9eef",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Apple cuts staff AI usage in scramble to rein in costs",
-      "summary": "Apple has restricted employees\u2019 use of AI in an effort to cut costs.",
-      "link": "https://uk.finance.yahoo.com/news/apple-cuts-staff-ai-usage-133445303.html?.tsrc=rss",
-      "time": "2026-11-05T13:34:45+00:00",
-      "touches": [
-        "MSFT"
+      "tags": [
+        "earnings"
       ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:bc71dfe4-8df9-3552-a5ef-a2b9d79374e7",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Election Raises Hurdle for Data Center IPOs After Peers Tumble",
-      "summary": "A flash of anger from voters toward artificial intelligence infrastructure raised the bar for IPO candidates providing computing power to fuel the technology\u2019s surging growth.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/election-raises-hurdle-data-center-133010287.html?.tsrc=rss",
-      "time": "2026-11-05T13:30:10+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:6eaecc47-d2d0-3661-99b9-c27321789079",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "Micron: Is the Recent Selloff a Buying Opportunity?",
-      "summary": "Despite recent market jitters over pricing cyclicality, political policies, and profit-taking, Micron's underlying fundamentals remain exceptionally strong.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-recent-selloff-buying-opportunity-131900473.html?.tsrc=rss",
-      "time": "2026-11-05T13:19:00+00:00",
-      "touches": [
-        "MU"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:ea9535ad-e7f0-3ef3-a107-7a75beda9f7e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "BLK",
-      "title": "iConnections and Preqin, a Part of BlackRock, Announce Collaboration to Bring Institutional Data to Violet, an AI-Powered Capital Introduction Platform",
-      "summary": "GLADWYNE, Pa., November 05, 2026--iConnections today announced a collaboration with Preqin, a part of BlackRock, that brings one of the industry's leading sources of private markets data and intelligence\u2014 spanning fund managers, institutional investors, funds, benchmarks and indices\u2014 to Violet, iConnections' AI-powered capital introduction platform.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/iconnections-preqin-part-blackrock-announce-130000390.html?.tsrc=rss",
-      "time": "2026-11-05T13:00:00+00:00",
-      "touches": [
-        "BLK"
-      ],
-      "tags": [],
       "new": true
     }
   ],

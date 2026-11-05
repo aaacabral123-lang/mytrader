@@ -15,20 +15,6 @@
       "note": "rob\u00f4: +10% do pre\u00e7o m\u00e9dio"
     },
     {
-      "id": "robo-stop-BLK",
-      "symbol": "BLK",
-      "type": "stop",
-      "price": 992.48,
-      "note": "rob\u00f4: -15% do pre\u00e7o m\u00e9dio"
-    },
-    {
-      "id": "robo-take-BLK",
-      "symbol": "BLK",
-      "type": "target",
-      "price": 1284.38,
-      "note": "rob\u00f4: +10% do pre\u00e7o m\u00e9dio"
-    },
-    {
       "id": "robo-stop-GOOGL",
       "symbol": "GOOGL",
       "type": "stop",
@@ -82,6 +68,20 @@
       "symbol": "ORCL",
       "type": "target",
       "price": 138.41,
+      "note": "rob\u00f4: +10% do pre\u00e7o m\u00e9dio"
+    },
+    {
+      "id": "robo-stop-REGN",
+      "symbol": "REGN",
+      "type": "stop",
+      "price": 800.42,
+      "note": "rob\u00f4: -15% do pre\u00e7o m\u00e9dio"
+    },
+    {
+      "id": "robo-take-REGN",
+      "symbol": "REGN",
+      "type": "target",
+      "price": 1035.84,
       "note": "rob\u00f4: +10% do pre\u00e7o m\u00e9dio"
     },
     {
