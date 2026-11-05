@@ -1,148 +1,62 @@
 {
-  "as_of": "2026-11-05T12:35:00Z",
+  "as_of": "2026-11-05T13:05:00Z",
   "items": [
     {
-      "id": "rss:b8c18308-1ba1-333d-a2ad-eb23507c513b",
+      "id": "rss:d4cc57a4-f056-3aeb-be65-144c28adcfca",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Market Chatter: Goldman Sachs, Apollo Begin Marketing $40 Billion SpaceX Chip Financing Deal",
-      "summary": "Goldman Sachs Group (GS) and Apollo Global Management (APO) have begun approaching investors to synd",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-goldman-sachs-apollo-122044595.html?.tsrc=rss",
-      "time": "2026-11-05T12:20:44+00:00",
+      "ticker": "GOOGL",
+      "title": "Verizon Makes the Holidays Simple with Our Best Deals and Rewards Just for Being a Customer",
+      "summary": "From simple plans to exclusive rewards, Verizon delivers delight all season longNEW YORK, Nov. 05, 2026 (GLOBE NEWSWIRE) -- Verizon is making holiday shopping simple with incredible deals and exclusive rewards designed to delight. Starting today, November 5, and running throughout the holiday season, customers can unwrap amazing savings on the hottest tech, plus access an exclusive lineup of giveaways, events and once-in-a-lifetime experiences, only for Verizon customers. Unwrap the gift of new",
+      "link": "https://finance.yahoo.com/technology/articles/verizon-makes-holidays-simple-best-130000570.html?.tsrc=rss",
+      "time": "2026-11-05T13:00:00+00:00",
       "touches": [
-        "NVDA"
+        "GOOGL"
       ],
-      "tags": [
-        "deal"
-      ],
+      "tags": [],
       "new": true
     },
     {
-      "id": "rss:691da5d2-4dc1-3dc7-a9a0-3f8e1dc43fca",
+      "id": "rss:eae58bbe-804f-3cec-a52f-bfe61c6d7dcb",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "How Quantinuum Is Taking Aim at a Quantum Computing Bottleneck",
+      "summary": "Quantinuum is striving to automate quantum error correction as part of its push toward fault-tolerant computing by 2029.",
+      "link": "https://finance.yahoo.com/m/eae58bbe-804f-3cec-a52f-bfe61c6d7dcb/how-quantinuum-is-taking-aim.html?.tsrc=rss",
+      "time": "2026-11-05T12:00:00+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:dbe8d720-000b-30f9-9d93-40ad0dd3bb36",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ORCL",
+      "title": "Credo and Oracle Drive AI Optical Innovation: Is CRDO Set to Benefit?",
+      "summary": "CRDO secures OCP approval with ORCL for two optical connectivity standards, advancing AI data center reliability and its role in next-generation infrastructure.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/credo-oracle-drive-ai-optical-115500422.html?.tsrc=rss",
+      "time": "2026-11-05T11:55:00+00:00",
+      "touches": [
+        "ORCL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:835abbab-64fe-3558-87f6-ffd2f42cf2d0",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MU",
-      "title": "Micron Technology And 2 AI Chip Stocks To Improve Your Portfolio",
-      "summary": "Corporate earnings are currently growing at a pace last seen in 1984, powered heavily by large tech groups pouring money into AI hardware. That spending spree puts the companies designing chips and supplying the factories that build them under a bright spotlight. This article breaks down three stocks from a focused AI hardware supply chain screener so you can see which businesses sit closest to that spending firehose. The stocks covered below are just a sample, and the full semiconductor...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/micron-technology-2-ai-chip-121408498.html?.tsrc=rss",
-      "time": "2026-11-05T12:14:08+00:00",
+      "title": "Micron Stock Drops Again as Its Market Share Shrinks. Why That\u2019s an Opportunity.",
+      "summary": "Micron stock has fallen below $800 and its market share has shrunk. It's time to look on the bright side.",
+      "link": "https://finance.yahoo.com/m/835abbab-64fe-3558-87f6-ffd2f42cf2d0/micron-stock-drops-again-as.html?.tsrc=rss",
+      "time": "2026-11-05T11:02:00+00:00",
       "touches": [
         "MU"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:256c355b-7a55-3a4e-8d8a-b1307b756a7e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia chips stockpile in Hong Kong awaits China import approval - report",
-      "summary": "Investing.com -- About 600,000 Nvidia artificial intelligence chips are stored in Hong Kong waiting for shipment to mainland China, Reuters reported Thursday citing people familiar with the matter. Beijing has not approved large-scale imports of the H200 chips despite demand from technology companies.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-chips-stockpile-hong-kong-120548918.html?.tsrc=rss",
-      "time": "2026-11-05T12:05:48+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:72be1ff8-6319-46dd-be1a-7fa687821b59",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "America just voted against AI. That might be good.",
-      "summary": "Voters pushed back on AI data centers this week, and Goldman Sachs warns 45% of planned US capacity could be affected. Host Ejaaz Ahamadeen breaks down why voters turned on data centers, Texas's new conditions, the market's split reaction and why an AI bull thinks a slower buildout might be good for AI.",
-      "link": "https://finance.yahoo.com/video/america-just-voted-against-ai-120000953.html?.tsrc=rss",
-      "time": "2026-11-05T12:00:00+00:00",
-      "touches": [
-        "MSFT",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:5fefedc8-74fa-47a6-9944-fa2375b7f83d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "How the AI boom might affect your career: Fireworks AI CEO",
-      "summary": "Fireworks AI CEO Lin Qiao chats with Yahoo Finance Executive Editor Brian Sozzi to uncover how artificial intelligence is actively disrupting everyday knowledge workers.",
-      "link": "https://finance.yahoo.com/video/ai-boom-might-affect-career-120000909.html?.tsrc=rss",
-      "time": "2026-11-05T12:00:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:7cff0bbc-591a-3619-b90b-d285863d3148",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "DTE Energy announces strategic sale of its non-utility DTE Vantage business; reports third quarter accomplishments including advancing data center growth that delivers unprecedented customer affordability benefits and filing long-term generation plan",
-      "summary": "DTE Energy (NYSE: DTE) has entered into an agreement to sell its non-utility DTE Vantage business1 for approximately $3 billion to institutional investors advised by the Global Infrastructure group at J.P. Morgan Asset Management, with the sale expected to close in the first half of 2027. The transaction advances DTE's long-term strategy and continued focus on customer affordability, while strengthening its ability to make significant utility investments that deliver affordable, clean and reliab",
-      "link": "https://finance.yahoo.com/energy/articles/dte-energy-announces-strategic-sale-115500752.html?.tsrc=rss",
-      "time": "2026-11-05T11:55:00+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:7707240c-0e6a-30d0-b178-4ac042532bb8",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Microsoft walks away from AI deal as $170 billion question grows",
-      "summary": "The company passed on additional computing capacity in Texas as infrastructure delays complicate its AI spending plans.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-walks-away-ai-deal-115313384.html?.tsrc=rss",
-      "time": "2026-11-05T11:53:13+00:00",
-      "touches": [
-        "MSFT",
-        "NVDA"
-      ],
-      "tags": [
-        "deal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:234d96bc-ca98-3d28-bc4d-c1fe7c3768a3",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Massive market rotation raises question: Is the sell-AI trade here to stay?",
-      "summary": "Investing.com - Tech saw a sharp rotation into hyperscalers on Wednesday, while semiconductors and data center infrastructure stocks came under pressure as a Democratic election win triggered a huge thematic rotation. Amazon rose 6.1% on the session, Microsoft gained 6.7%, Alphabet climbed 3.2%, and Meta added 1.4%.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/massive-market-rotation-raises-sell-114727763.html?.tsrc=rss",
-      "time": "2026-11-05T11:47:27+00:00",
-      "touches": [
-        "GOOGL",
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:ef58e699-55a3-31c5-91af-86894dd3eb2f",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Eos Energy Enterprises Reports Third Quarter 2026 Revenue of $82.7 Million, Up 171% Year Over Year, with Gross Margin Improving 58 Percentage Points",
-      "summary": "Delivered record revenue of $82.7 million through deliveries to 10 projects Gross margin improved 58 percentage points and adjusted EBITDA margin improved 96 percentage points year over year, the eighth consecutive quarter both metrics improvedReceived $87 million first advance under the second tranche of the U.S. Department of Energy loanAnnounced a project with MN8 Energy to deliver 10 MW/100 MWh of Z3\u2122 zinc-based LDES in West Virginia, serving Google\u2019s data centers Discharged 6.9 GWh of cumul",
-      "link": "https://finance.yahoo.com/energy/articles/eos-energy-enterprises-reports-third-114500095.html?.tsrc=rss",
-      "time": "2026-11-05T11:45:00+00:00",
-      "touches": [
-        "GOOGL"
       ],
       "tags": [],
       "new": true
