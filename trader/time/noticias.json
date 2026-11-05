@@ -1,129 +1,63 @@
 {
-  "as_of": "2026-11-05T16:05:00Z",
+  "as_of": "2026-11-05T16:35:00Z",
   "items": [
     {
-      "id": "rss:f5b3826c-0fca-404a-a3d8-c0245f57438a",
+      "id": "rss:91aa55e0-aa28-447b-b494-d5cc6ed748e3",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Are Big Tech stock buybacks officially dead?",
-      "summary": "As hyperscalers Alphabet  (GOOGL, GOOG), Amazon (AMZN), Meta (META), and Microsoft  (MSFT) pour billions into AI data centers, stock buybacks appear to be taking a back seat. Repurchases reportedly fell to $4.4 billion in the third quarter, a 90% drop from previous quarters. Yahoo Finance Executive Editor and Sozzi Unleashed host Brian Sozzi examines whether Big Tech's massive AI spending spree is coming at the expense of shareholder returns. Yahoo Finance Executive Editor and host Sozzi Unleashed takes a closer look.",
-      "link": "https://finance.yahoo.com/video/are-big-tech-stock-buybacks-officially-dead-155848546.html?.tsrc=rss",
-      "time": "2026-11-05T15:58:48+00:00",
+      "ticker": "MU",
+      "title": "Micron stock declines 12% as chip sell-off deepens",
+      "summary": "Micron led the chip sector lower on Thursday amid a heavy sell-of",
+      "link": "https://finance.yahoo.com/markets/article/micron-declines-12-as-chip-sell-off-deepens-163137019.html?.tsrc=rss",
+      "time": "2026-11-05T16:31:37+00:00",
       "touches": [
-        "GOOGL",
+        "MU",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:7095555b-99ad-31f4-8847-d203e53c7b2b",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "IREN stock plunges 18% as Microsoft raises concerns over data center delays",
+      "summary": "Investing.com -- IREN Ltd. shares plunged 18% Thursday amid a broad technology selloff, with a Bloomberg report highlighting growing concerns at Microsoft over delays and execution risks among its neocloud partners.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-stock-plunges-18-microsoft-162134051.html?.tsrc=rss",
+      "time": "2026-11-05T16:21:34+00:00",
+      "touches": [
         "MSFT"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:6263a36c-bc95-3e83-a40d-2196da0fc25f",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "NVDA vs AMD: which stock has the better bounce setup",
-      "summary": "Investing.com -- The better tactical bounce candidate is NVIDIA Corporation (NVDA), not because its trend is healthy, but because Advanced Micro Devices Inc (AMD) is showing heavier damage and volatility.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvda-vs-amd-stock-better-155640375.html?.tsrc=rss",
-      "time": "2026-11-05T15:56:40+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:672b4820-3853-33a9-a832-840a8f27503e",
+      "id": "rss:5b8ba222-1160-3891-8ce1-2303d759bc2c",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MSFT",
-      "title": "Digital Transformation in Manufacturing - Global Strategic Business Report: Capitalize on a US$1.0 Trillion Market by 2030 as Siemens, ABB, Microsoft, Rockwell Automation and SAP Reshape Industry",
-      "summary": "Boost manufacturing ROI with IIoT, predictive maintenance, automation and digital twins that reduce downtime, optimize resources, improve quality and strengthen supply chain resilience.Dublin, Nov. 05, 2026 (GLOBE NEWSWIRE) -- \"Digital Transformation in Manufacturing - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering. The global digital transformation in manufacturing market was valued at US$357.5 billion in 2024 and is projected to reach US$1.0 trillion by 2",
-      "link": "https://finance.yahoo.com/technology/articles/digital-transformation-manufacturing-global-strategic-155200478.html?.tsrc=rss",
-      "time": "2026-11-05T15:52:00+00:00",
+      "title": "Market Chatter: Microsoft Declines Texas Data Center Contract Extension With Nscale, Tightening Data Center Oversight",
+      "summary": "Microsoft (MSFT) declined to extend a contract at a Texas data center with Nscale ahead of the start",
+      "link": "https://finance.yahoo.com/technology/articles/market-chatter-microsoft-declines-texas-161355924.html?.tsrc=rss",
+      "time": "2026-11-05T16:13:55+00:00",
       "touches": [
         "MSFT"
       ],
-      "tags": [
-        "capital"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:37e9b023-c720-34a7-8c71-35a74af7fe83",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "China\u2019s Moonshot AI seeks Nvidia Blackwell access in Europe, CNBC reports",
-      "summary": "Investing.com -- Chinese artificial intelligence startup Moonshot AI has explored leasing data center capacity in Europe to secure remote access to NVIDIA Corporation's (NASDAQ:NVDA) advanced Blackwell processors, according to a report from CNBC. The move highlights how Chinese developers are increasingly looking beyond domestic borders to bypass tightening U.S. export restrictions on cutting-edge silicon.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/china-moonshot-ai-seeks-nvidia-155140723.html?.tsrc=rss",
-      "time": "2026-11-05T15:51:40+00:00",
-      "touches": [
-        "NVDA"
-      ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:cb447a14-905e-3280-9d0b-9f4d7bc606b7",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Digital Transformation in BFSI - Global Strategic Business Report: Secure Your Share of US$220.2 Billion by 2030 as Accenture, AWS, IBM, Microsoft, and Oracle Accelerate AI-Led Disruption",
-      "summary": "Cloud, AI, APIs and automation cut costs, strengthen compliance and accelerate personalized services, while fintech partnerships unlock new revenue opportunities.Dublin, Nov. 05, 2026 (GLOBE NEWSWIRE) -- \"Digital Transformation in BFSI - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering. The global digital transformation in Banking, Financial Services and Insurance (BFSI) market was valued at US$88.2 billion in 2024 and is projected to reach US$220.2 billion b",
-      "link": "https://finance.yahoo.com/technology/ai/articles/digital-transformation-bfsi-global-strategic-155100143.html?.tsrc=rss",
-      "time": "2026-11-05T15:51:00+00:00",
-      "touches": [
-        "MSFT",
-        "ORCL"
-      ],
-      "tags": [
-        "capital"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:d8e78277-767d-3516-8e3c-01b703ea9ac8",
+      "id": "rss:58265a10-8058-3a94-b5ad-2f0f0e661c5b",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Port Announces PortCon - the First AI Software Factory Summit",
-      "summary": "Port, the open AI Software Factory platform, today announced The AI Software Factory Summit, taking place Nov. 17-18, 2026 at SHACK15 in San Francisco. The event features AI software factory use cases and insights from leading technology companies, including NVIDIA, GitHub, SpaceX, Uber and Expedia. Attendees will see how these teams run AI in production and learn what has worked, what hasn't, and how to build and scale their own factories.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/port-announces-portcon-first-ai-153800616.html?.tsrc=rss",
-      "time": "2026-11-05T15:38:00+00:00",
+      "title": "Boost Run Announces Date of Third Quarter 2026 Financial Results Conference Call",
+      "summary": "NORTHBROOK, Ill., November 05, 2026--Boost Run, Inc. (Nasdaq: BRUN), an NVIDIA Preferred Cloud Partner operating in adherence with NVIDIA Reference Architecture standards, plans to release its financial results for the third quarter ended September 30, 2026, pre-market on Thursday, November 12, 2026. The company plans to host a conference call at 9:00 a.m. Eastern Time to discuss its third quarter 2026 results.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/boost-run-announces-date-third-210500115.html?.tsrc=rss",
+      "time": "2026-11-05T16:09:00+00:00",
       "touches": [
         "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:c0915414-eb80-37fe-9bd0-faa3933b1f5c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "BC-Most Active Stocks",
-      "summary": "NEW YORK (AP) \u2014 prices for the Nasdaq composite, NYSE and NYSE American listed most active stocks. Nasdaq most active stocks:Stock Name Volume High Low Last Change  Lakewood Amedex Biotherap.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-153422188.html?.tsrc=rss",
-      "time": "2026-11-05T15:34:22+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:3c6571bb-0c89-374a-a32e-8dc039f5a6cd",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Agentic Commerce Optimization: Adobe Forecasts 130% AI Shopping Traffic Growth; Google Launches Universal Cart",
-      "summary": "Optimum7 today released a guide to agentic commerce optimization, covering the store data AI shopping tools read and the fixes legacy and custom-built ecommerce platforms can need to expose it.In its Sept. 28 forecast, Adobe projects AI traffic to U.S. retail sites will rise 130% year over year this holiday season, with the biggest increase, 159%, expected on Thanksgiving.Google opened Universal Cart in the U.S. in Search and the Gemini app on Oct. 15, built on more than 60 billion continually r",
-      "link": "https://finance.yahoo.com/technology/ai/articles/agentic-commerce-optimization-adobe-forecasts-153000869.html?.tsrc=rss",
-      "time": "2026-11-05T15:30:00+00:00",
-      "touches": [
-        "ADBE",
-        "GOOGL"
       ],
       "tags": [
         "earnings"
@@ -131,39 +65,81 @@
       "new": true
     },
     {
-      "id": "rss:fb48d090-5bb5-4eee-8a25-455cc90001aa",
+      "id": "rss:08d095fc-e4cc-36ad-b2fa-961e8037c11e",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "AMD CEO Su on earnings outlook, new Starbucks holiday menu, and Hilton CEO on hotel demand",
-      "summary": "Yahoo Finance Executive Editor Brian Sozzi tackles the biggest news of the market day, including AMD's (AMD) earnings outlook topping estimates as chip demand soars, what the blue wave in Congress means for a market rally, and how Starbucks (SBUX) plans its business around the holiday season with new products. Sozzi also goes 1-on-1 with Hilton (HLT) CEO Chris Nassetta to discuss AI's impact on the hospitality industry.",
-      "link": "https://finance.yahoo.com/video/amd-ceo-su-on-earnings-outlook-new-starbucks-holiday-menu-and-hilton-ceo-on-hotel-demand-150453106.html?.tsrc=rss",
-      "time": "2026-11-05T15:04:53+00:00",
+      "ticker": "REGN",
+      "title": "Mary Tyler Moore Vision Initiative Welcomes Regeneron and Adaptive Sensory Technology to Its Consortium",
+      "summary": "The Mary Tyler Moore Vision Initiative (MTM Vision) today announced that Regeneron Pharmaceuticals, Inc. has joined the MTM Vision Consortium as a founding member and Adaptive Sensory Technology as a device company member.",
+      "link": "https://finance.yahoo.com/healthcare/articles/mary-tyler-moore-vision-initiative-160600910.html?.tsrc=rss",
+      "time": "2026-11-05T16:06:00+00:00",
       "touches": [
-        "GOOGL",
-        "MSFT",
-        "MU",
-        "NVDA"
+        "REGN"
       ],
-      "tags": [
-        "earnings",
-        "people"
-      ],
+      "tags": [],
       "new": true
     },
     {
-      "id": "rss:ece24c65-9fa3-3755-b405-d02eded97e65",
+      "id": "rss:af684a4b-8d66-3386-a076-b99b03d014af",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "XLK",
-      "title": "Is a Democratic Victory Good News for Apple? ETFs to Consider",
-      "summary": "The Democratic win could reshape the AI investment landscape, potentially creating new opportunities for Apple and AAPL-heavy ETFs.",
-      "link": "https://finance.yahoo.com/technology/articles/democratic-victory-good-news-apple-144500421.html?.tsrc=rss",
-      "time": "2026-11-05T14:45:00+00:00",
+      "ticker": "ADBE",
+      "title": "Deloitte named a Leader in IDC MarketScape Worldwide AI-enabled Adobe Professional Services 2026 Vendor Assessment",
+      "summary": "Deloitte has been positioned as a Leader in the IDC MarketScape Worldwide AI-Enabled Adobe Professional Services 2026 Vendor Assessment (Doc #US54114626, October 2026). Deloitte is recognized as a \"worldwide services provider that combines a long heritage in business consulting with broad and deep IT services capabilities, and with a strong understanding of its clients' business on multiple levels.\" Deloitte's Adobe-focused professional services are delivered through Deloitte Digital.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/deloitte-named-leader-idc-marketscape-160000095.html?.tsrc=rss",
+      "time": "2026-11-05T16:00:00+00:00",
       "touches": [
-        "XLK"
+        "ADBE"
       ],
       "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:144a2ff7-e56e-3371-86a0-e790fbd35269",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Scout Clean Energy\u2019s Nimbus Wind Farm Achieves Commercial Operations, Supporting Microsoft\u2019s Clean Energy Portfolio",
+      "summary": "183 MW Wind Facility is Now Largest in the State of ArkansasGREEN FOREST, Ark., Nov. 05, 2026 (GLOBE NEWSWIRE) -- Scout Clean Energy (\u201cScout\u201d), a leading North American renewable energy developer-owner-operator, announced today that its 183 MW Nimbus Wind Farm (\u201cNimbus\u201d) in Carroll County, Arkansas is now commercially operational. This achievement marks the culmination of two years of construction on the project, which is now generating enough electricity to power more than 40,000 homes annually",
+      "link": "https://finance.yahoo.com/energy/articles/scout-clean-energy-nimbus-wind-160000329.html?.tsrc=rss",
+      "time": "2026-11-05T16:00:00+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:c9f327b9-16c5-3a50-a74d-937a12644740",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Nvidia Stock Is Below $200. What History Suggests Is the Floor.",
+      "summary": "Nvidia stock has hit a three-month low. Here's where its record suggests the slide should stop.",
+      "link": "https://finance.yahoo.com/m/c9f327b9-16c5-3a50-a74d-937a12644740/nvidia-stock-is-below-%24200..html?.tsrc=rss",
+      "time": "2026-11-05T15:35:00+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:d173c0b4-6742-328c-96e5-ada6c07af451",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Midterm Results Put These 4 Renewable, Healthcare & AI Stocks in Focus",
+      "summary": "Midterm election results are reshaping sector sentiment, putting Nextpower, Centene & AI infrastructure companies in focus amid shifting policy expectations.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/midterm-results-put-4-renewable-152400817.html?.tsrc=rss",
+      "time": "2026-11-05T15:24:00+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT"
+      ],
+      "tags": [
+        "earnings"
+      ],
       "new": true
     }
   ],
