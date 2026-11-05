@@ -1,49 +1,15 @@
 {
-  "as_of": "2026-11-05T17:35:00Z",
+  "as_of": "2026-11-05T18:05:00Z",
   "items": [
     {
-      "id": "rss:c616cd3e-ddc2-46fb-8990-a09cd346b8bc",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Big Tech's massive AI spending is causing another problem for investors",
-      "summary": "The Big Tech buyback may be on ice for now.",
-      "link": "https://finance.yahoo.com/technology/article/big-techs-massive-ai-spending-is-causing-another-problem-for-investors-171909548.html?.tsrc=rss",
-      "time": "2026-11-05T17:19:09+00:00",
-      "touches": [
-        "GOOGL",
-        "MSFT",
-        "ORCL"
-      ],
-      "tags": [
-        "capital"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:5b22d51e-b92c-380a-a782-454658ee24e5",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Superpath and JB Warranties Announce Strategic Marketing Partnership to Help Home Service Contractors Grow",
-      "summary": "Superpath, a digital marketing agency specializing in home service contractors, has announced a new strategic marketing partnership with JB Warranties, a leading provider of extended warranty programs and dealer business services for the HVAC and plumbing industries.",
-      "link": "https://finance.yahoo.com/small-business/articles/superpath-jb-warranties-announce-strategic-171500285.html?.tsrc=rss",
-      "time": "2026-11-05T17:15:00+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:deb29e9b-9746-314e-9e52-1809752e46e7",
+      "id": "rss:0cafc0f1-beae-4353-b76a-e962818fc319",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MU",
-      "title": "Micron's Bold Memory Expansion Faces a Sudden Crisis",
-      "summary": "A delayed fab could constrain supply just as AI-memory demand stays strong.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/microns-bold-memory-expansion-faces-171446543.html?.tsrc=rss",
-      "time": "2026-11-05T17:14:46+00:00",
+      "title": "Micron and Sandisk valuation multiples are unbelievable as chip stocks get crushed",
+      "summary": "Chip stocks are getting crushed, especially these two former highfliers.",
+      "link": "https://finance.yahoo.com/markets/article/micron-and-sandisk-valuation-multiples-are-unbelievable-as-chip-stocks-get-crushed-180250881.html?.tsrc=rss",
+      "time": "2026-11-05T18:02:50+00:00",
       "touches": [
         "MU"
       ],
@@ -51,48 +17,45 @@
       "new": true
     },
     {
-      "id": "rss:f42038b8-0267-3ed4-85ea-c00e5a8b1557",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Microsoft Just Walked Away From a Huge AI Deal",
-      "summary": "The setback lands as Nscale prepares for a potentially $35 billion IPO.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-just-walked-away-huge-171341855.html?.tsrc=rss",
-      "time": "2026-11-05T17:13:41+00:00",
-      "touches": [
-        "MSFT",
-        "NVDA"
-      ],
-      "tags": [
-        "deal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:fd062644-d3d1-324e-a704-e842bb03f63c",
+      "id": "rss:22d20c1e-16b9-3302-8560-b385ac404513",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MU",
-      "title": "Stocks slide as investors worry about data centre backlash",
-      "summary": "Tech stocks tumbled on Wall Street Thursday on concerns over the future of AI data centre projects following the US midterm elections, wiping out gains from a post-election rally the day before.Data centres have faced broad opposition from US voters regardless of political affiliation, and many midterm winners have pledged to put the brakes on such projects, for example by imposing moratoriums on new buildouts.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/tech-hit-ai-worries-positive-024740748.html?.tsrc=rss",
-      "time": "2026-11-05T17:07:10+00:00",
+      "title": "Micron Stock Plunges As Memory-Chip Shortages Cause Ripple Effects",
+      "summary": "Micron stock fell Thursday as memory-chip shortages are having ripple effects across the tech sector.",
+      "link": "https://finance.yahoo.com/m/22d20c1e-16b9-3302-8560-b385ac404513/micron-stock-plunges-as.html?.tsrc=rss",
+      "time": "2026-11-05T17:56:47+00:00",
       "touches": [
-        "MU",
-        "NVDA"
+        "MU"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:e03d930b-9e67-31f4-87eb-eff4924318a5",
+      "id": "rss:a2743277-5bb7-4f72-8a94-fded0d332781",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Palantir and CrowdStrike stocks tumble as Wall Street dumps software's AI winners",
+      "summary": "Investors are selling the software stocks that rode the AI boom and mostly sparing the ones that have been left behind.",
+      "link": "https://finance.yahoo.com/markets/article/palantir-and-crowdstrike-stocks-tumble-as-wall-street-dumps-softwares-ai-winners-173540737.html?.tsrc=rss",
+      "time": "2026-11-05T17:35:40+00:00",
+      "touches": [
+        "ADBE",
+        "ORCL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:6713f02d-e06f-3120-af07-04d460f27d06",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MU",
-      "title": "Micron hits unexpected roadblock on $4.5 billion chip bet",
-      "summary": "Micron reportedly suspended plans for a $4.5 billion memory chip facility in Taiwan.",
-      "link": "https://finance.yahoo.com/technology/articles/micron-hits-unexpected-roadblock-4-165840277.html?.tsrc=rss",
-      "time": "2026-11-05T16:58:40+00:00",
+      "title": "Memory Stocks Are Tanking. Should You Buy the Dip?",
+      "summary": "The selling in chip stocks has gotten extreme, with the iShares Semiconductor ETF plunging 9%, and memory-chip maker Micron falling as much as 17% before recovering somewhat.",
+      "link": "https://finance.yahoo.com/m/6713f02d-e06f-3120-af07-04d460f27d06/memory-stocks-are-tanking..html?.tsrc=rss",
+      "time": "2026-11-05T17:04:42+00:00",
       "touches": [
         "MU"
       ],
