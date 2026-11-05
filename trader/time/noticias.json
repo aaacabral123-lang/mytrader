@@ -1,5 +1,36 @@
 {
-  "as_of": "2026-11-05T03:35:00Z",
-  "items": [],
+  "as_of": "2026-11-05T04:35:00Z",
+  "items": [
+    {
+      "id": "rss:deef0d32-fbec-32d5-a2cd-0e7b97568d52",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Yealink Brings Global Industry Leaders Together to Shape the Future of AI-Powered Workplaces",
+      "summary": "Yealink successfully hosted the Workplace Forward Summit at BMW Welt in Munich, bringing together 400 industry leaders, technology experts, enterprise customers and channel partners from across the global collaboration ecosystem. Representatives from leading technology companies, including Microsoft and Qualcomm; industry organizations such as AVIXA; Frost & Sullivan analysts; and leading system integrators joined the event to exchange perspectives on the future of work.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/yealink-brings-global-industry-leaders-041500698.html?.tsrc=rss",
+      "time": "2026-11-05T04:15:00+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:7c3cecd6-118c-3dbc-bb6e-9ff64616987d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ORCL",
+      "title": "What does the Democratic midterm sweep mean for Softbank\u2019s U.S. data center plans?",
+      "summary": "Investing.com -- A Democratic sweep is unlikely to stop U.S. data center construction at the federal level. The bigger risk is at state and local level. That is where SoftBank\u2019s Stargate sites are exposed.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/does-democratic-midterm-sweep-mean-040843061.html?.tsrc=rss",
+      "time": "2026-11-05T04:08:43+00:00",
+      "touches": [
+        "ORCL"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
