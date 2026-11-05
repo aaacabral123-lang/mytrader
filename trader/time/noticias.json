@@ -1,144 +1,97 @@
 {
-  "as_of": "2026-11-05T11:35:00Z",
+  "as_of": "2026-11-05T12:35:00Z",
   "items": [
     {
-      "id": "rss:93116218-a9d9-30a2-bde8-6fd061fcef75",
+      "id": "rss:b8c18308-1ba1-333d-a2ad-eb23507c513b",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Market Chatter: Goldman Sachs, Apollo Begin Marketing $40 Billion SpaceX Chip Financing Deal",
+      "summary": "Goldman Sachs Group (GS) and Apollo Global Management (APO) have begun approaching investors to synd",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-goldman-sachs-apollo-122044595.html?.tsrc=rss",
+      "time": "2026-11-05T12:20:44+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "deal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:691da5d2-4dc1-3dc7-a9a0-3f8e1dc43fca",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MU",
-      "title": "Micron Stock Looks Cheap Despite 220% Rally. Is More Upside Coming?",
-      "summary": "Memory Chip Crunch Could Keep Micron's Growth Engine Running Through 2029",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-looks-cheap-despite-112922917.html?.tsrc=rss",
-      "time": "2026-11-05T11:29:22+00:00",
+      "title": "Micron Technology And 2 AI Chip Stocks To Improve Your Portfolio",
+      "summary": "Corporate earnings are currently growing at a pace last seen in 1984, powered heavily by large tech groups pouring money into AI hardware. That spending spree puts the companies designing chips and supplying the factories that build them under a bright spotlight. This article breaks down three stocks from a focused AI hardware supply chain screener so you can see which businesses sit closest to that spending firehose. The stocks covered below are just a sample, and the full semiconductor...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/micron-technology-2-ai-chip-121408498.html?.tsrc=rss",
+      "time": "2026-11-05T12:14:08+00:00",
       "touches": [
         "MU"
       ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:b9281f23-4c5d-3a8d-b5df-a4941a1b66b9",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Stock Alert: Citi Slaps Adobe With Rare 'Sell' Rating",
-      "summary": "Citi Sounds Alarm on Adobe Ahead of Major Leadership Shake-Up",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-alert-citi-slaps-adobe-111849665.html?.tsrc=rss",
-      "time": "2026-11-05T11:18:49+00:00",
-      "touches": [
-        "ADBE"
+      "tags": [
+        "earnings"
       ],
-      "tags": [],
       "new": true
     },
     {
-      "id": "rss:a2236abe-32af-31a0-a493-e93780e3a522",
+      "id": "rss:256c355b-7a55-3a4e-8d8a-b1307b756a7e",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Invesco QQQ (QQQ) Buys $19.6 Million More NVIDIA on Tuesday",
-      "summary": "The fund added $239.6 million across all 101 of its positions on Tuesday, with no sales.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-qqq-buys-19-110535090.html?.tsrc=rss",
-      "time": "2026-11-05T11:05:35+00:00",
+      "ticker": "NVDA",
+      "title": "Nvidia chips stockpile in Hong Kong awaits China import approval - report",
+      "summary": "Investing.com -- About 600,000 Nvidia artificial intelligence chips are stored in Hong Kong waiting for shipment to mainland China, Reuters reported Thursday citing people familiar with the matter. Beijing has not approved large-scale imports of the H200 chips despite demand from technology companies.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-chips-stockpile-hong-kong-120548918.html?.tsrc=rss",
+      "time": "2026-11-05T12:05:48+00:00",
       "touches": [
-        "MSFT",
-        "MU",
         "NVDA"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:64f3696c-daa1-36a5-8cd2-2989915a0e08",
+      "id": "rss:72be1ff8-6319-46dd-be1a-7fa687821b59",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "America just voted against AI. That might be good.",
+      "summary": "Voters pushed back on AI data centers this week, and Goldman Sachs warns 45% of planned US capacity could be affected. Host Ejaaz Ahamadeen breaks down why voters turned on data centers, Texas's new conditions, the market's split reaction and why an AI bull thinks a slower buildout might be good for AI.",
+      "link": "https://finance.yahoo.com/video/america-just-voted-against-ai-120000953.html?.tsrc=rss",
+      "time": "2026-11-05T12:00:00+00:00",
+      "touches": [
+        "MSFT",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:5fefedc8-74fa-47a6-9944-fa2375b7f83d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "How the AI boom might affect your career: Fireworks AI CEO",
+      "summary": "Fireworks AI CEO Lin Qiao chats with Yahoo Finance Executive Editor Brian Sozzi to uncover how artificial intelligence is actively disrupting everyday knowledge workers.",
+      "link": "https://finance.yahoo.com/video/ai-boom-might-affect-career-120000909.html?.tsrc=rss",
+      "time": "2026-11-05T12:00:00+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:7cff0bbc-591a-3619-b90b-d285863d3148",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "ProShares Ultra S&P500 2x Shares (SSO) Buys $2.7 Million More OKTA on Nov. 3",
-      "summary": "The fund sold $278.5 million more than it bought, cutting 499 positions while adding one new stake.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/proshares-ultra-p500-2x-shares-110520984.html?.tsrc=rss",
-      "time": "2026-11-05T11:05:20+00:00",
-      "touches": [
-        "GOOGL",
-        "MSFT",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:7844b4b4-71f0-3aa5-9b4b-3a2156be6420",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Invesco NASDAQ 100 ETF (QQQM) Adds NVIDIA and Apple on Tuesday",
-      "summary": "The fund bought $287.4 million of stock, lifting all 101 positions with no sales.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-nasdaq-100-etf-qqqm-110516688.html?.tsrc=rss",
-      "time": "2026-11-05T11:05:16+00:00",
-      "touches": [
-        "MSFT",
-        "MU",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:a942c09d-a546-3818-8f07-229b8baa05ae",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Spdr Dow Jones Industrial Average ETF (DIA) Sells Goldman Sachs, Caterpillar on Nov. 3",
-      "summary": "The $44.89 billion fund sold $310.2 million of stock, trimming all 30 positions and buying nothing.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spdr-dow-jones-industrial-average-110509126.html?.tsrc=rss",
-      "time": "2026-11-05T11:05:09+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:abd8d0dd-c720-371f-97b3-8165aa71cbac",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "What State Street Tech Select SPDR (XLK) Bought: Okta Leads on Nov. 3",
-      "summary": "The $117.06 billion fund bought $155.0 million of Okta stock while selling $30.6 million of NVIDIA and $29.6 million of Apple.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-tech-select-spdr-110444156.html?.tsrc=rss",
-      "time": "2026-11-05T11:04:44+00:00",
-      "touches": [
-        "MSFT",
-        "NVDA",
-        "XLK"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:aa465579-109c-3e3c-9b37-1975f83ea3b7",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "iShares PHLX SOX Semiconductor (SOXX) Sells AMD and NVDA on Nov. 3",
-      "summary": "The fund sold $356.9 million of stock on Tuesday, trimming 29 positions and adding none.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semiconductor-soxx-110441023.html?.tsrc=rss",
-      "time": "2026-11-05T11:04:41+00:00",
-      "touches": [
-        "MU",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:8cc38bc8-2cbc-3eec-bd65-a86859e1ba96",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "State Street Comm Services SPDR (XLC) Sells $102.6 Million of Meta on Nov. 3",
-      "summary": "The fund cut all 22 of its positions, selling $466.9 million of stock and buying nothing.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-comm-services-spdr-110423766.html?.tsrc=rss",
-      "time": "2026-11-05T11:04:23+00:00",
+      "title": "DTE Energy announces strategic sale of its non-utility DTE Vantage business; reports third quarter accomplishments including advancing data center growth that delivers unprecedented customer affordability benefits and filing long-term generation plan",
+      "summary": "DTE Energy (NYSE: DTE) has entered into an agreement to sell its non-utility DTE Vantage business1 for approximately $3 billion to institutional investors advised by the Global Infrastructure group at J.P. Morgan Asset Management, with the sale expected to close in the first half of 2027. The transaction advances DTE's long-term strategy and continued focus on customer affordability, while strengthening its ability to make significant utility investments that deliver affordable, clean and reliab",
+      "link": "https://finance.yahoo.com/energy/articles/dte-energy-announces-strategic-sale-115500752.html?.tsrc=rss",
+      "time": "2026-11-05T11:55:00+00:00",
       "touches": [
         "GOOGL"
       ],
@@ -146,192 +99,50 @@
       "new": true
     },
     {
-      "id": "rss:3d8a6a6d-6d50-35e9-a86c-4634ba802a9f",
+      "id": "rss:7707240c-0e6a-30d0-b178-4ac042532bb8",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MSFT",
-      "title": "What State Street SPDR Portfolio S&P 500 ETF (SPYM) Bought: Okta Leads on Nov. 3",
-      "summary": "The fund bought $536.8 million more than it sold, with a new $87.7 million position in Okta leading its buys.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-spdr-portfolio-p-110420807.html?.tsrc=rss",
-      "time": "2026-11-05T11:04:20+00:00",
+      "title": "Microsoft walks away from AI deal as $170 billion question grows",
+      "summary": "The company passed on additional computing capacity in Texas as infrastructure delays complicate its AI spending plans.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-walks-away-ai-deal-115313384.html?.tsrc=rss",
+      "time": "2026-11-05T11:53:13+00:00",
       "touches": [
         "MSFT",
         "NVDA"
       ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:c346ddd1-d516-3892-8bc8-60fcb9c56019",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "ProShares Ultra QQQ (QLD) Sells $50.5 Million of NVIDIA on Nov. 3",
-      "summary": "The 2x leveraged ETF trimmed all 100 of its positions on Tuesday, selling $615.4 million of stock and buying nothing.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/proshares-ultra-qqq-qld-sells-110404057.html?.tsrc=rss",
-      "time": "2026-11-05T11:04:04+00:00",
-      "touches": [
-        "MSFT",
-        "MU",
-        "NVDA"
+      "tags": [
+        "deal"
       ],
-      "tags": [],
       "new": true
     },
     {
-      "id": "rss:be04bc39-e26b-306a-a8b5-b739a68137bb",
+      "id": "rss:234d96bc-ca98-3d28-bc4d-c1fe7c3768a3",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Goldman Sachs S&P 500 Premium Income (GPIX) Adds Meta and Alphabet on Nov. 3",
-      "summary": "The fund bought $234.4 million more than it sold, lifting 244 positions and trimming 117.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-p-500-premium-110356307.html?.tsrc=rss",
-      "time": "2026-11-05T11:03:56+00:00",
+      "title": "Massive market rotation raises question: Is the sell-AI trade here to stay?",
+      "summary": "Investing.com - Tech saw a sharp rotation into hyperscalers on Wednesday, while semiconductors and data center infrastructure stocks came under pressure as a Democratic election win triggered a huge thematic rotation. Amazon rose 6.1% on the session, Microsoft gained 6.7%, Alphabet climbed 3.2%, and Meta added 1.4%.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/massive-market-rotation-raises-sell-114727763.html?.tsrc=rss",
+      "time": "2026-11-05T11:47:27+00:00",
       "touches": [
         "GOOGL",
-        "ORCL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:b47af8d6-c4e2-3319-a20c-a74f169c4544",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "What SPDR S&P 500 ETF (SPY) Bought: Okta Leads on Nov. 3",
-      "summary": "The fund added $1.11 billion in net buys against $1.17 billion in gross trading, increasing 491 positions and trimming 11.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spdr-p-500-etf-spy-110352492.html?.tsrc=rss",
-      "time": "2026-11-05T11:03:52+00:00",
-      "touches": [
-        "MSFT",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:e7b46eef-83b6-3dd9-936d-ce500b77ae34",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "What iShares Core S&P 500 ETF (IVV) Bought: Okta Leads on Nov. 3",
-      "summary": "The fund added $1.48 billion in net new positions, led by a $421.4 million stake in Okta.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-p-500-etf-110345284.html?.tsrc=rss",
-      "time": "2026-11-05T11:03:45+00:00",
-      "touches": [
-        "MSFT",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "sec:0001193125-26-448357",
-      "source": "SEC EDGAR",
-      "kind": "filing",
-      "form": "8-K",
-      "ticker": "MSFT",
-      "title": "MICROSOFT CORP filed a 8-K: director or officer change",
-      "summary": "Current report",
-      "items": [
-        "5.02"
-      ],
-      "important": true,
-      "link": "https://www.sec.gov/Archives/edgar/data/789019/000119312526448357/0001193125-26-448357-index.htm",
-      "time": "2026-11-05T11:01:52+00:00",
-      "touches": [
         "MSFT"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:8d996c22-39b4-3c53-9d46-890de602307a",
+      "id": "rss:ef58e699-55a3-31c5-91af-86894dd3eb2f",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MU",
-      "title": "ETFs Are Buying Micron Technology (MU) on Nov. 3",
-      "summary": "ETFs bought $65.3 million of Micron stock on Tuesday, with 50 funds buying and 20 selling.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-micron-technology-mu-110131010.html?.tsrc=rss",
-      "time": "2026-11-05T11:01:31+00:00",
+      "ticker": "GOOGL",
+      "title": "Eos Energy Enterprises Reports Third Quarter 2026 Revenue of $82.7 Million, Up 171% Year Over Year, with Gross Margin Improving 58 Percentage Points",
+      "summary": "Delivered record revenue of $82.7 million through deliveries to 10 projects Gross margin improved 58 percentage points and adjusted EBITDA margin improved 96 percentage points year over year, the eighth consecutive quarter both metrics improvedReceived $87 million first advance under the second tranche of the U.S. Department of Energy loanAnnounced a project with MN8 Energy to deliver 10 MW/100 MWh of Z3\u2122 zinc-based LDES in West Virginia, serving Google\u2019s data centers Discharged 6.9 GWh of cumul",
+      "link": "https://finance.yahoo.com/energy/articles/eos-energy-enterprises-reports-third-114500095.html?.tsrc=rss",
+      "time": "2026-11-05T11:45:00+00:00",
       "touches": [
-        "MU"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:7c7a3d9c-5fb1-3b66-a749-43e1977eb6e7",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "48 ETFs Add to Microsoft (MSFT) Holdings on Nov. 3",
-      "summary": "ETFs bought $98.6 million of Microsoft stock on Tuesday.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/48-etfs-add-microsoft-msft-110106663.html?.tsrc=rss",
-      "time": "2026-11-05T11:01:06+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:89d5267a-7448-3d10-8dc4-32fec4925fe8",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "ETFs Bought $355.3 Million of NVIDIA (NVDA) on Nov. 3",
-      "summary": "ETFs bought $355.3 million of NVIDIA stock in Tuesday's session.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-355-3-million-110039120.html?.tsrc=rss",
-      "time": "2026-11-05T11:00:39+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:27212c99-2293-3a5d-a0ad-3f1dbd185720",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "BLK",
-      "title": "Should iShares S&P Mid-Cap 400 Growth ETF (IJK) Be on Your Investing Radar?",
-      "summary": "Style Box ETF report for IJK",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-p-mid-cap-400-102002888.html?.tsrc=rss",
-      "time": "2026-11-05T10:20:02+00:00",
-      "touches": [
-        "BLK"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:a84b1463-27f6-3c91-af7b-0f616ed0c54c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "BLK",
-      "title": "Should You Invest in the iShares U.S. Power Infrastructure ETF (POWR)?",
-      "summary": "Sector ETF report for POWR",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/invest-ishares-u-power-infrastructure-102002708.html?.tsrc=rss",
-      "time": "2026-11-05T10:20:02+00:00",
-      "touches": [
-        "BLK"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:a34ada2d-915c-3b97-bd24-b490363f7029",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "BLK",
-      "title": "Should You Invest in the iShares U.S. Energy ETF (IYE)?",
-      "summary": "Sector ETF report for IYE",
-      "link": "https://finance.yahoo.com/energy/articles/invest-ishares-u-energy-etf-102002961.html?.tsrc=rss",
-      "time": "2026-11-05T10:20:02+00:00",
-      "touches": [
-        "BLK"
+        "GOOGL"
       ],
       "tags": [],
       "new": true
