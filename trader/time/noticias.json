@@ -1,47 +1,17 @@
 {
-  "as_of": "2026-11-05T02:35:00Z",
+  "as_of": "2026-11-05T03:05:00Z",
   "items": [
     {
-      "id": "rss:05eea8cf-8f2d-38a2-aa87-f5020c300b63",
+      "id": "rss:bbeff848-4959-3a50-80b4-ade3a5a8d7ad",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Has Alphabet (GOOGL) Fallen Far Enough To Back Its Cash Flow Value?",
-      "summary": "Alphabet has just come through a bruising stretch, with heavy AI spending, negative free cash flow and a sharp pullback in the share price raising a simple question for you as an investor: Is the current valuation still supported by the cash the business can generate, or has the story moved ahead of the underlying cash flows? Over the past 3 years, Alphabet has returned 121.2%, which puts a lot of accumulated optimism on the line when you ask whether the recent slide has fully reset...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-fallen-far-enough-021308291.html?.tsrc=rss",
-      "time": "2026-11-05T02:13:08+00:00",
+      "ticker": "XLE",
+      "title": "Why Energy Could be a Sector to Target Via Options-Income ETFs",
+      "summary": "Market and specific sector volatility can either cause elevated stress or provide seriously beneficial income to one\u2019s portfolio. The current market environment represents the structural sweet spot for covered-call income ETFs, notes Bryan Perry, editor of Cash Machine.",
+      "link": "https://finance.yahoo.com/markets/options/articles/why-energy-could-sector-target-050100445.html?.tsrc=rss",
+      "time": "2026-11-04T05:01:00+00:00",
       "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:c019d37d-0950-365d-bf73-d25946e1e577",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "Micron (MU) Stock Looks Near Fair Value Despite AI Optimism",
-      "summary": "Micron Technology has delivered a very large three year gain for shareholders, even after a sharp pullback in recent weeks. This puts the focus squarely on whether the current share price lines up with the cash the business is expected to generate. With Micron now closely tied to long term AI memory demand stories in the headlines, the key issue for you is how much of that optimism is already embedded in the valuation that the Discounted Cash Flow (DCF) model sets against today's market...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-stock-looks-near-021122807.html?.tsrc=rss",
-      "time": "2026-11-05T02:11:22+00:00",
-      "touches": [
-        "MU"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:de2232b4-a318-3b03-9505-049b75de544e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "Is the Market Bottoming? 3 Tells to Watch",
-      "summary": "While the initial post-election capitulation and rapid reversal signal a promising attempt to carve out a stock market bottom, investors should avoid mistaking a single-day rally for a guaranteed recovery.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-bottoming-3-tells-watch-010300254.html?.tsrc=rss",
-      "time": "2026-11-05T01:03:00+00:00",
-      "touches": [
-        "MU"
+        "XLE"
       ],
       "tags": [],
       "new": true
