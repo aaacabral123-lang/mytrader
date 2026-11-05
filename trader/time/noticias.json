@@ -1,17 +1,17 @@
 {
-  "as_of": "2026-11-05T07:35:00Z",
+  "as_of": "2026-11-05T08:03:31Z",
   "items": [
     {
-      "id": "rss:e5fae967-ffbe-38b0-a468-49c15716d5d1",
+      "id": "rss:a11ca658-6454-394b-a1dc-43791a60d821",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MU",
-      "title": "Top 3 AI Stocks To Watch In November 2026",
-      "summary": "Vast sums are starting to chase the physical backbone of artificial intelligence as new LNG and power projects in Africa signal heavy long term investment in energy infrastructure. That kind of capital spending needs data handling, power distribution, and high performance computing gear. Investors watching this shift have a window to look at the \u201cpicks and shovels\u201d of AI. This article highlights three screened stocks building that foundation. The stocks highlighted below are just a small...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/top-3-ai-stocks-watch-071837177.html?.tsrc=rss",
-      "time": "2026-11-05T07:18:37+00:00",
+      "ticker": "MSFT",
+      "title": "The Zacks Analyst Blog Highlights Microsoft, SpaceX, Marvell Technology and Preformed Line Products",
+      "summary": "Microsoft, SpaceX, Marvell Technology and Preformed Line Products showcase AI, cloud and infrastructure growth opportunities, but rising capital spending, execution risks and margin pressures challenge their outlooks.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-microsoft-065000129.html?.tsrc=rss",
+      "time": "2026-11-05T06:50:00+00:00",
       "touches": [
-        "MU"
+        "MSFT"
       ],
       "tags": [],
       "new": true
