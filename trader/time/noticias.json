@@ -1,36 +1,22 @@
 {
-  "as_of": "2026-11-05T23:05:00Z",
+  "as_of": "2026-11-05T23:35:00Z",
   "items": [
     {
-      "id": "rss:6d694ac8-80af-35c3-ba67-7647c94d58da",
+      "id": "rss:3f9b540a-5a68-32e5-992a-db9a1905d98a",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Berkshire After Buffett: Steady Hands, Big Bets In The Greg Abel Era",
-      "summary": "Berkshire Hathaway's new CEO Greg Abel remains a mystery, but is gradually emerging from Warren Buffett's long shadow.",
-      "link": "https://finance.yahoo.com/m/6d694ac8-80af-35c3-ba67-7647c94d58da/berkshire-after-buffett%3A.html?.tsrc=rss",
-      "time": "2026-11-05T22:53:24+00:00",
+      "title": "AI Isn\u2019t All Bad Right Now. Here Are 2 Stocks Going the Other Way.",
+      "summary": "AI-powered advertising helped lift both companies\u2019 results, offering a bright spot as concerns about data center spending battered tech stocks.",
+      "link": "https://finance.yahoo.com/m/3f9b540a-5a68-32e5-992a-db9a1905d98a/ai-isn%E2%80%99t-all-bad-right-now..html?.tsrc=rss",
+      "time": "2026-11-05T21:27:00+00:00",
       "touches": [
         "GOOGL"
       ],
       "tags": [
-        "people"
+        "earnings",
+        "capital"
       ],
-      "new": true
-    },
-    {
-      "id": "rss:fddf14e0-7c26-39f0-939b-389360941d11",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Marc Chaikin Sees Alphabet (GOOGL) as a Conglomerate Hiding Three World-Class Businesses",
-      "summary": "We just published a list of the 10 Stocks That Could Skyrocket in 2027 and Alphabet (NASDAQ:GOOGL) ranked 6th on this list. SpaceX\u2019s public debut in June gave investors a new yardstick for how fast a space-linked stock can move, in both directions. Since then, shares of newer space companies have swung hard around SpaceX\u2019s [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/marc-chaikin-sees-alphabet-googl-223123609.html?.tsrc=rss",
-      "time": "2026-11-05T22:31:23+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
       "new": true
     }
   ],
