@@ -1,5 +1,70 @@
 {
-  "as_of": "2026-11-05T10:05:00Z",
-  "items": [],
+  "as_of": "2026-11-05T11:05:00Z",
+  "items": [
+    {
+      "id": "rss:a56f932d-ed60-4fb2-ba57-83108129a23a",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Why one AI model won't rule the world: Fireworks AI CEO",
+      "summary": "Fireworks AI Co-Founder and CEO Lin Qiao to reveals to Yahoo Finance Executive Editor Brian Sozzi how the smartest companies are dodging the \"AI copycat\" trap by turning their private data into specialized intelligence.",
+      "link": "https://finance.yahoo.com/video/why-one-ai-model-wont-110000898.html?.tsrc=rss",
+      "time": "2026-11-05T11:00:00+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:80d8d0fc-1343-3c31-b0f8-52365a6e7928",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Arm Stock Has an Apple and Android Problem",
+      "summary": "The British chip blueprint designer reported solid results but failed to ease fears about weak demand for smartphones.",
+      "link": "https://finance.yahoo.com/m/80d8d0fc-1343-3c31-b0f8-52365a6e7928/arm-stock-has-an-apple-and.html?.tsrc=rss",
+      "time": "2026-11-05T10:51:00+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:abf6443f-bd9b-3c73-aa99-a7fc485ad923",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "Kospi Tumbles on Chips Rout, Pressuring U.S. Tech Futures",
+      "summary": "The global chill in Big Tech and semiconductors rippled aggressively into Asia overnight.",
+      "link": "https://finance.yahoo.com/m/abf6443f-bd9b-3c73-aa99-a7fc485ad923/kospi-tumbles-on-chips-rout%2C.html?.tsrc=rss",
+      "time": "2026-11-05T10:21:33+00:00",
+      "touches": [
+        "MU"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:0976a5ac-4ffd-3551-a01b-6742e0206c40",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Update: Market Chatter: OpenAI President Sees IPO in 2027 as Enterprise Business Outpaces Consumer Sales After Rough H1",
+      "summary": "(Updates with a headline change and more comments from OpenAI President Greg Brockman in the fourth",
+      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-openai-president-sees-101321864.html?.tsrc=rss",
+      "time": "2026-11-05T10:13:21+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
