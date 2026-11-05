@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-05T03:05:00Z",
-  "items": [
-    {
-      "id": "rss:bbeff848-4959-3a50-80b4-ade3a5a8d7ad",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XLE",
-      "title": "Why Energy Could be a Sector to Target Via Options-Income ETFs",
-      "summary": "Market and specific sector volatility can either cause elevated stress or provide seriously beneficial income to one\u2019s portfolio. The current market environment represents the structural sweet spot for covered-call income ETFs, notes Bryan Perry, editor of Cash Machine.",
-      "link": "https://finance.yahoo.com/markets/options/articles/why-energy-could-sector-target-050100445.html?.tsrc=rss",
-      "time": "2026-11-04T05:01:00+00:00",
-      "touches": [
-        "XLE"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-05T03:35:00Z",
+  "items": [],
   "atencao": []
 }
