@@ -1,68 +1,169 @@
 {
-  "as_of": "2026-11-05T15:35:00Z",
+  "as_of": "2026-11-05T16:05:00Z",
   "items": [
     {
-      "id": "rss:166372b5-e563-3e36-a896-6b699ad79b70",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ORCL",
-      "title": "AI/R Compass UOL Wins 2026 Oracle Partner Award for Latin America",
-      "summary": "Cloud Certification Rising Star recognition reflects the company\u2019s growing technical expertise in Oracle CloudSAN FRANCISCO, Nov. 05, 2026 (GLOBE NEWSWIRE) -- AI/R Compass UOL, a subsidiary of AI/R\u2014a technology company specialized in Agentic AI, has been named a winner of the 2026 Oracle Partner Awards, an annual accolade that recognizes the top-performing partners in the Oracle ecosystem. This year, the company was named Cloud Certification Rising Star for the Latin America and Caribbean (LAD)",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-r-compass-uol-wins-151200536.html?.tsrc=rss",
-      "time": "2026-11-05T15:12:00+00:00",
-      "touches": [
-        "ORCL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:60df09c2-a12a-3961-aeca-2b8faf0c4fdf",
+      "id": "rss:f5b3826c-0fca-404a-a3d8-c0245f57438a",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Bluehost Brings AI to Life for Small Businesses Worldwide",
-      "summary": "Bluehost, the small business platform for the AI era, today announced a global series of events bringing together entrepreneurs, technology leaders and AI builders to help small businesses move beyond AI hype and put AI to work to build, grow and run their businesses.",
-      "link": "https://finance.yahoo.com/small-business/articles/bluehost-brings-ai-life-small-151000615.html?.tsrc=rss",
-      "time": "2026-11-05T15:10:00+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:76a2c085-c8d7-3e24-9b16-f0eb604ab8ef",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Data Center Construction Starts Lag 6 Months Behind, Report Says",
-      "summary": "Data center construction starts are slowing, a report from GlobalData finds. Here's why.",
-      "link": "https://finance.yahoo.com/m/76a2c085-c8d7-3e24-9b16-f0eb604ab8ef/data-center-construction.html?.tsrc=rss",
-      "time": "2026-11-05T15:04:08+00:00",
+      "title": "Are Big Tech stock buybacks officially dead?",
+      "summary": "As hyperscalers Alphabet  (GOOGL, GOOG), Amazon (AMZN), Meta (META), and Microsoft  (MSFT) pour billions into AI data centers, stock buybacks appear to be taking a back seat. Repurchases reportedly fell to $4.4 billion in the third quarter, a 90% drop from previous quarters. Yahoo Finance Executive Editor and Sozzi Unleashed host Brian Sozzi examines whether Big Tech's massive AI spending spree is coming at the expense of shareholder returns. Yahoo Finance Executive Editor and host Sozzi Unleashed takes a closer look.",
+      "link": "https://finance.yahoo.com/video/are-big-tech-stock-buybacks-officially-dead-155848546.html?.tsrc=rss",
+      "time": "2026-11-05T15:58:48+00:00",
       "touches": [
         "GOOGL",
-        "MSFT",
-        "ORCL"
+        "MSFT"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:3b66440b-f756-3685-aa3e-6e5263a9011b",
+      "id": "rss:6263a36c-bc95-3e83-a40d-2196da0fc25f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "NVDA vs AMD: which stock has the better bounce setup",
+      "summary": "Investing.com -- The better tactical bounce candidate is NVIDIA Corporation (NVDA), not because its trend is healthy, but because Advanced Micro Devices Inc (AMD) is showing heavier damage and volatility.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvda-vs-amd-stock-better-155640375.html?.tsrc=rss",
+      "time": "2026-11-05T15:56:40+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:672b4820-3853-33a9-a832-840a8f27503e",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MSFT",
-      "title": "CDK Global Appoints Tim Karaca as Chief Financial Officer",
-      "summary": "AUSTIN, Texas, November 05, 2026--CDK, the leading automotive retail software provider, today announced the appointment of Tim Karaca as executive vice president and chief financial officer. He succeeds Steve Lifshatz, who will remain with CDK through the end of 2026 to support a seamless transition.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cdk-global-appoints-tim-karaca-140000715.html?.tsrc=rss",
-      "time": "2026-11-05T14:00:00+00:00",
+      "title": "Digital Transformation in Manufacturing - Global Strategic Business Report: Capitalize on a US$1.0 Trillion Market by 2030 as Siemens, ABB, Microsoft, Rockwell Automation and SAP Reshape Industry",
+      "summary": "Boost manufacturing ROI with IIoT, predictive maintenance, automation and digital twins that reduce downtime, optimize resources, improve quality and strengthen supply chain resilience.Dublin, Nov. 05, 2026 (GLOBE NEWSWIRE) -- \"Digital Transformation in Manufacturing - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering. The global digital transformation in manufacturing market was valued at US$357.5 billion in 2024 and is projected to reach US$1.0 trillion by 2",
+      "link": "https://finance.yahoo.com/technology/articles/digital-transformation-manufacturing-global-strategic-155200478.html?.tsrc=rss",
+      "time": "2026-11-05T15:52:00+00:00",
       "touches": [
         "MSFT"
       ],
       "tags": [
+        "capital"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:37e9b023-c720-34a7-8c71-35a74af7fe83",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "China\u2019s Moonshot AI seeks Nvidia Blackwell access in Europe, CNBC reports",
+      "summary": "Investing.com -- Chinese artificial intelligence startup Moonshot AI has explored leasing data center capacity in Europe to secure remote access to NVIDIA Corporation's (NASDAQ:NVDA) advanced Blackwell processors, according to a report from CNBC. The move highlights how Chinese developers are increasingly looking beyond domestic borders to bypass tightening U.S. export restrictions on cutting-edge silicon.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/china-moonshot-ai-seeks-nvidia-155140723.html?.tsrc=rss",
+      "time": "2026-11-05T15:51:40+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:cb447a14-905e-3280-9d0b-9f4d7bc606b7",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Digital Transformation in BFSI - Global Strategic Business Report: Secure Your Share of US$220.2 Billion by 2030 as Accenture, AWS, IBM, Microsoft, and Oracle Accelerate AI-Led Disruption",
+      "summary": "Cloud, AI, APIs and automation cut costs, strengthen compliance and accelerate personalized services, while fintech partnerships unlock new revenue opportunities.Dublin, Nov. 05, 2026 (GLOBE NEWSWIRE) -- \"Digital Transformation in BFSI - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering. The global digital transformation in Banking, Financial Services and Insurance (BFSI) market was valued at US$88.2 billion in 2024 and is projected to reach US$220.2 billion b",
+      "link": "https://finance.yahoo.com/technology/ai/articles/digital-transformation-bfsi-global-strategic-155100143.html?.tsrc=rss",
+      "time": "2026-11-05T15:51:00+00:00",
+      "touches": [
+        "MSFT",
+        "ORCL"
+      ],
+      "tags": [
+        "capital"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:d8e78277-767d-3516-8e3c-01b703ea9ac8",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Port Announces PortCon - the First AI Software Factory Summit",
+      "summary": "Port, the open AI Software Factory platform, today announced The AI Software Factory Summit, taking place Nov. 17-18, 2026 at SHACK15 in San Francisco. The event features AI software factory use cases and insights from leading technology companies, including NVIDIA, GitHub, SpaceX, Uber and Expedia. Attendees will see how these teams run AI in production and learn what has worked, what hasn't, and how to build and scale their own factories.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/port-announces-portcon-first-ai-153800616.html?.tsrc=rss",
+      "time": "2026-11-05T15:38:00+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:c0915414-eb80-37fe-9bd0-faa3933b1f5c",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "BC-Most Active Stocks",
+      "summary": "NEW YORK (AP) \u2014 prices for the Nasdaq composite, NYSE and NYSE American listed most active stocks. Nasdaq most active stocks:Stock Name Volume High Low Last Change  Lakewood Amedex Biotherap.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-153422188.html?.tsrc=rss",
+      "time": "2026-11-05T15:34:22+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:3c6571bb-0c89-374a-a32e-8dc039f5a6cd",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Agentic Commerce Optimization: Adobe Forecasts 130% AI Shopping Traffic Growth; Google Launches Universal Cart",
+      "summary": "Optimum7 today released a guide to agentic commerce optimization, covering the store data AI shopping tools read and the fixes legacy and custom-built ecommerce platforms can need to expose it.In its Sept. 28 forecast, Adobe projects AI traffic to U.S. retail sites will rise 130% year over year this holiday season, with the biggest increase, 159%, expected on Thanksgiving.Google opened Universal Cart in the U.S. in Search and the Gemini app on Oct. 15, built on more than 60 billion continually r",
+      "link": "https://finance.yahoo.com/technology/ai/articles/agentic-commerce-optimization-adobe-forecasts-153000869.html?.tsrc=rss",
+      "time": "2026-11-05T15:30:00+00:00",
+      "touches": [
+        "ADBE",
+        "GOOGL"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:fb48d090-5bb5-4eee-8a25-455cc90001aa",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "AMD CEO Su on earnings outlook, new Starbucks holiday menu, and Hilton CEO on hotel demand",
+      "summary": "Yahoo Finance Executive Editor Brian Sozzi tackles the biggest news of the market day, including AMD's (AMD) earnings outlook topping estimates as chip demand soars, what the blue wave in Congress means for a market rally, and how Starbucks (SBUX) plans its business around the holiday season with new products. Sozzi also goes 1-on-1 with Hilton (HLT) CEO Chris Nassetta to discuss AI's impact on the hospitality industry.",
+      "link": "https://finance.yahoo.com/video/amd-ceo-su-on-earnings-outlook-new-starbucks-holiday-menu-and-hilton-ceo-on-hotel-demand-150453106.html?.tsrc=rss",
+      "time": "2026-11-05T15:04:53+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT",
+        "MU",
+        "NVDA"
+      ],
+      "tags": [
+        "earnings",
         "people"
       ],
+      "new": true
+    },
+    {
+      "id": "rss:ece24c65-9fa3-3755-b405-d02eded97e65",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLK",
+      "title": "Is a Democratic Victory Good News for Apple? ETFs to Consider",
+      "summary": "The Democratic win could reshape the AI investment landscape, potentially creating new opportunities for Apple and AAPL-heavy ETFs.",
+      "link": "https://finance.yahoo.com/technology/articles/democratic-victory-good-news-apple-144500421.html?.tsrc=rss",
+      "time": "2026-11-05T14:45:00+00:00",
+      "touches": [
+        "XLK"
+      ],
+      "tags": [],
       "new": true
     }
   ],
