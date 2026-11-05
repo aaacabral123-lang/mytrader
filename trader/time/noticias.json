@@ -1,21 +1,61 @@
 {
-  "as_of": "2026-11-05T21:35:00Z",
+  "as_of": "2026-11-05T22:05:00Z",
   "items": [
     {
-      "id": "sec:0001104659-26-123389",
-      "source": "SEC EDGAR",
-      "kind": "filing",
-      "form": "8-K",
-      "ticker": "MU",
-      "title": "MICRON TECHNOLOGY INC filed a 8-K: director or officer change",
-      "summary": "Current report",
-      "items": [
-        "5.02",
-        "9.01"
+      "id": "rss:62bf15cb-aa2c-4aa1-ac3a-cae07f1d5cf6",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Stocks slide as Wall Street's post-election rally fizzles",
+      "summary": "Yahoo Finance Markets and Data Editor Jared Blikre breaks down all of today's market moves, which largely trended downward as markets reversed the gains and optimism from the blue wave rally.",
+      "link": "https://finance.yahoo.com/video/stocks-slide-as-wall-streets-post-election-rally-fizzles-214250142.html?.tsrc=rss",
+      "time": "2026-11-05T21:42:50+00:00",
+      "touches": [
+        "NVDA"
       ],
-      "important": true,
-      "link": "https://www.sec.gov/Archives/edgar/data/723125/000110465926123389/0001104659-26-123389-index.htm",
-      "time": "2026-11-05T21:33:48+00:00",
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:f3f8d75a-0c01-37d6-9ecb-be91b4005385",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Update: Nasdaq Enters Correction Territory Amid Data Center Anxiety; Nvidia Tumbles Over 9%",
+      "summary": "(Updates with market moves at the end of the day, and other changes, if any.) The Nasdaq Composit",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-enters-correction-territory-amid-213811085.html?.tsrc=rss",
+      "time": "2026-11-05T21:38:11+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:c1cf6d88-a3bd-3fee-9f89-690fd6f25a5c",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "US stocks nosedive as Democrat victory sparks investor panic",
+      "summary": "Wall Street suffered its worst sell-off since Donald Trump\u2019s tariff rollout amid fears the Democrats will derail the AI boom.",
+      "link": "https://uk.finance.yahoo.com/news/us-stocks-nosedive-democrat-victory-213240012.html?.tsrc=rss",
+      "time": "2026-11-05T21:32:40+00:00",
+      "touches": [
+        "MU",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:8f88e9f5-4d5b-3fe4-876f-5da10f458843",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "Micron Announces Board of Directors Retirement",
+      "summary": "BOISE, Idaho, Nov. 05, 2026 (GLOBE NEWSWIRE) -- Micron Technology, Inc. (Nasdaq: MU) today announced that Linnie M. Haynesworth has informed the Company that she will retire from its board of directors at the annual shareholders meeting expected to be held on January 14, 2027. Haynesworth joined Micron\u2019s board in February 2021, bringing more than 30 years of technology experience, including deep expertise in aerospace and cybersecurity. Haynesworth served on the Governance and Sustainability Com",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-announces-board-directors-retirement-213000203.html?.tsrc=rss",
+      "time": "2026-11-05T21:30:00+00:00",
       "touches": [
         "MU"
       ],
@@ -23,135 +63,47 @@
       "new": true
     },
     {
-      "id": "sec:0001193125-26-449835",
-      "source": "SEC EDGAR",
-      "kind": "filing",
-      "form": "8-K",
-      "ticker": "GOOGL",
-      "title": "Alphabet Inc. filed a 8-K: other events",
-      "summary": "Current report",
-      "items": [
-        "8.01",
-        "9.01"
-      ],
-      "important": false,
-      "link": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526449835/0001193125-26-449835-index.htm",
-      "time": "2026-11-05T21:10:44+00:00",
+      "id": "rss:c82aad94-89aa-37b1-b5a3-a5fe0c9832ef",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Oil's Sudden Price Drop Surprises Citi's Chronert",
+      "summary": "Citi Head of US Equity Strategy Scott Chronert says the sudden drop in oil prices on Wednesday surprised him. Brent fell almost 9% then rebounded on Thursday. He says that took some pressure off of the inflation backdrop.",
+      "link": "https://finance.yahoo.com/video/oils-sudden-price-drop-surprises-212850303.html?.tsrc=rss",
+      "time": "2026-11-05T21:28:50+00:00",
       "touches": [
-        "GOOGL"
+        "MSFT"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:884d0f61-5600-3056-80ad-4226030b32a3",
+      "id": "rss:6e421a8b-de6b-358a-91c7-1654a05a714c",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MU",
-      "title": "US Equity Markets End Lower After Crude Oil Rises, Mega-Cap Tech Stocks Fall",
-      "summary": "US equity indexes ended lower Thursday after crude oil prices rose and mega-cap technology stocks su",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-210758027.html?.tsrc=rss",
-      "time": "2026-11-05T21:07:58+00:00",
+      "ticker": "MSFT",
+      "title": "Surveil Recognized as a Pioneer in the October 2026 Gartner(R) Emerging Market Quadrant for AI FinOps Tools - Startup Vendors",
+      "summary": "gives every AI dollar an owner and a measurable return.LONDON, UK / ACCESS Newswire / November 5, 2026 / , the FinOps Certified Platform for AI, cloud and Microsoft 365 spend, today announced it has been recognized as a Pioneer in the October 2026 Gartner\u00ae Emerging Market Quadrant for AI FinOps Tools - Startup Vendors.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/surveil-recognized-pioneer-october-2026-212500980.html?.tsrc=rss",
+      "time": "2026-11-05T21:25:00+00:00",
       "touches": [
-        "MU"
+        "MSFT"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:56f49e1e-c87d-3213-b1a8-33f3f2396258",
+      "id": "rss:676126e0-41c5-32cf-abc7-15194f5f7d77",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Best Mag7 dip buys: NVIDIA leads on valuation, Alphabet on RSI",
-      "summary": "Investing.com -- The Mag7 are being sold off together today, but they aren\u2019t equally cheap. Roundhill Magnificent Seven ETF (MAGS) is -4.61% at $67.04 (as of Nov 5, 2026, 3:34 PM EST). Articles from today tie the move to AI-spending worries and fears of tighter AI regulation after the midterms. One strategist called it \"an emotional sell-off\" driven by hedge fund de-leveraging. Read more (Nov 5, 2026)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/best-mag7-dip-buys-nvidia-210653656.html?.tsrc=rss",
-      "time": "2026-11-05T21:06:53+00:00",
+      "title": "Apple and Home Depot join list of objectors to tokenized stock plan pushed by NYSE owner",
+      "summary": "Boeing also joined the list of dozens of companies refusing to participate in the venture cochaired by former New York Gov. Andrew Cuomo.",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/apple-home-depot-join-list-183416535.html?.tsrc=rss",
+      "time": "2026-11-05T18:34:16+00:00",
       "touches": [
         "GOOGL",
-        "MSFT",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:6532d9f7-fd24-3cfd-8cac-f4dd9e4a2f63",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Synaptics Reports First Quarter Fiscal 2027 Results",
-      "summary": "Q1'27 Financial Results Revenue of $294.0 million, up 1% year-over-yearGAAP gross margin of 47.8% Non-GAAP gross margin of 54.3%GAAP loss per share of $0.45Non-GAAP diluted earnings per share of $1.26 Key Business Highlights Introduced the xMCU, a new class of microcontrollers, with the launch of the Synaptics Astra SR200 series, enabling larger AI models and richer multimodal workloads to run entirely on-device.Expanded the Synaptics Coralboard ecosystem in partnership with Google Research, by",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/synaptics-reports-first-quarter-fiscal-210500107.html?.tsrc=rss",
-      "time": "2026-11-05T21:05:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:daf77303-800e-3e89-88c8-ad99c3913f9c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "IonQ Wants to Be the Nvidia of Quantum. Its Latest Numbers Back Up the Swagger.",
-      "summary": "IonQ CEO Niccolo de Masi envisions the company as a cornerstone of U.S. dominance in quantum technology.",
-      "link": "https://finance.yahoo.com/m/daf77303-800e-3e89-88c8-ad99c3913f9c/ionq-wants-to-be-the-nvidia.html?.tsrc=rss",
-      "time": "2026-11-05T21:05:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:528507d1-e914-320b-ac70-9a58a06de87f",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "10x Genomics Reports Third Quarter 2026 Financial Results",
-      "summary": "10x Genomics, Inc. (Nasdaq: TXG), the life science technology leader focused on accelerating science and advancing human health, today reported financial results for the third quarter ended September 30, 2026.",
-      "link": "https://finance.yahoo.com/healthcare/articles/10x-genomics-reports-third-quarter-210500999.html?.tsrc=rss",
-      "time": "2026-11-05T21:05:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:090c58ae-7ca4-3e38-8483-8395ef8dc50d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XLE",
-      "title": "Sector Update: Energy Stocks Drop Thursday",
-      "summary": "Energy stocks declined Thursday with the NYSE Energy Sector Index dropping 2.1% and the State Street",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-drop-thursday-210255557.html?.tsrc=rss",
-      "time": "2026-11-05T21:02:55+00:00",
-      "touches": [
-        "XLE"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:ee42e7dd-b9be-313f-87c9-590b592f1dec",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "Top Stock Reports for Berkshire Hathaway, Micron & Chevron",
-      "summary": "Berkshire Hathaway, Micron and Chevron headline today's top stock research reports, highlighting AI-driven demand, capital allocation and operational strength.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-berkshire-hathaway-200900700.html?.tsrc=rss",
-      "time": "2026-11-05T20:09:00+00:00",
-      "touches": [
-        "MU"
+        "MSFT"
       ],
       "tags": [],
       "new": true
