@@ -1,51 +1,52 @@
 {
-  "as_of": "2026-11-05T20:35:00Z",
+  "as_of": "2026-11-05T21:05:00Z",
   "items": [
     {
-      "id": "rss:735eabc6-35ff-3d77-9a7a-d141789b3ebe",
+      "id": "rss:6eb66dd0-b260-36c3-8d1e-1e1114cad69a",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "3 Stocks Riding The Shift Away From Search Ads",
-      "summary": "Alphabet\u2019s wobble in search has cracked open a rare window where investors are suddenly forced to rethink where digital ad dollars might flow next. When a long trusted profit engine comes under question, money often goes looking for fresh stories, new business models, and different kinds of pricing power. This article walks through 3 stocks exposed to that shift, explaining how each could either benefit from or be hurt by the current reset in expectations. The three stocks below are a small...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-riding-shift-away-201618798.html?.tsrc=rss",
-      "time": "2026-11-05T20:16:18+00:00",
+      "ticker": "ORCL",
+      "title": "Quantinuum Reports Third Quarter 2026 Results and Raises Full-Year Revenue Outlook",
+      "summary": "Quantinuum Inc. (Nasdaq: QNT) (the \"Company\"), a leading full-stack quantum computing company, today announced financial results for the third quarter ended September 30, 2026.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/quantinuum-reports-third-quarter-2026-210100530.html?.tsrc=rss",
+      "time": "2026-11-05T21:01:00+00:00",
       "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:22899ac4-569d-3e0b-8a11-17d91c6644ce",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Google Plans to Spend $17 Billion on Wyoming Data Center",
-      "summary": "Alphabet Inc.\u2019s Google will spend $17 billion to build a data center in Wyoming, formally putting a price tag on the proposal two days after voters across the US delivered a broad rebuke to the development of such massive projects for artificial intelligence work.",
-      "link": "https://finance.yahoo.com/technology/articles/google-plans-spend-17-billion-190241166.html?.tsrc=rss",
-      "time": "2026-11-05T19:02:41+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:fd42980a-db5a-4783-a5e6-b134b3fffb5f",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Full Show",
-      "summary": "Host and \"The Buy Side\" author Turney Duff and his panel of experts weigh in on investment strategy post-midterms, the IPOs of OpenAI and Anthropic, and the impact of the blue wave in Congress on the AI ecosystem. Today's panel includes Hennion & Walsh CIO Kevin Mahn, Neostellar Principal Willy Lee, Grenadilla Advisory Founder and CEO Anna Rathbun, and Futurum Chief Market Strategist Shay Boloor.",
-      "link": "https://finance.yahoo.com/video/full-show-185806831.html?.tsrc=rss",
-      "time": "2026-11-05T18:58:06+00:00",
-      "touches": [
-        "GOOGL"
+        "ORCL"
       ],
       "tags": [
-        "people"
+        "earnings"
       ],
+      "new": true
+    },
+    {
+      "id": "rss:fc671f53-57dd-34d2-b734-fdd9254b416e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "This Canadian tech stock is getting crushed as AI sell-off spreads across the mark",
+      "summary": "Investing.com -- Canada\u2019s technology sector is showing a widening divide as a global retreat from artificial intelligence trades hammers chip and hardware-linked stocks, while software companies and telecom providers prove more resilient, suggesting investors are shifting away from high-growth AI bets towards steadier businesses.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-tech-stock-getting-crushed-205740646.html?.tsrc=rss",
+      "time": "2026-11-05T20:57:40+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:535b8dcf-74e7-395b-a409-2995042226a9",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Sector Update: Tech Stocks Tumble Late Afternoon",
+      "summary": "Tech stocks were sharply lower late Thursday afternoon, with the State Street Technology Select Sect",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-tumble-afternoon-205415545.html?.tsrc=rss",
+      "time": "2026-11-05T20:54:15+00:00",
+      "touches": [
+        "MSFT",
+        "XLK"
+      ],
+      "tags": [],
       "new": true
     }
   ],
