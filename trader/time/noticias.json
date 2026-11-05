@@ -1,15 +1,81 @@
 {
-  "as_of": "2026-11-05T18:05:00Z",
+  "as_of": "2026-11-05T18:35:00Z",
   "items": [
     {
-      "id": "rss:0cafc0f1-beae-4353-b76a-e962818fc319",
+      "id": "rss:0cd3ecea-0f6d-4eba-bf88-d50e5f7618d6",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Is the Anthropic IPO the only thing that matters for the rest of 2026?",
+      "summary": "Host and \"The Buy Side\" author Turney Duff and his panel of experts weigh in on which events in the last two months of 2026 are the most pivotal for the markets: Nvidia's (NVDA) Nov. 17 earnings, the Federal Reserve's December decision, or whether Anthropic goes public.Today's panel includes Hennion & Walsh CIO Kevin Mahn, Neostellar Principal Willy Lee, Grenadilla Advisory Founder and CEO Anna Rathbun, and Futurum Chief Market Strategist Shay Boloor.",
+      "link": "https://finance.yahoo.com/video/is-the-anthropic-ipo-the-only-thing-that-matters-for-the-rest-of-2026-182330006.html?.tsrc=rss",
+      "time": "2026-11-05T18:23:30+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "earnings",
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:79b3a744-f798-3259-9368-a319df681c14",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Update: Market Chatter: Microsoft Declines Texas Data Center Contract Extension With Nscale, Tightening Data Center Oversight",
+      "summary": "(Updates with comments from a source familiar with the matter in the third paragraph.) Microsoft",
+      "link": "https://finance.yahoo.com/technology/articles/market-chatter-microsoft-declines-texas-182142412.html?.tsrc=rss",
+      "time": "2026-11-05T18:21:42+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:06a95808-e386-3ac8-95af-a34b93296e41",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MU",
-      "title": "Micron and Sandisk valuation multiples are unbelievable as chip stocks get crushed",
-      "summary": "Chip stocks are getting crushed, especially these two former highfliers.",
-      "link": "https://finance.yahoo.com/markets/article/micron-and-sandisk-valuation-multiples-are-unbelievable-as-chip-stocks-get-crushed-180250881.html?.tsrc=rss",
-      "time": "2026-11-05T18:02:50+00:00",
+      "title": "Sector Update: Tech Stocks Tumble Thursday Afternoon",
+      "summary": "Tech stocks were sharply lower Thursday afternoon, with the State Street Technology Select Sector SP",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-tumble-thursday-182101545.html?.tsrc=rss",
+      "time": "2026-11-05T18:21:01+00:00",
+      "touches": [
+        "MU",
+        "NVDA",
+        "XLK"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:dcfcd6fd-0cc0-30c7-b071-96c247307b8b",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLE",
+      "title": "Exchange-Traded Funds Lower as US Equities Decline After Midday",
+      "summary": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV fell. Actively traded I",
+      "link": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-lower-us-181447179.html?.tsrc=rss",
+      "time": "2026-11-05T18:14:47+00:00",
+      "touches": [
+        "XLE",
+        "XLK"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:ed9465db-a1ba-3e9b-88ec-4354be38097c",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "Could Micron Technology (MU) Face Slower AI Demand From New Data Center Rules?",
+      "summary": "Micron Technology (NasdaqGS:MU) faces fresh uncertainty after the latest U.S. midterm elections shifted control of key congressional committees. Newly empowered lawmakers are backing proposals for tighter federal rules on AI data centers, including stricter zoning, power use and water permits. Policy advocates are also promoting environmental review requirements that could extend project timelines for large AI facilities in multiple states. The push for tougher AI data center permitting...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/could-micron-technology-mu-face-180914756.html?.tsrc=rss",
+      "time": "2026-11-05T18:09:14+00:00",
       "touches": [
         "MU"
       ],
@@ -17,47 +83,99 @@
       "new": true
     },
     {
-      "id": "rss:22d20c1e-16b9-3302-8560-b385ac404513",
+      "id": "rss:e770410e-ebd4-37f2-b5c3-b9bb49155a6d",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MU",
-      "title": "Micron Stock Plunges As Memory-Chip Shortages Cause Ripple Effects",
-      "summary": "Micron stock fell Thursday as memory-chip shortages are having ripple effects across the tech sector.",
-      "link": "https://finance.yahoo.com/m/22d20c1e-16b9-3302-8560-b385ac404513/micron-stock-plunges-as.html?.tsrc=rss",
-      "time": "2026-11-05T17:56:47+00:00",
+      "ticker": "NVDA",
+      "title": "Nvidia Stocks Fall 6% as AI Expansion Risks Hit Chipmakers",
+      "summary": "Infrastructure uncertainty puts the durability of extraordinary chip revenue growth under scrutiny.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stocks-fall-6-ai-180242797.html?.tsrc=rss",
+      "time": "2026-11-05T18:02:42+00:00",
       "touches": [
-        "MU"
+        "NVDA"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:a2743277-5bb7-4f72-8a94-fded0d332781",
+      "id": "rss:00673275-aa55-37a1-b03b-6ea4fbcefa50",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Palantir and CrowdStrike stocks tumble as Wall Street dumps software's AI winners",
-      "summary": "Investors are selling the software stocks that rode the AI boom and mostly sparing the ones that have been left behind.",
-      "link": "https://finance.yahoo.com/markets/article/palantir-and-crowdstrike-stocks-tumble-as-wall-street-dumps-softwares-ai-winners-173540737.html?.tsrc=rss",
-      "time": "2026-11-05T17:35:40+00:00",
+      "ticker": "ORCL",
+      "title": "Oracle's $7 billion AI deal collapses over an unexpected risk",
+      "summary": "Wedbush points to political considerations after Oracle reportedly canceled a major AI chip leasing agreement.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracles-7-billion-ai-deal-180135992.html?.tsrc=rss",
+      "time": "2026-11-05T18:01:35+00:00",
       "touches": [
-        "ADBE",
         "ORCL"
       ],
+      "tags": [
+        "deal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:9d986a4e-753b-37cf-8ba3-ff74288289b8",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "Why is Micron Stock Sinking Today",
+      "summary": "Micron's Taiwan Factory Plans Stall as AI Memory Demand Keeps Surging",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-micron-stock-sinking-today-180032480.html?.tsrc=rss",
+      "time": "2026-11-05T18:00:32+00:00",
+      "touches": [
+        "MU",
+        "NVDA"
+      ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:6713f02d-e06f-3120-af07-04d460f27d06",
+      "id": "rss:24d1a51f-02fe-3ce5-86ee-e7b0b283d8fa",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MU",
-      "title": "Memory Stocks Are Tanking. Should You Buy the Dip?",
-      "summary": "The selling in chip stocks has gotten extreme, with the iShares Semiconductor ETF plunging 9%, and memory-chip maker Micron falling as much as 17% before recovering somewhat.",
-      "link": "https://finance.yahoo.com/m/6713f02d-e06f-3120-af07-04d460f27d06/memory-stocks-are-tanking..html?.tsrc=rss",
-      "time": "2026-11-05T17:04:42+00:00",
+      "ticker": "MSFT",
+      "title": "Why Microsoft Stock is Down Today",
+      "summary": "Microsoft Walks Away From Potential Billion-Dollar Nscale Deal Expansion in Texas",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-microsoft-stock-down-today-175913610.html?.tsrc=rss",
+      "time": "2026-11-05T17:59:13+00:00",
       "touches": [
-        "MU"
+        "MSFT",
+        "NVDA"
+      ],
+      "tags": [
+        "deal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:040c1bcd-f607-36b4-bfee-6090b0c855da",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ORCL",
+      "title": "Snowflake Soars 32% Year to Date: Buy, Sell, or Hold the Stock?",
+      "summary": "SNOW stock rallies 32.5% year-to-date, driven by strong AI adoption, customer growth, and raised revenue guidance despite a premium valuation.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/snowflake-soars-32-date-buy-170900458.html?.tsrc=rss",
+      "time": "2026-11-05T17:09:00+00:00",
+      "touches": [
+        "ORCL"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:89501313-477b-34d4-9288-4038bfa64a55",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Microsoft Sours on Neoclouds Amid Data Center Delays, Costs",
+      "summary": "Microsoft Corp. helped create the \u201cneocloud\u201d boom, signing tens of billions of dollars in contracts with upstart data center operators in an effort to sate the crushing appetite for its cloud and AI services.",
+      "link": "https://finance.yahoo.com/technology/articles/microsoft-sours-neoclouds-amid-data-160016061.html?.tsrc=rss",
+      "time": "2026-11-05T16:00:16+00:00",
+      "touches": [
+        "MSFT"
       ],
       "tags": [],
       "new": true
