@@ -7,12 +7,6 @@
       "pct": 5
     },
     {
-      "id": "vigia-BLK",
-      "symbol": "BLK",
-      "type": "pct_move",
-      "pct": 5
-    },
-    {
       "id": "vigia-GOOGL",
       "symbol": "GOOGL",
       "type": "pct_move",
@@ -33,6 +27,12 @@
     {
       "id": "vigia-ORCL",
       "symbol": "ORCL",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
+      "id": "vigia-REGN",
+      "symbol": "REGN",
       "type": "pct_move",
       "pct": 5
     },

@@ -1,32 +1,30 @@
 {
-  "as_of": "2026-11-05T15:05:00Z",
+  "as_of": "2026-11-05T15:35:00Z",
   "items": [
     {
-      "id": "rss:e4256abe-f1be-3ca4-bd85-41fd686a5d55",
+      "id": "rss:166372b5-e563-3e36-a896-6b699ad79b70",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "ORCL",
-      "title": "Pharmacovigilance and Drug Safety Software - Global Strategic Business Report 2026-2032 Featuring Oracle, ArisGlobal, Ennov, Extedo and More",
-      "summary": "Dublin, Nov. 05, 2026 (GLOBE NEWSWIRE) -- \"Pharmacovigilance and Drug Safety Software - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global pharmacovigilance and drug safety software market was valued at US$227.4 million in 2025 and is projected to reach US$336.5 million by 2032, expanding at a compound annual growth rate (CAGR) of 5.8%. Market growth is supported by increasingly stringent regulatory requirements, rising adverse event data volum",
-      "link": "https://finance.yahoo.com/healthcare/articles/pharmacovigilance-drug-safety-software-global-144900789.html?.tsrc=rss",
-      "time": "2026-11-05T14:49:00+00:00",
+      "title": "AI/R Compass UOL Wins 2026 Oracle Partner Award for Latin America",
+      "summary": "Cloud Certification Rising Star recognition reflects the company\u2019s growing technical expertise in Oracle CloudSAN FRANCISCO, Nov. 05, 2026 (GLOBE NEWSWIRE) -- AI/R Compass UOL, a subsidiary of AI/R\u2014a technology company specialized in Agentic AI, has been named a winner of the 2026 Oracle Partner Awards, an annual accolade that recognizes the top-performing partners in the Oracle ecosystem. This year, the company was named Cloud Certification Rising Star for the Latin America and Caribbean (LAD)",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-r-compass-uol-wins-151200536.html?.tsrc=rss",
+      "time": "2026-11-05T15:12:00+00:00",
       "touches": [
         "ORCL"
       ],
-      "tags": [
-        "capital"
-      ],
+      "tags": [],
       "new": true
     },
     {
-      "id": "rss:f2dca5a8-5058-3a9f-9ded-b941a75c33e1",
+      "id": "rss:60df09c2-a12a-3961-aeca-2b8faf0c4fdf",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Apple Makes Surprising Move to Rein In AI Spending",
-      "summary": "Apple still wants more AI usage but is demanding tighter cost control.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/apple-makes-surprising-move-rein-144725769.html?.tsrc=rss",
-      "time": "2026-11-05T14:47:25+00:00",
+      "title": "Bluehost Brings AI to Life for Small Businesses Worldwide",
+      "summary": "Bluehost, the small business platform for the AI era, today announced a global series of events bringing together entrepreneurs, technology leaders and AI builders to help small businesses move beyond AI hype and put AI to work to build, grow and run their businesses.",
+      "link": "https://finance.yahoo.com/small-business/articles/bluehost-brings-ai-life-small-151000615.html?.tsrc=rss",
+      "time": "2026-11-05T15:10:00+00:00",
       "touches": [
         "GOOGL"
       ],
@@ -34,100 +32,36 @@
       "new": true
     },
     {
-      "id": "rss:c1c18465-e452-3fab-bfd5-345aa9b5e237",
+      "id": "rss:76a2c085-c8d7-3e24-9b16-f0eb604ab8ef",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "NVDA",
-      "title": "SpaceX Lessors Look To Sell $40 Bil AI Deal. ARK Buys The Dip On SPCX Stock.",
-      "summary": "Goldman Sachs, Apollo Global look to sell portions of $40 billion GPU deal with SpaceX. Cathie Wood buys the dip amid AI retreat.",
-      "link": "https://finance.yahoo.com/m/c1c18465-e452-3fab-bfd5-345aa9b5e237/spacex-lessors-look-to-sell.html?.tsrc=rss",
-      "time": "2026-11-05T14:43:43+00:00",
+      "ticker": "GOOGL",
+      "title": "Data Center Construction Starts Lag 6 Months Behind, Report Says",
+      "summary": "Data center construction starts are slowing, a report from GlobalData finds. Here's why.",
+      "link": "https://finance.yahoo.com/m/76a2c085-c8d7-3e24-9b16-f0eb604ab8ef/data-center-construction.html?.tsrc=rss",
+      "time": "2026-11-05T15:04:08+00:00",
       "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "deal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:38cb0654-6e49-3715-b4e4-f2f830876d7a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Stock Market Today: Dow Slips After Postelection Rally; Cava, Dutch Bros Plunge On Earnings News (Live Coverage)",
-      "summary": "The Dow Jones index rises Thursday after the postelection rally. Cava and Dutch Bros plunge on earnings.",
-      "link": "https://finance.yahoo.com/m/38cb0654-6e49-3715-b4e4-f2f830876d7a/stock-market-today%3A-dow-slips.html?.tsrc=rss",
-      "time": "2026-11-05T14:40:48+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:e3a25d38-c53e-364d-b498-95a8aa005cb8",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia Partner Posts Stunning 46% Sales Jump",
-      "summary": "AI infrastructure demand is still accelerating despite concerns over hyperscaler spending.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-partner-posts-stunning-46-143404568.html?.tsrc=rss",
-      "time": "2026-11-05T14:34:04+00:00",
-      "touches": [
-        "NVDA"
+        "GOOGL",
+        "MSFT",
+        "ORCL"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:59a4bca6-75cf-305f-98f0-02f0ba924280",
+      "id": "rss:3b66440b-f756-3685-aa3e-6e5263a9011b",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "REGN",
-      "title": "Why Regeneron (REGN) Might be Well Poised for a Surge",
-      "summary": "Regeneron (REGN) shares have started gaining and might continue moving higher in the near term, as indicated by solid earnings estimate revisions.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-regeneron-regn-might-well-162002464.html?.tsrc=rss",
-      "time": "2026-11-04T16:20:02+00:00",
+      "ticker": "MSFT",
+      "title": "CDK Global Appoints Tim Karaca as Chief Financial Officer",
+      "summary": "AUSTIN, Texas, November 05, 2026--CDK, the leading automotive retail software provider, today announced the appointment of Tim Karaca as executive vice president and chief financial officer. He succeeds Steve Lifshatz, who will remain with CDK through the end of 2026 to support a seamless transition.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cdk-global-appoints-tim-karaca-140000715.html?.tsrc=rss",
+      "time": "2026-11-05T14:00:00+00:00",
       "touches": [
-        "REGN"
+        "MSFT"
       ],
       "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:6fa18dd8-f9fd-3960-9bc7-82a27b67d6b9",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "REGN",
-      "title": "REGN vs. ILMN: Which Stock Is the Better Value Option?",
-      "summary": "REGN vs. ILMN: Which Stock Is the Better Value Option?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/regn-vs-ilmn-stock-better-154001705.html?.tsrc=rss",
-      "time": "2026-11-04T15:40:01+00:00",
-      "touches": [
-        "REGN"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:1b88f154-2a88-34ce-b875-9c482d7fd3d1",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "REGN",
-      "title": "BAYRY Q3 Earnings and Revenues Miss Estimates, Pharma Performs Well",
-      "summary": "Bayer's Q3 earnings and revenues miss estimates, but strong growth in Nubeqa and Kerendia boosts pharma performance and lifts 2026 EBITDA guidance.",
-      "link": "https://finance.yahoo.com/healthcare/articles/bayry-q3-earnings-revenues-miss-181200425.html?.tsrc=rss",
-      "time": "2026-11-03T18:12:00+00:00",
-      "touches": [
-        "REGN"
-      ],
-      "tags": [
-        "earnings"
+        "people"
       ],
       "new": true
     }

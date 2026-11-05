@@ -1,24 +1,25 @@
 {
-  "as_of": "2026-11-05T15:05:33Z",
+  "as_of": "2026-11-05T15:35:04Z",
   "source": "yahoo",
   "note": "Delayed quotes for alerts and sizing checks. Your broker's price is the one that fills.",
   "prices": {
-    "ADBE": 248.71,
+    "ADBE": 249.605,
     "BLK": 1210.11,
-    "GOOGL": 285.04,
-    "MSFT": 544.215,
-    "NVDA": 188.88,
-    "ORCL": 118.665,
+    "GOOGL": 285.26,
+    "MSFT": 541.52,
+    "NVDA": 187.61,
+    "ORCL": 117.345,
     "QQQ": 698.27,
     "SPY": 763.53,
-    "UNP": 308.07,
-    "XLK": 167.71,
-    "XLE": 64.485
+    "UNP": 306.6,
+    "XLK": 166.77,
+    "XLE": 64.29,
+    "REGN": 937.485
   },
   "detail": {
     "ADBE": {
       "prev_close": 248.48,
-      "time": "2026-11-05T15:05:30Z",
+      "time": "2026-11-05T15:34:58Z",
       "source": "yahoo"
     },
     "BLK": {
@@ -28,22 +29,22 @@
     },
     "GOOGL": {
       "prev_close": 288.93,
-      "time": "2026-11-05T15:05:32Z",
+      "time": "2026-11-05T15:35:04Z",
       "source": "yahoo"
     },
     "MSFT": {
       "prev_close": 555.8,
-      "time": "2026-11-05T15:05:32Z",
+      "time": "2026-11-05T15:35:05Z",
       "source": "yahoo"
     },
     "NVDA": {
       "prev_close": 200.13,
-      "time": "2026-11-05T15:05:33Z",
+      "time": "2026-11-05T15:35:04Z",
       "source": "yahoo"
     },
     "ORCL": {
       "prev_close": 123.73,
-      "time": "2026-11-05T15:05:33Z",
+      "time": "2026-11-05T15:35:05Z",
       "source": "yahoo"
     },
     "QQQ": {
@@ -58,17 +59,22 @@
     },
     "UNP": {
       "prev_close": 308.53,
-      "time": "2026-11-05T15:05:30Z",
+      "time": "2026-11-05T15:35:01Z",
       "source": "yahoo"
     },
     "XLK": {
       "prev_close": 176.5,
-      "time": "2026-11-05T15:05:35Z",
+      "time": "2026-11-05T15:35:07Z",
       "source": "yahoo"
     },
     "XLE": {
       "prev_close": 63.52,
-      "time": "2026-11-05T15:05:35Z",
+      "time": "2026-11-05T15:35:08Z",
+      "source": "yahoo"
+    },
+    "REGN": {
+      "prev_close": 930.67,
+      "time": "2026-11-05T15:34:43Z",
       "source": "yahoo"
     }
   }
