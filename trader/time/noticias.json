@@ -1,17 +1,91 @@
 {
-  "as_of": "2026-11-05T21:05:00Z",
+  "as_of": "2026-11-05T21:35:00Z",
   "items": [
     {
-      "id": "rss:6eb66dd0-b260-36c3-8d1e-1e1114cad69a",
+      "id": "sec:0001104659-26-123389",
+      "source": "SEC EDGAR",
+      "kind": "filing",
+      "form": "8-K",
+      "ticker": "MU",
+      "title": "MICRON TECHNOLOGY INC filed a 8-K: director or officer change",
+      "summary": "Current report",
+      "items": [
+        "5.02",
+        "9.01"
+      ],
+      "important": true,
+      "link": "https://www.sec.gov/Archives/edgar/data/723125/000110465926123389/0001104659-26-123389-index.htm",
+      "time": "2026-11-05T21:33:48+00:00",
+      "touches": [
+        "MU"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "sec:0001193125-26-449835",
+      "source": "SEC EDGAR",
+      "kind": "filing",
+      "form": "8-K",
+      "ticker": "GOOGL",
+      "title": "Alphabet Inc. filed a 8-K: other events",
+      "summary": "Current report",
+      "items": [
+        "8.01",
+        "9.01"
+      ],
+      "important": false,
+      "link": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526449835/0001193125-26-449835-index.htm",
+      "time": "2026-11-05T21:10:44+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:884d0f61-5600-3056-80ad-4226030b32a3",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ORCL",
-      "title": "Quantinuum Reports Third Quarter 2026 Results and Raises Full-Year Revenue Outlook",
-      "summary": "Quantinuum Inc. (Nasdaq: QNT) (the \"Company\"), a leading full-stack quantum computing company, today announced financial results for the third quarter ended September 30, 2026.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/quantinuum-reports-third-quarter-2026-210100530.html?.tsrc=rss",
-      "time": "2026-11-05T21:01:00+00:00",
+      "ticker": "MU",
+      "title": "US Equity Markets End Lower After Crude Oil Rises, Mega-Cap Tech Stocks Fall",
+      "summary": "US equity indexes ended lower Thursday after crude oil prices rose and mega-cap technology stocks su",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-210758027.html?.tsrc=rss",
+      "time": "2026-11-05T21:07:58+00:00",
       "touches": [
-        "ORCL"
+        "MU"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:56f49e1e-c87d-3213-b1a8-33f3f2396258",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Best Mag7 dip buys: NVIDIA leads on valuation, Alphabet on RSI",
+      "summary": "Investing.com -- The Mag7 are being sold off together today, but they aren\u2019t equally cheap. Roundhill Magnificent Seven ETF (MAGS) is -4.61% at $67.04 (as of Nov 5, 2026, 3:34 PM EST). Articles from today tie the move to AI-spending worries and fears of tighter AI regulation after the midterms. One strategist called it \"an emotional sell-off\" driven by hedge fund de-leveraging. Read more (Nov 5, 2026)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/best-mag7-dip-buys-nvidia-210653656.html?.tsrc=rss",
+      "time": "2026-11-05T21:06:53+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:6532d9f7-fd24-3cfd-8cac-f4dd9e4a2f63",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Synaptics Reports First Quarter Fiscal 2027 Results",
+      "summary": "Q1'27 Financial Results Revenue of $294.0 million, up 1% year-over-yearGAAP gross margin of 47.8% Non-GAAP gross margin of 54.3%GAAP loss per share of $0.45Non-GAAP diluted earnings per share of $1.26 Key Business Highlights Introduced the xMCU, a new class of microcontrollers, with the launch of the Synaptics Astra SR200 series, enabling larger AI models and richer multimodal workloads to run entirely on-device.Expanded the Synaptics Coralboard ecosystem in partnership with Google Research, by",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/synaptics-reports-first-quarter-fiscal-210500107.html?.tsrc=rss",
+      "time": "2026-11-05T21:05:00+00:00",
+      "touches": [
+        "NVDA"
       ],
       "tags": [
         "earnings"
@@ -19,32 +93,65 @@
       "new": true
     },
     {
-      "id": "rss:fc671f53-57dd-34d2-b734-fdd9254b416e",
+      "id": "rss:daf77303-800e-3e89-88c8-ad99c3913f9c",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "This Canadian tech stock is getting crushed as AI sell-off spreads across the mark",
-      "summary": "Investing.com -- Canada\u2019s technology sector is showing a widening divide as a global retreat from artificial intelligence trades hammers chip and hardware-linked stocks, while software companies and telecom providers prove more resilient, suggesting investors are shifting away from high-growth AI bets towards steadier businesses.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/canadian-tech-stock-getting-crushed-205740646.html?.tsrc=rss",
-      "time": "2026-11-05T20:57:40+00:00",
+      "title": "IonQ Wants to Be the Nvidia of Quantum. Its Latest Numbers Back Up the Swagger.",
+      "summary": "IonQ CEO Niccolo de Masi envisions the company as a cornerstone of U.S. dominance in quantum technology.",
+      "link": "https://finance.yahoo.com/m/daf77303-800e-3e89-88c8-ad99c3913f9c/ionq-wants-to-be-the-nvidia.html?.tsrc=rss",
+      "time": "2026-11-05T21:05:00+00:00",
       "touches": [
         "NVDA"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:528507d1-e914-320b-ac70-9a58a06de87f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "10x Genomics Reports Third Quarter 2026 Financial Results",
+      "summary": "10x Genomics, Inc. (Nasdaq: TXG), the life science technology leader focused on accelerating science and advancing human health, today reported financial results for the third quarter ended September 30, 2026.",
+      "link": "https://finance.yahoo.com/healthcare/articles/10x-genomics-reports-third-quarter-210500999.html?.tsrc=rss",
+      "time": "2026-11-05T21:05:00+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:090c58ae-7ca4-3e38-8483-8395ef8dc50d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLE",
+      "title": "Sector Update: Energy Stocks Drop Thursday",
+      "summary": "Energy stocks declined Thursday with the NYSE Energy Sector Index dropping 2.1% and the State Street",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-drop-thursday-210255557.html?.tsrc=rss",
+      "time": "2026-11-05T21:02:55+00:00",
+      "touches": [
+        "XLE"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:535b8dcf-74e7-395b-a409-2995042226a9",
+      "id": "rss:ee42e7dd-b9be-313f-87c9-590b592f1dec",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Sector Update: Tech Stocks Tumble Late Afternoon",
-      "summary": "Tech stocks were sharply lower late Thursday afternoon, with the State Street Technology Select Sect",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-tumble-afternoon-205415545.html?.tsrc=rss",
-      "time": "2026-11-05T20:54:15+00:00",
+      "ticker": "MU",
+      "title": "Top Stock Reports for Berkshire Hathaway, Micron & Chevron",
+      "summary": "Berkshire Hathaway, Micron and Chevron headline today's top stock research reports, highlighting AI-driven demand, capital allocation and operational strength.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-berkshire-hathaway-200900700.html?.tsrc=rss",
+      "time": "2026-11-05T20:09:00+00:00",
       "touches": [
-        "MSFT",
-        "XLK"
+        "MU"
       ],
       "tags": [],
       "new": true
