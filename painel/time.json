@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-05T03:35:00Z",
+  "as_of": "2026-11-05T04:05:00Z",
   "market_open": false,
   "bloqueio": {},
   "robots": [
@@ -17,9 +17,9 @@
       "nome": "Not\u00edcias",
       "skills": "trader-news",
       "quando": "a cada 30 min, 24 h",
-      "last_run": "2026-11-05T03:35:00Z",
-      "result": "0 novas de fontes confi\u00e1veis (0 descartadas), 0 comunicados graves, 0 manchetes de aten\u00e7\u00e3o",
-      "ok": true
+      "last_run": "2026-11-05T04:05:00Z",
+      "result": "erro: trader-news n\u00e3o respondeu",
+      "ok": false
     },
     {
       "id": "politicos",
