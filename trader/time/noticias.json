@@ -1,53 +1,5 @@
 {
-  "as_of": "2026-11-04T23:35:00Z",
-  "items": [
-    {
-      "id": "rss:a1531670-310b-3877-aafa-cb77b7f37255",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "5 Best Performing AI Stocks in 2026",
-      "summary": "We just published the list of 10 Best Performing AI Stocks in 2026. You can find the top 5 stocks below. Artificial intelligence is transforming industries while creating significant growth opportunities for companies. As businesses accelerate AI adoption, more publicly traded companies are benefiting from rising demand for AI-related products and services. Industry leaders are [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-performing-ai-stocks-233151565.html?.tsrc=rss",
-      "time": "2026-11-04T23:31:51+00:00",
-      "touches": [
-        "MU"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:dd00f8a8-bbc4-3312-95d6-e56b72082e5c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "BLK",
-      "title": "Fiserv (FISV) Adds Raj Seshadri to Board in Payments and Data Push",
-      "summary": "Fiserv (NasdaqGS:FISV) has appointed Raj Seshadri, a former senior executive at Mastercard, to its Board of Directors. Seshadri brings experience leading commercial payments and data-focused businesses, alongside prior leadership roles at BlackRock and other financial institutions. Her background aligns with Fiserv's focus on unified commerce and embedded fintech as the board continues to evolve its mix of skills. Raj Seshadri joining the Fiserv board is a boardroom shift that investors may...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fiserv-fisv-adds-raj-seshadri-231901268.html?.tsrc=rss",
-      "time": "2026-11-04T23:19:01+00:00",
-      "touches": [
-        "BLK"
-      ],
-      "tags": [
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:2d128dc4-c78a-35a8-a185-de9a7893908f",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "'The First Victim': Chamath Palihapitiya Warns AI Startups are In the Crosshairs as OpenAI, Google Move Into Software",
-      "summary": "Venture capitalist Chamath Palihapitiya warned that AI-native startups could face growing competition from foundational model developers as companies such as OpenAI and Alphabet Inc.\u2019s Google expand into software applications and workplace tools. AI Giants Threaten AI-Native Startups On Monday, in...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/first-victim-chamath-palihapitiya-warns-223011087.html?.tsrc=rss",
-      "time": "2026-11-04T22:30:11+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-05T00:05:00Z",
+  "items": [],
   "atencao": []
 }
