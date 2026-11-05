@@ -1,15 +1,15 @@
 {
-  "as_of": "2026-11-05T16:35:00Z",
+  "as_of": "2026-11-05T17:05:00Z",
   "items": [
     {
-      "id": "rss:91aa55e0-aa28-447b-b494-d5cc6ed748e3",
+      "id": "rss:19156319-1d8e-43ec-b9f9-eee8451f6f56",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MU",
-      "title": "Micron stock declines 12% as chip sell-off deepens",
-      "summary": "Micron led the chip sector lower on Thursday amid a heavy sell-of",
-      "link": "https://finance.yahoo.com/markets/article/micron-declines-12-as-chip-sell-off-deepens-163137019.html?.tsrc=rss",
-      "time": "2026-11-05T16:31:37+00:00",
+      "title": "Nvidia has lost nearly $1.4 trillion since its October record",
+      "summary": "Nvidia is losing the most in S&P 500 stocks by value in Thursday's market rout, on track for a fifth straight week of losses.",
+      "link": "https://finance.yahoo.com/markets/article/nvidia-has-lost-nearly-14-trillion-since-its-october-record-165912910.html?.tsrc=rss",
+      "time": "2026-11-05T16:59:12+00:00",
       "touches": [
         "MU",
         "NVDA"
@@ -18,106 +18,14 @@
       "new": true
     },
     {
-      "id": "rss:7095555b-99ad-31f4-8847-d203e53c7b2b",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "IREN stock plunges 18% as Microsoft raises concerns over data center delays",
-      "summary": "Investing.com -- IREN Ltd. shares plunged 18% Thursday amid a broad technology selloff, with a Bloomberg report highlighting growing concerns at Microsoft over delays and execution risks among its neocloud partners.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-stock-plunges-18-microsoft-162134051.html?.tsrc=rss",
-      "time": "2026-11-05T16:21:34+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:5b8ba222-1160-3891-8ce1-2303d759bc2c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Market Chatter: Microsoft Declines Texas Data Center Contract Extension With Nscale, Tightening Data Center Oversight",
-      "summary": "Microsoft (MSFT) declined to extend a contract at a Texas data center with Nscale ahead of the start",
-      "link": "https://finance.yahoo.com/technology/articles/market-chatter-microsoft-declines-texas-161355924.html?.tsrc=rss",
-      "time": "2026-11-05T16:13:55+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:58265a10-8058-3a94-b5ad-2f0f0e661c5b",
+      "id": "rss:e3701295-6949-3a24-a375-f785d7d61ebe",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Boost Run Announces Date of Third Quarter 2026 Financial Results Conference Call",
-      "summary": "NORTHBROOK, Ill., November 05, 2026--Boost Run, Inc. (Nasdaq: BRUN), an NVIDIA Preferred Cloud Partner operating in adherence with NVIDIA Reference Architecture standards, plans to release its financial results for the third quarter ended September 30, 2026, pre-market on Thursday, November 12, 2026. The company plans to host a conference call at 9:00 a.m. Eastern Time to discuss its third quarter 2026 results.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/boost-run-announces-date-third-210500115.html?.tsrc=rss",
-      "time": "2026-11-05T16:09:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:08d095fc-e4cc-36ad-b2fa-961e8037c11e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "REGN",
-      "title": "Mary Tyler Moore Vision Initiative Welcomes Regeneron and Adaptive Sensory Technology to Its Consortium",
-      "summary": "The Mary Tyler Moore Vision Initiative (MTM Vision) today announced that Regeneron Pharmaceuticals, Inc. has joined the MTM Vision Consortium as a founding member and Adaptive Sensory Technology as a device company member.",
-      "link": "https://finance.yahoo.com/healthcare/articles/mary-tyler-moore-vision-initiative-160600910.html?.tsrc=rss",
-      "time": "2026-11-05T16:06:00+00:00",
-      "touches": [
-        "REGN"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:af684a4b-8d66-3386-a076-b99b03d014af",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Deloitte named a Leader in IDC MarketScape Worldwide AI-enabled Adobe Professional Services 2026 Vendor Assessment",
-      "summary": "Deloitte has been positioned as a Leader in the IDC MarketScape Worldwide AI-Enabled Adobe Professional Services 2026 Vendor Assessment (Doc #US54114626, October 2026). Deloitte is recognized as a \"worldwide services provider that combines a long heritage in business consulting with broad and deep IT services capabilities, and with a strong understanding of its clients' business on multiple levels.\" Deloitte's Adobe-focused professional services are delivered through Deloitte Digital.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/deloitte-named-leader-idc-marketscape-160000095.html?.tsrc=rss",
-      "time": "2026-11-05T16:00:00+00:00",
-      "touches": [
-        "ADBE"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:144a2ff7-e56e-3371-86a0-e790fbd35269",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Scout Clean Energy\u2019s Nimbus Wind Farm Achieves Commercial Operations, Supporting Microsoft\u2019s Clean Energy Portfolio",
-      "summary": "183 MW Wind Facility is Now Largest in the State of ArkansasGREEN FOREST, Ark., Nov. 05, 2026 (GLOBE NEWSWIRE) -- Scout Clean Energy (\u201cScout\u201d), a leading North American renewable energy developer-owner-operator, announced today that its 183 MW Nimbus Wind Farm (\u201cNimbus\u201d) in Carroll County, Arkansas is now commercially operational. This achievement marks the culmination of two years of construction on the project, which is now generating enough electricity to power more than 40,000 homes annually",
-      "link": "https://finance.yahoo.com/energy/articles/scout-clean-energy-nimbus-wind-160000329.html?.tsrc=rss",
-      "time": "2026-11-05T16:00:00+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:c9f327b9-16c5-3a50-a74d-937a12644740",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia Stock Is Below $200. What History Suggests Is the Floor.",
-      "summary": "Nvidia stock has hit a three-month low. Here's where its record suggests the slide should stop.",
-      "link": "https://finance.yahoo.com/m/c9f327b9-16c5-3a50-a74d-937a12644740/nvidia-stock-is-below-%24200..html?.tsrc=rss",
-      "time": "2026-11-05T15:35:00+00:00",
+      "title": "Nvidia Faces 600,000-Chip China Bottleneck",
+      "summary": "Approximately 600,000 H200 AI chips are reportedly stored in Hong Kong.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-faces-600-000-chip-163601502.html?.tsrc=rss",
+      "time": "2026-11-05T16:36:01+00:00",
       "touches": [
         "NVDA"
       ],
@@ -125,21 +33,33 @@
       "new": true
     },
     {
-      "id": "rss:d173c0b4-6742-328c-96e5-ada6c07af451",
+      "id": "rss:664954b7-e2c2-37b9-9f70-069da77945ea",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Midterm Results Put These 4 Renewable, Healthcare & AI Stocks in Focus",
-      "summary": "Midterm election results are reshaping sector sentiment, putting Nextpower, Centene & AI infrastructure companies in focus amid shifting policy expectations.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/midterm-results-put-4-renewable-152400817.html?.tsrc=rss",
-      "time": "2026-11-05T15:24:00+00:00",
+      "ticker": "UNP",
+      "title": "What 3.4% GDP Growth and a 4.2% Jobless Rate Say About a Hard Day on Wall Street",
+      "summary": "American News Group News Commentary - U.S. stocks were sharply lower on Thursday morning. As of 11:02 a.m. ET, the S&P 500 was down 3.39% at 7,427.97, the Nasdaq Composite was down 5.08% at 24,430.26 and the Dow Jones Industrial Average was down 2.37% at 52,093.82, each measured against Wednesday's close. It is one session. The most recent official readings on output and jobs, along with the latest quarterly reports from large companies in payments, restaurants, medical technology, aerospace and",
+      "link": "https://finance.yahoo.com/news/3-4-gdp-growth-4-163400882.html?.tsrc=rss",
+      "time": "2026-11-05T16:34:00+00:00",
       "touches": [
-        "GOOGL",
-        "MSFT"
+        "UNP"
       ],
-      "tags": [
-        "earnings"
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:07841878-fce3-31f4-bd9f-65c6aba3ddae",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "What's Going On With Sandisk Stock Today?",
+      "summary": "Sandisk Corp. (NASDAQ:SNDK) stock extended its decline Thursday as investors continued reducing exposure to AI-linked semiconductor and memory stocks following the U.S. midterm elections.The stock slid almost 18% in Thursday trading with the S&P 500 futures down 2.54%, pointing to continued pressure within the chip sector rather than a broader market selloff.Memory Stocks Extend Post-Midterm SelloffThe decline spread across the memory complex.Micron Technology Inc. (NASDAQ:MU) fell more than 5%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/whats-going-sandisk-stock-today-154224126.html?.tsrc=rss",
+      "time": "2026-11-05T15:42:24+00:00",
+      "touches": [
+        "MU"
       ],
+      "tags": [],
       "new": true
     }
   ],
