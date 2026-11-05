@@ -1,9 +1,9 @@
 {
-  "cash": 386.49,
+  "cash": 411.48,
   "pending": [],
   "strategy": "screener",
-  "last_screen": "2026-11-04",
-  "last_report": "2026-11-04",
+  "last_screen": "2026-11-05",
+  "last_report": "2026-11-05",
   "cooldown": {
     "MU": "2026-12-02"
   },
@@ -404,6 +404,26 @@
       "amount": 251.99,
       "why": "curto prazo, entrada: RSI(2) 4.0, acima da m\u00e9dia de 200 dias ($58.44)",
       "sleeve": "curto"
+    },
+    {
+      "at": "2026-11-05T14:35:53Z",
+      "symbol": "BLK",
+      "side": "sell",
+      "qty": 0.424786,
+      "price": 1235.876,
+      "amount": 524.98,
+      "why": "not in your targets; selling the whole position (--sell-untracked)",
+      "sleeve": "longo"
+    },
+    {
+      "at": "2026-11-05T14:35:55Z",
+      "symbol": "REGN",
+      "side": "buy",
+      "qty": 0.530958,
+      "price": 941.676,
+      "amount": 499.99,
+      "why": "drifted -12.9 points from its 12.9% target (band 2)",
+      "sleeve": "longo"
     }
   ],
   "curto": {
@@ -423,88 +443,88 @@
     },
     "signals": {
       "SPY": {
-        "price": 767.5,
-        "rsi2": 83.56,
-        "sma_exit": 759.83,
-        "sma_trend": 727.09
+        "price": 762.46,
+        "rsi2": 54.64,
+        "sma_exit": 758.27,
+        "sma_trend": 727.5
       },
       "QQQ": {
-        "price": 692.02,
-        "rsi2": 59.79,
-        "sma_exit": 692.9,
-        "sma_trend": 679.4
+        "price": 677.75,
+        "rsi2": 20.5,
+        "sma_exit": 685.3,
+        "sma_trend": 679.72
       },
       "IWM": {
-        "price": 283.8,
-        "rsi2": 87.9,
-        "sma_exit": 281.24,
-        "sma_trend": 277.95
+        "price": 284.58,
+        "rsi2": 90.5,
+        "sma_exit": 281.38,
+        "sma_trend": 278.05
       },
       "DIA": {
-        "price": 533.79,
-        "rsi2": 89.69,
-        "sma_exit": 521.97,
-        "sma_trend": 503.85
+        "price": 535.43,
+        "rsi2": 91.46,
+        "sma_exit": 524.36,
+        "sma_trend": 504.09
       },
       "XLK": {
-        "price": 176.5,
-        "rsi2": 32.52,
-        "sma_exit": 179.1,
-        "sma_trend": 169.71
+        "price": 171.04,
+        "rsi2": 8.42,
+        "sma_exit": 175.55,
+        "sma_trend": 169.85
       },
       "XLF": {
-        "price": 59.16,
-        "rsi2": 90.68,
-        "sma_exit": 57.47,
-        "sma_trend": 53.47
+        "price": 59.88,
+        "rsi2": 94.05,
+        "sma_exit": 58.06,
+        "sma_trend": 53.51
       },
       "XLE": {
-        "price": 63.23,
-        "rsi2": 4.16,
-        "sma_exit": 67.18,
-        "sma_trend": 58.44
+        "price": 64.13,
+        "rsi2": 24.87,
+        "sma_exit": 66.33,
+        "sma_trend": 58.52
       },
       "XLV": {
-        "price": 190.1,
-        "rsi2": 94.38,
-        "sma_exit": 185.54,
-        "sma_trend": 158.15
+        "price": 190.78,
+        "rsi2": 95.54,
+        "sma_exit": 186.8,
+        "sma_trend": 158.32
       },
       "XLY": {
-        "price": 122.56,
-        "rsi2": 92.04,
-        "sma_exit": 117.92,
+        "price": 122.07,
+        "rsi2": 85.43,
+        "sma_exit": 119.05,
         "sma_trend": 115.14
       },
       "XLP": {
-        "price": 92.33,
-        "rsi2": 80.26,
-        "sma_exit": 89.94,
-        "sma_trend": 83.73
+        "price": 92.88,
+        "rsi2": 84.76,
+        "sma_exit": 90.81,
+        "sma_trend": 83.78
       },
       "XLI": {
-        "price": 169.25,
-        "rsi2": 38.6,
-        "sma_exit": 169.57,
-        "sma_trend": 172.66
+        "price": 168.59,
+        "rsi2": 28.0,
+        "sma_exit": 169.3,
+        "sma_trend": 172.68
       },
       "XLU": {
-        "price": 43.66,
-        "rsi2": 73.05,
-        "sma_exit": 43.47,
-        "sma_trend": 43.82
+        "price": 43.97,
+        "rsi2": 88.15,
+        "sma_exit": 43.63,
+        "sma_trend": 43.83
       },
       "XLB": {
-        "price": 53.78,
-        "rsi2": 73.51,
-        "sma_exit": 53.06,
-        "sma_trend": 50.81
+        "price": 54.44,
+        "rsi2": 83.35,
+        "sma_exit": 53.46,
+        "sma_trend": 50.84
       },
       "SMH": {
-        "price": 501.55,
-        "rsi2": 18.54,
-        "sma_exit": 522.51,
-        "sma_trend": 521.15
+        "price": 479.77,
+        "rsi2": 7.53,
+        "sma_exit": 506.73,
+        "sma_trend": 521.55
       }
     }
   },
@@ -523,5 +543,6 @@
     "days": 200,
     "inverse": "SH",
     "distance_pct": 4.06
-  }
+  },
+  "rescreen_done": "2026-11-05T12:05:00Z"
 }

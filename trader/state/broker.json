@@ -349,6 +349,26 @@
       "id": "df7894fb-810c-4e41-9960-57a605636671",
       "approved_by": "robo (automatic, paper)",
       "why": "14.29% of the stock sleeve, copying trader-screener: Growing, profitable, not priced for perfection (2026-11-03), 10 de 102 empresas passaram"
+    },
+    {
+      "date": "2026-11-05",
+      "at": "2026-11-05T14:35:13Z",
+      "status": "placed",
+      "symbol": "BLK",
+      "side": "sell",
+      "id": "dd7362e0-2e83-4f57-84b1-670d3b4630a9",
+      "approved_by": "robo (automatic, paper)",
+      "why": "not in your targets; selling the whole position (--sell-untracked)"
+    },
+    {
+      "date": "2026-11-05",
+      "at": "2026-11-05T14:35:13Z",
+      "status": "placed",
+      "symbol": "REGN",
+      "side": "buy",
+      "id": "b7e7ba21-0e45-4d2c-ade4-1ecfcd5b98ff",
+      "approved_by": "robo (automatic, paper)",
+      "why": "drifted -12.9 points from its 12.9% target (band 2)"
     }
   ]
 }
