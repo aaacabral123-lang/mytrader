@@ -1,64 +1,100 @@
 {
-  "as_of": "2026-11-05T13:05:00Z",
+  "as_of": "2026-11-05T13:35:00Z",
   "items": [
     {
-      "id": "rss:d4cc57a4-f056-3aeb-be65-144c28adcfca",
+      "id": "rss:6f3c02bf-bf31-48af-9372-4b6ac94af7cf",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Verizon Makes the Holidays Simple with Our Best Deals and Rewards Just for Being a Customer",
-      "summary": "From simple plans to exclusive rewards, Verizon delivers delight all season longNEW YORK, Nov. 05, 2026 (GLOBE NEWSWIRE) -- Verizon is making holiday shopping simple with incredible deals and exclusive rewards designed to delight. Starting today, November 5, and running throughout the holiday season, customers can unwrap amazing savings on the hottest tech, plus access an exclusive lineup of giveaways, events and once-in-a-lifetime experiences, only for Verizon customers. Unwrap the gift of new",
-      "link": "https://finance.yahoo.com/technology/articles/verizon-makes-holidays-simple-best-130000570.html?.tsrc=rss",
+      "ticker": "MU",
+      "title": "Qualcomm, Micron, and Arm Holdings stocks sink, leading chip sector lower",
+      "summary": "Qualcomm, Micron, and Arm Holdings were all trading lower on Thursday as chip stocks continued to slide.",
+      "link": "https://finance.yahoo.com/markets/article/qualcomm-micron-arm-stocks-sink-lead-chip-sector-lower-133100607.html?.tsrc=rss",
+      "time": "2026-11-05T13:31:00+00:00",
+      "touches": [
+        "MU"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:93695281-9583-3aee-9a46-23a8c0448802",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Postman Private Cloud Now Available in the Microsoft Marketplace",
+      "summary": "SAN FRANCISCO, November 05, 2026--Postman, a leading AI-native API platform, today announced the availability of Postman Private Cloud in the Microsoft Marketplace, the unified online destination for customers to buy trusted cloud solutions, AI apps, and agents to meet their business needs. Postman customers can now discover and deploy trusted solutions through Microsoft Marketplace, with smooth integration and streamlined management across Microsoft Azure and other Microsoft products.",
+      "link": "https://finance.yahoo.com/technology/articles/postman-private-cloud-now-available-133000474.html?.tsrc=rss",
+      "time": "2026-11-05T13:30:00+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:7bb85987-5c68-33b0-8622-c884e7eafb2c",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "BLK",
+      "title": "V29 Capital Management Launches as Independent Private Equity Firm Focused on Technology-Enabled Businesses",
+      "summary": "NEW HAVEN, Conn., November 05, 2026--V29 Capital Management (\"V29\") today announced its launch as an independent private equity firm focusing on founder-led, technology-enabled businesses at an inflection point in their growth. V29 Capital Management was established as an independent investment firm following its separation from Pritzker Vlock Capital Management. The transaction was backed by funds managed by BlackRock, Sagard, Pomona Capital and other leading firms.",
+      "link": "https://finance.yahoo.com/technology/articles/v29-capital-management-launches-independent-130000284.html?.tsrc=rss",
       "time": "2026-11-05T13:00:00+00:00",
       "touches": [
-        "GOOGL"
+        "BLK"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:eae58bbe-804f-3cec-a52f-bfe61c6d7dcb",
+      "id": "rss:18326aeb-6d09-3025-9d0b-96ef6185ba7f",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "How Quantinuum Is Taking Aim at a Quantum Computing Bottleneck",
-      "summary": "Quantinuum is striving to automate quantum error correction as part of its push toward fault-tolerant computing by 2029.",
-      "link": "https://finance.yahoo.com/m/eae58bbe-804f-3cec-a52f-bfe61c6d7dcb/how-quantinuum-is-taking-aim.html?.tsrc=rss",
-      "time": "2026-11-05T12:00:00+00:00",
+      "title": "Tessell Agents for Gemini Bring Agentic Database Lifecycle Management to Enterprise Databases on Google Cloud",
+      "summary": "Tessell (www.tessell.com), one of the leading multi-cloud database-as-a-service (DBaaS) providers, has announced the launch of three specialized agents built leveraging Google's Gemini on Tessell's multi-cloud database platform. The announcement, showcased live by Google at Oracle AI World on Oct 28, introduces a shift toward Agentic Database Lifecycle Management for Tessell customers running complex enterprise database workloads on Google Cloud.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tessell-agents-gemini-bring-agentic-130000463.html?.tsrc=rss",
+      "time": "2026-11-05T13:00:00+00:00",
       "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:dbe8d720-000b-30f9-9d93-40ad0dd3bb36",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ORCL",
-      "title": "Credo and Oracle Drive AI Optical Innovation: Is CRDO Set to Benefit?",
-      "summary": "CRDO secures OCP approval with ORCL for two optical connectivity standards, advancing AI data center reliability and its role in next-generation infrastructure.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/credo-oracle-drive-ai-optical-115500422.html?.tsrc=rss",
-      "time": "2026-11-05T11:55:00+00:00",
-      "touches": [
+        "GOOGL",
+        "MSFT",
         "ORCL"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:835abbab-64fe-3558-87f6-ffd2f42cf2d0",
+      "id": "rss:ef79edf5-40c5-3dd5-ba7d-04ae6fdcef78",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MU",
-      "title": "Micron Stock Drops Again as Its Market Share Shrinks. Why That\u2019s an Opportunity.",
-      "summary": "Micron stock has fallen below $800 and its market share has shrunk. It's time to look on the bright side.",
-      "link": "https://finance.yahoo.com/m/835abbab-64fe-3558-87f6-ffd2f42cf2d0/micron-stock-drops-again-as.html?.tsrc=rss",
-      "time": "2026-11-05T11:02:00+00:00",
+      "ticker": "NVDA",
+      "title": "Fastly Q3 Earnings Beat Estimates, Revenues Increase Y/Y",
+      "summary": "FSLY beats Q3'26 earnings estimates as revenues rise 20.2%, fueled by security growth and customer expansion, prompting higher 2026 revenue and earnings forecasts.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fastly-q3-earnings-beat-estimates-121000216.html?.tsrc=rss",
+      "time": "2026-11-05T12:10:00+00:00",
       "touches": [
-        "MU"
+        "NVDA"
       ],
-      "tags": [],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:4e737e21-5a30-3d1b-9d4a-301481bfdf5a",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Nvidia-Backed Humanoid Maker Agility Goes Public in First for the US",
+      "summary": "Agility Robotics Inc. is set to become the first dedicated humanoid company to go public in the US, marking a major milestone for the emerging category that still has a lot to prove.The startup begins trading Thursday on Nasdaq under the ticker \"AGLT\" after merging with special purpose acquisition company Churchill Capital Corp. XI. The company has about $465 million on hand before expenses, including a roughly $201 million public investment in private equity led by Foxconn, Apple Inc.'s main iP",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-humanoid-maker-agility-120021730.html?.tsrc=rss",
+      "time": "2026-11-05T12:00:21+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "deal"
+      ],
       "new": true
     }
   ],
