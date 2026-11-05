@@ -1,37 +1,5 @@
 {
-  "as_of": "2026-11-05T01:35:00Z",
-  "items": [
-    {
-      "id": "rss:690eab96-a9d6-3f26-9182-97db8547b474",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Physical AI Empowers Smart Mobility: LUXEED Builds a New Full-Scenario Intelligent Ecosystem",
-      "summary": "WUHU, China, Nov. 04, 2026 (GLOBE NEWSWIRE) -- Earlier this year, Chery Automobile established a global strategic partnership with NVIDIA to conduct joint R&D across high-level driver assistance, in-cabin AI, and robotics, accelerating the industrial deployment of Physical AI. As Physical AI rapidly transitions from virtual models to real-world applications, the automobile is being redefined into an intelligent entity capable of perception, comprehension, and decision-making. On October 21, at t",
-      "link": "https://finance.yahoo.com/technology/ai/articles/physical-ai-empowers-smart-mobility-010200324.html?.tsrc=rss",
-      "time": "2026-11-05T01:02:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:1d732710-c696-3cac-8c8b-90e538192b5e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "After the midterms, Big Tech\u2019s AI data center problem is only getting bigger",
-      "summary": "On Tuesday, U.S. voters delivered an overwhelming victory for Democratic candidates throughout the country that will upend the halls of power in Washington and data center hotbeds like Texas.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/midterms-big-tech-ai-data-211836294.html?.tsrc=rss",
-      "time": "2026-11-04T21:18:36+00:00",
-      "touches": [
-        "MSFT",
-        "ORCL"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-05T02:05:00Z",
+  "items": [],
   "atencao": []
 }
