@@ -1,5 +1,40 @@
 {
-  "as_of": "2026-11-05T00:35:00Z",
-  "items": [],
+  "as_of": "2026-11-05T01:05:00Z",
+  "items": [
+    {
+      "id": "rss:cc86c0cb-c4d6-370e-a433-b0691d8aff4d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Q3 Earnings Scorecard: Solid Beats, Upward Revisions, and AI Drivers",
+      "summary": "Roughly 75% of S&P 500 members have reported results in the Q3 cycle, with earnings up +24.8% from the same period last year on +14.0% higher revenues. The Tech sector remains a strong contributor, as earnings for the sector are on pace to grow +44.2% year-over-year on +35.0% higher revenues.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q3-earnings-scorecard-solid-beats-233900397.html?.tsrc=rss",
+      "time": "2026-11-04T23:39:00+00:00",
+      "touches": [
+        "GOOGL",
+        "MU",
+        "NVDA"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:7121a272-6b66-3800-aa12-1d50572fe576",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Isomorphic Labs in Talks for About $5 Billion in Funding",
+      "summary": "Alphabet Inc.\u2019s Isomorphic Labs is in talks to raise roughly $5 billion in new funds to support its efforts to use artificial intelligence for drug discovery, according to people familiar with the matter.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/isomorphic-labs-talks-5-billion-225144910.html?.tsrc=rss",
+      "time": "2026-11-04T22:51:44+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
