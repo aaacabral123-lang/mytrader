@@ -1,17 +1,17 @@
 {
-  "as_of": "2026-11-06T00:35:00Z",
+  "as_of": "2026-11-06T01:05:11Z",
   "items": [
     {
-      "id": "rss:5aae7963-b2ca-306d-8163-e89686ebb3e3",
+      "id": "rss:cc19b331-91f6-3f72-a831-2c11debb1fb3",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Apple, Alphabet, and Meta: 3 Big Takeaways from Recent Earnings",
-      "summary": "AI remains a major driving force behind the results, particularly for Alphabet's Cloud business and Meta's advertising operations. And with Apple continuing to post records across its core offerings, the broader growth picture for these technology giants remains constructive.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-alphabet-meta-3-big-230000891.html?.tsrc=rss",
-      "time": "2026-11-05T23:00:00+00:00",
+      "ticker": "ORCL",
+      "title": "Quantinuum Reports Third Quarter 2026 Results and Raises Full-Year Revenue Outlook",
+      "summary": "Quantinuum Inc. (Nasdaq: QNT) (the \"Company\"), a leading full-stack quantum computing company, today announced financial results for the third quarter ended September 30, 2026.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/quantinuum-reports-third-quarter-2026-210100587.html?.tsrc=rss",
+      "time": "2026-11-05T21:01:00+00:00",
       "touches": [
-        "GOOGL"
+        "ORCL"
       ],
       "tags": [
         "earnings"
