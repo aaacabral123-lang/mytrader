@@ -1,65 +1,45 @@
 {
-  "as_of": "2026-11-06T16:35:00Z",
+  "as_of": "2026-11-06T17:05:00Z",
   "items": [
     {
-      "id": "rss:50cbc6a3-24a8-4d6d-8964-49e41ffb094f",
+      "id": "rss:5274026d-177a-370e-ba7a-aade3c33f663",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Let's dismiss the multi-trillion AI sell-off and look at demand",
-      "summary": "Host Ejaaz Ahamadee discusses the multi-trillion-dollar market wipeout and how it seems exaggerated, given accelerating AI demand and some \"Magnificent Seven\" stocks rebounding.",
-      "link": "https://finance.yahoo.com/video/lets-dismiss-the-multi-trillion-ai-sell-off-and-look-at-demand-162233407.html?.tsrc=rss",
-      "time": "2026-11-06T16:22:33+00:00",
+      "ticker": "NVDA",
+      "title": "NVIDIA Stocks Rebound 6.78% as Lawmakers Call Jensen Huang to Closed-Door Briefing",
+      "summary": "Three House chairmen want Huang to explain his ties to a reported Chinese intelligence asset by November 18.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-rebound-6-78-165211819.html?.tsrc=rss",
+      "time": "2026-11-06T16:52:11+00:00",
       "touches": [
-        "GOOGL",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:57e58f59-e9da-3096-bc2b-5ab59cc3b4dd",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Protesters storm Microsoft data centre",
+      "summary": "Activists have stormed a Microsoft data centre in the Netherlands as part of a wave of anti-AI protests across Europe.",
+      "link": "https://uk.finance.yahoo.com/news/protesters-storm-microsoft-data-centre-164110621.html?.tsrc=rss",
+      "time": "2026-11-06T16:41:10+00:00",
+      "touches": [
         "MSFT"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:d1fa7094-97fe-3b88-afe2-d448142626b5",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "Micron Stocks Rebound 8.06% After 18% Crash as Memory Names Bounce",
-      "summary": "Micron trades near 9 times trailing earnings after Thursday's plunge on fears over U.S. data center restrictions.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stocks-rebound-8-06-161801381.html?.tsrc=rss",
-      "time": "2026-11-06T16:18:01+00:00",
-      "touches": [
-        "MU"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:e2e7dc43-3ae4-3603-a100-0606cb137e15",
+      "id": "rss:2a7a7a7c-2fa8-481e-b288-198927f6682d",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "IonQ's Q3 Beat, Higher Guidance Supported by Superion 256 Demand, Morgan Stanley Says",
-      "summary": "IonQ (IONQ) reported a Q3 beat and raised its 2026 revenue guidance as demand builds for its Superio",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ionq-apos-q3-beat-higher-160951629.html?.tsrc=rss",
-      "time": "2026-11-06T16:09:51+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:6bd82421-cf97-4476-81e7-7b111c2c4f12",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Rising GPU prices just might turn Nvidia into a buy",
-      "summary": "In The Loop host Ejaaz Ahamadee compares the rising prices of older GPUs with the drop in crypto tokens, underlining how this can be beneficial for Nvidia (NVDA).",
-      "link": "https://finance.yahoo.com/video/rising-gpu-prices-just-might-turn-nvidia-into-a-buy-160742850.html?.tsrc=rss",
-      "time": "2026-11-06T16:07:42+00:00",
+      "title": "Stocks had their worst day in 18 months \u2014 here's what that means for your portfolio",
+      "summary": "Thursday's stock sell-off was mostly an AI story: Chip stocks crashed, while the typical stock in the S&P 500 is barely off its high.",
+      "link": "https://finance.yahoo.com/markets/article/stocks-had-their-worst-day-in-18-months--heres-what-that-means-for-your-portfolio-164024037.html?.tsrc=rss",
+      "time": "2026-11-06T16:40:24+00:00",
       "touches": [
         "NVDA"
       ],
@@ -67,18 +47,16 @@
       "new": true
     },
     {
-      "id": "rss:87d265ad-126c-3ac6-aca4-63ce71d4caf4",
+      "id": "rss:23b46a22-d1a4-3703-8e8a-079e37547ffe",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Oracle beats Microsoft and Amazon on a key Wall Street metric",
-      "summary": "Oracle received the strongest valuation grade among seven major technology companies following Thursday's sector selloff.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-beats-microsoft-amazon-key-160655388.html?.tsrc=rss",
-      "time": "2026-11-06T16:06:55+00:00",
+      "ticker": "MU",
+      "title": "The Cheapest AI Stocks to Buy Now",
+      "summary": "Is the AI trade over? These companies have double digit growth and are dirt cheap.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cheapest-ai-stocks-buy-now-154800566.html?.tsrc=rss",
+      "time": "2026-11-06T15:48:00+00:00",
       "touches": [
-        "GOOGL",
-        "MSFT",
-        "ORCL"
+        "MU"
       ],
       "tags": [],
       "new": true
