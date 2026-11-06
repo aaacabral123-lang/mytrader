@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-06T02:05:00Z",
-  "items": [
-    {
-      "id": "rss:703ef618-8f5b-3c34-9ee4-a3eae1c5e9ed",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "U.S. stock futures rise after AI rout batters Wall St; payrolls data in focus",
-      "summary": "Investing.com-- U.S. stock index futures firmed on Thursday evening, heralding some recovery after increasing doubts over the AI trade in a Democrat-led Congress wiped out hundreds of billions from Wall Street.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-rise-ai-013807565.html?.tsrc=rss",
-      "time": "2026-11-06T01:38:07+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-06T02:35:00Z",
+  "items": [],
   "atencao": []
 }
