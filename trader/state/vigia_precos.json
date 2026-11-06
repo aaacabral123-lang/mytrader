@@ -1,25 +1,25 @@
 {
-  "as_of": "2026-11-06T18:05:05Z",
+  "as_of": "2026-11-06T18:09:01Z",
   "source": "yahoo",
   "note": "Delayed quotes for alerts and sizing checks. Your broker's price is the one that fills.",
   "prices": {
-    "ADBE": 241.1,
+    "ADBE": 240.99,
     "BLK": 1210.11,
-    "GOOGL": 284.87,
-    "MSFT": 533.66,
-    "NVDA": 186.16,
-    "ORCL": 112.97,
+    "GOOGL": 285.11,
+    "MSFT": 533.447,
+    "NVDA": 186.45,
+    "ORCL": 113.39,
     "QQQ": 698.27,
     "SPY": 763.53,
-    "UNP": 292.085,
-    "XLK": 164.31,
-    "XLE": 61.905,
-    "REGN": 905.18
+    "UNP": 292.26,
+    "XLK": 164.402,
+    "XLE": 61.915,
+    "REGN": 905.935
   },
   "detail": {
     "ADBE": {
       "prev_close": 246.44,
-      "time": "2026-11-06T18:05:02Z",
+      "time": "2026-11-06T18:08:56Z",
       "source": "yahoo"
     },
     "BLK": {
@@ -29,22 +29,22 @@
     },
     "GOOGL": {
       "prev_close": 282.57,
-      "time": "2026-11-06T18:05:05Z",
+      "time": "2026-11-06T18:09:00Z",
       "source": "yahoo"
     },
     "MSFT": {
       "prev_close": 535.93,
-      "time": "2026-11-06T18:05:05Z",
+      "time": "2026-11-06T18:09:00Z",
       "source": "yahoo"
     },
     "NVDA": {
       "prev_close": 181.6,
-      "time": "2026-11-06T18:05:06Z",
+      "time": "2026-11-06T18:09:01Z",
       "source": "yahoo"
     },
     "ORCL": {
       "prev_close": 115.16,
-      "time": "2026-11-06T18:05:07Z",
+      "time": "2026-11-06T18:09:02Z",
       "source": "yahoo"
     },
     "QQQ": {
@@ -59,22 +59,22 @@
     },
     "UNP": {
       "prev_close": 297.95,
-      "time": "2026-11-06T18:04:57Z",
+      "time": "2026-11-06T18:08:58Z",
       "source": "yahoo"
     },
     "XLK": {
       "prev_close": 162.38,
-      "time": "2026-11-06T18:05:10Z",
+      "time": "2026-11-06T18:09:02Z",
       "source": "yahoo"
     },
     "XLE": {
       "prev_close": 61.63,
-      "time": "2026-11-06T18:05:05Z",
+      "time": "2026-11-06T18:08:52Z",
       "source": "yahoo"
     },
     "REGN": {
       "prev_close": 902.9,
-      "time": "2026-11-06T18:04:48Z",
+      "time": "2026-11-06T18:08:39Z",
       "source": "yahoo"
     }
   }
