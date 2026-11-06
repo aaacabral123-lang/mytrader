@@ -1,22 +1,66 @@
 {
-  "as_of": "2026-11-05T23:35:00Z",
+  "as_of": "2026-11-06T00:05:00Z",
   "items": [
     {
-      "id": "rss:3f9b540a-5a68-32e5-992a-db9a1905d98a",
+      "id": "rss:808a626e-22c9-3a51-a3f2-6df1a0c4079f",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "AI Isn\u2019t All Bad Right Now. Here Are 2 Stocks Going the Other Way.",
-      "summary": "AI-powered advertising helped lift both companies\u2019 results, offering a bright spot as concerns about data center spending battered tech stocks.",
-      "link": "https://finance.yahoo.com/m/3f9b540a-5a68-32e5-992a-db9a1905d98a/ai-isn%E2%80%99t-all-bad-right-now..html?.tsrc=rss",
-      "time": "2026-11-05T21:27:00+00:00",
+      "title": "Democrats Eye New Wealth Taxes, Even as California Ballot Initiative Falters",
+      "summary": "Although a controversial proposed tax on billionaires appears headed for defeat in California, the idea of taxing great concentrations of personal wealth remains alive and well among Democrats following their resounding victory in nationwide voting this week. California\u2019s Proposition 40 would impose a 5% tax on the wealth of billionaires who resided in the state at the beginning of 2026, with the revenues to be used for healthcare programs, food assistance and education. The results are not yet",
+      "link": "https://finance.yahoo.com/economy/policy/articles/democrats-eye-wealth-taxes-even-234531855.html?.tsrc=rss",
+      "time": "2026-11-05T23:45:31+00:00",
       "touches": [
         "GOOGL"
       ],
       "tags": [
-        "earnings",
-        "capital"
+        "earnings"
       ],
+      "new": true
+    },
+    {
+      "id": "rss:4c183bc2-6811-37b2-9000-07bf7446ea06",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "IREN (IREN) Draws Tighter Oversight On Neocloud Data Center Projects",
+      "summary": "Microsoft has tightened oversight of neocloud data center projects with partner IREN (NasdaqGS:IREN) after recent delivery issues. The tech giant has declined contract extensions on certain neocloud builds, citing project delays and higher than expected costs. IREN is reported to have faced operational setbacks at its Texas facility, including an incident that disrupted local data center activity. Microsoft's decision to refuse neocloud extensions and the Texas site incident is only one...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/iren-iren-draws-tighter-oversight-232125190.html?.tsrc=rss",
+      "time": "2026-11-05T23:21:25+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:5729c076-c775-34fc-8afc-8434ef93c12f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ORCL",
+      "title": "Is Oracle (ORCL) Reasonable After Its AI Cash Flow Targets?",
+      "summary": "Oracle Corporation has been pulled sharply lower over the past year, even as management lays out an aggressive plan built around AI infrastructure and future free cash flow. That disconnect puts the focus squarely on one issue for investors who follow Oracle: whether the current share price lines up with what its cash flows can support over time. Oracle stock has fallen 52.1% over the past 12 months, which puts a lot of weight on whether the cash it can generate in the coming years justifies...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-reasonable-ai-cash-231628103.html?.tsrc=rss",
+      "time": "2026-11-05T23:16:28+00:00",
+      "touches": [
+        "ORCL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:aa51ea48-070f-3bd5-8e7c-f069bd57e30a",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "Wall Street\u2019s best post-midterm rally in 44 years lasted just one day\u2014then $3 trillion vanished as chip stocks plunged over AI fears",
+      "summary": "Chip and AI stocks led a delayed selloff on fears new Democratic governors will pause data centers. Analysts split on how long.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-best-post-midterm-204138090.html?.tsrc=rss",
+      "time": "2026-11-05T20:41:38+00:00",
+      "touches": [
+        "MU"
+      ],
+      "tags": [],
       "new": true
     }
   ],
