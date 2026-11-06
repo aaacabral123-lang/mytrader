@@ -1,113 +1,15 @@
 {
-  "as_of": "2026-11-06T22:05:00Z",
+  "as_of": "2026-11-06T22:35:00Z",
   "items": [
     {
-      "id": "rss:8bbf0b23-16fd-34c9-a835-db45e7dd3a72",
+      "id": "rss:33f5fec8-2bd0-4011-a3ef-0fac26dd2e72",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "SovAI Joins NVIDIA Inception to Build Behind-the-Meter AI Factories to the NVIDIA DSX Reference Architecture",
-      "summary": "DANA POINT, Calif., November 06, 2026--SovAI, Inc. (\"SovAI\"), The AI Factory Architect, today announced that it has joined NVIDIA Inception, a program that nurtures startups revolutionizing industries with technology advancements. SovAI designs, builds and operates sovereign, behind-the-meter AI Factories \u2014 campuses built on Sovereign Fuel, Sovereign Power and Sovereign Compute \u2014 to NVIDIA\u2019s published DSX reference architecture, and orchestrates them with Scotty, its operating engineer for AI Fa",
-      "link": "https://finance.yahoo.com/technology/ai/articles/sovai-joins-nvidia-inception-build-215200802.html?.tsrc=rss",
-      "time": "2026-11-06T21:52:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:e1b80fa8-26b1-3d2f-9262-c4e724888393",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Reddit\u2019s (RDDT) Short-Term Pains May Lead to Long-Term Gains",
-      "summary": "Reddit\u2019s (RDDT) short-term pains may lead to long-term gains, in my view. The leading social media platform lost more than 25% of its market value soon after it reported Q3 earnings on October 30. This crash followed traffic headwinds from Google\u2019s (GOOGL) AI Overviews and the rollout of its new artificial intelligence (AI) Mode features, which negatively impacted Reddit\u2019s user growth. However, on November 4, Reddit stock surged 6% after the company announced that it is testing ad placements on",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-short-term-pains-214600411.html?.tsrc=rss",
-      "time": "2026-11-06T21:46:00+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:283e1bd9-349e-390b-a32b-b4ed9a9034f3",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Dow Jones Futures: Market Needs Repair But Sandisk, Micron Broken; Apple, Amazon, Microsoft Strong",
-      "summary": "The stock market needs repair while Sandisk and Micron seem broken. Apple, Amazon and Microsoft are holding up. Berkshire earnings loom.",
-      "link": "https://finance.yahoo.com/m/283e1bd9-349e-390b-a32b-b4ed9a9034f3/dow-jones-futures%3A-market.html?.tsrc=rss",
-      "time": "2026-11-06T21:45:10+00:00",
-      "touches": [
-        "MSFT",
-        "MU",
-        "NVDA"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:33f9fc20-fa78-3956-8228-680794206f3a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Elon Musk Says SpaceX Sales Are \u2018Exploding\u2019\u2014and Forecasts Revenue Twice Wall Street\u2019s Estimate",
-      "summary": "Ron Baron\u2019s annual investment conference often includes a conversation with the SpaceX CEO Baron calls \u201cStarman.\u201d",
-      "link": "https://finance.yahoo.com/m/33f9fc20-fa78-3956-8228-680794206f3a/elon-musk-says-spacex-sales.html?.tsrc=rss",
-      "time": "2026-11-06T21:34:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:b3b18bbc-caf7-3c1a-8052-7a3d8db4abb1",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "US Equity Indexes Drop This Week as Mega-Cap Tech Sinks After Democrats' Midterm Victory Casts Doubt Over AI Buildout",
-      "summary": "US equity indexes slumped this week after a post-election rout in big tech as investors expect data",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-drop-week-213227265.html?.tsrc=rss",
-      "time": "2026-11-06T21:32:27+00:00",
-      "touches": [
-        "MU"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:13933ac1-ca44-3c66-87e0-08f5c6b276e8",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia, Intel, Tesla, AMD, Coherent, Lam Research, Moderna, and More Stocks That Explain Today\u2019s Market",
-      "summary": "Nvidia trades higher Friday after recording its second-largest one-day market cap decline on record on Thursday.",
-      "link": "https://finance.yahoo.com/m/13933ac1-ca44-3c66-87e0-08f5c6b276e8/nvidia%2C-intel%2C-tesla%2C-amd%2C.html?.tsrc=rss",
-      "time": "2026-11-06T21:28:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:65fecbc5-af56-3c1b-810c-27181f29d451",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Buy the Stock Market Dip. Here\u2019s How.",
-      "summary": "The market is now shifting, violently, to a new leadership regime. Consider a barbell strategy of holding cyclical stocks plus memory companies.",
-      "link": "https://finance.yahoo.com/m/65fecbc5-af56-3c1b-810c-27181f29d451/buy-the-stock-market-dip..html?.tsrc=rss",
-      "time": "2026-11-06T20:50:00+00:00",
+      "title": "Chip rally may be time for investors to 'harvest cash and wait'",
+      "summary": "Michael Martin, TraderMindset.com founder, joins Yahoo Finance Markets and Data Editor Jared Blikre to discuss why investors should not treat Friday's semiconductor rally as a buying opportunity and instead play defense and raise cash.",
+      "link": "https://finance.yahoo.com/video/chip-rally-may-be-time-for-investors-to-harvest-cash-and-wait-221657650.html?.tsrc=rss",
+      "time": "2026-11-06T22:16:57+00:00",
       "touches": [
         "NVDA"
       ],
