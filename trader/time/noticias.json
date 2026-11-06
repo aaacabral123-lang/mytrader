@@ -1,17 +1,100 @@
 {
-  "as_of": "2026-11-06T21:05:00Z",
+  "as_of": "2026-11-06T21:35:00Z",
   "items": [
     {
-      "id": "rss:fe430f72-e6d3-3295-adb7-8cab3bbf13e9",
+      "id": "rss:4ee21837-ec21-3d2e-bc92-781178bf2e3f",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "XLK",
-      "title": "Sector Update: Tech Stocks Gain Late Afternoon",
-      "summary": "Tech stocks were higher late Friday afternoon, with the State Street Technology Select Sector SPDR E",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-gain-afternoon-204832329.html?.tsrc=rss",
-      "time": "2026-11-06T20:48:32+00:00",
+      "ticker": "GOOGL",
+      "title": "TeraWulf Inc (WULF) (Q3 2026) Earnings Call Highlights: Securing Hyperscaler Backstops and ...",
+      "summary": "TeraWulf Inc (WULF) leverages investment-grade customer support and protected deal economics to drive long-term data center value while managing regulatory and execution challenges.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/terawulf-inc-wulf-q3-2026-211423335.html?.tsrc=rss",
+      "time": "2026-11-06T21:14:23+00:00",
       "touches": [
-        "XLK"
+        "GOOGL"
+      ],
+      "tags": [
+        "earnings",
+        "deal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:7e03399a-cce2-327e-8202-43ff357cd26f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "Micron vs. Nvidia: Which AI Stock Is a Better Buy for 2027?",
+      "summary": "Micron (MU) and Nvidia (NVDA) have become major beneficiaries of the AI boom. Nvidia leads in AI chips, while Micron supplies memory used in AI systems. Both companies could benefit from continued spending on data centers in 2027. In terms of price performance, Micron stock has gained 130% year-to-date, while Nvidia stock has fallen about 3%. Still, analysts see room for both stocks to rise. TipRanks data shows Micron has greater forecast upside. MU average price target implies 147.06% upside, c",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-nvidia-ai-stock-211242383.html?.tsrc=rss",
+      "time": "2026-11-06T21:12:42+00:00",
+      "touches": [
+        "MU",
+        "NVDA"
+      ],
+      "tags": [
+        "earnings",
+        "analyst"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:f1e67f6d-64be-347c-b3ec-dcf0d1c5dab6",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "5 Latest Jim Cramer Stock Picks on Twitter and Mad Money",
+      "summary": "Markets are trembling amid the latest AI stock sell-off, which has sent shares of major AI players deep into the red. But CNBC\u2019s Jim Cramer believes the downturn is not another dot-com crash. Cramer warned that AI stocks could fall further, particularly semiconductor companies whose shares surged during the AI boom. However, he argued that [\u2026]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-latest-jim-cramer-stock-211011014.html?.tsrc=rss",
+      "time": "2026-11-06T21:10:11+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:4f518341-f378-3033-8ae2-83c36b9fca3b",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ORCL",
+      "title": "ORACLE'S ANNUAL MEETING OF STOCKHOLDERS TO BE HELD NOVEMBER 18, 2026",
+      "summary": "Oracle (NYSE: ORCL) will hold its 2026 Annual Meeting of Stockholders on Wednesday, November 18, 2026, at 9:00 a.m., Central Time. This year's meeting will be conducted virtually via a live audio webcast at www.virtualshareholdermeeting.com/ORCL2026. Stockholders as of the close of business on September 21, 2026, the record date, are entitled to participate in the Annual Meeting. Guests may also view the Annual Meeting but may not vote or ask questions.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracles-annual-meeting-stockholders-held-210500675.html?.tsrc=rss",
+      "time": "2026-11-06T21:05:00+00:00",
+      "touches": [
+        "ORCL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:552c961c-44d7-3b17-8c5d-ef4171c92e27",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Google buys Wyoming data center site as hyperscalers move to own AI capacity",
+      "summary": "Investing.com -- Alphabet is buying the site it could have rented.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/google-buys-wyoming-data-center-210033583.html?.tsrc=rss",
+      "time": "2026-11-06T21:00:33+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:40e4388a-8269-39bd-a5c7-d88cd61f3238",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLE",
+      "title": "Sector Update: Energy Stocks Lower Late Afternoon",
+      "summary": "Energy stocks were softer late Friday afternoon, with the NYSE Energy Sector Index easing 0.1% and t",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lower-afternoon-205956608.html?.tsrc=rss",
+      "time": "2026-11-06T20:59:56+00:00",
+      "touches": [
+        "XLE"
       ],
       "tags": [],
       "new": true
