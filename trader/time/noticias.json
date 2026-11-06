@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-06T22:35:00Z",
-  "items": [
-    {
-      "id": "rss:33f5fec8-2bd0-4011-a3ef-0fac26dd2e72",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Chip rally may be time for investors to 'harvest cash and wait'",
-      "summary": "Michael Martin, TraderMindset.com founder, joins Yahoo Finance Markets and Data Editor Jared Blikre to discuss why investors should not treat Friday's semiconductor rally as a buying opportunity and instead play defense and raise cash.",
-      "link": "https://finance.yahoo.com/video/chip-rally-may-be-time-for-investors-to-harvest-cash-and-wait-221657650.html?.tsrc=rss",
-      "time": "2026-11-06T22:16:57+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-06T23:05:00Z",
+  "items": [],
   "atencao": []
 }
