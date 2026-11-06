@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-06T06:35:00Z",
-  "items": [
-    {
-      "id": "rss:f7d02d7a-450e-36f7-bb97-d714129a25f3",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Physical AI Empowers Smart Mobility: LUXEED Builds a New Full-Scenario Intelligent Ecosystem",
-      "summary": "WUHU, China, Nov. 06, 2026 (GLOBE NEWSWIRE) -- Earlier this year, Chery Automobile established a global strategic partnership with NVIDIA to conduct joint R&D across high-level driver assistance, in-cabin AI, and robotics, accelerating the industrial deployment of Physical AI. As Physical AI rapidly transitions from virtual models to real-world applications, the automobile is being redefined into an intelligent entity capable of perception, comprehension, and decision-making. On October 21, at t",
-      "link": "https://finance.yahoo.com/technology/ai/articles/physical-ai-empowers-smart-mobility-060100011.html?.tsrc=rss",
-      "time": "2026-11-06T06:01:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-06T07:05:00Z",
+  "items": [],
   "atencao": []
 }
