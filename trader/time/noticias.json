@@ -1,53 +1,5 @@
 {
-  "as_of": "2026-11-06T07:35:00Z",
-  "items": [
-    {
-      "id": "rss:ab7ee7eb-af10-3cdc-9ddb-4766c6c8635e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "ePlus Inc (PLUS) (Q2 2027) Earnings Call Highlights: Record $1 Billion in Gross Billings and ...",
-      "summary": "ePlus Inc (PLUS) posted 9.7% net sales growth and lifted its fiscal 2027 outlook, though professional services softness and supply constraints tempered the quarter.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/eplus-inc-plus-q2-2027-072324454.html?.tsrc=rss",
-      "time": "2026-11-06T07:23:24+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:880ac219-1ff3-3519-b9ff-90e763425da7",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Beijing seeks to bolster AI shares",
-      "summary": "After recent sharp drops for some Chinese tech stocks, Beijing is trying to prop them up -- seeing the sector, and in particular AI, as a central strategic priority.On Tuesday, net capital inflows into nine exchange-traded funds (ETFs), commonly used by Beijing to prop up the market, reached 120 billion yuan ($18 billion) -- a near-record, according to Bloomberg data, targeting tech stocks in particular.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/beijing-seeks-bolster-ai-shares-071756887.html?.tsrc=rss",
-      "time": "2026-11-06T07:17:56+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:cf239f35-748f-3630-9bbf-7d0a21c4b107",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ORCL",
-      "title": "Meta Platforms Heads 3 Top Founder Led Stocks To Watch",
-      "summary": "AI related stocks just had their roughest day since 2025, as investors questioned how much future data centre build out is already priced in. When fast money backs away from hype, attention often shifts to leaders who built their business from the ground up and still run it. This article highlights three founder led companies from the screener that many investors are now watching more closely. The three stocks highlighted here offer a compelling starting point if you want exposure to founder...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-heads-3-top-071346599.html?.tsrc=rss",
-      "time": "2026-11-06T07:13:46+00:00",
-      "touches": [
-        "ORCL"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-06T08:05:00Z",
+  "items": [],
   "atencao": []
 }
