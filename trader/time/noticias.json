@@ -1,21 +1,69 @@
 {
-  "as_of": "2026-11-06T01:05:11Z",
+  "as_of": "2026-11-06T01:35:00Z",
   "items": [
     {
-      "id": "rss:cc19b331-91f6-3f72-a831-2c11debb1fb3",
+      "id": "rss:21ef644b-834f-36d2-b56a-73c27062008f",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "ORCL",
-      "title": "Quantinuum Reports Third Quarter 2026 Results and Raises Full-Year Revenue Outlook",
-      "summary": "Quantinuum Inc. (Nasdaq: QNT) (the \"Company\"), a leading full-stack quantum computing company, today announced financial results for the third quarter ended September 30, 2026.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/quantinuum-reports-third-quarter-2026-210100587.html?.tsrc=rss",
-      "time": "2026-11-05T21:01:00+00:00",
+      "title": "Our Pick Of The Best Cash Flow Stocks In November 2026",
+      "summary": "Interest rates in the UK now sit at 4% after the Bank of England\u2019s first hike in more than three years. This puts pressure on highly valued, story driven stocks and shines a light on something quieter: cash. Investors paying closer attention to hard cash generation may find mispriced opportunities where prices lag underlying cash flows. This article highlights three companies that screens flag as trading below their cash flow value. The three examples below are only a small sample of what the...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/pick-best-cash-flow-stocks-012043415.html?.tsrc=rss",
+      "time": "2026-11-06T01:20:43+00:00",
       "touches": [
         "ORCL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:32b104e1-86e3-34ce-930e-faa88a1ae56d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "3 Value Stocks With Up To 38% Discount To Fair Value",
+      "summary": "Chip stocks recently faced heavy selling as investors questioned future data center and AI spending. When markets punish entire sectors in a rush, solid technology businesses can get marked down alongside weaker peers. That creates room for patient buyers who care about price paid rather than headlines. This article walks through three attractively priced tech stocks from our undervalued screen that may merit a closer look now. The three stocks highlighted below are only a small sample, since...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-value-stocks-38-discount-011948981.html?.tsrc=rss",
+      "time": "2026-11-06T01:19:48+00:00",
+      "touches": [
+        "MSFT",
+        "ORCL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:16de73e1-b2b7-32af-8e0a-47bc2ac699e4",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Chatham Lodging Trust (CLDT) (Q3 2026) Earnings Call Highlights: Silicon Valley Surge Drives ...",
+      "summary": "Chatham Lodging Trust (CLDT) posted 8% RevPAR growth and a 190-basis-point hotel EBITDA margin expansion in Q3 2026, prompting a 28% hike to its full-year adjusted FFO per share guidance midpoint.",
+      "link": "https://finance.yahoo.com/real-estate/articles/chatham-lodging-trust-cldt-q3-011124012.html?.tsrc=rss",
+      "time": "2026-11-06T01:11:24+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT",
+        "NVDA"
       ],
       "tags": [
         "earnings"
       ],
+      "new": true
+    },
+    {
+      "id": "rss:98fb12fc-e543-3dfd-8cc5-edd325b1dfb3",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Elon Musk's SpaceX Could Build More Data Center Capacity in 18 Months Than Google Did in 27 Years, Says SemiAnalysis",
+      "summary": "Billionaire Elon Musk-led Space Exploration Technologies Corp. may be a commercial spaceflight company, but its aggressive compute buildout is fast becoming a crucial element of its business. SpaceX\u2019s Data Center Buildout Exceeds Google On Tuesday, semiconductor research firm SemiAnalysis released...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/elon-musks-spacex-could-build-003006299.html?.tsrc=rss",
+      "time": "2026-11-06T00:30:06+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [],
       "new": true
     }
   ],
