@@ -1,19 +1,18 @@
 {
-  "as_of": "2026-11-06T19:05:00Z",
+  "as_of": "2026-11-06T19:35:00Z",
   "items": [
     {
-      "id": "rss:7efd78ae-8f40-3f16-be05-d9865d194480",
+      "id": "rss:b79a7126-b84c-3149-96e1-c1cc194ff63f",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Update: Market Chatter: Microsoft to Conclude Deal With Oracle for Renting AI Compute",
-      "summary": "(Updates with statement from Oracle in the third paragraph.) Microsoft (MSFT) is concluding a dea",
-      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-microsoft-conclude-deal-184625120.html?.tsrc=rss",
-      "time": "2026-11-06T18:46:25+00:00",
+      "ticker": "MU",
+      "title": "Investing.com\u2019s stocks of the week",
+      "summary": "Investing.com -- Democratic wins in both chambers of Congress eventually triggered a heavy sell-off across AI and chip names, while deal news drove sharp moves in both directions elsewhere.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-191819455.html?.tsrc=rss",
+      "time": "2026-11-06T19:18:19+00:00",
       "touches": [
-        "MSFT",
-        "NVDA",
-        "ORCL"
+        "MU",
+        "NVDA"
       ],
       "tags": [
         "deal"
@@ -21,31 +20,110 @@
       "new": true
     },
     {
-      "id": "rss:0997f3c5-adca-3b67-823f-c9e32d7e200f",
+      "id": "rss:e818a54a-f830-3e50-9f27-10ad2d2d1e54",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "XLE",
-      "title": "Sector Update: Energy Stocks Higher Friday Afternoon",
-      "summary": "Energy stocks advanced Friday afternoon, with the NYSE Energy Sector Index up 0.1% and the State Str",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-higher-friday-184319151.html?.tsrc=rss",
-      "time": "2026-11-06T18:43:19+00:00",
+      "ticker": "MU",
+      "title": "Micron Stock Is the Cheapest Right Now -- Here's Why",
+      "summary": "Micron Tops Chip Sector Value Rankings as Semiconductor Stocks Suffer Brutal Selloff",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-cheapest-now-heres-191642844.html?.tsrc=rss",
+      "time": "2026-11-06T19:16:42+00:00",
       "touches": [
-        "XLE"
+        "MU"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:ecbc6c15-053f-37ad-be17-10a328b052da",
+      "id": "rss:505fb403-4aca-3f87-8259-115b7e34f15b",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "XLE",
-      "title": "Sector Update: Energy Stocks Fall Late Afternoon",
-      "summary": "Energy stocks were lower late Wednesday afternoon, with the NYSE Energy Sector Index falling 4.7% an",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-205739762.html?.tsrc=rss",
-      "time": "2026-11-04T20:57:39+00:00",
+      "ticker": "MSFT",
+      "title": "IREN Stock Jumps Despite Delay to $4 Billion ARR Target",
+      "summary": "AI cloud revenue nearly tripled to $200 million as Horizon 1 went into service for Microsoft",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-stock-jumps-despite-delay-191527859.html?.tsrc=rss",
+      "time": "2026-11-06T19:15:27+00:00",
       "touches": [
-        "XLE"
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:be0ebe03-9aa6-3176-9545-a68d19fe931c",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Oracle Faces Major Wall Street Test After AI Selloff",
+      "summary": "Strong demand is masking an increasingly complicated financial equation.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-faces-major-wall-street-191405948.html?.tsrc=rss",
+      "time": "2026-11-06T19:14:05+00:00",
+      "touches": [
+        "NVDA",
+        "ORCL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:dd593b93-209c-3d16-8b55-11d8e6f02419",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Microsoft Stocks Move Lower 0.80% as AI Rotation Swings Back to Chipmakers",
+      "summary": "Microsoft hit a record close of $555.80 on November 4, then slipped as investors rotated back into AI suppliers.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-move-lower-0-190941985.html?.tsrc=rss",
+      "time": "2026-11-06T19:09:41+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:5f9aaaea-f340-38bb-95ed-1aac672999d7",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Tencent Stocks Slip 2.46% After Hunyuan AI Rally as Hong Kong Tech Cools",
+      "summary": "Tencent gave back part of Thursday's 5.93% jump after launching its 770-billion-parameter Hy4 model.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tencent-stocks-slip-2-46-190914519.html?.tsrc=rss",
+      "time": "2026-11-06T19:09:14+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:cf48da48-dd9d-353a-8c6f-517c0b374cc0",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Crusoe Announces Wyoming Data Center Campus Update",
+      "summary": "Google acquired southeast Wyoming project from CrusoeDENVER, Nov. 06, 2026 (GLOBE NEWSWIRE) -- Crusoe, the AI factory company, today announced its site in southeast Wyoming has been acquired by Google. The transaction marks the completion of Crusoe's engagement in pre-development work on the Wyoming project \u2013 which included data center site selection, governmental approvals, and power strategy. \"Crusoe\u2019s pre-construction efforts \u2013 origination, entitlement, and de-risking \u2013 have set up the Wyomin",
+      "link": "https://finance.yahoo.com/technology/ai/articles/crusoe-announces-wyoming-data-center-190200368.html?.tsrc=rss",
+      "time": "2026-11-06T19:02:00+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [
+        "deal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:be001c9f-c94b-3a4d-9a7d-61cb27b85933",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Cathie Wood Makes $437 Million In Trades. Adds Nvidia, SpaceX; Offloads Broadcom",
+      "summary": "ARK Invest made major moves in the tech sector as AI stocks plummeted.",
+      "link": "https://finance.yahoo.com/m/be001c9f-c94b-3a4d-9a7d-61cb27b85933/cathie-wood-makes-%24437.html?.tsrc=rss",
+      "time": "2026-11-06T18:58:53+00:00",
+      "touches": [
+        "GOOGL",
+        "NVDA"
       ],
       "tags": [],
       "new": true
