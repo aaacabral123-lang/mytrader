@@ -1,91 +1,91 @@
 {
-  "as_of": "2026-11-05T20:35:16Z",
+  "as_of": "2026-11-06T14:35:09Z",
   "paper": true,
   "strategy": "screener",
   "rules": "Growing, profitable, not priced for perfection",
   "start": 5000.0,
-  "total": 4770.46,
-  "invested": 3371.76,
+  "total": 4780.7,
+  "invested": 3382.38,
   "cash": 411.48,
-  "change": -229.54,
-  "change_pct": -4.59,
+  "change": -219.3,
+  "change_pct": -4.39,
   "positions": [
-    {
-      "symbol": "MSFT",
-      "name": "MICROSOFT CORP",
-      "qty": 0.96296023,
-      "avg": 515.068,
-      "price": 535.2073,
-      "value": 515.38,
-      "pl": 19.39,
-      "pl_pct": 3.91,
-      "weight": 10.8
-    },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc.",
       "qty": 1.78815038,
       "avg": 277.376,
-      "price": 284.445,
-      "value": 508.63,
-      "pl": 12.64,
-      "pl_pct": 2.55,
-      "weight": 10.66
+      "price": 287.42,
+      "value": 513.95,
+      "pl": 17.96,
+      "pl_pct": 3.62,
+      "weight": 10.75
+    },
+    {
+      "symbol": "MSFT",
+      "name": "MICROSOFT CORP",
+      "qty": 0.96296023,
+      "avg": 515.068,
+      "price": 530.29,
+      "value": 510.65,
+      "pl": 14.66,
+      "pl_pct": 2.96,
+      "weight": 10.68
     },
     {
       "symbol": "ADBE",
       "name": "ADOBE INC.",
       "qty": 2.019585488,
       "avg": 245.59,
-      "price": 244.5,
-      "value": 493.79,
-      "pl": -2.2,
-      "pl_pct": -0.44,
-      "weight": 10.35
-    },
-    {
-      "symbol": "UNP",
-      "name": "UNION PACIFIC CORP",
-      "qty": 1.632372978,
-      "avg": 303.846,
-      "price": 296.355,
-      "value": 483.76,
-      "pl": -12.23,
-      "pl_pct": -2.46,
-      "weight": 10.14
+      "price": 239.82,
+      "value": 484.34,
+      "pl": -11.65,
+      "pl_pct": -2.35,
+      "weight": 10.13
     },
     {
       "symbol": "REGN",
       "name": "REGENERON PHARMACEUTICALS, INC.",
       "qty": 0.530957569,
       "avg": 941.676,
-      "price": 904.82,
-      "value": 480.42,
-      "pl": -19.57,
-      "pl_pct": -3.91,
-      "weight": 10.07
+      "price": 902.125,
+      "value": 478.99,
+      "pl": -21.0,
+      "pl_pct": -4.2,
+      "weight": 10.02
+    },
+    {
+      "symbol": "UNP",
+      "name": "UNION PACIFIC CORP",
+      "qty": 1.632372978,
+      "avg": 303.846,
+      "price": 291.83,
+      "value": 476.38,
+      "pl": -19.61,
+      "pl_pct": -3.96,
+      "weight": 9.96
     },
     {
       "symbol": "ORCL",
       "name": "ORACLE CORP",
       "qty": 3.941746801,
       "avg": 125.83,
-      "price": 115.27,
-      "value": 454.37,
-      "pl": -41.62,
-      "pl_pct": -8.39,
-      "weight": 9.52
+      "price": 117.065,
+      "value": 461.44,
+      "pl": -34.55,
+      "pl_pct": -6.97,
+      "weight": 9.65
     },
     {
       "symbol": "NVDA",
       "name": "NVIDIA CORP",
       "qty": 2.381935421,
       "avg": 207.81,
-      "price": 182.795,
-      "value": 435.41,
-      "pl": -59.58,
-      "pl_pct": -12.04,
-      "weight": 9.13
+      "price": 191.71,
+      "value": 456.64,
+      "pl": -38.35,
+      "pl_pct": -7.75,
+      "weight": 9.55
     }
   ],
   "targets": [
@@ -137,18 +137,18 @@
   "curto": {
     "start": 1000.0,
     "cash": 505.54,
-    "value": 987.22,
-    "change": -12.78,
-    "change_pct": -1.28,
+    "value": 986.84,
+    "change": -13.16,
+    "change_pct": -1.32,
     "positions": [
       {
         "symbol": "XLE",
         "qty": 3.994768547,
         "avg": 63.08,
-        "price": 62.238,
-        "value": 248.63,
-        "pl": -3.36,
-        "pl_pct": -1.33,
+        "price": 61.5,
+        "value": 245.68,
+        "pl": -6.31,
+        "pl_pct": -2.5,
         "since": "2026-11-04",
         "inverse_of": null
       },
@@ -156,106 +156,106 @@
         "symbol": "XLK",
         "qty": 1.423925178,
         "avg": 175.564,
-        "price": 163.67,
-        "value": 233.05,
-        "pl": -16.94,
-        "pl_pct": -6.78,
+        "price": 165.47,
+        "value": 235.62,
+        "pl": -14.37,
+        "pl_pct": -5.75,
         "since": "2026-11-02",
         "inverse_of": null
       }
     ],
     "signals": {
       "SPY": {
-        "price": 735.48,
-        "rsi2": 17.35,
-        "sma_exit": 752.87,
-        "sma_trend": 727.36
+        "price": 735.28,
+        "rsi2": 23.32,
+        "sma_exit": 748.37,
+        "sma_trend": 727.61
       },
       "QQQ": {
-        "price": 651.79,
-        "rsi2": 9.25,
-        "sma_exit": 680.11,
-        "sma_trend": 679.59
+        "price": 655.61,
+        "rsi2": 29.46,
+        "sma_exit": 672.38,
+        "sma_trend": 679.76
       },
       "IWM": {
-        "price": 271.15,
-        "rsi2": 15.19,
-        "sma_exit": 278.7,
-        "sma_trend": 277.98
+        "price": 270.38,
+        "rsi2": 13.93,
+        "sma_exit": 276.87,
+        "sma_trend": 277.99
       },
       "DIA": {
-        "price": 515.57,
-        "rsi2": 31.08,
-        "sma_exit": 520.38,
-        "sma_trend": 503.99
+        "price": 509.65,
+        "rsi2": 22.14,
+        "sma_exit": 518.71,
+        "sma_trend": 504.1
       },
       "XLK": {
-        "price": 163.69,
-        "rsi2": 4.21,
-        "sma_exit": 174.08,
-        "sma_trend": 169.81
+        "price": 165.49,
+        "rsi2": 30.4,
+        "sma_exit": 171.03,
+        "sma_trend": 169.91
       },
       "XLF": {
-        "price": 57.57,
-        "rsi2": 40.14,
-        "sma_exit": 57.6,
-        "sma_trend": 53.5
+        "price": 57.11,
+        "rsi2": 30.72,
+        "sma_exit": 57.71,
+        "sma_trend": 53.52
       },
       "XLE": {
-        "price": 62.24,
-        "rsi2": 2.79,
-        "sma_exit": 65.95,
-        "sma_trend": 58.51
+        "price": 61.47,
+        "rsi2": 2.17,
+        "sma_exit": 64.13,
+        "sma_trend": 58.57
       },
       "XLV": {
-        "price": 185.2,
-        "rsi2": 39.33,
-        "sma_exit": 185.69,
-        "sma_trend": 158.29
+        "price": 183.35,
+        "rsi2": 27.07,
+        "sma_exit": 185.34,
+        "sma_trend": 158.43
       },
       "XLY": {
-        "price": 117.42,
-        "rsi2": 35.79,
-        "sma_exit": 118.12,
-        "sma_trend": 115.12
+        "price": 116.87,
+        "rsi2": 30.71,
+        "sma_exit": 118.46,
+        "sma_trend": 115.1
       },
       "XLP": {
-        "price": 91.39,
-        "rsi2": 62.99,
-        "sma_exit": 90.52,
-        "sma_trend": 83.78
+        "price": 89.31,
+        "rsi2": 26.03,
+        "sma_exit": 90.47,
+        "sma_trend": 83.82
       },
       "XLI": {
-        "price": 162.61,
-        "rsi2": 8.82,
-        "sma_exit": 168.11,
-        "sma_trend": 172.65
+        "price": 161.85,
+        "rsi2": 7.6,
+        "sma_exit": 166.97,
+        "sma_trend": 172.64
       },
       "XLU": {
-        "price": 43.15,
-        "rsi2": 23.79,
-        "sma_exit": 43.47,
-        "sma_trend": 43.82
+        "price": 42.77,
+        "rsi2": 10.32,
+        "sma_exit": 43.36,
+        "sma_trend": 43.83
       },
       "XLB": {
-        "price": 52.13,
-        "rsi2": 28.6,
-        "sma_exit": 53.0,
-        "sma_trend": 50.82
+        "price": 51.68,
+        "rsi2": 20.46,
+        "sma_exit": 52.83,
+        "sma_trend": 50.84
       },
       "SMH": {
-        "price": 453.73,
-        "rsi2": 4.52,
-        "sma_exit": 501.52,
-        "sma_trend": 521.42
+        "price": 465.0,
+        "rsi2": 36.64,
+        "sma_exit": 488.46,
+        "sma_trend": 521.7
       }
     }
   },
   "benchmark": {
     "symbol": "SPY",
     "since": "2026-10-28",
-    "value": 4767.35,
-    "change_pct": -4.65
+    "value": 4766.57,
+    "change_pct": -4.67
   },
   "long_term": true,
   "regime": {
@@ -267,7 +267,7 @@
     "inverse": "SH",
     "distance_pct": 4.06
   },
-  "long_value": 3783.24,
+  "long_value": 3793.86,
   "pending": 0,
   "fills": [
     {
@@ -578,89 +578,89 @@
       "score": 1.0,
       "growth": 379.3,
       "margin": 80.7,
-      "pe": 10.1,
+      "pe": 9.3,
       "held": true
     },
     {
       "symbol": "NVDA",
       "name": "NVIDIA CORP",
-      "score": 0.773,
+      "score": 0.792,
       "growth": 105.9,
       "margin": 66.2,
-      "pe": 24.5,
+      "pe": 24.3,
       "held": true
     },
     {
       "symbol": "REGN",
       "name": "REGENERON PHARMACEUTICALS, INC.",
-      "score": 0.647,
+      "score": 0.656,
       "growth": 36.3,
       "margin": 40.0,
-      "pe": 20.8,
+      "pe": 19.9,
       "held": true
     },
     {
       "symbol": "ORCL",
       "name": "ORACLE CORP",
-      "score": 0.602,
+      "score": 0.615,
       "growth": 29.6,
       "margin": 34.8,
-      "pe": 19.0,
+      "pe": 18.3,
       "held": true
     },
     {
       "symbol": "LRCX",
       "name": "LAM RESEARCH CORP",
-      "score": 0.557,
+      "score": 0.573,
       "growth": 54.4,
       "margin": 40.0,
-      "pe": 31.2,
+      "pe": 30.2,
       "held": false
     },
     {
       "symbol": "GOOGL",
       "name": "Alphabet Inc.",
-      "score": 0.455,
+      "score": 0.479,
       "growth": 24.7,
       "margin": 31.8,
-      "pe": 15.3,
-      "held": true
-    },
-    {
-      "symbol": "MSFT",
-      "name": "MICROSOFT CORP",
-      "score": 0.387,
-      "growth": 18.8,
-      "margin": 49.8,
-      "pe": 28.9,
+      "pe": 15.0,
       "held": true
     },
     {
       "symbol": "UNP",
       "name": "UNION PACIFIC CORP",
-      "score": 0.387,
+      "score": 0.417,
       "growth": 15.3,
       "margin": 40.9,
-      "pe": 23.1,
+      "pe": 22.7,
       "held": true
     },
     {
-      "symbol": "ADBE",
-      "name": "ADOBE INC.",
-      "score": 0.375,
-      "growth": 12.9,
-      "margin": 34.8,
-      "pe": 13.9,
+      "symbol": "MSFT",
+      "name": "MICROSOFT CORP",
+      "score": 0.416,
+      "growth": 18.8,
+      "margin": 49.8,
+      "pe": 27.7,
       "held": true
     },
     {
       "symbol": "AMAT",
       "name": "APPLIED MATERIALS INC",
-      "score": 0.341,
+      "score": 0.375,
       "growth": 24.8,
       "margin": 33.7,
-      "pe": 30.2,
+      "pe": 29.3,
       "held": false
+    },
+    {
+      "symbol": "ADBE",
+      "name": "ADOBE INC.",
+      "score": 0.364,
+      "growth": 12.9,
+      "margin": 34.8,
+      "pe": 13.3,
+      "held": true
     }
   ],
   "history": [
@@ -988,8 +988,13 @@
       "t": "2026-11-05T20:35:16Z",
       "v": 4770.46,
       "b": 4767.35
+    },
+    {
+      "t": "2026-11-06T14:35:09Z",
+      "v": 4780.7,
+      "b": 4766.57
     }
   ],
-  "report": "trader/relatorios/2026-11-05.md",
+  "report": "trader/relatorios/2026-11-06.md",
   "repo": "aaacabral123-lang/mytrader"
 }

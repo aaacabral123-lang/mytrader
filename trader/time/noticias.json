@@ -1,48 +1,15 @@
 {
-  "as_of": "2026-11-06T14:05:00Z",
+  "as_of": "2026-11-06T14:35:00Z",
   "items": [
     {
-      "id": "rss:791f98cd-b260-4865-b042-61f10bdbf20e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "Nvidia, AMD, and Micron stocks lead chip sector higher following worst sell-off since 2020",
-      "summary": "Nvida, AMD, Micron and Sandisk rebounded on Friday after the chip sector suffered its worst daily drop since 2020.",
-      "link": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-sandsik-lead-chip-sector-higher-134336542.html?.tsrc=rss",
-      "time": "2026-11-06T13:43:36+00:00",
-      "touches": [
-        "MU",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:deae8b87-e7f4-3384-a959-4d57223e64a1",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "AI semiconductor rout may be buying opportunity, LYNX Equity says: \u2019Dip a toe in\u2019",
-      "summary": "Investing.com -- Lam Research (NASDAQ:LRCX) shares rebounded sharply in premarket trading Friday after the semiconductor equipment maker announced a $25 billion share repurchase authorization, offering a potential signal of corporate confidence following one of the technology sector\u2019s worst trading sessions in years.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-semiconductor-rout-may-buying-133944257.html?.tsrc=rss",
-      "time": "2026-11-06T13:39:44+00:00",
-      "touches": [
-        "MU"
-      ],
-      "tags": [
-        "capital"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:c22672b0-9b84-3df9-a358-4eb4fd7da524",
+      "id": "rss:0b811a9b-79ce-4a8d-8f45-184de3e6e262",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia makes major chip policy change as China scrutiny grows",
-      "summary": "Southeast Asian buyers must enroll in Nvidia's chip-tracking program to qualify as official cloud partners.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-makes-major-chip-policy-133831132.html?.tsrc=rss",
-      "time": "2026-11-06T13:38:31+00:00",
+      "title": "Anthropic's valuation of $1.5T facing pushback from major investors",
+      "summary": "AInvest managing editor Adam Shapiro and Interactive Brokers chief strategist Steve Sosnick sit down with The 8:30 host Pras Subramanian to talk about the effect of the AI market sell-off on the looming Anthropic (ANTH.PVT) IPO and the major investors balking at its valuations.",
+      "link": "https://finance.yahoo.com/video/anthropics-valuation-of-15t-facing-pushback-from-major-investors-142341402.html?.tsrc=rss",
+      "time": "2026-11-06T14:23:41+00:00",
       "touches": [
         "NVDA"
       ],
@@ -50,14 +17,29 @@
       "new": true
     },
     {
-      "id": "rss:2d6e155f-78f8-3a71-b772-043ab4ced7c3",
+      "id": "rss:272942af-e76d-36b3-8fe2-d6aa4fa55ca3",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Market Chatter: TSMC Mulls Expanding Into Advanced Memory Chip Production",
+      "summary": "Taiwan Semiconductor Manufacturing (TSM) is weighing whether to expand into the advanced memory chip",
+      "link": "https://finance.yahoo.com/technology/articles/market-chatter-tsmc-mulls-expanding-142144931.html?.tsrc=rss",
+      "time": "2026-11-06T14:21:44+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:bdb764ba-dc61-3e44-8e5c-d18f5ae9b210",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Google parent reveals $548 million bet on beaten-down chip stock",
-      "summary": "Alphabet disclosed nearly 3 million Qualcomm shares worth $547.9 million.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/google-parent-reveals-548-million-133611955.html?.tsrc=rss",
-      "time": "2026-11-06T13:36:11+00:00",
+      "title": "Wedbush Revises Best Ideas List After October Underperformance",
+      "summary": "Investing.com -- Wedbush updated its Best Ideas List after a challenging October, in which the portfolio returned -11.6%, versus -0.9% for the S&P 500, -5.3% for the Nasdaq and +0.5% for the Russell 2000.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wedbush-revises-best-ideas-list-141358648.html?.tsrc=rss",
+      "time": "2026-11-06T14:13:58+00:00",
       "touches": [
         "GOOGL"
       ],
@@ -65,18 +47,87 @@
       "new": true
     },
     {
-      "id": "rss:87392b84-0a1d-3bd5-a981-54e2d1d5e39a",
+      "id": "rss:aeb920dc-4bcd-3531-8458-6a642b7135df",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Analyst Calls Tech Stock Sell-Off 'Golden Buying Opportunity'",
+      "summary": "The tech stock sell-off presents a \"golden buying opportunity\" for investors to buy marquee stocks like Apple, Microsoft and Nvidia, one analyst says.",
+      "link": "https://finance.yahoo.com/m/aeb920dc-4bcd-3531-8458-6a642b7135df/analyst-calls-tech-stock.html?.tsrc=rss",
+      "time": "2026-11-06T14:09:06+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:caf751cd-3202-386c-9593-d2564cae633e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Aimbridge Hospitality Selected to Manage Seattle Marriott Redmond",
+      "summary": "PLANO, Texas, November 06, 2026--Aimbridge Hospitality has been selected to manage the Seattle Marriott Redmond. The company will assume management of the hotel in January 2027.",
+      "link": "https://finance.yahoo.com/real-estate/articles/aimbridge-hospitality-selected-manage-seattle-140000294.html?.tsrc=rss",
+      "time": "2026-11-06T14:00:00+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:618ed609-a3f6-3791-a914-feef238371b8",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "CRWV Poised for a Q3 Earnings Beat: Buy, Sell or Hold the Stock Now?",
+      "summary": "CoreWeave's Q3 earnings outlook is fueled by surging AI demand, a $104 billion backlog and expanding infrastructure, but rising costs pose risks.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/crwv-poised-q3-earnings-beat-131600016.html?.tsrc=rss",
+      "time": "2026-11-06T13:16:00+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:c32c6280-b4f0-3419-b8a1-cf73af51dd19",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MU",
-      "title": "Top 3 Growth Stocks To Watch In November 2026",
-      "summary": "AI related stocks just suffered a brutal selloff after political shifts in the US raised the risk of tougher rules on data centers and chip spending. That kind of shock often pushes money away from hype and toward businesses where analysts still expect solid growth, strong cash generation and cleaner balance sheets. This article walks through three such high potential stocks from our screener that fit that profile. The three examples below are just a sample, as the full screen surfaced 78...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-growth-stocks-watch-131600674.html?.tsrc=rss",
-      "time": "2026-11-06T13:16:00+00:00",
+      "title": "The Zacks Analyst Blog Highlights Berkshire Hathaway, Micron Technology, Chevron and Orbit International",
+      "summary": "Berkshire Hathaway, Micron and Chevron highlight strong earnings drivers, cash generation and growth opportunities, while Orbit International faces financial challenges despite a growing order book.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-berkshire-130500361.html?.tsrc=rss",
+      "time": "2026-11-06T13:05:00+00:00",
       "touches": [
         "MU"
       ],
-      "tags": [],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:5ed2c066-693f-35f8-bb80-c2525cce563d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "The Zacks Analyst Blog Highlights Microsoft, Amazon, Alphabet, Nextpower and Centene",
+      "summary": "Midterm election results are reshaping market opportunities, putting renewable energy, healthcare and AI stocks in focus as policy expectations shift.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-microsoft-125800453.html?.tsrc=rss",
+      "time": "2026-11-06T12:58:00+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT"
+      ],
+      "tags": [
+        "earnings"
+      ],
       "new": true
     }
   ],

@@ -1,25 +1,25 @@
 {
-  "as_of": "2026-11-05T20:35:11Z",
+  "as_of": "2026-11-06T14:35:04Z",
   "source": "yahoo",
   "note": "Delayed quotes for alerts and sizing checks. Your broker's price is the one that fills.",
   "prices": {
-    "ADBE": 244.525,
+    "ADBE": 239.15,
     "BLK": 1210.11,
-    "GOOGL": 284.46,
-    "MSFT": 535.185,
-    "NVDA": 182.89,
-    "ORCL": 115.22,
+    "GOOGL": 287.5,
+    "MSFT": 529.7,
+    "NVDA": 191.94,
+    "ORCL": 117.284,
     "QQQ": 698.27,
     "SPY": 763.53,
-    "UNP": 296.339,
-    "XLK": 163.72,
-    "XLE": 62.235,
-    "REGN": 904.5
+    "UNP": 291.4,
+    "XLK": 165.48,
+    "XLE": 61.53,
+    "REGN": 903.18
   },
   "detail": {
     "ADBE": {
-      "prev_close": 248.48,
-      "time": "2026-11-05T20:35:11Z",
+      "prev_close": 246.44,
+      "time": "2026-11-06T14:34:54Z",
       "source": "yahoo"
     },
     "BLK": {
@@ -28,23 +28,23 @@
       "source": "yahoo"
     },
     "GOOGL": {
-      "prev_close": 288.93,
-      "time": "2026-11-05T20:35:11Z",
+      "prev_close": 282.57,
+      "time": "2026-11-06T14:35:04Z",
       "source": "yahoo"
     },
     "MSFT": {
-      "prev_close": 555.8,
-      "time": "2026-11-05T20:35:11Z",
+      "prev_close": 535.93,
+      "time": "2026-11-06T14:35:05Z",
       "source": "yahoo"
     },
     "NVDA": {
-      "prev_close": 200.13,
-      "time": "2026-11-05T20:35:13Z",
+      "prev_close": 181.6,
+      "time": "2026-11-06T14:35:05Z",
       "source": "yahoo"
     },
     "ORCL": {
-      "prev_close": 123.73,
-      "time": "2026-11-05T20:35:11Z",
+      "prev_close": 115.06,
+      "time": "2026-11-06T14:35:04Z",
       "source": "yahoo"
     },
     "QQQ": {
@@ -58,23 +58,23 @@
       "source": "yahoo"
     },
     "UNP": {
-      "prev_close": 308.53,
-      "time": "2026-11-05T20:35:14Z",
+      "prev_close": 297.91,
+      "time": "2026-11-06T14:35:07Z",
       "source": "yahoo"
     },
     "XLK": {
-      "prev_close": 176.5,
-      "time": "2026-11-05T20:35:15Z",
+      "prev_close": 162.31,
+      "time": "2026-11-06T14:35:06Z",
       "source": "yahoo"
     },
     "XLE": {
-      "prev_close": 63.52,
-      "time": "2026-11-05T20:35:14Z",
+      "prev_close": 61.68,
+      "time": "2026-11-06T14:35:08Z",
       "source": "yahoo"
     },
     "REGN": {
-      "prev_close": 930.67,
-      "time": "2026-11-05T20:35:10Z",
+      "prev_close": 902.9,
+      "time": "2026-11-06T14:35:03Z",
       "source": "yahoo"
     }
   }
