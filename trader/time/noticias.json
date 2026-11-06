@@ -1,15 +1,30 @@
 {
-  "as_of": "2026-11-06T18:05:00Z",
+  "as_of": "2026-11-06T18:35:00Z",
   "items": [
     {
-      "id": "rss:a73f72df-0d95-3b42-9ef5-12fbcbc80a33",
+      "id": "rss:2e6bcb96-9e4c-3476-bd8c-e41323915825",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLK",
+      "title": "Sector Update: Tech Stocks Rise Friday Afternoon",
+      "summary": "Tech stocks were higher Friday afternoon, with the State Street Technology Select Sector SPDR ETF (X",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-friday-183139661.html?.tsrc=rss",
+      "time": "2026-11-06T18:31:39+00:00",
+      "touches": [
+        "XLK"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:238067fa-6b2c-3cad-91c4-b1176efe4d53",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "NVIDIA Corporation (NVDA) Is Taking AI Beyond Chips: Here\u2019s What Could Drive Its Next Growth Phase",
-      "summary": "Liontrust Investment Partners recently released its \u201cGF Global Innovation Fund\u201d Q3 2026 investor letter. A copy of the letter can be downloaded here. The Fund returned -3.0% in the third quarter of 2026, underperforming the MSCI AC World Index, which gained 1.6%. However, the Fund remained ahead year to date, returning 17.9% compared with 13.0% [\u2026]",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-taking-ai-173307195.html?.tsrc=rss",
-      "time": "2026-11-06T17:33:07+00:00",
+      "title": "Investor Warns Nvidia Is Repeating Cisco's Fatal Mistake",
+      "summary": "The warning centers on whether AI demand is becoming too dependent on ecosystem financing.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investor-warns-nvidia-repeating-ciscos-181800315.html?.tsrc=rss",
+      "time": "2026-11-06T18:18:00+00:00",
       "touches": [
         "NVDA"
       ],
@@ -17,32 +32,173 @@
       "new": true
     },
     {
-      "id": "rss:4defeeb6-9590-3555-a000-1101fbe12aa0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "Michael Burry Takes Profits on Major AI Bear Bet",
-      "summary": "Burry sold 25% of his SMH puts but says the remaining position is still very large.",
-      "link": "https://finance.yahoo.com/markets/options/articles/michael-burry-takes-profits-major-171655168.html?.tsrc=rss",
-      "time": "2026-11-06T17:16:55+00:00",
-      "touches": [
-        "MU",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:06719bcd-ae3d-389e-a81e-b10b56094566",
+      "id": "rss:7bb007ca-24db-35ef-b60f-eef4c68876c9",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MSFT",
-      "title": "SOUN Plunges 22.8% in the Past Month. Is the Sell-Off an Opportunity?",
-      "summary": "SoundHound's 22.8% monthly sell-off raises questions about its buying potential as robust AI revenue growth clashes with margin pressure and persistent losses.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/soun-plunges-22-8-past-165700150.html?.tsrc=rss",
-      "time": "2026-11-06T16:57:00+00:00",
+      "title": "Oracle falls 4% as Microsoft reportedly winds down AI cloud capacity deal",
+      "summary": "Investing.com -- Oracle shares fell 4% Friday after Bloomberg reported that Microsoft is winding down an arrangement to rent AI computing capacity from the company, adding to investor concerns about the sustainability of AI infrastructure spending following Thursday\u2019s sharp selloff in AI-related stocks.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-falls-4-microsoft-reportedly-181718577.html?.tsrc=rss",
+      "time": "2026-11-06T18:17:18+00:00",
       "touches": [
-        "MSFT"
+        "MSFT",
+        "NVDA",
+        "ORCL"
+      ],
+      "tags": [
+        "deal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:eed885f1-167d-346f-acdd-534cc4b90830",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "Qualcomm Faces Worst Day Since 2020 as Chips Crater",
+      "summary": "Qualcomm's handset miss collided with a much broader AI-chip de-rating.",
+      "link": "https://finance.yahoo.com/technology/articles/qualcomm-faces-worst-day-since-181632192.html?.tsrc=rss",
+      "time": "2026-11-06T18:16:32+00:00",
+      "touches": [
+        "MU"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:188d8ad6-16d5-47b5-848c-fff09f6745c7",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "'We're rapidly moving toward a tragedy': Why an AI slowdown could be a good thing",
+      "summary": "Turney Duff and his panel of experts weigh in on Thursday's massive tech sell-off, discussing what an AI slowdown might mean for the industry at large. Today's panel includes Politico economics correspondent and columnist Victoria Guida, RSM chief economist Joe Brusuelas, FBB Capital Partners president Mike Mussio, and Kelly Intelligence founder and CEO Kevin Kelly.",
+      "link": "https://finance.yahoo.com/video/were-rapidly-moving-toward-a-tragedy-why-an-ai-slowdown-could-be-a-good-thing-181553831.html?.tsrc=rss",
+      "time": "2026-11-06T18:15:53+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:7810ba8a-e170-3eac-9110-1871c0ff087d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLE",
+      "title": "Sector Update: Energy",
+      "summary": "Energy stocks were higher Friday afternoon, with the NYSE Energy Sector Index up 0.1% and the State",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-181446029.html?.tsrc=rss",
+      "time": "2026-11-06T18:14:46+00:00",
+      "touches": [
+        "XLE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:f5d13be6-e9b0-3533-bc62-2bc426621f58",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Cathie Wood Picks a Side in the AI Chip Selloff",
+      "summary": "ARK bought Nvidia aggressively while unloading a much larger Broadcom position.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-picks-side-ai-181257136.html?.tsrc=rss",
+      "time": "2026-11-06T18:12:57+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:44ce455f-3fea-3089-bab3-6d4233ac3ff7",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLE",
+      "title": "Exchange-Traded Funds Higher as US Equities Advance After Midday",
+      "summary": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV rose. Actively traded I",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-us-181230703.html?.tsrc=rss",
+      "time": "2026-11-06T18:12:30+00:00",
+      "touches": [
+        "XLE",
+        "XLK"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:d0baa0bf-b56b-3844-bde9-416833c4c8d1",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Nvidia's Quiet New Ultimatum to Stop China Chip Smuggling",
+      "summary": "Tighter controls could lower regulatory risk but complicate some regional sales.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-quiet-ultimatum-stop-china-180957689.html?.tsrc=rss",
+      "time": "2026-11-06T18:09:57+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:e1cc3675-f7f1-37df-be78-62a32fbe2487",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "The Chip Stock Bloodbath Is a Case Study in the Risks of Leveraged ETFs",
+      "summary": "Leveraged single-stock ETFs tracking chip makers plunged on Thursday as underlying stocks tumbled.",
+      "link": "https://finance.yahoo.com/m/e1cc3675-f7f1-37df-be78-62a32fbe2487/the-chip-stock-bloodbath-is-a.html?.tsrc=rss",
+      "time": "2026-11-06T18:03:00+00:00",
+      "touches": [
+        "MU"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:24d5f2e1-79dc-3d8d-863a-ab88a5ff31fd",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "Update: Wall Street Rises as Tech Stocks Rebound",
+      "summary": "(Updates with latest market prices and developments.) US benchmark equity indexes rose intraday a",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-rises-tech-stocks-175946005.html?.tsrc=rss",
+      "time": "2026-11-06T17:59:46+00:00",
+      "touches": [
+        "MU"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:2665d199-58ec-3e15-b731-6b2e185458bc",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "REGN",
+      "title": "Intellia's Q3 Loss Wider Than Expected, Stock Down, Pipeline in Focus",
+      "summary": "NTLA's Q3 loss deepens, while progress on its lonvo-z & nex-z clinical programs & a $400 million loan facility strengthen its pipeline & financial flexibility.",
+      "link": "https://finance.yahoo.com/healthcare/articles/intellias-q3-loss-wider-expected-172400892.html?.tsrc=rss",
+      "time": "2026-11-06T17:24:00+00:00",
+      "touches": [
+        "REGN"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:66d0f6ce-08ec-3f1c-9692-93e99948d19d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "AI Stocks Plunge: Buy, Sell or Hold?",
+      "summary": "Amid the sharp correction in AI stocks, investors question what to do next.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-plunge-buy-sell-171600469.html?.tsrc=rss",
+      "time": "2026-11-06T17:16:00+00:00",
+      "touches": [
+        "MU"
       ],
       "tags": [],
       "new": true
