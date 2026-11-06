@@ -1,15 +1,45 @@
 {
-  "as_of": "2026-11-06T20:05:00Z",
+  "as_of": "2026-11-06T20:35:00Z",
   "items": [
     {
-      "id": "rss:deb46168-98ca-3064-beac-f392d58ddea2",
+      "id": "rss:e3838189-05eb-3211-9f68-66750402e7c0",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ORCL",
+      "title": "How AI spending limits could help hyperscaler bonds but hurt stocks",
+      "summary": "Investing.com -- A regulatory brake on AI data-center spending could be good for hyperscaler bonds and bad for their stocks. The two groups want different things from the same company.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ai-spending-limits-could-help-202448432.html?.tsrc=rss",
+      "time": "2026-11-06T20:24:48+00:00",
+      "touches": [
+        "ORCL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:5832fed5-79b8-3b1b-bd3f-a9b37b7c257f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "IREN (IREN) Stock May Still Be A Bargain Following Contract Delays",
+      "summary": "IREN has seen its share price swing sharply in recent years, which puts fresh focus on a simple question for you as an investor. Does the current US$18.03 price make sense relative to the sales the business is generating today and what those sales could reasonably support over time? Over the past 3 years the stock has delivered a very large gain of about 7x, which now puts a lot of weight on whether its sales base can carry that kind of move. Recent contract delays with Microsoft and a...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-iren-stock-may-still-201040967.html?.tsrc=rss",
+      "time": "2026-11-06T20:10:40+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:ca4c3ede-280b-3770-8c3a-3472b5489769",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Update: Market Chatter: TSMC Mulls Expanding Into Advanced Memory Chip Production",
-      "summary": "(Updates with the company's response in the fourth paragraph.) Taiwan Semiconductor Manufacturing",
-      "link": "https://finance.yahoo.com/technology/articles/market-chatter-tsmc-mulls-expanding-194817754.html?.tsrc=rss",
-      "time": "2026-11-06T19:48:17+00:00",
+      "title": "The AI Crash Broke the Market.  Here Are 3 Things That Decide What\u2019s Next.",
+      "summary": "The market hates empty spaces. But there are plenty of open calendar pages coming up. And that puts the year-end rally back in focus.",
+      "link": "https://finance.yahoo.com/m/ca4c3ede-280b-3770-8c3a-3472b5489769/the-ai-crash-broke-the.html?.tsrc=rss",
+      "time": "2026-11-06T19:57:00+00:00",
       "touches": [
         "NVDA"
       ],
@@ -17,35 +47,38 @@
       "new": true
     },
     {
-      "id": "rss:b61a0e29-c148-3da2-8c62-a956078b564c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Warby Parker Sets Sights On Smart Glasses Launch",
-      "summary": "Designer eyewear firm Warby Parker will begin taking preorders on Nov. 12 for its first smart glasses, branded Intelligent Eyewear.",
-      "link": "https://finance.yahoo.com/m/b61a0e29-c148-3da2-8c62-a956078b564c/warby-parker-sets-sights-on.html?.tsrc=rss",
-      "time": "2026-11-06T19:38:43+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:1924e817-f97f-3e53-b063-2298c7646c68",
+      "id": "rss:849b9d67-855b-33a5-a248-d82e08cf61e6",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MSFT",
-      "title": "Microsoft Is Winding Down Oracle Deal to Rent AI Cloud Capacity",
-      "summary": "Microsoft Corp. is winding down an arrangement to rent AI computing from Oracle Corp., part of a larger reassessment of billions of dollars in cloud partnerships.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-winding-down-oracle-deal-173639264.html?.tsrc=rss",
-      "time": "2026-11-06T17:36:39+00:00",
+      "title": "Microsoft Won\u2019t Renew Deal for Renting AI Cloud Capacity From Oracle: Report",
+      "summary": "Oracle stock is up slightly as a report says Microsoft is bringing an AI computing deal with Oracle to an end.",
+      "link": "https://finance.yahoo.com/m/849b9d67-855b-33a5-a248-d82e08cf61e6/microsoft-won%E2%80%99t-renew-deal.html?.tsrc=rss",
+      "time": "2026-11-06T19:02:00+00:00",
       "touches": [
         "MSFT",
         "ORCL"
       ],
       "tags": [
         "deal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:9d961e80-f8cd-4f02-bab8-be0aede68771",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "The US adds in the latest  jobs report, markets try to bounce back from an awful sell-off",
+      "summary": "Host and \"The Buy Side\" author Turney Duff and his panel of experts weigh in on the US adding 165K jobs in the October Jobs Report, the bumpy road ahead for Tesla (TSLA) and the electric vehicle market, and what Democratic control means for the markets and trade. Today's panel includes POLITICO Economics Correspondent and Columnist Victoria Guida, RSM Chief Economist Joe Brusuelas, FBB Capital Partners President Mike Mussio, and Kelly Intelligence Founder, CEO, and CCO Kevin Kelly.",
+      "link": "https://finance.yahoo.com/video/the-us-adds-in-the-latest-jobs-report-markets-try-to-bounce-back-from-an-awful-sell-off-190148849.html?.tsrc=rss",
+      "time": "2026-11-06T19:01:48+00:00",
+      "touches": [
+        "MSFT",
+        "MU"
+      ],
+      "tags": [
+        "people"
       ],
       "new": true
     }
