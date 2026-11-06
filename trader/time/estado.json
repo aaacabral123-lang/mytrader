@@ -1,8 +1,8 @@
 {
   "noticias": {
-    "result": "erro: trader-news n\u00e3o respondeu",
-    "ok": false,
-    "last_run": "2026-11-06T11:35:00Z",
+    "result": "21 novas de fontes confi\u00e1veis (8 descartadas), 0 comunicados graves, 0 manchetes de aten\u00e7\u00e3o",
+    "ok": true,
+    "last_run": "2026-11-06T12:05:00Z",
     "last_day": "2026-11-06"
   },
   "politicos": {
@@ -26,12 +26,13 @@
       "MU": "2026-09-03",
       "NVDA": "2026-07-26",
       "ORCL": "2026-08-31",
-      "UNP": "2026-09-30"
+      "UNP": "2026-09-30",
+      "REGN": "2026-09-30"
     },
-    "result": "8 empresas lidas, 1 com balan\u00e7o novo",
+    "result": "8 empresas lidas, 0 com balan\u00e7o novo",
     "ok": true,
-    "last_run": "2026-11-05T12:05:00Z",
-    "last_day": "2026-11-05"
+    "last_run": "2026-11-06T12:05:00Z",
+    "last_day": "2026-11-06"
   },
   "copiador": {
     "accession": "0001193125-26-352200",

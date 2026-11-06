@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "companies": [
     {
       "ticker": "ADBE",
@@ -15,22 +15,6 @@
       "gross_margin": 88.7,
       "operating_margin": 34.8,
       "net_margin": 27.0,
-      "source": "SEC XBRL company facts"
-    },
-    {
-      "ticker": "BLK",
-      "name": "BlackRock, Inc.",
-      "cik": "0002012383",
-      "period_end": "2026-09-30",
-      "revenue_ttm": 28542000000,
-      "net_income_ttm": 6912000000,
-      "eps_ttm": 43.87,
-      "revenue_growth_yoy": 19.1,
-      "eps_growth_yoy": 25.4,
-      "net_income_growth_yoy": 25.4,
-      "gross_margin": null,
-      "operating_margin": 30.0,
-      "net_margin": 21.4,
       "source": "SEC XBRL company facts"
     },
     {
@@ -111,6 +95,22 @@
       "gross_margin": null,
       "operating_margin": 34.8,
       "net_margin": 24.6,
+      "source": "SEC XBRL company facts"
+    },
+    {
+      "ticker": "REGN",
+      "name": "REGENERON PHARMACEUTICALS, INC.",
+      "cik": "0000872589",
+      "period_end": "2026-09-30",
+      "revenue_ttm": 16896200000,
+      "net_income_ttm": 4817400000,
+      "eps_ttm": 45.21,
+      "revenue_growth_yoy": 36.3,
+      "eps_growth_yoy": 35.5,
+      "net_income_growth_yoy": 33.5,
+      "gross_margin": null,
+      "operating_margin": 40.0,
+      "net_margin": 38.1,
       "source": "SEC XBRL company facts"
     },
     {

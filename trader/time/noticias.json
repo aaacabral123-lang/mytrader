@@ -1,78 +1,15 @@
 {
-  "as_of": "2026-11-06T11:05:00Z",
+  "as_of": "2026-11-06T12:05:00Z",
   "items": [
     {
-      "id": "rss:b79c7252-967b-3bcc-b0ae-8d5bc0322b5d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ORCL",
-      "title": "Oracle (ORCL) Sees $1.34 Billion in Net ETF Buying on Wednesday",
-      "summary": "ETFs bought $1.34 billion of Oracle stock on Wednesday, Nov. 4.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-sees-1-34-110039141.html?.tsrc=rss",
-      "time": "2026-11-06T11:00:39+00:00",
-      "touches": [
-        "ORCL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:0f9e5f59-bae0-3891-a083-d759cc109502",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ORCL",
-      "title": "ETF Activity: SPY Outflow Offsets IVV Inflow on Nov. 4",
-      "summary": "Large-cap index funds pulled in opposite directions as small-cap and equal-weight funds drew fresh money.",
-      "link": "https://finance.yahoo.com/markets/options/articles/etf-activity-spy-outflow-offsets-110012034.html?.tsrc=rss",
-      "time": "2026-11-06T11:00:12+00:00",
-      "touches": [
-        "ORCL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:d589dc10-d318-3844-8c50-601b6969de69",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "U.S. chip stocks rebound sharply after Thursday\u2019s brutal selloff",
-      "summary": "Investing.com -- U.S. chip stocks rebounded in premarket trading Friday, recovering some ground after a sweeping AI-driven selloff Thursday that followed the Democrats\u2019 midterm election victory earlier this week.",
-      "link": "https://finance.yahoo.com/technology/articles/u-chip-stocks-rebound-sharply-105433545.html?.tsrc=rss",
-      "time": "2026-11-06T10:54:33+00:00",
-      "touches": [
-        "MU",
-        "ORCL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:de12d6d9-1f9c-3000-83c4-6a342b7ace68",
+      "id": "rss:75c2d636-77b2-4ef5-a3bd-d9ffe642f150",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia Eyes Surprise AI Data Center Deal With Apollo",
-      "summary": "Nvidia Wants to Turn Old Telephone Buildings Into AI Data Centers",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-eyes-surprise-ai-data-104407896.html?.tsrc=rss",
-      "time": "2026-11-06T10:44:07+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "deal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:562e4998-26f7-3c76-b1ae-bf07749557e5",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia Shares Suffer Worst Day Since January 2025 -- AI Fears Trigger $450 Billion Rout",
-      "summary": "Nvidia Stock Plunges as Texas Data Center Restrictions Put AI Boom at Risk",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-shares-suffer-worst-day-104000765.html?.tsrc=rss",
-      "time": "2026-11-06T10:40:00+00:00",
+      "title": "Stocks lost $2 trillion. The market is wrong about AI",
+      "summary": "The stock market lost $2 trillion in 40 minutes, and AI stocks took the worst of it, with Intel down more than half since October and AMD off 17% in a day. Host Ejaaz Ahamadeen breaks down why it happened and why he thinks the market is wrong, from GPU rental prices up 106% to the CPU boom and Anthropic's IPO valuation.",
+      "link": "https://finance.yahoo.com/video/stocks-lost-2-trillion-market-120000040.html?.tsrc=rss",
+      "time": "2026-11-06T12:00:00+00:00",
       "touches": [
         "NVDA"
       ],
@@ -80,15 +17,17 @@
       "new": true
     },
     {
-      "id": "rss:4a660daf-9d09-352b-8d72-f5323bd0de41",
+      "id": "rss:3f3856cb-2e4e-3c6a-982f-274c73fb9144",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MU",
-      "title": "Micron Shares Suffer Brutal 17% Rout as Chip Selloff Deepens",
-      "summary": "Micron Faces Double Blow as Taiwan Factory Delays Add to AI Chip Selloff",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-shares-suffer-brutal-17-103844985.html?.tsrc=rss",
-      "time": "2026-11-06T10:38:44+00:00",
+      "ticker": "GOOGL",
+      "title": "Latest News In AI Chips - Race to Dominate AI Infrastructure Accelerates Globally",
+      "summary": "The global race for AI infrastructure supremacy is intensifying as major technology players significantly increase their investments in next-generation data center accelerators. According to BCC Research, the surging demand for AI, machine learning, and data-intensive workloads is driving a shift from traditional CPU-based architectures to advanced accelerators like GPUs, TPUs, FPGAs, and ASICs. Major companies, including Amazon, Google, and Microsoft, have committed substantial capital...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/latest-news-ai-chips-race-113748036.html?.tsrc=rss",
+      "time": "2026-11-06T11:37:48+00:00",
       "touches": [
+        "GOOGL",
+        "MSFT",
         "MU",
         "NVDA"
       ],
@@ -96,29 +35,196 @@
       "new": true
     },
     {
-      "id": "rss:9c91211c-d105-3f88-abfd-7df8cac455c8",
+      "id": "rss:99ca441a-fa42-39c1-8f23-1a4d05995246",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nasdaq Suffers Worst AI Panic in Years as Nvidia, SanDisk, and Western Digital Sink",
-      "summary": "Midterm Election Shock Sends Nasdaq Into Correction as AI Stocks Face Regulatory Fears",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nasdaq-suffers-worst-ai-panic-103707000.html?.tsrc=rss",
-      "time": "2026-11-06T10:37:07+00:00",
+      "ticker": "GOOGL",
+      "title": "Why Amazon and Other AI Data-Center Stocks Will Be Post-Midterm Winners",
+      "summary": "A forced slowdown on AI spending could prove beneficial for the hyperscalers and enable them to shore up their balance sheets.",
+      "link": "https://finance.yahoo.com/m/99ca441a-fa42-39c1-8f23-1a4d05995246/why-amazon-and-other-ai.html?.tsrc=rss",
+      "time": "2026-11-06T11:15:00+00:00",
       "touches": [
-        "NVDA"
+        "GOOGL",
+        "MSFT"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:531cfe4b-bc9a-302b-92d0-ad4ff10d70bb",
+      "id": "rss:7fb06aea-ee6d-3fc9-92ad-82c37aa502aa",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "What State Street Comm Services SPDR (XLC) Bought: Meta Leads on Wednesday",
+      "summary": "The fund sold $195.6 million of stock, cutting 21 positions and adding none, with Meta Platforms the largest sale at $44.1 million.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-comm-services-spdr-110610762.html?.tsrc=rss",
+      "time": "2026-11-06T11:06:10+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:cad72c7b-f98b-319f-9441-3dbe0f6251a4",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MSFT",
-      "title": "Update: Iren Fiscal Q1 Swings to Loss, Revenue Falls; Microsoft AI Infrastructure Deliveries Delayed",
-      "summary": "(Updates with information on Microsoft delivery delays in the headline and the fifth to seventh para",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/iren-fiscal-q1-swings-loss-101234907.html?.tsrc=rss",
-      "time": "2026-11-06T10:12:34+00:00",
+      "title": "iShares Expanded Tech-Software (IGV) Adds Oracle, Trims Microsoft on Nov. 4",
+      "summary": "The $12.41 billion fund bought $105.8 million of Oracle while selling $10.0 million of Microsoft and $9.2 million of Palo Alto Networks.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-expanded-tech-software-igv-110607892.html?.tsrc=rss",
+      "time": "2026-11-06T11:06:07+00:00",
+      "touches": [
+        "MSFT",
+        "ORCL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:4912f370-d143-3b87-b984-deac15b0f342",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "SPDR Portfolio S&P 500 Growth (SPYG) Buys $29.8 Million More NVDA on Nov. 4",
+      "summary": "The fund added $239.6 million in new buying across 151 positions, led by a $29.8 million increase in NVIDIA.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spdr-portfolio-p-500-growth-110556098.html?.tsrc=rss",
+      "time": "2026-11-06T11:05:56+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT",
+        "NVDA",
+        "ORCL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:fbf0650e-b23c-35fd-aa1a-a65641e5efac",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Technology Select Sector SPDR (XLK) Adds Oracle, Trims Apple on Nov. 4",
+      "summary": "The fund bought $212.8 million of Oracle stock while selling $8.1 million of Apple and $7.7 million of Nvidia.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/technology-select-sector-spdr-xlk-110546788.html?.tsrc=rss",
+      "time": "2026-11-06T11:05:46+00:00",
+      "touches": [
+        "MSFT",
+        "NVDA",
+        "ORCL",
+        "XLK"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:887ff5a1-73d7-3b7b-9e15-6206cc4aea65",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "What iShares MSCI World ETF (URTH) Bought: Apple Leads on Wednesday",
+      "summary": "The $9.46 billion fund added $306.7 million in gross purchases on Wednesday, Nov. 4, boosting 533 positions and trimming none.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-msci-world-etf-urth-110529877.html?.tsrc=rss",
+      "time": "2026-11-06T11:05:29+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:eb9a9228-812b-3485-a14f-756e77f70769",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLE",
+      "title": "State Street Energy SPDR (XLE) Sells $75.9 Million of Exxon on Nov. 4",
+      "summary": "The fund sold $312.6 million of stock and bought nothing on Wednesday, cutting all 21 of its positions.",
+      "link": "https://finance.yahoo.com/energy/articles/state-street-energy-spdr-xle-110525697.html?.tsrc=rss",
+      "time": "2026-11-06T11:05:25+00:00",
+      "touches": [
+        "XLE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:109228aa-a953-308c-a894-3c63b32db9df",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Proshares Trust (TQQQ) Adds Apple and Nvidia on Nov. 4",
+      "summary": "The 3x leveraged ETF bought $351.5 million of stock on Wednesday, lifting 97 positions and trimming none.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/proshares-trust-tqqq-adds-apple-110521279.html?.tsrc=rss",
+      "time": "2026-11-06T11:05:21+00:00",
+      "touches": [
+        "MSFT",
+        "MU",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:1d73df5c-ebe1-3209-839d-18af9a9018a0",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "INVESCO QQQ (QQQ) Adds Apple and NVIDIA on Nov. 4",
+      "summary": "The fund bought $409.3 million of stock, lifting 98 positions and trimming none, with Apple and NVIDIA the largest additions.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-qqq-adds-apple-110513112.html?.tsrc=rss",
+      "time": "2026-11-06T11:05:13+00:00",
+      "touches": [
+        "MSFT",
+        "MU",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:9d5d3de4-d053-3b3d-8b6f-76568a5bd537",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "iShares PHLX SOX Semi Sector Index Fund (SOXX) Adds AMD and NVDA on Wednesday",
+      "summary": "The fund's $513.3 million in gross trading was entirely buys, lifting 28 positions with no decreases.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semi-sector-110502951.html?.tsrc=rss",
+      "time": "2026-11-06T11:05:02+00:00",
+      "touches": [
+        "MU",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:ea331c4b-af87-30fb-8714-3919b16f9f6a",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "What ProShares Ultra S&P500 2x Shares (SSO) Sold: Apple Leads on Nov. 4",
+      "summary": "The fund sold $839.8 million of stock on Wednesday, Nov. 4, cutting 496 positions with no buys.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/proshares-ultra-p500-2x-shares-110443562.html?.tsrc=rss",
+      "time": "2026-11-06T11:04:43+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:efcc8fcc-57f8-3524-bc2d-d6a5ce022d2c",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Dow Jones Industrial Average ETF (DIA) Buys $96.4 Million More Goldman on Nov. 4",
+      "summary": "The fund added $932.2 million across all 30 of its positions, with no sales, on a day it held $45.93 billion in assets.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dow-jones-industrial-average-etf-110437188.html?.tsrc=rss",
+      "time": "2026-11-06T11:04:37+00:00",
       "touches": [
         "MSFT"
       ],
@@ -126,46 +232,113 @@
       "new": true
     },
     {
-      "id": "rss:22e0bdd7-3c75-38cf-8a7c-56d2d771a04c",
+      "id": "rss:ae635b8e-525c-31ce-8118-0f45c1aa3867",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia Boosts Chip Tracking in Southeast Asia to Fight Smuggling",
-      "summary": "Nvidia Corp. is stepping up monitoring of AI accelerators sold in Southeast Asia, a strategic step to curtail semiconductor smuggling after criticism it hasn't done enough to stop shipments from illegally reaching Chinese companies.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-boosts-chip-tracking-southeast-100319244.html?.tsrc=rss",
-      "time": "2026-11-06T10:03:19+00:00",
+      "ticker": "MSFT",
+      "title": "What State Street SPDR Portfolio S&P 500 ETF (SPYM) Bought: Oracle Leads on Wednesday",
+      "summary": "The fund added $997.1 million in net new positions, with Oracle, Apple and Nvidia among its largest buys.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-spdr-portfolio-p-110426479.html?.tsrc=rss",
+      "time": "2026-11-06T11:04:26+00:00",
       "touches": [
-        "NVDA"
+        "MSFT",
+        "NVDA",
+        "ORCL"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:20125510-ba37-35f1-bd94-59867aa5117b",
+      "id": "rss:61a8c062-b5e7-38e9-b8a9-5da47dfbda56",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "iShares Core S&P 500 (IVV) Buys $394.7 Million More Oracle on Nov. 4",
+      "summary": "The fund added $2.22 billion in gross purchases and sold nothing, increasing 495 positions.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-p-500-ivv-110415526.html?.tsrc=rss",
+      "time": "2026-11-06T11:04:15+00:00",
+      "touches": [
+        "MSFT",
+        "NVDA",
+        "ORCL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:e05e7ab0-b4bd-33cc-a617-99bc4f8da419",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "What SPDR S&P 500 ETF (SPY) Sold: Apple Leads on Wednesday",
+      "summary": "The $818.54 billion fund sold $5.39 billion more than it bought, cutting 499 positions and adding to just one.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spdr-p-500-etf-spy-110412129.html?.tsrc=rss",
+      "time": "2026-11-06T11:04:12+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT",
+        "NVDA",
+        "ORCL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:b96c3003-3704-32a2-9994-cf5d3be1ad43",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Alphabet (GOOGL) Sees $35.0 Million in Net ETF Selling on Wednesday",
+      "summary": "ETFs sold $35.0 million in Alphabet (GOOGL) shares on Wednesday, Nov. 4.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-sees-35-0-110312235.html?.tsrc=rss",
+      "time": "2026-11-06T11:03:12+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:3b33227b-e99d-3483-ba54-865957e9aa3d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "ETFs Are Net Sellers of Alphabet (GOOG) on Wednesday",
+      "summary": "ETFs sold $47.3 million of Alphabet (GOOG) on a net basis, with 47 buying and 22 selling.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-alphabet-goog-110302109.html?.tsrc=rss",
+      "time": "2026-11-06T11:03:02+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:be492237-d6f6-3356-8de1-51652470bc7a",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "ETFs Are Net Sellers of Microsoft (MSFT) on Nov. 4",
+      "summary": "ETFs sold a net $78.1 million of Microsoft stock on Wednesday.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-microsoft-msft-110237610.html?.tsrc=rss",
+      "time": "2026-11-06T11:02:37+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:5b56a81d-1e1c-39a7-8a83-1d9b922141ec",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MU",
-      "title": "\u2018The nail that sticks out gets hammered first\u2019: Elon Musk\u2019s net worth falls $113 billion from Tesla and SpaceX drops",
-      "summary": "Tesla and SpaceX bucked the market rally as investors worried about political retaliation.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nail-sticks-gets-hammered-first-080000323.html?.tsrc=rss",
-      "time": "2026-11-06T08:00:00+00:00",
+      "title": "Kospi Sinks as Micron Contagion Spreads on Korea\u2019s \u2018Black Friday\u2019",
+      "summary": "South Korea\u2019s equity market was hit hard again, suffering what local media are calling a \u201cBlack Friday\u201d collapse overnight.",
+      "link": "https://finance.yahoo.com/m/5b56a81d-1e1c-39a7-8a83-1d9b922141ec/kospi-sinks-as-micron.html?.tsrc=rss",
+      "time": "2026-11-06T10:29:59+00:00",
       "touches": [
         "MU"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:a48b3b93-8adf-3114-8518-74f550bfa26e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ORCL",
-      "title": "Huang Drops From World\u2019s Top 10 Richest After Chips Selloff",
-      "summary": "Jensen Huang got an expensive taste of the Democratic Party\u2019s newfound political power Thursday.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/huang-drops-world-top-10-215345550.html?.tsrc=rss",
-      "time": "2026-11-05T21:53:45+00:00",
-      "touches": [
-        "ORCL"
       ],
       "tags": [],
       "new": true
