@@ -1,47 +1,30 @@
 {
-  "as_of": "2026-11-06T15:05:00Z",
+  "as_of": "2026-11-06T15:35:00Z",
   "items": [
     {
-      "id": "rss:0727e7b3-2cb8-3a37-b643-79c4fe826da7",
+      "id": "rss:7bad4af4-d4fb-4fe0-b1df-0dac540b157d",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ORCL",
-      "title": "eClinical Solutions - Global Strategic Business Report: Capitalize on 12.2% CAGR to $22.7 Billion by 2030 as Oracle, Medidata, Veeva, Advarra and Parexel Accelerate AI and Cloud Disruption",
-      "summary": "Boost clinical trial ROI with cloud, AI and EHR integration that improve data quality, accelerate recruitment, enable remote monitoring and streamline operations.Dublin, Nov. 06, 2026 (GLOBE NEWSWIRE) -- \"eClinical Solutions - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering. The global eClinical solutions market was valued at US$11.4 billion in 2024 and is projected to reach US$22.7 billion by 2030, expanding at a compound annual growth rate (CAGR) of 12.2%",
-      "link": "https://finance.yahoo.com/healthcare/articles/eclinical-solutions-global-strategic-business-144000543.html?.tsrc=rss",
-      "time": "2026-11-06T14:40:00+00:00",
+      "ticker": "GOOGL",
+      "title": "Keep an eye on Georgia: Next data center flash point emerges after Texas",
+      "summary": "Yahoo Finance Executive Editor Brian Sozzi breaks down why Bernstein flagged Georgia as a place where AI data center approvals could slow and rules could tighten after the Democratic flip of its Georgia's Public Service Commission.",
+      "link": "https://finance.yahoo.com/video/keep-an-eye-on-georgia-next-data-center-flash-point-emerges-after-texas-152125141.html?.tsrc=rss",
+      "time": "2026-11-06T15:21:25+00:00",
       "touches": [
-        "ORCL"
-      ],
-      "tags": [
-        "capital"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:68937bc2-8362-33f6-8efc-bf9c1b2f0339",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "Memory stocks grab the AI headlines: Is this drive maker the bigger bargain?",
-      "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/memory-stocks-grab-ai-headlines-143859249.html?.tsrc=rss",
-      "time": "2026-11-06T14:38:59+00:00",
-      "touches": [
-        "MU"
+        "GOOGL"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:323f7c8d-93a3-3674-82e1-69d579c94255",
+      "id": "rss:91bd51e3-b929-3c5a-a6f4-080d7ab640d6",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "\u2019Blue tsunami\u2019 batters AI stocks: Is this a rare buy the dip setup?",
-      "summary": "Investing.com -- Thursday\u2019s selloff was broad, and it started in AI. Pre-market bids suggest a partial bounce, but nothing has been confirmed yet.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/blue-tsunami-batters-ai-stocks-143835829.html?.tsrc=rss",
-      "time": "2026-11-06T14:38:35+00:00",
+      "title": "TSMC rises on report of potential push into advanced memory for Nvidia",
+      "summary": "Investing.com -- Taiwan Semiconductor Manufacturing (NYSE:TSM) is evaluating an expansion into advanced memory chip production to capture a larger share of artificial intelligence infrastructure spending, according to a report from The Information. The initiative would mark a pivotal strategic evolution for the world\u2019s dominant contract chipmaker, which has traditionally focused on pure-play logic fabrication.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-rises-report-potential-push-151300006.html?.tsrc=rss",
+      "time": "2026-11-06T15:13:00+00:00",
       "touches": [
         "NVDA"
       ],
@@ -49,67 +32,66 @@
       "new": true
     },
     {
-      "id": "rss:870e9d6a-dbbb-3380-9680-17f32e5017a1",
+      "id": "rss:51022921-52aa-34c3-83b4-df2420a770cc",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MU",
-      "title": "Nvidia Stock, Other AI Names Rebound After Sell-Off",
-      "summary": "Nvidia and other chip stocks exposed to the AI data center buildout rebounded on Friday after a hard sell-off.",
-      "link": "https://finance.yahoo.com/m/870e9d6a-dbbb-3380-9680-17f32e5017a1/nvidia-stock%2C-other-ai-names.html?.tsrc=rss",
-      "time": "2026-11-06T14:36:32+00:00",
+      "ticker": "NVDA",
+      "title": "Nvidia stock oversold setup: Key levels after a 9% drop",
+      "summary": "Investing.com -- NVIDIA (NVDA) is rebounding after Thursday\u2019s drop of 9.3%, its worst day since January 2025. All figures are as of Nov 6, 2026, 9:33 AM EST, early in the session. The stock is at $193.09 (+6.33%). Thursday\u2019s close was $181.60, after an intraday low of $181.46.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-oversold-setup-key-150936116.html?.tsrc=rss",
+      "time": "2026-11-06T15:09:36+00:00",
       "touches": [
-        "MU",
         "NVDA"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:5bf93534-e884-3cab-815c-3a455940694d",
+      "id": "rss:b9896c81-f06b-44a8-8f79-c5c494a9b5cd",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Chip stocks lead tech rebound as SpaceX, Tesla jump: AlphaCheck",
+      "summary": "Semiconductor stocks led a rebound in the tech sector on Friday, following a wipeout in AI-related stocks.",
+      "link": "https://finance.yahoo.com/markets/article/semiconductor-stocks-lead-tech-rebound-spacex-and-tesla-jump-alphacheck-150906077.html?.tsrc=rss",
+      "time": "2026-11-06T15:09:06+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:1805650a-b8e3-40b2-8195-973e4d4dfc4f",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MSFT",
-      "title": "AI in Virtual Medical Assistants Market to Worth USD 8.85 Billion by 2030, at a CAGR of 36.6%\u2013 MarketsandMarkets\u2122",
-      "summary": "Delray Beach, FL, Nov. 06, 2026 (GLOBE NEWSWIRE) -- MarketsandMarkets\u2122 projects the global AI in virtual medical assistants market to grow from USD 1.86 billion in 2025 to USD 8.85 billion by 2030, at a CAGR of 36.6% during the forecast period. Market growth is fueled by advancements in natural language processing, generative AI, and speech recognition, increasing healthcare workforce shortages, the need to reduce administrative burdens on clinicians, and growing adoption of AI-powered patient e",
-      "link": "https://finance.yahoo.com/healthcare/articles/ai-virtual-medical-assistants-market-143000973.html?.tsrc=rss",
-      "time": "2026-11-06T14:30:00+00:00",
+      "title": "Iren stock rebounds as company's Q1 AI cloud revenue surges",
+      "summary": "Iren shares rebounded on Friday as the provider of AI compute capacity reported a surge in its fiscal Q1 cloud revenue.",
+      "link": "https://finance.yahoo.com/markets/article/iren-stock-rebounds-as-ai-quarterly-revenue-surges-150602239.html?.tsrc=rss",
+      "time": "2026-11-06T15:06:02+00:00",
       "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:a5940810-5f8c-4808-bb45-3631c693559b",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "IREN stock soars, driven by massive gains in AI cloud sales",
+      "summary": "IREN Ltd. (IREN) stock is surging higher after reporting that its AI cloud sales have doubled since last quarter. Interactive Brokers chief strategist Steve Sosnick and AInvest managing editor Adam Shapiro join Pras Subramanian to discuss IREN's post-earnings stock moves.",
+      "link": "https://finance.yahoo.com/video/iren-stock-soars-driven-by-massive-gains-in-ai-cloud-sales-145935931.html?.tsrc=rss",
+      "time": "2026-11-06T14:59:35+00:00",
+      "touches": [
+        "GOOGL",
         "MSFT"
       ],
       "tags": [
         "earnings"
       ],
-      "new": true
-    },
-    {
-      "id": "rss:586a38e4-39d9-3a08-937a-c7a4dc54f358",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Ed Yardeni Says Slowing AI Boom Is Actually Bullish for Big Tech",
-      "summary": "Big Tech has spent years pouring record sums into artificial intelligence. Now veteran strategist Ed Yardeni says hitting the brakes could be bullish. \u201cI\u2019ve had the view that a slowing down in the AI build-out is actually a bullish story,\u201d...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ed-yardeni-says-slowing-ai-133103480.html?.tsrc=rss",
-      "time": "2026-11-06T13:31:03+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:8bc93ab3-3cb3-30dd-ad03-990784dd388c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XLE",
-      "title": "Stock Market News for Nov 6, 2026",
-      "summary": "Wall Street closed sharply lower on Thursday, pulled down by a broad-based stock slump.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-6-132900980.html?.tsrc=rss",
-      "time": "2026-11-06T13:29:00+00:00",
-      "touches": [
-        "XLE",
-        "XLK"
-      ],
-      "tags": [],
       "new": true
     }
   ],
