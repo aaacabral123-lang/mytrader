@@ -1,23 +1,5 @@
 {
-  "as_of": "2026-11-06T03:35:00Z",
-  "items": [
-    {
-      "id": "rss:ee1d35d4-c55a-30cc-84a2-172536f67598",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "Ecopro Co Ltd (XKRX:086520) (Q3 2026) Earnings Call Highlights: Micron Orders and Recycling ...",
-      "summary": "Ecopro Co Ltd (XKRX:086520) posted strong EcoPro HN growth and secured 113.4 billion won in Micron orders, but weak North American EV demand and currency headwinds weighed on near-term profitability.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ecopro-co-ltd-xkrx-086520-030825144.html?.tsrc=rss",
-      "time": "2026-11-06T03:08:25+00:00",
-      "touches": [
-        "MU"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-06T04:05:00Z",
+  "items": [],
   "atencao": []
 }
