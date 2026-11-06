@@ -1,17 +1,17 @@
 {
-  "as_of": "2026-11-06T05:05:00Z",
+  "as_of": "2026-11-06T06:05:00Z",
   "items": [
     {
-      "id": "rss:d5eeb3f6-1613-34e2-8c75-3b5ec07e842f",
+      "id": "rss:21a5f2ab-857f-3393-9165-82f0c44b5b48",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ORCL",
-      "title": "Quantinuum Reports Third Quarter 2026 Results and Raises Full-Year Revenue Outlook",
-      "summary": "Quantinuum Inc. (Nasdaq: QNT) (the \"Company\"), a leading full-stack quantum computing company, today announced financial results for the third quarter ended September 30, 2026.",
-      "link": "https://finance.yahoo.com/news/quantinuum-reports-third-quarter-2026-210100287.html?.tsrc=rss",
-      "time": "2026-11-05T21:01:00+00:00",
+      "ticker": "NVDA",
+      "title": "TSS Inc (TSSI) (Q3 2026) Earnings Call Highlights: Record Systems Integration Revenue Drives ...",
+      "summary": "TSS Inc (TSSI) posted 20% revenue growth to $50 million and lifted its 2026 adjusted EBITDA guidance to $21-$23 million as AI rack integration demand accelerates ahead of NVIDIA's Vera Rubin ramp.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tss-inc-tssi-q3-2026-052333824.html?.tsrc=rss",
+      "time": "2026-11-06T05:23:33+00:00",
       "touches": [
-        "ORCL"
+        "NVDA"
       ],
       "tags": [
         "earnings"
