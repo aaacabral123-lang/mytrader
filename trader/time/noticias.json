@@ -1,15 +1,15 @@
 {
-  "as_of": "2026-11-06T17:35:00Z",
+  "as_of": "2026-11-06T18:05:00Z",
   "items": [
     {
-      "id": "rss:26c77624-4799-486f-910b-1d466531cfed",
+      "id": "rss:a73f72df-0d95-3b42-9ef5-12fbcbc80a33",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "What the AI stock crash cost your 401(k) for every $1,000 invested",
-      "summary": "Thursday's AI stock crash cost a basic S&P 500 index fund about a nickel on the dollar, while chip stocks lost nearly a third of their value.",
-      "link": "https://finance.yahoo.com/markets/article/what-the-ai-stock-crash-cost-your-401k-for-every-1000-invested-172821837.html?.tsrc=rss",
-      "time": "2026-11-06T17:28:21+00:00",
+      "title": "NVIDIA Corporation (NVDA) Is Taking AI Beyond Chips: Here\u2019s What Could Drive Its Next Growth Phase",
+      "summary": "Liontrust Investment Partners recently released its \u201cGF Global Innovation Fund\u201d Q3 2026 investor letter. A copy of the letter can be downloaded here. The Fund returned -3.0% in the third quarter of 2026, underperforming the MSCI AC World Index, which gained 1.6%. However, the Fund remained ahead year to date, returning 17.9% compared with 13.0% [\u2026]",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-taking-ai-173307195.html?.tsrc=rss",
+      "time": "2026-11-06T17:33:07+00:00",
       "touches": [
         "NVDA"
       ],
@@ -17,17 +17,32 @@
       "new": true
     },
     {
-      "id": "rss:97a8f685-b9cc-48e2-ac26-78bb0d7ab897",
+      "id": "rss:4defeeb6-9590-3555-a000-1101fbe12aa0",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MU",
-      "title": "Bitcoin rebounds after sell-off, and the White House gets crypto broker rules",
-      "summary": "Scott Melker discusses bitcoin (BTC-USD) erasing its losses from a sell-off, Trump Media  (DJT)moves bitcoin, and the SEC crypto broker rules hitting the White House. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.",
-      "link": "https://finance.yahoo.com/video/bitcoin-rebounds-sell-off-white-170000167.html?.tsrc=rss",
-      "time": "2026-11-06T17:00:00+00:00",
+      "title": "Michael Burry Takes Profits on Major AI Bear Bet",
+      "summary": "Burry sold 25% of his SMH puts but says the remaining position is still very large.",
+      "link": "https://finance.yahoo.com/markets/options/articles/michael-burry-takes-profits-major-171655168.html?.tsrc=rss",
+      "time": "2026-11-06T17:16:55+00:00",
       "touches": [
         "MU",
         "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:06719bcd-ae3d-389e-a81e-b10b56094566",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "SOUN Plunges 22.8% in the Past Month. Is the Sell-Off an Opportunity?",
+      "summary": "SoundHound's 22.8% monthly sell-off raises questions about its buying potential as robust AI revenue growth clashes with margin pressure and persistent losses.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/soun-plunges-22-8-past-165700150.html?.tsrc=rss",
+      "time": "2026-11-06T16:57:00+00:00",
+      "touches": [
+        "MSFT"
       ],
       "tags": [],
       "new": true
