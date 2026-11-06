@@ -1,83 +1,84 @@
 {
-  "as_of": "2026-11-06T16:05:00Z",
+  "as_of": "2026-11-06T16:35:00Z",
   "items": [
     {
-      "id": "rss:e7c50c68-681e-32db-bde1-ee6553d7d8c5",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Micron, AMD and Nvidia Lead AI Stocks Rebound After Historic Selloff",
-      "summary": "AI Stocks Bounce Back Hard. These Five Chipmakers Are Leading The Charge",
-      "link": "https://finance.yahoo.com/technology/ai/articles/micron-amd-nvidia-lead-ai-160157661.html?.tsrc=rss",
-      "time": "2026-11-06T16:01:57+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:c5c6130c-3931-319b-bf7e-b9ef415752e4",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Blue Wave And AI Stock Rout Could Hit Anthropic's IPO Valuation: Reports",
-      "summary": "Anthropic IPO could require a lower valuation after a midterms Blue Wave prompted a broader market rout.",
-      "link": "https://finance.yahoo.com/m/c5c6130c-3931-319b-bf7e-b9ef415752e4/blue-wave-and-ai-stock-rout.html?.tsrc=rss",
-      "time": "2026-11-06T15:45:52+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:94962176-c000-3062-a77a-4fa83e9b6c24",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "BC-Most Active Stocks",
-      "summary": "NEW YORK (AP) \u2014 prices for the Nasdaq composite, NYSE and NYSE American listed most active stocks. Nasdaq most active stocks:Stock Name Volume High Low Last Change  Redcloud Holdings PLC 543,885,708 0.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-153019884.html?.tsrc=rss",
-      "time": "2026-11-06T15:30:19+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:26aad20b-b589-43a2-9024-c59d215d1dad",
+      "id": "rss:50cbc6a3-24a8-4d6d-8964-49e41ffb094f",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "$3 trillion wipe-out, CEOs on the volatility of politics, and the status of the AI trade",
-      "summary": "Yahoo Finance Executive Editor Brian Sozzi gives his thoughts on the recent tech sell-off and what a bear market means for the AI trade. Plus, what the Qualcomm (QCOM) CEO and other business leaders are saying about the volatile state of politics. Sozzi sits down for a 1-on-1 with Affirm (AFRM) CEO Max Levchin to discuss the company's earnings and the midterm results.",
-      "link": "https://finance.yahoo.com/video/3-trillion-wipe-out-ceos-on-the-volatility-of-politics-and-the-status-of-the-ai-trade-151554253.html?.tsrc=rss",
-      "time": "2026-11-06T15:15:54+00:00",
+      "title": "Let's dismiss the multi-trillion AI sell-off and look at demand",
+      "summary": "Host Ejaaz Ahamadee discusses the multi-trillion-dollar market wipeout and how it seems exaggerated, given accelerating AI demand and some \"Magnificent Seven\" stocks rebounding.",
+      "link": "https://finance.yahoo.com/video/lets-dismiss-the-multi-trillion-ai-sell-off-and-look-at-demand-162233407.html?.tsrc=rss",
+      "time": "2026-11-06T16:22:33+00:00",
       "touches": [
         "GOOGL",
-        "MU",
-        "NVDA",
-        "ORCL"
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:d1fa7094-97fe-3b88-afe2-d448142626b5",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "Micron Stocks Rebound 8.06% After 18% Crash as Memory Names Bounce",
+      "summary": "Micron trades near 9 times trailing earnings after Thursday's plunge on fears over U.S. data center restrictions.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-stocks-rebound-8-06-161801381.html?.tsrc=rss",
+      "time": "2026-11-06T16:18:01+00:00",
+      "touches": [
+        "MU"
       ],
       "tags": [
-        "earnings",
-        "people"
+        "earnings"
       ],
       "new": true
     },
     {
-      "id": "rss:86c99e47-fa3f-4d0b-9802-d2714565d3b1",
+      "id": "rss:e2e7dc43-3ae4-3603-a100-0606cb137e15",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MU",
-      "title": "$3 trillion was wiped off the S&P 500 \u2014 but it ain't doomsday",
-      "summary": "Yahoo Finance Executive Editor Brian Sozzi comforts investors after a record-setting market beatdown and notes that the S&P 500 (^GSPC)\u00a0has historically gained after such volatility spikes.",
-      "link": "https://finance.yahoo.com/video/3-trillion-was-wiped-off-the-sp-500--but-it-aint-doomsday-145656545.html?.tsrc=rss",
-      "time": "2026-11-06T14:56:56+00:00",
+      "ticker": "NVDA",
+      "title": "IonQ's Q3 Beat, Higher Guidance Supported by Superion 256 Demand, Morgan Stanley Says",
+      "summary": "IonQ (IONQ) reported a Q3 beat and raised its 2026 revenue guidance as demand builds for its Superio",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ionq-apos-q3-beat-higher-160951629.html?.tsrc=rss",
+      "time": "2026-11-06T16:09:51+00:00",
       "touches": [
-        "MU"
+        "NVDA"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:6bd82421-cf97-4476-81e7-7b111c2c4f12",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Rising GPU prices just might turn Nvidia into a buy",
+      "summary": "In The Loop host Ejaaz Ahamadee compares the rising prices of older GPUs with the drop in crypto tokens, underlining how this can be beneficial for Nvidia (NVDA).",
+      "link": "https://finance.yahoo.com/video/rising-gpu-prices-just-might-turn-nvidia-into-a-buy-160742850.html?.tsrc=rss",
+      "time": "2026-11-06T16:07:42+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:87d265ad-126c-3ac6-aca4-63ce71d4caf4",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Oracle beats Microsoft and Amazon on a key Wall Street metric",
+      "summary": "Oracle received the strongest valuation grade among seven major technology companies following Thursday's sector selloff.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-beats-microsoft-amazon-key-160655388.html?.tsrc=rss",
+      "time": "2026-11-06T16:06:55+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT",
+        "ORCL"
       ],
       "tags": [],
       "new": true
