@@ -1,31 +1,15 @@
 {
-  "as_of": "2026-11-06T13:35:00Z",
+  "as_of": "2026-11-06T14:05:00Z",
   "items": [
     {
-      "id": "rss:b06d98a1-47ac-3e1c-baa9-802a78e4cec1",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Cathie Wood sells $120 million in AI stock, buys Nvidia",
-      "summary": "ARK Invest added Nvidia and Rocket Lab shares during the market selloff while trimming other AI-related holdings.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-120-million-132237793.html?.tsrc=rss",
-      "time": "2026-11-06T13:22:37+00:00",
-      "touches": [
-        "GOOGL",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:37a41bc3-946b-382e-bbe2-be4e7a354d6f",
+      "id": "rss:791f98cd-b260-4865-b042-61f10bdbf20e",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MU",
-      "title": "Equity Futures Mostly Point Higher Following Tech-Led Selloff",
-      "summary": "US stock futures were mostly tracking higher Friday after Wall Street suffered its biggest one-day d",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equity-futures-mostly-point-higher-132049207.html?.tsrc=rss",
-      "time": "2026-11-06T13:20:49+00:00",
+      "title": "Nvidia, AMD, and Micron stocks lead chip sector higher following worst sell-off since 2020",
+      "summary": "Nvida, AMD, Micron and Sandisk rebounded on Friday after the chip sector suffered its worst daily drop since 2020.",
+      "link": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-sandsik-lead-chip-sector-higher-134336542.html?.tsrc=rss",
+      "time": "2026-11-06T13:43:36+00:00",
       "touches": [
         "MU",
         "NVDA"
@@ -34,210 +18,16 @@
       "new": true
     },
     {
-      "id": "rss:a6b8fdad-c85f-4daa-a2ec-fa84c70bc6ef",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Tech just had a crisis-sized day \u2014 the kind that came in 2000, 2008, and 2020: Chart of the Day",
-      "summary": "Tech's crisis-sized drop has history on its side, with one big exception.",
-      "link": "https://finance.yahoo.com/markets/article/tech-just-had-a-crisis-sized-day--the-kind-that-came-in-2000-2008-and-2020-chart-of-the-day-132049015.html?.tsrc=rss",
-      "time": "2026-11-06T13:20:49+00:00",
-      "touches": [
-        "NVDA",
-        "XLK"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:6fe180ee-e709-378a-be9e-537403dfdef5",
+      "id": "rss:deae8b87-e7f4-3384-a959-4d57223e64a1",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MU",
-      "title": "Micron's 17% stock plunge reveals a surprising valuation",
-      "summary": "Its forward P/E ratio of 3.72 was the lowest among 10 semiconductor-related stocks.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/microns-17-stock-plunge-reveals-131843845.html?.tsrc=rss",
-      "time": "2026-11-06T13:18:43+00:00",
-      "touches": [
-        "MU",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:20e62c41-43fb-3231-9e43-44835912a997",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "Michael Burry Dumps 25% of His Semiconductor Bet Amid Brutal Tech Selloff",
-      "summary": "Big Short Investor Michael Burry Takes Profits on Chip Stock Bets After Brutal Selloff",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-dumps-25-semiconductor-131244639.html?.tsrc=rss",
-      "time": "2026-11-06T13:12:44+00:00",
-      "touches": [
-        "MU",
-        "NVDA",
-        "ORCL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:7d0d8fea-8660-3e80-8e16-1dc22c38c16e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "TSX futures edged lower amid fallout from AI-driven stock rout",
-      "summary": "Investing.com - Futures linked to Canada\u2019s main stock index pointed lower on Friday, after Canadian shares were caught up in an artificial intelligence-driven rout in U.S. stocks in the prior session.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/tsx-futures-edged-lower-amid-131009870.html?.tsrc=rss",
-      "time": "2026-11-06T13:10:09+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:a4aa99de-cefe-3039-85ff-7e52d03f08ff",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "USA Today Co Inc (TDAY) (Q3 2026) Earnings Call Highlights: Digital Subscriptions Shine as Cost ...",
-      "summary": "USA Today Co Inc (TDAY) posted record digital ARPU and launched a $100 million cost reduction program, but lowered full-year guidance as indirect advertising slumped 32%.",
-      "link": "https://finance.yahoo.com/media-advertising/articles/usa-today-co-inc-tday-131000399.html?.tsrc=rss",
-      "time": "2026-11-06T13:10:00+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:259a2432-7041-3624-978f-9a7336f10b31",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Stock Market Today: Dow Slides 500 Points Ahead Of Jobs Report; Nvidia Stock Leads Tech Rebound (Live Coverage)",
-      "summary": "The Dow Jones index sells off 500 points ahead of the October jobs report. Nvidia stock leads the tech rebound.",
-      "link": "https://finance.yahoo.com/m/259a2432-7041-3624-978f-9a7336f10b31/stock-market-today%3A-dow.html?.tsrc=rss",
-      "time": "2026-11-06T13:02:42+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:1f843001-c94b-3d44-9a8c-33bfc2e1bc2b",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Nvidia Partner CoreWeave Ready To Report Q3 As AI Stocks Crumble; Nebius, Qualys Also Due",
-      "summary": "Despite strong top-line growth, CoreWeave stock and Nebius have been hit hard by sellers ahead of their Q3 earnings reports.",
-      "link": "https://finance.yahoo.com/m/1f843001-c94b-3d44-9a8c-33bfc2e1bc2b/nvidia-partner-coreweave.html?.tsrc=rss",
-      "time": "2026-11-06T13:01:04+00:00",
-      "touches": [
-        "MSFT",
-        "NVDA"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:2a20f777-960c-3d7a-96cf-82a659aedcc7",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Why The Blue Tsunami Rattled AI Stocks As Microsoft, Google, Amazon Fall",
-      "summary": "The Blue Tsunami midterms sent some AI stocks like Nvidia reeling while cloud giants rallied.",
-      "link": "https://finance.yahoo.com/m/2a20f777-960c-3d7a-96cf-82a659aedcc7/why-the-blue-tsunami-rattled.html?.tsrc=rss",
-      "time": "2026-11-06T13:00:54+00:00",
-      "touches": [
-        "GOOGL",
-        "MSFT",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:f949d09d-23e9-3a25-b459-43a09e843bec",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Top Funds Feast On Shell, Microsoft, Palantir And 24 More Stocks",
-      "summary": "The best mutual funds place massive bets on Microsoft, Palantir and Apple. But that's just the start. See the full list here.",
-      "link": "https://finance.yahoo.com/m/f949d09d-23e9-3a25-b459-43a09e843bec/top-funds-feast-on-shell%2C.html?.tsrc=rss",
-      "time": "2026-11-06T13:00:49+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:36ee0b7a-6a28-34e0-9f41-9d71676d7083",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "AI Trade, Alphabet, Meta Lose Steam As Medical And Energy Sectors Attract Investors",
-      "summary": "Investors are rotating out of the AI trade, along with Alphabet and Meta, and into more value-oriented sectors like medical and energy.",
-      "link": "https://finance.yahoo.com/m/36ee0b7a-6a28-34e0-9f41-9d71676d7083/ai-trade%2C-alphabet%2C-meta-lose.html?.tsrc=rss",
-      "time": "2026-11-06T13:00:04+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:fa157cbc-c03a-37c0-849e-dd1f268063d2",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Expect More Fireworks as Markets Adjust to the New AI Reality",
-      "summary": "All the news you need to start your day.",
-      "link": "https://finance.yahoo.com/m/fa157cbc-c03a-37c0-849e-dd1f268063d2/expect-more-fireworks-as.html?.tsrc=rss",
-      "time": "2026-11-06T12:43:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:89da0c6b-ecec-3a16-9fae-effa5a94fb2c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "Why Micron\u2019s Stock Valuation Now Looks Ridiculous",
-      "summary": "Micron stock has an incredibly low price-to-earnings multiple. Here's how to assess whether it's a bargain.",
-      "link": "https://finance.yahoo.com/m/89da0c6b-ecec-3a16-9fae-effa5a94fb2c/why-micron%E2%80%99s-stock-valuation.html?.tsrc=rss",
-      "time": "2026-11-06T12:38:00+00:00",
+      "title": "AI semiconductor rout may be buying opportunity, LYNX Equity says: \u2019Dip a toe in\u2019",
+      "summary": "Investing.com -- Lam Research (NASDAQ:LRCX) shares rebounded sharply in premarket trading Friday after the semiconductor equipment maker announced a $25 billion share repurchase authorization, offering a potential signal of corporate confidence following one of the technology sector\u2019s worst trading sessions in years.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-semiconductor-rout-may-buying-133944257.html?.tsrc=rss",
+      "time": "2026-11-06T13:39:44+00:00",
       "touches": [
         "MU"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:818361a8-c0cc-3183-8dbd-d74bb4abc62a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "Lam Research Sure Picked a Good Time to Buy Back Its Own Stock",
-      "summary": "The chip tool maker is leading the way in the AI rebound after its board greenlit a $25 billion stock buyback program.",
-      "link": "https://finance.yahoo.com/m/818361a8-c0cc-3183-8dbd-d74bb4abc62a/lam-research-sure-picked-a.html?.tsrc=rss",
-      "time": "2026-11-06T12:38:00+00:00",
-      "touches": [
-        "MU",
-        "NVDA"
       ],
       "tags": [
         "capital"
@@ -245,14 +35,29 @@
       "new": true
     },
     {
-      "id": "rss:b2005541-eb48-3781-b641-6b697746cf77",
+      "id": "rss:c22672b0-9b84-3df9-a358-4eb4fd7da524",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Nvidia makes major chip policy change as China scrutiny grows",
+      "summary": "Southeast Asian buyers must enroll in Nvidia's chip-tracking program to qualify as official cloud partners.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-makes-major-chip-policy-133831132.html?.tsrc=rss",
+      "time": "2026-11-06T13:38:31+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:2d6e155f-78f8-3a71-b772-043ab4ced7c3",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Google Created 5 Billionaires Worth $553B \u2014 Almost All That Wealth Belongs to 2 People",
-      "summary": "Alphabet Inc.\u2018s Google has created five billionaires. But its biggest wealth-creation story is still concentrated in the hands of the two people who started it: Larry Page and Sergey Brin. Page and Brin account for more than $513 billion of...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/google-created-5-billionaires-worth-120007743.html?.tsrc=rss",
-      "time": "2026-11-06T12:00:07+00:00",
+      "title": "Google parent reveals $548 million bet on beaten-down chip stock",
+      "summary": "Alphabet disclosed nearly 3 million Qualcomm shares worth $547.9 million.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/google-parent-reveals-548-million-133611955.html?.tsrc=rss",
+      "time": "2026-11-06T13:36:11+00:00",
       "touches": [
         "GOOGL"
       ],
@@ -260,14 +65,14 @@
       "new": true
     },
     {
-      "id": "rss:98c237c6-e54e-334d-9308-036210480355",
+      "id": "rss:87392b84-0a1d-3bd5-a981-54e2d1d5e39a",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MU",
-      "title": "Chip Index Rises but Heads for Bruising Weekly Loss",
-      "summary": "The Philadelphia Semiconductor Index, the most widely watched benchmark for the chip sector, is staging an early rebound in premarket trade, rising roughly 1.8%.",
-      "link": "https://finance.yahoo.com/m/98c237c6-e54e-334d-9308-036210480355/chip-index-rises-but-heads.html?.tsrc=rss",
-      "time": "2026-11-06T11:43:36+00:00",
+      "title": "Top 3 Growth Stocks To Watch In November 2026",
+      "summary": "AI related stocks just suffered a brutal selloff after political shifts in the US raised the risk of tougher rules on data centers and chip spending. That kind of shock often pushes money away from hype and toward businesses where analysts still expect solid growth, strong cash generation and cleaner balance sheets. This article walks through three such high potential stocks from our screener that fit that profile. The three examples below are just a sample, as the full screen surfaced 78...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-growth-stocks-watch-131600674.html?.tsrc=rss",
+      "time": "2026-11-06T13:16:00+00:00",
       "touches": [
         "MU"
       ],
