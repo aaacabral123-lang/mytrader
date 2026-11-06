@@ -1,111 +1,80 @@
 {
-  "as_of": "2026-11-06T14:35:00Z",
+  "as_of": "2026-11-06T15:05:00Z",
   "items": [
     {
-      "id": "rss:0b811a9b-79ce-4a8d-8f45-184de3e6e262",
+      "id": "rss:0727e7b3-2cb8-3a37-b643-79c4fe826da7",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Anthropic's valuation of $1.5T facing pushback from major investors",
-      "summary": "AInvest managing editor Adam Shapiro and Interactive Brokers chief strategist Steve Sosnick sit down with The 8:30 host Pras Subramanian to talk about the effect of the AI market sell-off on the looming Anthropic (ANTH.PVT) IPO and the major investors balking at its valuations.",
-      "link": "https://finance.yahoo.com/video/anthropics-valuation-of-15t-facing-pushback-from-major-investors-142341402.html?.tsrc=rss",
-      "time": "2026-11-06T14:23:41+00:00",
+      "ticker": "ORCL",
+      "title": "eClinical Solutions - Global Strategic Business Report: Capitalize on 12.2% CAGR to $22.7 Billion by 2030 as Oracle, Medidata, Veeva, Advarra and Parexel Accelerate AI and Cloud Disruption",
+      "summary": "Boost clinical trial ROI with cloud, AI and EHR integration that improve data quality, accelerate recruitment, enable remote monitoring and streamline operations.Dublin, Nov. 06, 2026 (GLOBE NEWSWIRE) -- \"eClinical Solutions - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering. The global eClinical solutions market was valued at US$11.4 billion in 2024 and is projected to reach US$22.7 billion by 2030, expanding at a compound annual growth rate (CAGR) of 12.2%",
+      "link": "https://finance.yahoo.com/healthcare/articles/eclinical-solutions-global-strategic-business-144000543.html?.tsrc=rss",
+      "time": "2026-11-06T14:40:00+00:00",
       "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:272942af-e76d-36b3-8fe2-d6aa4fa55ca3",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Market Chatter: TSMC Mulls Expanding Into Advanced Memory Chip Production",
-      "summary": "Taiwan Semiconductor Manufacturing (TSM) is weighing whether to expand into the advanced memory chip",
-      "link": "https://finance.yahoo.com/technology/articles/market-chatter-tsmc-mulls-expanding-142144931.html?.tsrc=rss",
-      "time": "2026-11-06T14:21:44+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:bdb764ba-dc61-3e44-8e5c-d18f5ae9b210",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Wedbush Revises Best Ideas List After October Underperformance",
-      "summary": "Investing.com -- Wedbush updated its Best Ideas List after a challenging October, in which the portfolio returned -11.6%, versus -0.9% for the S&P 500, -5.3% for the Nasdaq and +0.5% for the Russell 2000.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wedbush-revises-best-ideas-list-141358648.html?.tsrc=rss",
-      "time": "2026-11-06T14:13:58+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:aeb920dc-4bcd-3531-8458-6a642b7135df",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Analyst Calls Tech Stock Sell-Off 'Golden Buying Opportunity'",
-      "summary": "The tech stock sell-off presents a \"golden buying opportunity\" for investors to buy marquee stocks like Apple, Microsoft and Nvidia, one analyst says.",
-      "link": "https://finance.yahoo.com/m/aeb920dc-4bcd-3531-8458-6a642b7135df/analyst-calls-tech-stock.html?.tsrc=rss",
-      "time": "2026-11-06T14:09:06+00:00",
-      "touches": [
-        "GOOGL",
-        "MSFT",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:caf751cd-3202-386c-9593-d2564cae633e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Aimbridge Hospitality Selected to Manage Seattle Marriott Redmond",
-      "summary": "PLANO, Texas, November 06, 2026--Aimbridge Hospitality has been selected to manage the Seattle Marriott Redmond. The company will assume management of the hotel in January 2027.",
-      "link": "https://finance.yahoo.com/real-estate/articles/aimbridge-hospitality-selected-manage-seattle-140000294.html?.tsrc=rss",
-      "time": "2026-11-06T14:00:00+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:618ed609-a3f6-3791-a914-feef238371b8",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "CRWV Poised for a Q3 Earnings Beat: Buy, Sell or Hold the Stock Now?",
-      "summary": "CoreWeave's Q3 earnings outlook is fueled by surging AI demand, a $104 billion backlog and expanding infrastructure, but rising costs pose risks.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/crwv-poised-q3-earnings-beat-131600016.html?.tsrc=rss",
-      "time": "2026-11-06T13:16:00+00:00",
-      "touches": [
-        "MSFT"
+        "ORCL"
       ],
       "tags": [
-        "earnings"
+        "capital"
       ],
       "new": true
     },
     {
-      "id": "rss:c32c6280-b4f0-3419-b8a1-cf73af51dd19",
+      "id": "rss:68937bc2-8362-33f6-8efc-bf9c1b2f0339",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MU",
-      "title": "The Zacks Analyst Blog Highlights Berkshire Hathaway, Micron Technology, Chevron and Orbit International",
-      "summary": "Berkshire Hathaway, Micron and Chevron highlight strong earnings drivers, cash generation and growth opportunities, while Orbit International faces financial challenges despite a growing order book.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-berkshire-130500361.html?.tsrc=rss",
-      "time": "2026-11-06T13:05:00+00:00",
+      "title": "Memory stocks grab the AI headlines: Is this drive maker the bigger bargain?",
+      "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/memory-stocks-grab-ai-headlines-143859249.html?.tsrc=rss",
+      "time": "2026-11-06T14:38:59+00:00",
       "touches": [
         "MU"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:323f7c8d-93a3-3674-82e1-69d579c94255",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "\u2019Blue tsunami\u2019 batters AI stocks: Is this a rare buy the dip setup?",
+      "summary": "Investing.com -- Thursday\u2019s selloff was broad, and it started in AI. Pre-market bids suggest a partial bounce, but nothing has been confirmed yet.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/blue-tsunami-batters-ai-stocks-143835829.html?.tsrc=rss",
+      "time": "2026-11-06T14:38:35+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:870e9d6a-dbbb-3380-9680-17f32e5017a1",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "Nvidia Stock, Other AI Names Rebound After Sell-Off",
+      "summary": "Nvidia and other chip stocks exposed to the AI data center buildout rebounded on Friday after a hard sell-off.",
+      "link": "https://finance.yahoo.com/m/870e9d6a-dbbb-3380-9680-17f32e5017a1/nvidia-stock%2C-other-ai-names.html?.tsrc=rss",
+      "time": "2026-11-06T14:36:32+00:00",
+      "touches": [
+        "MU",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:5bf93534-e884-3cab-815c-3a455940694d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "AI in Virtual Medical Assistants Market to Worth USD 8.85 Billion by 2030, at a CAGR of 36.6%\u2013 MarketsandMarkets\u2122",
+      "summary": "Delray Beach, FL, Nov. 06, 2026 (GLOBE NEWSWIRE) -- MarketsandMarkets\u2122 projects the global AI in virtual medical assistants market to grow from USD 1.86 billion in 2025 to USD 8.85 billion by 2030, at a CAGR of 36.6% during the forecast period. Market growth is fueled by advancements in natural language processing, generative AI, and speech recognition, increasing healthcare workforce shortages, the need to reduce administrative burdens on clinicians, and growing adoption of AI-powered patient e",
+      "link": "https://finance.yahoo.com/healthcare/articles/ai-virtual-medical-assistants-market-143000973.html?.tsrc=rss",
+      "time": "2026-11-06T14:30:00+00:00",
+      "touches": [
+        "MSFT"
       ],
       "tags": [
         "earnings"
@@ -113,21 +82,34 @@
       "new": true
     },
     {
-      "id": "rss:5ed2c066-693f-35f8-bb80-c2525cce563d",
+      "id": "rss:586a38e4-39d9-3a08-937a-c7a4dc54f358",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "The Zacks Analyst Blog Highlights Microsoft, Amazon, Alphabet, Nextpower and Centene",
-      "summary": "Midterm election results are reshaping market opportunities, putting renewable energy, healthcare and AI stocks in focus as policy expectations shift.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-microsoft-125800453.html?.tsrc=rss",
-      "time": "2026-11-06T12:58:00+00:00",
+      "ticker": "MSFT",
+      "title": "Ed Yardeni Says Slowing AI Boom Is Actually Bullish for Big Tech",
+      "summary": "Big Tech has spent years pouring record sums into artificial intelligence. Now veteran strategist Ed Yardeni says hitting the brakes could be bullish. \u201cI\u2019ve had the view that a slowing down in the AI build-out is actually a bullish story,\u201d...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ed-yardeni-says-slowing-ai-133103480.html?.tsrc=rss",
+      "time": "2026-11-06T13:31:03+00:00",
       "touches": [
-        "GOOGL",
         "MSFT"
       ],
-      "tags": [
-        "earnings"
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:8bc93ab3-3cb3-30dd-ad03-990784dd388c",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLE",
+      "title": "Stock Market News for Nov 6, 2026",
+      "summary": "Wall Street closed sharply lower on Thursday, pulled down by a broad-based stock slump.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-6-132900980.html?.tsrc=rss",
+      "time": "2026-11-06T13:29:00+00:00",
+      "touches": [
+        "XLE",
+        "XLK"
       ],
+      "tags": [],
       "new": true
     }
   ],

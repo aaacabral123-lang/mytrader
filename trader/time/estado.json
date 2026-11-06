@@ -1,20 +1,20 @@
 {
   "noticias": {
-    "result": "8 novas de fontes confi\u00e1veis (8 descartadas), 0 comunicados graves, 0 manchetes de aten\u00e7\u00e3o",
+    "result": "7 novas de fontes confi\u00e1veis (10 descartadas), 0 comunicados graves, 0 manchetes de aten\u00e7\u00e3o",
     "ok": true,
-    "last_run": "2026-11-06T14:35:00Z",
+    "last_run": "2026-11-06T15:05:00Z",
     "last_day": "2026-11-06"
   },
   "politicos": {
     "result": "0 declara\u00e7\u00f5es novas, 0 nas suas a\u00e7\u00f5es",
     "ok": true,
-    "last_run": "2026-11-06T13:05:00Z",
+    "last_run": "2026-11-06T15:05:00Z",
     "last_day": "2026-11-06"
   },
   "vigia": {
-    "result": "9 a\u00e7\u00f5es vigiadas, 1 alertas",
+    "result": "9 a\u00e7\u00f5es vigiadas, 0 alertas",
     "ok": true,
-    "last_run": "2026-11-06T14:35:00Z",
+    "last_run": "2026-11-06T15:05:00Z",
     "last_day": "2026-11-06"
   },
   "analista": {
@@ -44,7 +44,7 @@
   "gestor": {
     "result": "rodada feita",
     "ok": true,
-    "last_run": "2026-11-06T14:35:00Z",
+    "last_run": "2026-11-06T15:05:00Z",
     "last_day": "2026-11-06"
   },
   "contador": {
