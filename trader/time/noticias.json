@@ -1,36 +1,21 @@
 {
-  "as_of": "2026-11-06T03:05:00Z",
+  "as_of": "2026-11-06T03:35:00Z",
   "items": [
     {
-      "id": "rss:29568a4f-280f-39b6-b8c5-7c1d51c47a73",
+      "id": "rss:ee1d35d4-c55a-30cc-84a2-172536f67598",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "UNP",
-      "title": "EXCLUSIVE: \u2018Humor is good,\u2019 Union Pacific CEO says of video rate threat",
-      "summary": "Union Pacific CEO said his threat to raise rates on shippers in a now-released video was an attempt at humor. The post EXCLUSIVE: \u2018Humor is good,\u2019 Union Pacific CEO says of video rate threat appeared first on FreightWaves.",
-      "link": "https://finance.yahoo.com/economy/policy/articles/exclusive-humor-good-union-pacific-023519451.html?.tsrc=rss",
-      "time": "2026-11-06T02:35:19+00:00",
+      "ticker": "MU",
+      "title": "Ecopro Co Ltd (XKRX:086520) (Q3 2026) Earnings Call Highlights: Micron Orders and Recycling ...",
+      "summary": "Ecopro Co Ltd (XKRX:086520) posted strong EcoPro HN growth and secured 113.4 billion won in Micron orders, but weak North American EV demand and currency headwinds weighed on near-term profitability.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ecopro-co-ltd-xkrx-086520-030825144.html?.tsrc=rss",
+      "time": "2026-11-06T03:08:25+00:00",
       "touches": [
-        "UNP"
+        "MU"
       ],
       "tags": [
-        "people"
+        "earnings"
       ],
-      "new": true
-    },
-    {
-      "id": "rss:2488e322-8e99-397c-b6d2-1ab29a3ec709",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "America\u2019s Rare Earth Reckoning Is Less Than 60 Days Away",
-      "summary": "Trump\u2019s $12 billion rare earth plan faces a critical test as a January 1 Pentagon deadline collides with America\u2019s dependence on Chinese processing.",
-      "link": "https://finance.yahoo.com/energy/articles/america-rare-earth-reckoning-less-020000209.html?.tsrc=rss",
-      "time": "2026-11-06T02:00:00+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
       "new": true
     }
   ],
