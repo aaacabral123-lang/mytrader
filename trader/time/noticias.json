@@ -1,5 +1,23 @@
 {
-  "as_of": "2026-11-06T04:35:00Z",
-  "items": [],
+  "as_of": "2026-11-06T05:05:00Z",
+  "items": [
+    {
+      "id": "rss:d5eeb3f6-1613-34e2-8c75-3b5ec07e842f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ORCL",
+      "title": "Quantinuum Reports Third Quarter 2026 Results and Raises Full-Year Revenue Outlook",
+      "summary": "Quantinuum Inc. (Nasdaq: QNT) (the \"Company\"), a leading full-stack quantum computing company, today announced financial results for the third quarter ended September 30, 2026.",
+      "link": "https://finance.yahoo.com/news/quantinuum-reports-third-quarter-2026-210100287.html?.tsrc=rss",
+      "time": "2026-11-05T21:01:00+00:00",
+      "touches": [
+        "ORCL"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    }
+  ],
   "atencao": []
 }
