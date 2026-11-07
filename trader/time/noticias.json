@@ -1,38 +1,5 @@
 {
-  "as_of": "2026-11-07T02:05:00Z",
-  "items": [
-    {
-      "id": "rss:5e588d26-0aa8-3110-a71f-c6d58a82920c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "summary": "The deal highlights the challenges of developing massive AI data centers.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/crusoe-sells-troubled-wyoming-data-014028924.html?.tsrc=rss",
-      "time": "2026-11-07T01:40:28+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [
-        "deal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:d8e078e7-ad04-347d-af76-00669bdc11b8",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia-backed Groq seeks $8 billion valuation in new funding round - Bloomberg",
-      "summary": "Investing.com -- Nvidia-backed artificial intelligence infrastructure company Groq is seeking fresh funding at an $8 billion valuation, more than doubling its valuation in three months despite a selloff in publicly traded data center operators, Bloomberg reported exclusively, citing investor documents.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-groq-seeks-8-013053376.html?.tsrc=rss",
-      "time": "2026-11-07T01:30:53+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-07T02:35:00Z",
+  "items": [],
   "atencao": []
 }
