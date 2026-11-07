@@ -1,18 +1,19 @@
 {
-  "as_of": "2026-11-07T01:05:00Z",
+  "as_of": "2026-11-07T01:35:00Z",
   "items": [
     {
-      "id": "rss:b1e1a9ee-aa50-318e-9c19-6efb065ca563",
+      "id": "rss:7db06941-9854-3283-a975-b9022fa61cb4",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Goldman raises global data center capacity forecast to 273 GW by 2030",
-      "summary": "Investing.com -- Goldman Sachs raised its forecast for global data center capacity to 273 gigawatts by 2030 from 217 gigawatts previously, citing stronger artificial intelligence infrastructure demand and expectations for further project announcements.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/goldman-raises-global-data-center-004019419.html?.tsrc=rss",
-      "time": "2026-11-07T00:40:19+00:00",
+      "ticker": "GOOGL",
+      "title": "Q3 Earnings Update: Broad-Based Growth, Key Sector Outliers, and What's Ahead for Q4",
+      "summary": "The bulk of the Q3 earnings season is over, with results from roughly 12% of S&P 500 members remaining. Including the still-to-come reports, Q3 earnings are on pace to grow +28.4% year-over-year on +14.4% higher revenues, the 8th straight quarter of double-digit earnings growth for the index.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/q3-earnings-broad-based-growth-002200772.html?.tsrc=rss",
+      "time": "2026-11-07T00:22:00+00:00",
       "touches": [
-        "MSFT",
-        "ORCL"
+        "GOOGL",
+        "MU",
+        "NVDA"
       ],
       "tags": [
         "earnings"
@@ -20,16 +21,16 @@
       "new": true
     },
     {
-      "id": "rss:be6d48f5-3a16-335e-a033-77339998c671",
+      "id": "rss:b007a5be-2a9e-3534-973c-5e577846b13e",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MU",
-      "title": "5 Best Memory Stocks to Buy According to Billionaires",
-      "summary": "In the first half of the year, memory was the hottest AI trade. Hyperscalers poured billions of dollars into data centers where high-bandwidth memory was one of the tightest bottlenecks in the supply chain. Most of the memory stocks rallied as a result, though the returns have been muted in the second half of the [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-memory-stocks-buy-003110873.html?.tsrc=rss",
-      "time": "2026-11-07T00:31:10+00:00",
+      "ticker": "GOOGL",
+      "title": "Uber\u2019s Robo Push",
+      "summary": "Uber plans to have tens of thousands of autonomous vehicles by 2030.",
+      "link": "https://finance.yahoo.com/m/b007a5be-2a9e-3534-973c-5e577846b13e/uber%E2%80%99s-robo-push.html?.tsrc=rss",
+      "time": "2026-11-07T00:19:00+00:00",
       "touches": [
-        "MU"
+        "GOOGL"
       ],
       "tags": [],
       "new": true
