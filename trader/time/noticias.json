@@ -1,36 +1,34 @@
 {
-  "as_of": "2026-11-07T01:35:00Z",
+  "as_of": "2026-11-07T02:05:00Z",
   "items": [
     {
-      "id": "rss:7db06941-9854-3283-a975-b9022fa61cb4",
+      "id": "rss:5e588d26-0aa8-3110-a71f-c6d58a82920c",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Q3 Earnings Update: Broad-Based Growth, Key Sector Outliers, and What's Ahead for Q4",
-      "summary": "The bulk of the Q3 earnings season is over, with results from roughly 12% of S&P 500 members remaining. Including the still-to-come reports, Q3 earnings are on pace to grow +28.4% year-over-year on +14.4% higher revenues, the 8th straight quarter of double-digit earnings growth for the index.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/q3-earnings-broad-based-growth-002200772.html?.tsrc=rss",
-      "time": "2026-11-07T00:22:00+00:00",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/crusoe-sells-troubled-wyoming-data-014028924.html?.tsrc=rss",
+      "time": "2026-11-07T01:40:28+00:00",
       "touches": [
-        "GOOGL",
-        "MU",
-        "NVDA"
+        "GOOGL"
       ],
       "tags": [
-        "earnings"
+        "deal"
       ],
       "new": true
     },
     {
-      "id": "rss:b007a5be-2a9e-3534-973c-5e577846b13e",
+      "id": "rss:d8e078e7-ad04-347d-af76-00669bdc11b8",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Uber\u2019s Robo Push",
-      "summary": "Uber plans to have tens of thousands of autonomous vehicles by 2030.",
-      "link": "https://finance.yahoo.com/m/b007a5be-2a9e-3534-973c-5e577846b13e/uber%E2%80%99s-robo-push.html?.tsrc=rss",
-      "time": "2026-11-07T00:19:00+00:00",
+      "ticker": "NVDA",
+      "title": "Nvidia-backed Groq seeks $8 billion valuation in new funding round - Bloomberg",
+      "summary": "Investing.com -- Nvidia-backed artificial intelligence infrastructure company Groq is seeking fresh funding at an $8 billion valuation, more than doubling its valuation in three months despite a selloff in publicly traded data center operators, Bloomberg reported exclusively, citing investor documents.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-groq-seeks-8-013053376.html?.tsrc=rss",
+      "time": "2026-11-07T01:30:53+00:00",
       "touches": [
-        "GOOGL"
+        "NVDA"
       ],
       "tags": [],
       "new": true
