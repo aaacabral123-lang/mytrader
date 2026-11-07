@@ -1,22 +1,5 @@
 {
-  "as_of": "2026-11-07T03:35:00Z",
-  "items": [
-    {
-      "id": "rss:b3f39913-cf91-3f5b-8c8c-161cbb93932d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Microsoft (MSFT) Is Pulling Back From Key Neocloud Data Center Deals",
-      "summary": "Microsoft (NasdaqGS:MSFT) is winding down several neocloud data center capacity deals, including a non-renewal of its Oracle arrangement. The company is exiting relationships with operators such as Nscale and IREN, reducing outsourced capacity tied to neocloud hubs. Management is refocusing on more flexible, in-house data centers as regulators, cost pressures, sustainability rules, and anti-AI protests reshape project economics. The decision to pull back from neocloud data center deals is...",
-      "link": "https://finance.yahoo.com/technology/articles/microsoft-msft-pulling-back-key-031936381.html?.tsrc=rss",
-      "time": "2026-11-07T03:19:36+00:00",
-      "touches": [
-        "MSFT",
-        "ORCL"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-07T04:05:00Z",
+  "items": [],
   "atencao": []
 }
