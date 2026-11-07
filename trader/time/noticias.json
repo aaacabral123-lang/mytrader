@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-07T14:05:00Z",
-  "items": [],
+  "as_of": "2026-11-07T14:35:00Z",
+  "items": [
+    {
+      "id": "rss:01554130-2834-3cde-9185-7b0e22b6d37b",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Analysts Just Sounded the Alarm on These 5 Overhyped Stocks",
+      "summary": "Wall Street had a rough week, and the damage came fast. Thursday\u2019s sell-off erased $2.3 trillion in market value, pushed the Nasdaq into a correction and sent the VIX, the market\u2019s fear gauge, up 70% to 28, Yahoo Finance reported on November 6. A chip-sector index that plunged 12% on Thursday bounced 4% the next [\u2026]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-just-sounded-alarm-5-141904403.html?.tsrc=rss",
+      "time": "2026-11-07T14:19:04+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
