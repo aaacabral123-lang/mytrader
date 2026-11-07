@@ -1,19 +1,22 @@
 {
-  "as_of": "2026-11-07T14:35:00Z",
+  "as_of": "2026-11-07T15:05:00Z",
   "items": [
     {
-      "id": "rss:01554130-2834-3cde-9185-7b0e22b6d37b",
+      "id": "rss:27b54516-a08b-38cc-958c-3d0e7a743064",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Analysts Just Sounded the Alarm on These 5 Overhyped Stocks",
-      "summary": "Wall Street had a rough week, and the damage came fast. Thursday\u2019s sell-off erased $2.3 trillion in market value, pushed the Nasdaq into a correction and sent the VIX, the market\u2019s fear gauge, up 70% to 28, Yahoo Finance reported on November 6. A chip-sector index that plunged 12% on Thursday bounced 4% the next [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-just-sounded-alarm-5-141904403.html?.tsrc=rss",
-      "time": "2026-11-07T14:19:04+00:00",
+      "ticker": "NVDA",
+      "title": "Anthropic Deal Could Reshape The Case For Akamai Stock",
+      "summary": "Akamai Technologies recently reported Q3 2026 results, issued revenue guidance through 2028, and highlighted more than US$14b in multi year cloud infrastructure commitments anchored by a US$11.6b, seven year Anthropic deal. The launch of Akamai Inference and Agent Sandbox, supported by expanded NVIDIA powered GPU capacity, illustrates how the business is positioning its network as an AI focused infrastructure platform rather than just a traditional CDN provider. We will examine how Akamai...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-deal-could-reshape-case-141456100.html?.tsrc=rss",
+      "time": "2026-11-07T14:14:56+00:00",
       "touches": [
-        "ADBE"
+        "NVDA"
       ],
-      "tags": [],
+      "tags": [
+        "earnings",
+        "deal"
+      ],
       "new": true
     }
   ],
