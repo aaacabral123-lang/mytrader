@@ -1,24 +1,5 @@
 {
-  "as_of": "2026-11-07T22:05:00Z",
-  "items": [
-    {
-      "id": "rss:0866fd80-5f0e-31ac-8e1b-909adaacfb82",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Berkshire Surprised With Record Buybacks, but Pace Slowed as the Stock Rose",
-      "summary": "Also noteworthy from the company\u2019s third-quarter results were big revenue and earnings gains for the company\u2019s railroad unit, BNSF, and a drop in profits for its huge insurance group.",
-      "link": "https://finance.yahoo.com/m/0866fd80-5f0e-31ac-8e1b-909adaacfb82/berkshire-surprised-with.html?.tsrc=rss",
-      "time": "2026-11-07T21:40:00+00:00",
-      "touches": [
-        "GOOGL",
-        "UNP"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-07T23:05:00Z",
+  "items": [],
   "atencao": []
 }
