@@ -1,5 +1,23 @@
 {
-  "as_of": "2026-11-07T06:35:00Z",
-  "items": [],
+  "as_of": "2026-11-07T07:05:00Z",
+  "items": [
+    {
+      "id": "rss:12080461-da5f-36b2-8153-ffdce1b8e4e7",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "3 US Semiconductor Stocks With Less China Exposure To Watch Now",
+      "summary": "Nvidia is back in the spotlight for all the wrong reasons, with questions around CEO Jensen Huang and fresh scrutiny of the group\u2019s China links putting governance, regulation, and key-person risk front and center. When one heavyweight is under the microscope, attention can swing quickly to US semiconductor and equipment stocks with limited China exposure. This article walks through three such US-listed companies from our screener that could sit on investors\u2019 watchlists as this story...",
+      "link": "https://finance.yahoo.com/technology/articles/3-us-semiconductor-stocks-less-061548967.html?.tsrc=rss",
+      "time": "2026-11-07T06:15:48+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
+    }
+  ],
   "atencao": []
 }
