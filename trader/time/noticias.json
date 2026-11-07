@@ -1,53 +1,5 @@
 {
-  "as_of": "2026-11-07T20:35:00Z",
-  "items": [
-    {
-      "id": "rss:171cdbf5-8d1e-39e2-b248-897282bfab11",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ORCL",
-      "title": "3 Growth Stocks With Earnings Growth Up To 58%",
-      "summary": "October\u2019s US jobs report showed 165,000 new roles created, with hiring spread across sectors and economists calling the labor market strong and stable. That kind of broad employment backdrop can support companies that already look financially sound and are expected to grow earnings quickly. This article highlights three stocks that match that profile and explains why this group could appeal if you are hunting for healthy growth potential. The three stocks highlighted here offer a compelling...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-earnings-growth-201412969.html?.tsrc=rss",
-      "time": "2026-11-07T20:14:12+00:00",
-      "touches": [
-        "ORCL"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:0478e3c7-eac6-31db-b8e5-1945dafb4de7",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "What Concentrix (CNXC)'s AI Migration Tool Launch Means For Shareholders",
-      "summary": "Concentrix Corporation recently launched its proprietary Concentrix Migration Engine for Dynamics 365 Contact Center on Microsoft Marketplace, an agentic AI tool that automates moves from legacy CX platforms and is being highlighted at Microsoft Ignite 2026 after early client migrations showed materially faster deployment timelines. The patent pending app gives Concentrix a concrete way to tie AI migration work, Microsoft Copilot usage, and real time workflow orchestration directly to client...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/concentrix-cnxc-ai-migration-tool-201248119.html?.tsrc=rss",
-      "time": "2026-11-07T20:12:48+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:a52d6ec0-fa8f-3390-90d0-c7344ca2b1b8",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Republican Senator Who Won Reelection Is Selling Magnificent Seven Stocks: Here Are the Trades",
-      "summary": "Sen. Shelley Moore Capito (R-W.Va.) was among the Republicans who held onto their seats in the 2026 midterm elections. Weeks before the election, Capito sold shares of three Magnificent Seven stocks. Capito Sells Magnificent Seven Stocks Capito sold four stocks...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/republican-senator-won-reelection-selling-193025792.html?.tsrc=rss",
-      "time": "2026-11-07T19:30:25+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-07T21:05:00Z",
+  "items": [],
   "atencao": []
 }
