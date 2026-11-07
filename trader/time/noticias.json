@@ -1,5 +1,37 @@
 {
-  "as_of": "2026-11-06T23:35:00Z",
-  "items": [],
+  "as_of": "2026-11-07T00:05:00Z",
+  "items": [
+    {
+      "id": "rss:316b19bd-7032-353e-b228-a0e633ad9567",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ORCL",
+      "title": "Oracle (ORCL) Ranks Sixth Among the Cheapest AI Data Center Stocks",
+      "summary": "We just published our list of the 10 Cheapest AI Data Center Stocks to Buy According to Billionaires, and Oracle Corporation (NYSE:ORCL) ranked sixth. AI data center investment keeps expanding, but the companies supplying that capacity face different paths to profit. The International Energy Agency\u2019s October 2026 report estimates that hyperscalers will spend more than [\u2026]",
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-ranks-sixth-among-233410631.html?.tsrc=rss",
+      "time": "2026-11-06T23:34:10+00:00",
+      "touches": [
+        "ORCL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:ffca5565-8f79-3d36-93f0-c2919fbdf8bf",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "AI Power Plays Need Data Centers Built, Analyst Says. It Doesn\u2019t Matter Where.",
+      "summary": "Bespoke Investment Group says data-center equipment suppliers will still sell their products regardless of where those facilities end up.",
+      "link": "https://finance.yahoo.com/m/ffca5565-8f79-3d36-93f0-c2919fbdf8bf/ai-power-plays-need-data.html?.tsrc=rss",
+      "time": "2026-11-06T20:45:00+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
