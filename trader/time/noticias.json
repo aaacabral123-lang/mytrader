@@ -1,22 +1,37 @@
 {
-  "as_of": "2026-11-07T00:35:00Z",
+  "as_of": "2026-11-07T01:05:00Z",
   "items": [
     {
-      "id": "rss:13e219c5-7ab5-392c-863d-1e620f451537",
+      "id": "rss:b1e1a9ee-aa50-318e-9c19-6efb065ca563",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia (NVDA) Tightens Chip Tracking In Southeast Asia",
-      "summary": "Nvidia (NasdaqGS:NVDA) is tightening chip tracking in Southeast Asia to address smuggling concerns linked to China and rising US scrutiny. US lawmakers are pushing for a briefing from Nvidia's CEO on the firm's controls and due diligence over restricted chip flows. Mexico's Fermaca has launched an Nvidia powered AI factory platform as the country's first NVIDIA Cloud Partner offering for Latin America. Chinese automaker Chery is expanding its collaboration with Nvidia to deepen the use of...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-tightens-chip-tracking-001552079.html?.tsrc=rss",
-      "time": "2026-11-07T00:15:52+00:00",
+      "ticker": "MSFT",
+      "title": "Goldman raises global data center capacity forecast to 273 GW by 2030",
+      "summary": "Investing.com -- Goldman Sachs raised its forecast for global data center capacity to 273 gigawatts by 2030 from 217 gigawatts previously, citing stronger artificial intelligence infrastructure demand and expectations for further project announcements.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/goldman-raises-global-data-center-004019419.html?.tsrc=rss",
+      "time": "2026-11-07T00:40:19+00:00",
       "touches": [
-        "NVDA"
+        "MSFT",
+        "ORCL"
       ],
       "tags": [
-        "capital",
-        "people"
+        "earnings"
       ],
+      "new": true
+    },
+    {
+      "id": "rss:be6d48f5-3a16-335e-a033-77339998c671",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "5 Best Memory Stocks to Buy According to Billionaires",
+      "summary": "In the first half of the year, memory was the hottest AI trade. Hyperscalers poured billions of dollars into data centers where high-bandwidth memory was one of the tightest bottlenecks in the supply chain. Most of the memory stocks rallied as a result, though the returns have been muted in the second half of the [\u2026]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-memory-stocks-buy-003110873.html?.tsrc=rss",
+      "time": "2026-11-07T00:31:10+00:00",
+      "touches": [
+        "MU"
+      ],
+      "tags": [],
       "new": true
     }
   ],
