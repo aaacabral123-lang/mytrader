@@ -1,24 +1,5 @@
 {
-  "as_of": "2026-11-07T15:05:00Z",
-  "items": [
-    {
-      "id": "rss:27b54516-a08b-38cc-958c-3d0e7a743064",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Anthropic Deal Could Reshape The Case For Akamai Stock",
-      "summary": "Akamai Technologies recently reported Q3 2026 results, issued revenue guidance through 2028, and highlighted more than US$14b in multi year cloud infrastructure commitments anchored by a US$11.6b, seven year Anthropic deal. The launch of Akamai Inference and Agent Sandbox, supported by expanded NVIDIA powered GPU capacity, illustrates how the business is positioning its network as an AI focused infrastructure platform rather than just a traditional CDN provider. We will examine how Akamai...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-deal-could-reshape-case-141456100.html?.tsrc=rss",
-      "time": "2026-11-07T14:14:56+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "earnings",
-        "deal"
-      ],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-07T15:35:00Z",
+  "items": [],
   "atencao": []
 }
