@@ -1,5 +1,38 @@
 {
-  "as_of": "2026-11-07T13:05:00Z",
-  "items": [],
+  "as_of": "2026-11-07T13:35:00Z",
+  "items": [
+    {
+      "id": "rss:2b47c372-177e-3051-aa01-406a8d82b220",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Amazon Holds Up Amid AI Rout",
+      "summary": "Among the best stocks in earnings performance, highly rated Eli Lilly is in a buy zone.",
+      "link": "https://finance.yahoo.com/m/2b47c372-177e-3051-aa01-406a8d82b220/these-7-stocks-are-analyst.html?.tsrc=rss",
+      "time": "2026-11-07T13:01:21+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:677d15db-73f6-334c-b006-e5bc9398d7dd",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Data centers run on debt. That was a problem for bonds this year \u2014 and it\u2019s only going to get worse.",
+      "summary": "AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won\u2019t get any better with Democrats in control of Congress.",
+      "link": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?.tsrc=rss",
+      "time": "2026-11-06T21:37:00+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
