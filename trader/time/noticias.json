@@ -1,5 +1,37 @@
 {
-  "as_of": "2026-11-07T19:05:00Z",
-  "items": [],
+  "as_of": "2026-11-07T19:35:00Z",
+  "items": [
+    {
+      "id": "rss:431c55b7-4842-3c07-8605-00dd6de24fa9",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Alphabet (GOOGL) Expands SpaceX Stake to $69 Billion and Deepens AI Ties",
+      "summary": "Alphabet (NasdaqGS: GOOGL) has expanded its SpaceX stake by nearly 4 million additional shares, lifting the holding\u2019s value to about US$69b. The position has grown from an original US$900m investment, reflecting a very large increase in the implied equity value. Alphabet has agreed to pay SpaceX monthly for Nvidia GPU access that will support the Gemini Enterprise AI platform. Alphabet\u2019s larger SpaceX stake and new AI infrastructure agreement are only one part of the wider story here. Our...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-expands-spacex-stake-191144041.html?.tsrc=rss",
+      "time": "2026-11-07T19:11:44+00:00",
+      "touches": [
+        "GOOGL",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:fc8bd4e9-47b8-32cc-bee9-081e13f56874",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Why Billionaire Armitage Trims but Still Keeps Alphabet (GOOGL) as a Core Hyperscaler Exposure",
+      "summary": "We just published a list of the 10 Best Stocks To Buy According to Billionaire Armitage and Alphabet (NASDAQ:GOOGL) ranked 6th on this list. John Armitage has managed money since the early 1980s, and the record behind his firm is the reason investors keep an eye on his filings. He started Egerton Capital in London [\u2026]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-billionaire-armitage-trims-still-185518940.html?.tsrc=rss",
+      "time": "2026-11-07T18:55:18+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
