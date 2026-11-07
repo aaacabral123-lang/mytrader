@@ -1,5 +1,39 @@
 {
-  "as_of": "2026-11-07T23:05:00Z",
-  "items": [],
+  "as_of": "2026-11-07T23:35:00Z",
+  "items": [
+    {
+      "id": "rss:a2e3aa7e-8f97-3f19-a8c3-f96fc4dab37d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "5 Best Dow Stocks to Buy for 2027",
+      "summary": "Yahoo Finance reported on November 5 that the Dow Jones Industrial Average tumbled 3.4%, or more than 1,800 points, while the S&P 500 fell 4.4% and the Nasdaq Composite sank 5.5% into correction territory. Chip stocks took the brunt of the damage, with AI chip designers and memory makers among the hardest hit. The slide [\u2026]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-dow-stocks-buy-231819373.html?.tsrc=rss",
+      "time": "2026-11-07T23:18:19+00:00",
+      "touches": [
+        "GOOGL",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:6866fca6-ccb4-3bc0-9391-de910be4c2cf",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "NVIDIA And 2 Other AI Stocks To Watch",
+      "summary": "AI-focused companies are under fresh scrutiny after Meta\u2019s large bond sale showed that investors now want clear paths to real profits, not just big promises. That is where profitable users of artificial intelligence start to look interesting. Rather than funding endless experiments, these businesses are already turning heavy AI spending into earnings. This article highlights three such stocks that filter through that lens. The three profitable AI stocks in this article are just a sample, and...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-2-other-ai-stocks-231249303.html?.tsrc=rss",
+      "time": "2026-11-07T23:12:49+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    }
+  ],
   "atencao": []
 }
