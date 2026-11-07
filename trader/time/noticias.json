@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-07T17:35:00Z",
-  "items": [
-    {
-      "id": "rss:7c2c594c-0649-3da9-9eee-2c168184a303",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ORCL",
-      "title": "3 Cash Flow Stocks Trading Up To 47% Below Fair Value",
-      "summary": "Bond markets just absorbed a stronger than expected US jobs report, and Treasury yields moved higher as investors braced for possible rate hikes. Higher discount rates tend to punish stocks priced on distant hopes rather than hard cash today. That shift draws attention to businesses generating solid cash inflows yet priced below estimated fair value. This article highlights three such opportunities from our discounted cash flow value screen. The three examples in this piece are just a...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-cash-flow-stocks-trading-171450371.html?.tsrc=rss",
-      "time": "2026-11-07T17:14:50+00:00",
-      "touches": [
-        "ORCL"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-07T18:05:00Z",
+  "items": [],
   "atencao": []
 }
