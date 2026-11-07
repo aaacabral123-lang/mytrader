@@ -1,5 +1,23 @@
 {
-  "as_of": "2026-11-07T10:05:00Z",
-  "items": [],
+  "as_of": "2026-11-07T10:35:00Z",
+  "items": [
+    {
+      "id": "rss:b7948469-5103-355c-8618-32539d2c75f7",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "3 Great AI Stocks To Own In November 2026",
+      "summary": "A strong US jobs report on 8 October showed 165,000 new roles added and unemployment down, which reinforced the idea that the economy still has solid momentum behind it. In that context, companies expected to grow earnings quickly while keeping their finances in decent shape can look especially interesting. This article walks through three such high potential US stocks and explains why they feature on this growth focused shortlist. The three stocks highlighted here offer a compelling starting...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-great-ai-stocks-own-101511863.html?.tsrc=rss",
+      "time": "2026-11-07T10:15:11+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    }
+  ],
   "atencao": []
 }
