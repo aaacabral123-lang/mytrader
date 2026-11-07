@@ -2,7 +2,7 @@
   "noticias": {
     "result": "0 novas de fontes confi\u00e1veis (2 descartadas), 0 comunicados graves, 0 manchetes de aten\u00e7\u00e3o",
     "ok": true,
-    "last_run": "2026-11-07T21:05:00Z",
+    "last_run": "2026-11-07T21:35:00Z",
     "last_day": "2026-11-07"
   },
   "politicos": {
@@ -50,7 +50,7 @@
   "contador": {
     "result": "7 lotes, resultado n\u00e3o realizado $-106.76",
     "ok": true,
-    "last_run": "2026-11-06T21:35:00Z",
-    "last_day": "2026-11-06"
+    "last_run": "2026-11-07T21:35:00Z",
+    "last_day": "2026-11-07"
   }
 }
