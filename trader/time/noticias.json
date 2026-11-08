@@ -1,22 +1,5 @@
 {
-  "as_of": "2026-11-08T00:35:00Z",
-  "items": [
-    {
-      "id": "rss:f98078c1-29b2-318e-a756-7fa888b419e6",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "How to invest in AI amid AI spending worries?",
-      "summary": "Investing.com -- Investors should spread their artificial intelligence exposure beyond a handful of technology giants as mounting capital expenditure raises questions about returns, according to UBS strategist Matthew Carter, who remains positive on AI\u2019s contribution to global equities in 2027.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/invest-ai-amid-ai-spending-002316174.html?.tsrc=rss",
-      "time": "2026-11-08T00:23:16+00:00",
-      "touches": [
-        "MSFT",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-08T01:05:00Z",
+  "items": [],
   "atencao": []
 }
