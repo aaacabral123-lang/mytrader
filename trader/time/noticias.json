@@ -1,60 +1,70 @@
 {
-  "as_of": "2026-11-08T21:05:00Z",
+  "as_of": "2026-11-08T21:35:00Z",
   "items": [
     {
-      "id": "rss:7d4c4e40-eb01-324f-b03d-99c6800c4248",
+      "id": "rss:d93cfbe1-c760-30e3-8fbf-33e7d90dcf39",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ORCL",
+      "title": "Where Does CPI FIM (BDL:ORCL) Value Sit After A 58% Rise?",
+      "summary": "CPI FIM has dropped sharply this year, yet over three years the stock is still well ahead of where it was. This puts fresh focus on whether today's share price is adequately backed by its earnings power. With the recent pullback sitting against a much stronger multi year gain, the question is how much of the business's profit profile the current market value is really reflecting. Over the past three years CPI FIM has delivered a 58.1% gain, which now raises the issue of whether that share...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/where-does-cpi-fim-bdl-211258633.html?.tsrc=rss",
+      "time": "2026-11-08T21:12:58+00:00",
+      "touches": [
+        "ORCL"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:ed063c12-5f3c-3006-879f-a2560ac26822",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "UNP",
+      "title": "CSX Stock And Rail Peers Facing A New Intermodal Volume Test",
+      "summary": "Tariffs, shipping snarls, and costly fuel are reshaping how goods move across North America, and rail and intermodal transport stocks sit right in that crossfire. That mix of risk and rerouted trade flows can punish the unprepared investor and reward those who spot where volume and capital spending may cluster next. This article walks through three rail and intermodal operators exposed to these supply chain shocks and explains why their stories matter now. The stocks covered below are just a...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/csx-stock-rail-peers-facing-210935714.html?.tsrc=rss",
+      "time": "2026-11-08T21:09:35+00:00",
+      "touches": [
+        "UNP"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:3d3f714a-c766-3e51-b12c-b0e5fa3ca4a6",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia Board Launches Probe In CEO Jensen Huang Spying Case",
-      "summary": "The Nvidia board has launched an independent probe in the wake of reporting that CEO Jensen Huang was the target of a foreign espionage plot.",
-      "link": "https://finance.yahoo.com/m/7d4c4e40-eb01-324f-b03d-99c6800c4248/nvidia-board-launches-probe.html?.tsrc=rss",
-      "time": "2026-11-08T20:57:30+00:00",
+      "title": "Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-investigate-ceo-jensen-huang-210011206.html?.tsrc=rss",
+      "time": "2026-11-08T21:00:11+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
-        "legal",
         "people"
       ],
       "new": true
     },
     {
-      "id": "rss:6d29ea80-223f-44e2-9316-cfd1355721cf",
+      "id": "rss:45a7941b-92de-39e3-aef4-c79195e5d79d",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia's Jensen Huang admits to affair after allegations of romance with Chinese spy: Report",
-      "summary": "Nvidia CEO Jensen Huang reportedly admitted to employees that he had an affair, following allegations of a romantic relationship with a woman suspected of being a Chinese spy.",
-      "link": "https://finance.yahoo.com/markets/article/nvidias-jensen-huang-admits-to-affair-after-allegations-of-romance-with-chinese-spy-report-205122263.html?.tsrc=rss",
-      "time": "2026-11-08T20:51:22+00:00",
+      "ticker": "REGN",
+      "title": "CIDEB siRNA Normalizes Liver Fat and Improves Liver Injury Markers in MASLD Patients, as Highlighted at AASLD",
+      "summary": "Single administration of CIDEBsiRNA resulted in rapid, deep and durable reductions in liver fat by up to 80% that were sustained through 36 weeks Data from first-in-human trial were shared in oral presentation at AASLD The Liver Meeting\u00ae and simultaneously published in The New England Journal of Medicine Regeneron to host virtual \u201cRegeneron Roundtable\u201d investor event to discuss its MASH pipeline programs on Tuesday, November 10 at 8:30 a.m. ET TARRYTOWN, N.Y., Nov. 08, 2026 (GLOBE NEWSWIRE) -- R",
+      "link": "https://finance.yahoo.com/healthcare/articles/cideb-sirna-normalizes-liver-fat-210000365.html?.tsrc=rss",
+      "time": "2026-11-08T21:00:00+00:00",
       "touches": [
-        "NVDA"
+        "REGN"
       ],
-      "tags": [
-        "people"
-      ],
+      "tags": [],
       "new": true
     }
   ],
-  "atencao": [
-    {
-      "id": "rss:7d4c4e40-eb01-324f-b03d-99c6800c4248",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia Board Launches Probe In CEO Jensen Huang Spying Case",
-      "summary": "The Nvidia board has launched an independent probe in the wake of reporting that CEO Jensen Huang was the target of a foreign espionage plot.",
-      "link": "https://finance.yahoo.com/m/7d4c4e40-eb01-324f-b03d-99c6800c4248/nvidia-board-launches-probe.html?.tsrc=rss",
-      "time": "2026-11-08T20:57:30+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "legal",
-        "people"
-      ],
-      "new": true
-    }
-  ]
+  "atencao": []
 }
