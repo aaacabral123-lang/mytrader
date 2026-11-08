@@ -1,5 +1,40 @@
 {
-  "as_of": "2026-11-08T14:05:00Z",
-  "items": [],
+  "as_of": "2026-11-08T14:35:00Z",
+  "items": [
+    {
+      "id": "rss:6641c5a5-538c-31bf-8ce1-5604feee5d68",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "REGN",
+      "title": "Regeneron Pharmaceuticals (REGN) Extends BARDA Deal As Libtayo Long Term Data Holds Up",
+      "summary": "Regeneron Pharmaceuticals (NasdaqGS:REGN) reported new long-term Phase 3 data for Libtayo in high-risk cutaneous squamous cell carcinoma. The trial readout highlighted sustained disease-free and overall survival outcomes in patients treated with Libtayo adjuvant therapy despite high crossover rates. Regeneron expanded its U.S. government agreement with BARDA for additional Inmazeb supply to support infectious disease preparedness efforts. The Libtayo survival data and extended Inmazeb BARDA...",
+      "link": "https://finance.yahoo.com/healthcare/articles/regeneron-pharmaceuticals-regn-extends-barda-141007536.html?.tsrc=rss",
+      "time": "2026-11-08T14:10:07+00:00",
+      "touches": [
+        "REGN"
+      ],
+      "tags": [
+        "deal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:bbff4d9b-8cff-3cc5-990d-5bf52587cc7f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Lumen Technologies (LUMN) Could Be 47% Undervalued On Fresh Third Quarter Results",
+      "summary": "Lumen Technologies (LUMN) just released fresh third quarter numbers, reporting revenue of US$2.72b and a net loss of US$265 million, along with updated detail on its longer term fiber and connectivity commitments. Lumen Technologies has seen heavy pressure on the shares this year, with the 30 day share price return down 24.43% and the year to date share price return down 48.11%. This comes even though the three year total shareholder return is very large at roughly 3.4x. This points to fading...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lumen-technologies-lumn-could-47-140858911.html?.tsrc=rss",
+      "time": "2026-11-08T14:08:58+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    }
+  ],
   "atencao": []
 }
