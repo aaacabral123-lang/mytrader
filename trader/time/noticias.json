@@ -1,5 +1,25 @@
 {
-  "as_of": "2026-11-08T05:35:00Z",
-  "items": [],
+  "as_of": "2026-11-08T06:05:00Z",
+  "items": [
+    {
+      "id": "rss:a429ed7d-57b3-3309-a861-6a759951706a",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "These AI Stocks To Improve Your Portfolio In November 2026",
+      "summary": "Rising inflation worries are back on center stage after mentions of price pressure on S&P 500 earnings calls hit a two year high. Companies are wrestling with higher costs and fragile consumer confidence, which puts a premium on businesses that turn accounting profit into solid cash in the bank. This article breaks down three stocks that our cash flow focused screener identifies as attractively valued today. The stocks covered below are just a sample pulled from this cash flow focused idea,...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-stocks-improve-portfolio-november-051245618.html?.tsrc=rss",
+      "time": "2026-11-08T05:12:45+00:00",
+      "touches": [
+        "GOOGL",
+        "NVDA",
+        "ORCL"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    }
+  ],
   "atencao": []
 }
