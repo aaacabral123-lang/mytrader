@@ -1,23 +1,19 @@
 {
-  "as_of": "2026-11-08T06:05:00Z",
+  "as_of": "2026-11-08T06:35:00Z",
   "items": [
     {
-      "id": "rss:a429ed7d-57b3-3309-a861-6a759951706a",
+      "id": "rss:c79c7b7f-01c9-3ada-ba72-5c48d5a08fb9",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "These AI Stocks To Improve Your Portfolio In November 2026",
-      "summary": "Rising inflation worries are back on center stage after mentions of price pressure on S&P 500 earnings calls hit a two year high. Companies are wrestling with higher costs and fragile consumer confidence, which puts a premium on businesses that turn accounting profit into solid cash in the bank. This article breaks down three stocks that our cash flow focused screener identifies as attractively valued today. The stocks covered below are just a sample pulled from this cash flow focused idea,...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-stocks-improve-portfolio-november-051245618.html?.tsrc=rss",
-      "time": "2026-11-08T05:12:45+00:00",
+      "ticker": "ORCL",
+      "title": "3 Founder Led Stocks To Own In November 2026",
+      "summary": "Wall Street\u2019s recent AI boom and the sharp $3.2tn sell off after the US midterm shock have highlighted one clear lesson: capital can move fast, conviction cannot. When sentiment swings, investors often crowd into whatever is fashionable. Founder led businesses are different. Their leaders built the mission and usually think in decades. This article breaks down three such stocks that fit that long haul mindset. The three stocks highlighted here offer a compelling starting point if you want...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-founder-led-stocks-own-061206473.html?.tsrc=rss",
+      "time": "2026-11-08T06:12:06+00:00",
       "touches": [
-        "GOOGL",
-        "NVDA",
         "ORCL"
       ],
-      "tags": [
-        "earnings"
-      ],
+      "tags": [],
       "new": true
     }
   ],
