@@ -1,40 +1,5 @@
 {
-  "as_of": "2026-11-08T13:05:00Z",
-  "items": [
-    {
-      "id": "rss:3384549c-d0a5-34ff-9181-b72e5fc1768c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "'There's no question about it': Warren Buffett and Bill Gates reveal the same 1-word secret to success",
-      "summary": "The two billionaires built their fortunes in very different ways, but they credit the same philosophy for their success. Here's how everyday investors can put it to work.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/theres-no-warren-buffett-bill-124500052.html?.tsrc=rss",
-      "time": "2026-11-08T12:45:00+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:9c34f1ca-23da-3e82-855f-96823f5f6e8d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "EXCLUSIVE: Democrats Took Congress. But AI's Spending Binge Isn't Going Anywhere, This CEO Says",
-      "summary": "Democrats\u2019 takeover of Congress puts a new political spotlight on the cost of America\u2019s AI buildout, but it is unlikely to persuade Microsoft Corp., Amazon.com Inc. or Alphabet Inc. to step away from the spending race. The companies may become...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/exclusive-democrats-took-congress-ais-114506653.html?.tsrc=rss",
-      "time": "2026-11-08T11:45:06+00:00",
-      "touches": [
-        "GOOGL",
-        "MSFT"
-      ],
-      "tags": [
-        "deal",
-        "people"
-      ],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-08T13:35:00Z",
+  "items": [],
   "atencao": []
 }
