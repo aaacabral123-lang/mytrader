@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-08T18:05:00Z",
-  "items": [
-    {
-      "id": "rss:479f0d4d-d203-3252-a811-7ab9314fe6b1",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Microsoft (MSFT) Makes the 10 Best Dow Stocks for 2027 List as Azure Growth Speeds Up",
-      "summary": "We just published a list of the 10 Best Dow Stocks to Buy for 2027 and Microsoft (NASDAQ:MSFT) ranked 10th on this list. Yahoo Finance reported on November 5 that the Dow Jones Industrial Average tumbled 3.4%, or more than 1,800 points, while the S&P 500 fell 4.4% and the Nasdaq Composite sank 5.5% into [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-makes-10-best-173628657.html?.tsrc=rss",
-      "time": "2026-11-08T17:36:28+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-08T18:35:00Z",
+  "items": [],
   "atencao": []
 }
