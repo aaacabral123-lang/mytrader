@@ -1,5 +1,60 @@
 {
-  "as_of": "2026-11-08T20:35:00Z",
-  "items": [],
-  "atencao": []
+  "as_of": "2026-11-08T21:05:00Z",
+  "items": [
+    {
+      "id": "rss:7d4c4e40-eb01-324f-b03d-99c6800c4248",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Nvidia Board Launches Probe In CEO Jensen Huang Spying Case",
+      "summary": "The Nvidia board has launched an independent probe in the wake of reporting that CEO Jensen Huang was the target of a foreign espionage plot.",
+      "link": "https://finance.yahoo.com/m/7d4c4e40-eb01-324f-b03d-99c6800c4248/nvidia-board-launches-probe.html?.tsrc=rss",
+      "time": "2026-11-08T20:57:30+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "legal",
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:6d29ea80-223f-44e2-9316-cfd1355721cf",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Nvidia's Jensen Huang admits to affair after allegations of romance with Chinese spy: Report",
+      "summary": "Nvidia CEO Jensen Huang reportedly admitted to employees that he had an affair, following allegations of a romantic relationship with a woman suspected of being a Chinese spy.",
+      "link": "https://finance.yahoo.com/markets/article/nvidias-jensen-huang-admits-to-affair-after-allegations-of-romance-with-chinese-spy-report-205122263.html?.tsrc=rss",
+      "time": "2026-11-08T20:51:22+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
+    }
+  ],
+  "atencao": [
+    {
+      "id": "rss:7d4c4e40-eb01-324f-b03d-99c6800c4248",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Nvidia Board Launches Probe In CEO Jensen Huang Spying Case",
+      "summary": "The Nvidia board has launched an independent probe in the wake of reporting that CEO Jensen Huang was the target of a foreign espionage plot.",
+      "link": "https://finance.yahoo.com/m/7d4c4e40-eb01-324f-b03d-99c6800c4248/nvidia-board-launches-probe.html?.tsrc=rss",
+      "time": "2026-11-08T20:57:30+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "legal",
+        "people"
+      ],
+      "new": true
+    }
+  ]
 }
