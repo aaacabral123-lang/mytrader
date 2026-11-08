@@ -1,8 +1,8 @@
 {
   "noticias": {
-    "result": "0 novas de fontes confi\u00e1veis (2 descartadas), 0 comunicados graves, 0 manchetes de aten\u00e7\u00e3o",
+    "result": "2 novas de fontes confi\u00e1veis (4 descartadas), 0 comunicados graves, 0 manchetes de aten\u00e7\u00e3o",
     "ok": true,
-    "last_run": "2026-11-08T11:35:00Z",
+    "last_run": "2026-11-08T12:05:00Z",
     "last_day": "2026-11-08"
   },
   "politicos": {
@@ -31,8 +31,8 @@
     },
     "result": "8 empresas lidas, 0 com balan\u00e7o novo",
     "ok": true,
-    "last_run": "2026-11-07T12:05:00Z",
-    "last_day": "2026-11-07"
+    "last_run": "2026-11-08T12:05:00Z",
+    "last_day": "2026-11-08"
   },
   "copiador": {
     "accession": "0001193125-26-352200",

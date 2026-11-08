@@ -1,5 +1,38 @@
 {
-  "as_of": "2026-11-08T11:35:00Z",
-  "items": [],
+  "as_of": "2026-11-08T12:05:00Z",
+  "items": [
+    {
+      "id": "rss:fdcd7856-249d-3738-9cd1-8ea7365c4607",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Buy the dip or wait? BofA maps out 3 scenarios for chip stocks and top picks",
+      "summary": "Investing.com -- Bank of America sees a potential recovery in semiconductor stocks in early 2027 as improving U.S. policy clarity, corporate buybacks and relatively attractive valuations help ease concerns over artificial intelligence spending, although investors may need to wait for earnings estimate cuts before the sector finds a durable bottom.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-dip-wait-bofa-maps-115701295.html?.tsrc=rss",
+      "time": "2026-11-08T11:57:01+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:8623d611-c781-3d2c-9b56-ca9df719f3db",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "Congressman Swaps One Chip Stock for Another: Here Are the Moves",
+      "summary": "The trading activity of members of Congress continues to be closely followed by investors. A recent trade saw a congressman sell shares of one semiconductor-related stock for another one in the same sector. Here are the trades. Congressman Swaps Chip...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/congressman-swaps-one-chip-stock-104507987.html?.tsrc=rss",
+      "time": "2026-11-08T10:45:07+00:00",
+      "touches": [
+        "MU"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
