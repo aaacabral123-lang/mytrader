@@ -1,41 +1,89 @@
 {
-  "as_of": "2026-11-08T22:05:00Z",
+  "as_of": "2026-11-08T22:35:00Z",
   "items": [
     {
-      "id": "rss:40d9622e-6959-31c6-ba47-0f3dd46222d3",
+      "id": "rss:952f1096-69d3-36d0-a441-2d99b7ca7ee9",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "3 Growth Stocks With Earnings Growth Over 20%",
+      "summary": "Voters just approved restrictions on new data centres across the US, which puts a question mark over how easy it will be for many AI hungry businesses to keep expanding. Growth does not disappear; it just becomes more selective. That is where financially sound companies with strong earnings potential can matter. This article walks through three high growth candidates from our screener that aim to balance ambition with balance sheet discipline. The three stocks highlighted here offer a...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-earnings-growth-220719361.html?.tsrc=rss",
+      "time": "2026-11-08T22:07:19+00:00",
+      "touches": [
+        "MU"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:fd7a9138-e43d-3752-aac8-d390a6093d24",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "SpaceX (SPCX) Lands $45 Billion AI Deal As New Contracts Recast Its Growth Story",
+      "summary": "Space Exploration Technologies (NasdaqGS:SPCX) has secured a reported US$45b AI compute agreement from Anthropic for access to its Colossus and Colossus II data centers. Anthropic is expected to pay SpaceX several billions of dollars over multiple years under the Colossus infrastructure arrangement. Alphabet's Google unit has deepened its partnership with SpaceX and plans to allocate nearly US$1b a month to Nvidia GPU powered AI workloads on SpaceX infrastructure. The Anthropic Colossus...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/spacex-spcx-lands-45-billion-220638884.html?.tsrc=rss",
+      "time": "2026-11-08T22:06:38+00:00",
+      "touches": [
+        "GOOGL",
+        "NVDA"
+      ],
+      "tags": [
+        "deal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:b223dd12-5cea-36c6-b5ed-bec876cde1af",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "What Is Meta Platforms (META) Facing As Legal Risks Rise And AI Deals Expand?",
+      "summary": "Meta Platforms (NasdaqGS:META) joined Google and TikTok in suing California to block a new youth social media law targeting users under 16. Police in India registered a First Information Report against Meta after complaints over alleged child sexual abuse material on Instagram and Facebook. AMD disclosed agreements under which Meta may gain rights to about 320 million AMD shares as part of AI chip related deals. These parallel lawsuits, criminal allegations and AI equity rights only capture...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-facing-legal-220633031.html?.tsrc=rss",
+      "time": "2026-11-08T22:06:33+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:09a7b85b-f39c-346a-88bc-f818668a56a9",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia CEO Huang admits to affair, apologizes to employees as probe launched",
-      "summary": "Investing.com -- Nvidia Chief Executive Jensen Huang has apologized to employees after admitting to an affair with businesswoman Alice Huang, whom U.S. intelligence suspects is a Chinese spy. Huang told staff he was \"deeply sorry\", as the chipmaker\u2019s board launches an independent investigation.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-huang-admits-affair-210656939.html?.tsrc=rss",
-      "time": "2026-11-08T21:06:56+00:00",
+      "title": "Nvidia Board Starts Independent Investigation of Huang\u2019s Links to Alleged Spy",
+      "summary": "The board said it has no reason to believe that either national security or Nvidia secrets were compromised.",
+      "link": "https://finance.yahoo.com/m/09a7b85b-f39c-346a-88bc-f818668a56a9/nvidia-board-starts.html?.tsrc=rss",
+      "time": "2026-11-08T21:34:00+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
-        "legal",
-        "people"
+        "legal"
       ],
       "new": true
     }
   ],
   "atencao": [
     {
-      "id": "rss:40d9622e-6959-31c6-ba47-0f3dd46222d3",
+      "id": "rss:09a7b85b-f39c-346a-88bc-f818668a56a9",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia CEO Huang admits to affair, apologizes to employees as probe launched",
-      "summary": "Investing.com -- Nvidia Chief Executive Jensen Huang has apologized to employees after admitting to an affair with businesswoman Alice Huang, whom U.S. intelligence suspects is a Chinese spy. Huang told staff he was \"deeply sorry\", as the chipmaker\u2019s board launches an independent investigation.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-huang-admits-affair-210656939.html?.tsrc=rss",
-      "time": "2026-11-08T21:06:56+00:00",
+      "title": "Nvidia Board Starts Independent Investigation of Huang\u2019s Links to Alleged Spy",
+      "summary": "The board said it has no reason to believe that either national security or Nvidia secrets were compromised.",
+      "link": "https://finance.yahoo.com/m/09a7b85b-f39c-346a-88bc-f818668a56a9/nvidia-board-starts.html?.tsrc=rss",
+      "time": "2026-11-08T21:34:00+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
-        "legal",
-        "people"
+        "legal"
       ],
       "new": true
     }
