@@ -1,5 +1,36 @@
 {
-  "as_of": "2026-11-08T09:05:00Z",
-  "items": [],
+  "as_of": "2026-11-08T09:35:00Z",
+  "items": [
+    {
+      "id": "rss:48a263ff-4ba0-37a4-8915-1e9af9e7ae7d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Top 3 Quality Stocks To Watch In November 2026",
+      "summary": "Wall Street\u2019s all in bet on AI has just met a harsh reality check, with a sharp $3.2tn sell off reminding everyone how quickly sentiment can flip when one hot story dominates portfolios. When markets crowd into a single theme, solid, cash generative businesses with healthy balance sheets can quietly become overlooked. This article highlights three such stocks that combine high return on equity with robust fundamentals. The three companies in this article are just a starting sample, and the...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-quality-stocks-watch-091315093.html?.tsrc=rss",
+      "time": "2026-11-08T09:13:15+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:b922225b-44e8-3c45-901a-518258c82b38",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "5 big analyst AI moves: Is the historic AI stock rout a buy opportunity?",
+      "summary": "Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-152324296.html?.tsrc=rss",
+      "time": "2026-11-06T15:23:24+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
