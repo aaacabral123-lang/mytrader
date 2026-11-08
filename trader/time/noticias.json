@@ -1,37 +1,5 @@
 {
-  "as_of": "2026-11-08T04:05:00Z",
-  "items": [
-    {
-      "id": "rss:cc0e1416-b854-30db-820c-4329e81a5b21",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "What are the AI lab compute commitments?",
-      "summary": "Investing.com -- OpenAI\u2019s artificial intelligence computing commitments could translate into $614 billion of infrastructure spending through 2030, substantially below widely cited figures of $750 billion, according to Bernstein analyst Mark Moerdler, who sees limited immediate risk for major cloud providers.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-lab-compute-commitments-033556017.html?.tsrc=rss",
-      "time": "2026-11-08T03:35:56+00:00",
-      "touches": [
-        "MSFT",
-        "ORCL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:5ddb0126-1ad9-3bb0-9f85-9a22562f967e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "'GTA 6' Preorder Sales Hit $751 Million 2 Weeks Ahead of Release. Are Investors Ignoring Take-Two Stock Opportunity?",
-      "summary": "The highly anticipated \"Grand Theft Auto VI\" video game from Take-Two Interactive Software\u2018s Rockstar Games is two weeks away from releasing to the public. New data shows the early demand for the game could see records broken. GTA 6 Preorder...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gta-6-preorder-sales-hit-023006438.html?.tsrc=rss",
-      "time": "2026-11-08T02:30:06+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-08T04:35:00Z",
+  "items": [],
   "atencao": []
 }
