@@ -1,17 +1,17 @@
 {
-  "as_of": "2026-11-08T15:05:00Z",
+  "as_of": "2026-11-08T16:05:00Z",
   "items": [
     {
-      "id": "rss:1093e202-098d-35f8-82d4-0903fc3648c3",
+      "id": "rss:997ca898-cba5-3217-aa33-1f00b2eee0f9",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "UNP",
-      "title": "Morgan Stanley Spots a New Productivity Catalyst for Union Pacific (UNP)",
-      "summary": "We just published a list of the 10 Stocks to Watch from Morgan Stanley\u2019s Ultra-Selective Tailwinds Strategy, and Union Pacific Corporation (NYSE:UNP) ranked 6th on this list. Artificial intelligence is rapidly reshaping the current corporate landscape. However, the next phase of its economic impact may extend well beyond the companies developing AI models, semiconductors, and [\u2026]",
-      "link": "https://finance.yahoo.com/technology/ai/articles/morgan-stanley-spots-productivity-catalyst-143840219.html?.tsrc=rss",
-      "time": "2026-11-08T14:38:40+00:00",
+      "ticker": "MSFT",
+      "title": "What Is Lumen Technologies (LUMN) Doing To Simplify AI Connectivity For Enterprises?",
+      "summary": "Lumen Technologies (NasdaqGS:LUMN) has expanded its collaboration with Microsoft to support enterprise adoption of AI on Azure. The enlarged partnership ties Lumen\u2019s cloud networking and application connectivity tools directly into Microsoft Azure cloud and AI services. Both companies plan joint work on future network modernization projects intended to simplify how enterprises connect data and applications for AI use. The expanded Lumen and Microsoft AI connectivity effort fits into a wider...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/lumen-technologies-lumn-doing-simplify-150816409.html?.tsrc=rss",
+      "time": "2026-11-08T15:08:16+00:00",
       "touches": [
-        "UNP"
+        "MSFT"
       ],
       "tags": [],
       "new": true
