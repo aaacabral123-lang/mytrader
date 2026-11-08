@@ -1,23 +1,5 @@
 {
-  "as_of": "2026-11-08T07:35:00Z",
-  "items": [
-    {
-      "id": "rss:4ad57a7f-39f9-3a1a-887c-71452ef10b1e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "NVIDIA And 2 More Grid Stocks To Watch",
-      "summary": "AI data centers are starting to hit a wall on electricity, and some regions are even limiting new projects because grids cannot keep up. That supply squeeze shines a spotlight on the companies that upgrade wires, substations, and high voltage hardware so power can actually reach those server racks. This article breaks down three grid focused stocks from our screener that let you target the infrastructure behind the AI boom. The three stocks below are just a small sample, and the full screen...",
-      "link": "https://finance.yahoo.com/technology/articles/nvidia-2-more-grid-stocks-071029806.html?.tsrc=rss",
-      "time": "2026-11-08T07:10:29+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "analyst"
-      ],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-08T08:05:00Z",
+  "items": [],
   "atencao": []
 }
