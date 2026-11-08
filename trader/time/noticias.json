@@ -1,5 +1,37 @@
 {
-  "as_of": "2026-11-08T19:05:00Z",
-  "items": [],
+  "as_of": "2026-11-08T19:35:00Z",
+  "items": [
+    {
+      "id": "rss:b3d75d94-a37f-34cb-8700-5b8e11c21647",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "What Does Micron Technology (MU) Taiwan Plant Halt Mean For Its Capacity Plans?",
+      "summary": "Micron Technology (NasdaqGS:MU) has halted construction of a new memory chip plant in Taiwan due to an escalating labor dispute. The pause is linked to unresolved contract negotiations with a local union representing construction and on site technical workers. The stoppage comes as chip stocks face pressure, tied to concerns about data center buildouts and post U.S. midterm regulatory scrutiny. Micron's Taiwan plant halt is important, but investors still need a broader view of the business...",
+      "link": "https://finance.yahoo.com/technology/articles/does-micron-technology-mu-taiwan-190626047.html?.tsrc=rss",
+      "time": "2026-11-08T19:06:26+00:00",
+      "touches": [
+        "MU"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:1989a8d6-2668-3d81-b94f-8613123a1e6b",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Tesla Isn\u2019t a Mag-Y Stock. This Is.",
+      "summary": "SpaceX is a much better tech stock than Tesla.",
+      "link": "https://finance.yahoo.com/m/1989a8d6-2668-3d81-b94f-8613123a1e6b/tesla-isn%E2%80%99t-a-mag-y-stock..html?.tsrc=rss",
+      "time": "2026-11-08T17:23:00+00:00",
+      "touches": [
+        "GOOGL",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
