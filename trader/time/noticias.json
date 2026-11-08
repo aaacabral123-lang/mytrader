@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-08T23:05:00Z",
-  "items": [
-    {
-      "id": "rss:7efa1f0e-56a6-3099-a4d3-4f7b6fea5839",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Could HBF be the solution to the Memory bottleneck?",
-      "summary": "Investing.com -- The rapid expansion of artificial intelligence workloads is creating a growing demand for memory capacity and bandwidth, opening the door for a new storage technology that could ease infrastructure constraints while providing a fresh growth opportunity for the NAND flash industry, Bernstein said.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/could-hbf-solution-memory-bottleneck-224023081.html?.tsrc=rss",
-      "time": "2026-11-08T22:40:23+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-08T23:35:00Z",
+  "items": [],
   "atencao": []
 }
