@@ -1,15 +1,15 @@
 {
-  "as_of": "2026-11-09T02:05:00Z",
+  "as_of": "2026-11-09T02:35:00Z",
   "items": [
     {
-      "id": "rss:3188b5aa-f85f-3381-b1de-f24975949aef",
+      "id": "rss:2ae59a6a-ec3b-3c69-b2a3-00996ac4ae8c",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "3 US Defense Stocks Worth Watching As Nvidia Questions Hit National Security",
-      "summary": "Nvidia\u2019s boardroom drama, with CEO Jensen Huang under investigation after admitting an extramarital affair tied to an alleged intelligence-linked sting, has pushed national security risk from the policy pages onto your portfolio screen. Scrutiny of Nvidia\u2019s China links and AI exports could change who wins and loses across defense and security technology. This piece unpacks three stocks exposed to that story, and why their next chapter matters for you. The stocks covered below are just a small...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-us-defense-stocks-worth-011236831.html?.tsrc=rss",
-      "time": "2026-11-09T01:12:36+00:00",
+      "title": "3 US Chip Stocks for AI Exposure With Lower China Risk",
+      "summary": "Nvidia\u2019s internal probe into CEO Jensen Huang and possible foreign intelligence targeting has put governance and national security risk in the spotlight, and that ripple hits anything tied to the AI chip story. Investors hunting for exposure without leaning heavily on China are now scanning for alternatives that could benefit as attention broadens. This article walks through three U.S. listed semiconductor and chip equipment stocks from our low China exposure screener that appear most closely...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-us-chip-stocks-ai-021219756.html?.tsrc=rss",
+      "time": "2026-11-09T02:12:19+00:00",
       "touches": [
         "NVDA"
       ],
@@ -18,18 +18,35 @@
         "people"
       ],
       "new": true
+    },
+    {
+      "id": "rss:ebe8cee7-6651-3eae-ad89-4107f37bc43f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "The Pentagon is reportedly ramping up economic warfare and espionage. Nvidia CEO Jensen Huang\u2019s affair with a suspected Chinese spy shows why",
+      "summary": "\"While the Board has no reason to believe that either national security or NVIDIA secrets were compromised, the Board's inquiry will examine all available information.\"",
+      "link": "https://finance.yahoo.com/technology/ai/articles/pentagon-reportedly-ramping-economic-warfare-232038815.html?.tsrc=rss",
+      "time": "2026-11-08T23:20:38+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
     }
   ],
   "atencao": [
     {
-      "id": "rss:3188b5aa-f85f-3381-b1de-f24975949aef",
+      "id": "rss:2ae59a6a-ec3b-3c69-b2a3-00996ac4ae8c",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "3 US Defense Stocks Worth Watching As Nvidia Questions Hit National Security",
-      "summary": "Nvidia\u2019s boardroom drama, with CEO Jensen Huang under investigation after admitting an extramarital affair tied to an alleged intelligence-linked sting, has pushed national security risk from the policy pages onto your portfolio screen. Scrutiny of Nvidia\u2019s China links and AI exports could change who wins and loses across defense and security technology. This piece unpacks three stocks exposed to that story, and why their next chapter matters for you. The stocks covered below are just a small...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-us-defense-stocks-worth-011236831.html?.tsrc=rss",
-      "time": "2026-11-09T01:12:36+00:00",
+      "title": "3 US Chip Stocks for AI Exposure With Lower China Risk",
+      "summary": "Nvidia\u2019s internal probe into CEO Jensen Huang and possible foreign intelligence targeting has put governance and national security risk in the spotlight, and that ripple hits anything tied to the AI chip story. Investors hunting for exposure without leaning heavily on China are now scanning for alternatives that could benefit as attention broadens. This article walks through three U.S. listed semiconductor and chip equipment stocks from our low China exposure screener that appear most closely...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/3-us-chip-stocks-ai-021219756.html?.tsrc=rss",
+      "time": "2026-11-09T02:12:19+00:00",
       "touches": [
         "NVDA"
       ],
