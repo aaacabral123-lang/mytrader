@@ -1,15 +1,30 @@
 {
-  "as_of": "2026-11-09T19:05:00Z",
+  "as_of": "2026-11-09T19:35:00Z",
   "items": [
     {
-      "id": "rss:785e59b5-1dc7-4f8d-8d47-50e87d4562c0",
+      "id": "rss:d8569aae-2d5d-3e7e-84aa-eaa29f9f5bbb",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "ARK Invest Dumps These Shares While They're Hot, Buys Chips The Size Of Your Face",
+      "summary": "Cathie Wood's ARK Invest bought and sold medtech shares Friday. She also bought shares of an unconventional AI chipmaker \u2014 an unpopular one at that.",
+      "link": "https://finance.yahoo.com/m/d8569aae-2d5d-3e7e-84aa-eaa29f9f5bbb/ark-invest-dumps-these-shares.html?.tsrc=rss",
+      "time": "2026-11-09T19:29:22+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:a6a1401d-30af-4729-bd19-b04b239cdf2e",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Why Jensen Huang wants to keep China on Nvidia chips",
-      "summary": "In the Loop host Ejaaz Ahamadeen looks at the business case for Nvidia (NVDA) to continue selling AI chips to China and why maintaining access to the Chinese market remains a strategic priority.",
-      "link": "https://finance.yahoo.com/video/why-jensen-huang-wants-to-keep-china-on-nvidia-chips-190019440.html?.tsrc=rss",
-      "time": "2026-11-09T19:00:19+00:00",
+      "title": "A closer look at a firm tied to Nvidia\u2019s chip scandal: Megaspeed",
+      "summary": "In the Loop host Ejaaz Ahamadeen breaks down how Megaspeed and a web of satellite firms in Malaysia and Singapore allegedly obtained Nvidia (NVDA) chips and may have leased the compute to China.",
+      "link": "https://finance.yahoo.com/video/a-closer-look-at-a-firm-tied-to-nvidias-chip-scandal-megaspeed-192158390.html?.tsrc=rss",
+      "time": "2026-11-09T19:21:58+00:00",
       "touches": [
         "NVDA"
       ],
@@ -17,48 +32,61 @@
       "new": true
     },
     {
-      "id": "rss:99bf2095-9648-355b-8e1d-eb7e8943f1dc",
+      "id": "rss:b34255cd-b9b4-328b-9880-79c837f36734",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ORCL",
+      "title": "Credo Technology Group Holding (CRDO) Helped Set New AI Network Standards, Is The 44% Undervaluation Real?",
+      "summary": "Credo Technology Group Holding (CRDO) has contributed to the delivery of two new Open Compute Project optical telemetry standards, created with Oracle and industry partners. These standards aim to support more reliable AI data center networks by enabling richer link monitoring. For investors watching Credo Technology Group Holding, the approval of these Open Compute Project standards lands after a sharp reset in sentiment. The share price has risen 7.3% over the last day but is still down...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-group-holding-crdo-191342028.html?.tsrc=rss",
+      "time": "2026-11-09T19:13:42+00:00",
+      "touches": [
+        "ORCL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:3ceb82fa-9c27-35f0-b5d5-2d4772840522",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
-      "summary": "Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair in an email to employees",
-      "link": "https://finance.yahoo.com/technology/articles/silicon-valley-trump-rally-behind-164235068.html?.tsrc=rss",
-      "time": "2026-11-09T18:58:37+00:00",
+      "title": "Top Midday Decliners",
+      "summary": "Faeth Therapeutics' (FTH) topline clinical results from a phase 2 trial of Piktor plus paclitaxel in",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-185532298.html?.tsrc=rss",
+      "time": "2026-11-09T18:55:32+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
-        "people"
+        "earnings"
       ],
       "new": true
     },
     {
-      "id": "rss:fc444f06-6ee4-33f5-84d9-645a9832e62b",
+      "id": "rss:6de98964-1c79-3f0a-b8cc-b8841217045f",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Update: Market Chatter: Nvidia's Contact With Commerce Officials Led to Transfer of Megaspeed Probe",
-      "summary": "(Updates with Nvidia's response in the sixth paragraph.) Nvidia's (NVDA) contact with Commerce De",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-nvidia-apos-contact-185231363.html?.tsrc=rss",
-      "time": "2026-11-09T18:52:31+00:00",
+      "ticker": "MSFT",
+      "title": "Wall Street names 3 AI winners, but there's a catch",
+      "summary": "An Oppenheimer survey of 449 IT buyers identified Microsoft, Oracle and SAP as companies positioned to benefit from enterprise AI adoption.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/wall-street-names-3-ai-185527055.html?.tsrc=rss",
+      "time": "2026-11-09T18:55:27+00:00",
       "touches": [
-        "NVDA"
+        "MSFT"
       ],
-      "tags": [
-        "legal"
-      ],
+      "tags": [],
       "new": true
     },
     {
-      "id": "rss:13d1967b-d768-3ac6-b150-3cafa07f0cd2",
+      "id": "rss:0c14eeac-1952-331b-bcdd-7f69cf1d20c7",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia CEO Probe Prompts Investor Questions, Scrutiny",
-      "summary": "Shares of Nvidia slumped after Chief Executive Officer Jensen Huang admitted to having an extramarital affair with Alice Huang, a woman identified as a suspected Chinese spy. Wall Street experts react on Bloomberg Television.",
-      "link": "https://finance.yahoo.com/video/nvidia-ceo-probe-prompts-investor-184938842.html?.tsrc=rss",
-      "time": "2026-11-09T18:49:38+00:00",
+      "title": "Update: Equities Rally, Oil Drops Intraday; Nvidia Slumps Amid CEO Probe",
+      "summary": "(Updates with latest market prices and developments.) US benchmark equity indexes were higher int",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rally-oil-drops-intraday-185507615.html?.tsrc=rss",
+      "time": "2026-11-09T18:55:07+00:00",
       "touches": [
         "NVDA"
       ],
@@ -69,97 +97,50 @@
       "new": true
     },
     {
-      "id": "rss:1a3f51b8-253c-35e2-ad34-74dd38c17169",
+      "id": "rss:3ce1eab9-d12e-35e5-8620-085e7fe5c288",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "XLE",
-      "title": "Sector Update: Energy Stocks Higher Monday Afternoon",
-      "summary": "Energy stocks advanced Monday afternoon, with the NYSE Energy Sector Index rising 0.7% and the State",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-higher-monday-184627929.html?.tsrc=rss",
-      "time": "2026-11-09T18:46:27+00:00",
+      "ticker": "GOOGL",
+      "title": "WULF Q3 Earnings Call Highlights AI Expansion and Funding Plans",
+      "summary": "TeraWulf targets $700M in annualized lease revenue by Q1 2027, backed by AI infrastructure expansion, Google's credit support and disciplined funding plans.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/wulf-q3-earnings-call-highlights-180800240.html?.tsrc=rss",
+      "time": "2026-11-09T18:08:00+00:00",
       "touches": [
-        "XLE"
+        "GOOGL"
       ],
-      "tags": [],
+      "tags": [
+        "earnings"
+      ],
       "new": true
     },
     {
-      "id": "rss:a60f5171-7be7-334d-9074-0a5e13e42d18",
+      "id": "rss:f4de2e19-4cd1-3daa-b6c5-a9b556f4c9ad",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Disney Signs Adobe AI Deal Amid Reported Job Cut Plans",
-      "summary": "Disney says the tools won't replace Imagineering roles even as it reportedly weighs thousands of job cuts",
-      "link": "https://finance.yahoo.com/technology/ai/articles/disney-signs-adobe-ai-deal-184604112.html?.tsrc=rss",
-      "time": "2026-11-09T18:46:04+00:00",
+      "ticker": "MSFT",
+      "title": "Fox Looks to Sell $8 Billion of High-Grade Bonds for Roku Deal",
+      "summary": "Fox Corp. is looking to raise around $8 billion from an investment-grade bond sale to help fund its acquisition of Roku Inc.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fox-looks-sell-8-billion-171553501.html?.tsrc=rss",
+      "time": "2026-11-09T17:15:53+00:00",
       "touches": [
-        "ADBE"
+        "MSFT"
       ],
       "tags": [
         "deal"
       ],
       "new": true
-    },
-    {
-      "id": "rss:97edbf0b-fc95-4c0d-bf38-2eda5ed0829e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia $5T CEO scandal, AI legislation headaches, and Tesla returns deposits for Cybertrucks",
-      "summary": "Host Kevin Kelly, Kelly Intelligence Founder, CEO, and CCO, and his panel of experts weigh in on Nvidia's (NVDA) Jensen Huang alleged affair with a Chinese spy, plus Tesla (TSLA) CEO Elon Musk, confirming the company will refund deposits to many Cybertruck reservation holders because outstanding orders exceed remaining production capacity Today's panel includes Julie Biel, Kayne Anderson Rudnick, Chief Market Strategist, Portfolio Manager & Senior Research Analyst; Michael Monaghan, Founder, ETFs Partner and Portfolio Manager; and Dave Nadig, ETF.com president.",
-      "link": "https://finance.yahoo.com/video/nvidia-5t-ceo-scandal-ai-legislation-headaches-and-tesla-returns-deposits-for-cybertrucks-184342686.html?.tsrc=rss",
-      "time": "2026-11-09T18:43:42+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:2647d905-313f-3b7e-a74c-fcdb36330a17",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "The AI Power Grab That Could Upend America's Electricity Industry",
-      "summary": "AI data centers are building their own power infrastructure, potentially adding 30\u201350 GW of behind-the-meter generation within five years, largely using natural gas turbines.",
-      "link": "https://finance.yahoo.com/energy/articles/ai-power-grab-could-upend-180000495.html?.tsrc=rss",
-      "time": "2026-11-09T18:00:00+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
     }
   ],
   "atencao": [
     {
-      "id": "rss:fc444f06-6ee4-33f5-84d9-645a9832e62b",
+      "id": "rss:0c14eeac-1952-331b-bcdd-7f69cf1d20c7",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Update: Market Chatter: Nvidia's Contact With Commerce Officials Led to Transfer of Megaspeed Probe",
-      "summary": "(Updates with Nvidia's response in the sixth paragraph.) Nvidia's (NVDA) contact with Commerce De",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-nvidia-apos-contact-185231363.html?.tsrc=rss",
-      "time": "2026-11-09T18:52:31+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "legal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:13d1967b-d768-3ac6-b150-3cafa07f0cd2",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia CEO Probe Prompts Investor Questions, Scrutiny",
-      "summary": "Shares of Nvidia slumped after Chief Executive Officer Jensen Huang admitted to having an extramarital affair with Alice Huang, a woman identified as a suspected Chinese spy. Wall Street experts react on Bloomberg Television.",
-      "link": "https://finance.yahoo.com/video/nvidia-ceo-probe-prompts-investor-184938842.html?.tsrc=rss",
-      "time": "2026-11-09T18:49:38+00:00",
+      "title": "Update: Equities Rally, Oil Drops Intraday; Nvidia Slumps Amid CEO Probe",
+      "summary": "(Updates with latest market prices and developments.) US benchmark equity indexes were higher int",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rally-oil-drops-intraday-185507615.html?.tsrc=rss",
+      "time": "2026-11-09T18:55:07+00:00",
       "touches": [
         "NVDA"
       ],

@@ -1,8 +1,8 @@
 {
   "noticias": {
-    "result": "8 novas de fontes confi\u00e1veis (7 descartadas), 0 comunicados graves, 2 manchetes de aten\u00e7\u00e3o",
+    "result": "8 novas de fontes confi\u00e1veis (9 descartadas), 0 comunicados graves, 1 manchetes de aten\u00e7\u00e3o",
     "ok": true,
-    "last_run": "2026-11-09T19:05:00Z",
+    "last_run": "2026-11-09T19:35:00Z",
     "last_day": "2026-11-09"
   },
   "politicos": {
@@ -14,7 +14,7 @@
   "vigia": {
     "result": "7 a\u00e7\u00f5es vigiadas, 0 alertas",
     "ok": true,
-    "last_run": "2026-11-09T19:05:00Z",
+    "last_run": "2026-11-09T19:35:00Z",
     "last_day": "2026-11-09"
   },
   "analista": {
@@ -44,7 +44,7 @@
   "gestor": {
     "result": "rodada feita",
     "ok": true,
-    "last_run": "2026-11-09T19:05:00Z",
+    "last_run": "2026-11-09T19:35:00Z",
     "last_day": "2026-11-09"
   },
   "contador": {
