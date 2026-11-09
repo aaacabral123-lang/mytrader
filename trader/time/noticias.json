@@ -1,47 +1,32 @@
 {
-  "as_of": "2026-11-09T13:05:00Z",
+  "as_of": "2026-11-09T13:35:00Z",
   "items": [
     {
-      "id": "rss:0fbe77f0-9244-4c91-8afd-6bc74bc3d2d4",
+      "id": "rss:1380ad42-3de7-3406-811f-8e42696812af",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia stock sinks 5% as chipmaker investigates CEO Jensen Huang's relationship with alleged Chinese spy",
-      "summary": "Nvidia sank 5% on Monday, while the rest of the chip sector mostly rose.",
-      "link": "https://finance.yahoo.com/markets/article/nvidia-stock-sinks-as-chipmaker-investigates-ceo-jensen-huangs-relationship-with-alleged-chinese-spy-130346548.html?.tsrc=rss",
-      "time": "2026-11-09T13:03:46+00:00",
+      "title": "Nvidia Slides Premarket as Stock Futures Rally",
+      "summary": "Stock futures rallied and Treasury yields were largely steady, though Nvidia shares fell sharply premarket after the company launched an investigation into Chief Executive Officer Jensen Huang.",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-treasurys-steady-but-nvidia-slides-premarket-on-huang-probe-31deea55?.tsrc=rss",
+      "time": "2026-11-09T13:20:00+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
-        "people"
+        "legal"
       ],
       "new": true
     },
     {
-      "id": "rss:d9ac121b-afbe-367f-a09d-24c009694bf1",
+      "id": "rss:ccdb4c10-69bb-36f6-b3a2-cda2d8cb9ef6",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "CoreWeave to Power Wayve's AI Driver Training in Multi-Year Agreement",
-      "summary": "LIVINGSTON, N.J., November 09, 2026--CoreWeave, Inc. (Nasdaq: CRWV), The Essential Cloud for AI\u00ae, today announced a multi-year agreement with Wayve, the global leader in embodied intelligence building the AI Driver for autonomous vehicles. Wayve will train its foundation models on CoreWeave Cloud with NVIDIA Blackwell GPUs, expanding its AI infrastructure for training, evaluation, and simulation. Wayve began using Weights & Biases and has now scaled into leveraging CoreWeave Cloud.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-power-wayves-ai-driver-130000105.html?.tsrc=rss",
-      "time": "2026-11-09T13:00:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:cfe4ee1f-712d-3261-82b0-fa1ed81a3323",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia Launches Probe Amid Reports CEO Huang Was Target of 'Foreign Intelligence Effort'",
-      "summary": "Nvidia (NVDA) shares were down early Monday after the chipmaking giant's board said it launched an i",
-      "link": "https://finance.yahoo.com/technology/articles/nvidia-launches-probe-amid-reports-125832843.html?.tsrc=rss",
-      "time": "2026-11-09T12:58:32+00:00",
+      "title": "Nvidia shares drop after co. investigates whether CEO was 'target of a foreign intelligence effort'",
+      "summary": "Shares of Nvidia are sliding before the market open on Monday as the chip company announced an investigation into reports that CEO Jensen Huang was the \u201ctarget of a foreign intelligence effort.\u201d Nvidia's announcement of the investigation on Sunday followed Huang\u2019s acknowledgment that he had been intimate with a business executive who, according to The New York Times, U.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-shares-drop-co-investigates-131519038.html?.tsrc=rss",
+      "time": "2026-11-09T13:15:19+00:00",
       "touches": [
         "NVDA"
       ],
@@ -52,96 +37,198 @@
       "new": true
     },
     {
-      "id": "rss:05d2381a-e327-3df6-ac76-2f0f3d43a352",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Jim Cramer is \u2018furious\u2019 as Intel crashes nearly 30% \u2014 but Uncle Sam is the top shareholder. What it means for taxpayers",
-      "summary": "Major investors like Jim Cramer aren\u2019t the only ones feeling the pain after a disappointing Q3 report. Every American has some Intel exposure.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-furious-intel-crashes-124500450.html?.tsrc=rss",
-      "time": "2026-11-09T12:45:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:f44135d4-5626-336a-8c50-492a8f5c8b32",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia braces for $200bn hit over \u2018Chinese spy\u2019 affair",
-      "summary": "The boss of Nvidia is fighting to keep his job after he admitted to an affair with a woman suspected of being a Chinese spy.",
-      "link": "https://uk.finance.yahoo.com/news/nvidia-braces-200bn-hit-over-124006594.html?.tsrc=rss",
-      "time": "2026-11-09T12:40:06+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:dcd6797a-7058-334b-bb33-8cb9b6c9aa8f",
+      "id": "rss:d5cdb940-1319-3188-a4cb-4b532d8884ec",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Google Escalates Nvidia Rivalry With Specialized Versions of AI Chips",
-      "summary": "Alphabet Inc.'s Google is rolling out a broader array of artificial intelligence chips, aiming to capitalize on its rapid ascent as a challenger to Nvidia Corp. in a market worth hundreds of billions of dollars.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/google-escalates-nvidia-rivalry-specialized-123000247.html?.tsrc=rss",
-      "time": "2026-11-09T12:30:00+00:00",
+      "title": "Google expands AI chip lineup as Nvidia faces CEO spy scandal",
+      "summary": "Investing.com -- Alphabet Inc.\u2019s Google is expanding its artificial intelligence chip portfolio, stepping up its challenge to Nvidia Corp. just as a controversy involving Nvidia Chief Executive Jensen Huang adds another source of uncertainty for the market leader.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/google-expands-ai-chip-lineup-131404260.html?.tsrc=rss",
+      "time": "2026-11-09T13:14:04+00:00",
       "touches": [
         "GOOGL",
         "NVDA"
       ],
-      "tags": [],
+      "tags": [
+        "people"
+      ],
       "new": true
     },
     {
-      "id": "rss:e38a4a3c-6530-3954-9118-6aa88fe89efa",
+      "id": "rss:8997c85e-697c-34ea-90f1-3e31c0545a87",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MU",
-      "title": "Micron Stock Gets Some Relief as This Big Threat Got Kicked Into the Long Grass",
-      "summary": "Micron stock is struggling but fears of memory-chip competition might be exaggerated.",
-      "link": "https://finance.yahoo.com/m/e38a4a3c-6530-3954-9118-6aa88fe89efa/micron-stock-gets-some-relief.html?.tsrc=rss",
-      "time": "2026-11-09T12:07:00+00:00",
+      "ticker": "NVDA",
+      "title": "3 Defense Tech Stocks Investors May Prefer Over Nvidia Right Now",
+      "summary": "When a global champion like Nvidia is suddenly pulled into a national security scandal, the shock does not stay in one ticker. It ripples across defense, cybersecurity, and secure semiconductor stocks that sit closer to Washington\u2019s priority lists and export rules. That mix of scrutiny and potential policy shifts can reshuffle where capital flows next. This article walks through three US and allied defense focused technology stocks from the screener that appear positively exposed to this news...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-defense-tech-stocks-investors-130954399.html?.tsrc=rss",
+      "time": "2026-11-09T13:09:54+00:00",
       "touches": [
-        "MU",
         "NVDA"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:7bcea03a-9f2e-3518-97dc-b837344745d8",
+      "id": "rss:c51518c3-1258-3c14-8acc-78ca1e6d4c9a",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Google Wins the AFP 2026 Pinnacle Awards",
+      "summary": "The Association for Financial Professionals (AFP) announced Google as the Grand Prize winner of the AFP 2026 Pinnacle Awards, sponsored by Truist. The Pinnacle Awards were presented during AFP 2026 in Las Vegas. As part of the Grand Prize, Truist donated $10,000 to The Just One Project on behalf of the winner.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/google-wins-afp-2026-pinnacle-130500386.html?.tsrc=rss",
+      "time": "2026-11-09T13:05:00+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:6fc3228f-8806-33c0-9e3b-4402850ebacd",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Stock Market Today: Dow Rallies As Oil Prices Slide; Nvidia Stock Dives On CEO Huang Probe (Live Coverage)",
+      "summary": "The Dow Jones index rallies 500 points Monday as oil prices drop. Nvidia stock dives on the probe into CEO Jensen Huang.",
+      "link": "https://finance.yahoo.com/m/6fc3228f-8806-33c0-9e3b-4402850ebacd/stock-market-today%3A-dow.html?.tsrc=rss",
+      "time": "2026-11-09T13:04:57+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "legal",
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:e89fa956-3cfd-3bfc-9a4e-7df5948a75d6",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "AI Search Is Killing the Click. Breaker Says B2B Growth Must Move Beyond Traffic",
+      "summary": "Artificial intelligence is weakening a metric B2B marketers have long treated as evidence that content is working: the website visit. Pew Research Center found users clicked traditional search results in 8% of visits containing a Google AI summary, compared with 15% of visits without one. Links inside the AI summaries received clicks in only 1% of visits.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-search-killing-click-breaker-130200614.html?.tsrc=rss",
+      "time": "2026-11-09T13:02:00+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:a2cc33e2-5cf8-35a6-b4bb-6018b62b6a59",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Netwrix Appoints Former Google Executive Tony Orlando as Chief Revenue Officer",
+      "summary": "Netwrix, a recognized leader in identity and data security, today announced the appointment of Tony Orlando as Chief Revenue Officer (CRO). Orlando will lead Netwrix's global revenue organization, with a focus on accelerating partner-led growth and expanding market reach.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/netwrix-appoints-former-google-executive-130000929.html?.tsrc=rss",
+      "time": "2026-11-09T13:00:00+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:047b98d5-c861-3230-8750-45bdbaa213af",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MSFT",
-      "title": "AMD Stock Pops. It\u2019s About Much More Than the Jensen Huang Probe.",
-      "summary": "Oppenheimer analyst Rick Schafer expects AMD\u2019s data-center sales to surge 135% next year thanks to robust AI spending.",
-      "link": "https://finance.yahoo.com/m/7bcea03a-9f2e-3518-97dc-b837344745d8/amd-stock-pops.-it%E2%80%99s-about.html?.tsrc=rss",
-      "time": "2026-11-09T10:55:00+00:00",
+      "title": "Microsoft UWP Map Control Retires Nov. 30, 2026; A Replacement Is Ready Today",
+      "summary": "Microsoft offers no drop-in replacement for the retiring control; OnTerra Systems\u2019 off-the-shelf replacement package is available now.DENVER, Nov. 09, 2026 (GLOBE NEWSWIRE) -- Microsoft will retire the backend services that power the Universal Windows Platform (UWP) Map Control and Windows Maps APIs on Nov. 30, 2026. OnTerra Systems, a Denver-based web mapping and geospatial development firm and Microsoft partner since 2005, has already built a replacement. The OnTerra UWP Map Control Replacemen",
+      "link": "https://finance.yahoo.com/technology/articles/microsoft-uwp-map-control-retires-130000127.html?.tsrc=rss",
+      "time": "2026-11-09T13:00:00+00:00",
       "touches": [
-        "MSFT",
-        "ORCL"
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:1c84f13f-68ee-3f0c-924c-1dbe7365d75c",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "STX Posts Record Q1 FY27 Profit: Can AI Storage Demand Drive Growth?",
+      "summary": "Seagate's shares have surged 56.8% over the past year, while rising earnings estimates for fiscal 2027 and 2028 add to its investment appeal.",
+      "link": "https://finance.yahoo.com/technology/articles/stx-posts-record-q1-fy27-121300140.html?.tsrc=rss",
+      "time": "2026-11-09T12:13:00+00:00",
+      "touches": [
+        "MU"
       ],
       "tags": [
-        "legal"
+        "earnings"
       ],
+      "new": true
+    },
+    {
+      "id": "rss:c2312035-e3d1-32bc-93a3-18fe0d325d57",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "Micron's 26 SCAs: Can Take-or-Pay Deals Boost Earnings Stability?",
+      "summary": "MU's 26 take-or-pay agreements are likely to reshape earnings stability, backed by $32B in customer commitments and long-term pricing protections through 2030.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/microns-26-scas-pay-deals-120800703.html?.tsrc=rss",
+      "time": "2026-11-09T12:08:00+00:00",
+      "touches": [
+        "MU"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:127223df-c174-3714-9443-4c815d4c9b78",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Is Apple the Best Mag-7 Stock Now? ETFs in Focus",
+      "summary": "Apple's limited AI exposure, strong iPhone demand and solid cash position could make it a winner as the AI trade falters.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/apple-best-mag-7-stock-120000888.html?.tsrc=rss",
+      "time": "2026-11-09T12:00:00+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT"
+      ],
+      "tags": [],
       "new": true
     }
   ],
   "atencao": [
     {
-      "id": "rss:cfe4ee1f-712d-3261-82b0-fa1ed81a3323",
+      "id": "rss:1380ad42-3de7-3406-811f-8e42696812af",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia Launches Probe Amid Reports CEO Huang Was Target of 'Foreign Intelligence Effort'",
-      "summary": "Nvidia (NVDA) shares were down early Monday after the chipmaking giant's board said it launched an i",
-      "link": "https://finance.yahoo.com/technology/articles/nvidia-launches-probe-amid-reports-125832843.html?.tsrc=rss",
-      "time": "2026-11-09T12:58:32+00:00",
+      "title": "Nvidia Slides Premarket as Stock Futures Rally",
+      "summary": "Stock futures rallied and Treasury yields were largely steady, though Nvidia shares fell sharply premarket after the company launched an investigation into Chief Executive Officer Jensen Huang.",
+      "link": "https://www.wsj.com/finance/stocks/stock-futures-treasurys-steady-but-nvidia-slides-premarket-on-huang-probe-31deea55?.tsrc=rss",
+      "time": "2026-11-09T13:20:00+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "legal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:ccdb4c10-69bb-36f6-b3a2-cda2d8cb9ef6",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Nvidia shares drop after co. investigates whether CEO was 'target of a foreign intelligence effort'",
+      "summary": "Shares of Nvidia are sliding before the market open on Monday as the chip company announced an investigation into reports that CEO Jensen Huang was the \u201ctarget of a foreign intelligence effort.\u201d Nvidia's announcement of the investigation on Sunday followed Huang\u2019s acknowledgment that he had been intimate with a business executive who, according to The New York Times, U.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-shares-drop-co-investigates-131519038.html?.tsrc=rss",
+      "time": "2026-11-09T13:15:19+00:00",
       "touches": [
         "NVDA"
       ],
@@ -152,20 +239,20 @@
       "new": true
     },
     {
-      "id": "rss:7bcea03a-9f2e-3518-97dc-b837344745d8",
+      "id": "rss:6fc3228f-8806-33c0-9e3b-4402850ebacd",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MSFT",
-      "title": "AMD Stock Pops. It\u2019s About Much More Than the Jensen Huang Probe.",
-      "summary": "Oppenheimer analyst Rick Schafer expects AMD\u2019s data-center sales to surge 135% next year thanks to robust AI spending.",
-      "link": "https://finance.yahoo.com/m/7bcea03a-9f2e-3518-97dc-b837344745d8/amd-stock-pops.-it%E2%80%99s-about.html?.tsrc=rss",
-      "time": "2026-11-09T10:55:00+00:00",
+      "ticker": "NVDA",
+      "title": "Stock Market Today: Dow Rallies As Oil Prices Slide; Nvidia Stock Dives On CEO Huang Probe (Live Coverage)",
+      "summary": "The Dow Jones index rallies 500 points Monday as oil prices drop. Nvidia stock dives on the probe into CEO Jensen Huang.",
+      "link": "https://finance.yahoo.com/m/6fc3228f-8806-33c0-9e3b-4402850ebacd/stock-market-today%3A-dow.html?.tsrc=rss",
+      "time": "2026-11-09T13:04:57+00:00",
       "touches": [
-        "MSFT",
-        "ORCL"
+        "NVDA"
       ],
       "tags": [
-        "legal"
+        "legal",
+        "people"
       ],
       "new": true
     }
