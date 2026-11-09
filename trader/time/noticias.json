@@ -1,47 +1,48 @@
 {
-  "as_of": "2026-11-09T15:05:00Z",
+  "as_of": "2026-11-09T15:35:00Z",
   "items": [
     {
-      "id": "rss:aa2410fa-499a-4db3-ab6f-042a0e6ca6e2",
+      "id": "rss:78cef10b-7812-49ba-8a01-82440eebe08f",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Intel took 25 years to get back to its dot-com peak \u2014 and lost it in 6 months: Chart of the Day",
-      "summary": "Half off sounds like a deal. On Wall Street, it can be the start of a much bigger sale.",
-      "link": "https://finance.yahoo.com/markets/article/intel-took-25-years-to-get-back-to-its-dot-com-peak--and-lost-it-in-6-months-chart-of-the-day-144715722.html?.tsrc=rss",
-      "time": "2026-11-09T14:47:15+00:00",
+      "ticker": "GOOGL",
+      "title": "Tech stocks rally as Nvidia stock and oil prices fall: AlphaCheck",
+      "summary": "Tech rallied as Nvidia shares dropped on Monday.",
+      "link": "https://finance.yahoo.com/markets/article/tech-stocks-rally-as-nvidia-stock-and-oil-prices-fall-alphacheck-152208023.html?.tsrc=rss",
+      "time": "2026-11-09T15:22:08+00:00",
       "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "deal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:130d8a8a-3104-4b35-9fdd-fef23cf97046",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Trump defends Jensen Huang, but other Republicans could turn up the pressure quickly",
-      "summary": "President Trump defended Jensen Huang on Sunday night, calling the embattled Nvidia chief \"an honorable guy.\"",
-      "link": "https://finance.yahoo.com/markets/article/trump-defends-jensen-huang-but-other-republicans-could-turn-up-the-pressure-quickly-144235766.html?.tsrc=rss",
-      "time": "2026-11-09T14:42:35+00:00",
-      "touches": [
+        "GOOGL",
         "NVDA"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:11384a42-5890-4a55-b5fe-18cbea6d5194",
+      "id": "rss:5ca8a841-90e0-3d27-bcbc-37e3bde096dd",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia stock reacts as Huang admits to an affair with a Chinese spy, Anthropic moves ahead with IPO",
-      "summary": "The 8:30 hosts, Julie Hyman, Jake Conley, and Pras Subramanian, break down the top market stories of the day, including Nvidia's CEO, Jensen Huang, admitting to an affair with a suspected Chinese spy. Nvidia's stock drops as US national security and US-China relations come into sharper focus. Plus, the latest on the Anthropic IPO as the company targets a $1.5 trillion valuation.",
-      "link": "https://finance.yahoo.com/video/nvidia-stock-reacts-as-huang-admits-to-an-affair-with-a-chinese-spy-anthropic-moves-ahead-with-ipo-145459810.html?.tsrc=rss",
-      "time": "2026-11-09T14:41:04+00:00",
+      "title": "Nvidia earnings overhang: what the Nov. 17 report can and cannot resolve",
+      "summary": "Investing.com -- NVIDIA Corporation (NVDA) is $176.31, down 5.53% as of Nov 9, 9:44 AM EST. The stock is down 12.84% over a week and 23.19% over a month (as of the earlier snapshot). Earnings on Nov 17 after the close are the next big event.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-overhang-nov-17-151648293.html?.tsrc=rss",
+      "time": "2026-11-09T15:16:48+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:4188b371-0a5b-4b0d-8504-c62ed10923b6",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Nvidia live updates: Nvidia stock falls as tech leaders, Trump weigh in on CEO Jensen Huang's affair with alleged Chinese spy",
+      "summary": "Follow along for live updates and reactions regarding the revelation that Nvidia CEO Jensen Huang had a romantic relationship, reportedly with a woman believed to be a Chinese spy.",
+      "link": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock-ceo-jensen-huang-chinese-spy-151408598.html?.tsrc=rss",
+      "time": "2026-11-09T15:14:08+00:00",
       "touches": [
         "NVDA"
       ],
@@ -51,95 +52,38 @@
       "new": true
     },
     {
-      "id": "rss:18a9a3ed-7082-4067-b97a-1baa07a038c2",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Did Trump know about Jensen Huang? What Congress will be looking at",
-      "summary": "Nvidia (NVDA) stock is under fire over CEO Jensen Huang's acknowledged affair with Alice Wong, who is suspected of being a spy for Chinese intelligence. The company's board is launching a probe into the affair. \"Chip War\" author Chris Miller chats with Yahoo Finance Breaking Business News Reporter Jake Conley about his expectations for the US government's response and Congress's closed-door briefing.",
-      "link": "https://finance.yahoo.com/video/did-trump-know-about-jensen-huang-what-congress-will-be-looking-at-143858698.html?.tsrc=rss",
-      "time": "2026-11-09T14:38:58+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "legal",
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:8e6a68af-972e-3418-b01b-ee9604d3ea02",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "DraftKings downgraded, AMD upgraded: Wall Street's top analyst calls",
-      "summary": "DraftKings downgraded, AMD upgraded: Wall Street's top analyst calls",
-      "link": "https://finance.yahoo.com/news/netflix-resumed-starbucks-downgraded-wall-133343741.html?.tsrc=rss",
-      "time": "2026-11-09T14:35:30+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "analyst"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:b434e313-abc5-3b0c-b279-1309bc53af57",
+      "id": "rss:c0e91cb4-78d1-42c0-b975-21b60664beb9",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Global Clinical Genomics Software Market Report 2026 | Capitalize on 14.8% CAGR Through 2030 as Google, Microsoft, NVIDIA and Illumina Scale AI, Cloud and Precision Medicine",
-      "summary": "Players: Google, Microsoft, AWS, NVIDIA and Thermo Fisher. Profiled: clinical genomics software competitors, services, trends, regional shares and opportunities.Dublin, Nov. 09, 2026 (GLOBE NEWSWIRE) -- \"Clinical Genomics Software Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global clinical genomics software market is experiencing rapid expansion, supported by advances in genomic testing, bioinformatics, precision medicine, and cloud-based healthcare techno",
-      "link": "https://finance.yahoo.com/healthcare/articles/global-clinical-genomics-software-market-143200767.html?.tsrc=rss",
-      "time": "2026-11-09T14:32:00+00:00",
+      "title": "Berkshire Hathaway latest: Q3 earnings, top 5 holdings, record stock buyback, & more",
+      "summary": "Berkshire Hathaway (BRK-B, BRK-A) reported third quarter earnings results and bought a record $9.6 billion of its own shares. \"The 8:30\" hosts Julie Hyman, Pras Subramanian, and Jake Conley take a closer look at the results.",
+      "link": "https://finance.yahoo.com/video/berkshire-hathaway-latest-q3-earnings-top-5-holdings-record-stock-buyback--more-150507713.html?.tsrc=rss",
+      "time": "2026-11-09T15:05:07+00:00",
       "touches": [
-        "GOOGL",
-        "MSFT",
-        "NVDA"
+        "GOOGL"
       ],
       "tags": [
+        "earnings",
         "capital"
       ],
       "new": true
     },
     {
-      "id": "rss:ed4b5999-1f40-3841-93a8-332799e9c175",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "REGN",
-      "title": "Global Gene Therapy for Hearing Loss Market Report 2026 | Capture Growth to $1.71B by 2030 as Regeneron, Lilly, Sensorion and Astellas Advance AAV, CRISPR and Cochlear Delivery",
-      "summary": "Profiles Regeneron, Eli Lilly, Sensorion, Astellas Pharma and BridgeBio, covering hearing-loss gene therapies, pipelines, innovation and market activity.Dublin, Nov. 09, 2026 (GLOBE NEWSWIRE) -- \"Gene Therapy For Hearing Loss Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global gene therapy for hearing loss market is experiencing rapid expansion, supported by advances in molecular genetics, regenerative medicine and targeted treatment development. The market",
-      "link": "https://finance.yahoo.com/healthcare/articles/global-gene-therapy-hearing-loss-143100941.html?.tsrc=rss",
-      "time": "2026-11-09T14:31:00+00:00",
-      "touches": [
-        "REGN"
-      ],
-      "tags": [
-        "capital"
-      ],
-      "new": true
-    }
-  ],
-  "atencao": [
-    {
-      "id": "rss:18a9a3ed-7082-4067-b97a-1baa07a038c2",
+      "id": "rss:94ede293-8c6e-380f-bd40-1955c4a1e893",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Did Trump know about Jensen Huang? What Congress will be looking at",
-      "summary": "Nvidia (NVDA) stock is under fire over CEO Jensen Huang's acknowledged affair with Alice Wong, who is suspected of being a spy for Chinese intelligence. The company's board is launching a probe into the affair. \"Chip War\" author Chris Miller chats with Yahoo Finance Breaking Business News Reporter Jake Conley about his expectations for the US government's response and Congress's closed-door briefing.",
-      "link": "https://finance.yahoo.com/video/did-trump-know-about-jensen-huang-what-congress-will-be-looking-at-143858698.html?.tsrc=rss",
-      "time": "2026-11-09T14:38:58+00:00",
+      "title": "Edgevana Signs $700 Million in AI Infrastructure Agreements as Committed Demand Reaches $7 Billion",
+      "summary": "Edgevana, the data center, energy and compute orchestration platform delivering production-ready AI compute, today announced more than $700 million in fully committed, multi-year take-or-pay agreements to deploy NVIDIA Blackwell computing systems across North America and Europe. The commitment comes as power constraints delay traditional data center builds, driving $7 billion in contracted customer demand and an active pipeline exceeding $20 billion for Edgevana's pre-energized platform.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/edgevana-signs-700-million-ai-150000043.html?.tsrc=rss",
+      "time": "2026-11-09T15:00:00+00:00",
       "touches": [
         "NVDA"
       ],
-      "tags": [
-        "legal",
-        "people"
-      ],
+      "tags": [],
       "new": true
     }
-  ]
+  ],
+  "atencao": []
 }

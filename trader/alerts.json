@@ -4,14 +4,14 @@
       "id": "robo-stop-ADBE",
       "symbol": "ADBE",
       "type": "stop",
-      "price": 208.75,
+      "price": 207.83,
       "note": "rob\u00f4: -15% do pre\u00e7o m\u00e9dio"
     },
     {
       "id": "robo-take-ADBE",
       "symbol": "ADBE",
       "type": "target",
-      "price": 270.15,
+      "price": 268.96,
       "note": "rob\u00f4: +10% do pre\u00e7o m\u00e9dio"
     },
     {
@@ -46,42 +46,42 @@
       "id": "robo-stop-ORCL",
       "symbol": "ORCL",
       "type": "stop",
-      "price": 106.96,
+      "price": 105.8,
       "note": "rob\u00f4: -15% do pre\u00e7o m\u00e9dio"
     },
     {
       "id": "robo-take-ORCL",
       "symbol": "ORCL",
       "type": "target",
-      "price": 138.41,
+      "price": 136.92,
       "note": "rob\u00f4: +10% do pre\u00e7o m\u00e9dio"
     },
     {
       "id": "robo-stop-REGN",
       "symbol": "REGN",
       "type": "stop",
-      "price": 800.42,
+      "price": 796.96,
       "note": "rob\u00f4: -15% do pre\u00e7o m\u00e9dio"
     },
     {
       "id": "robo-take-REGN",
       "symbol": "REGN",
       "type": "target",
-      "price": 1035.84,
+      "price": 1031.36,
       "note": "rob\u00f4: +10% do pre\u00e7o m\u00e9dio"
     },
     {
       "id": "robo-stop-UNP",
       "symbol": "UNP",
       "type": "stop",
-      "price": 258.27,
+      "price": 257.0,
       "note": "rob\u00f4: -15% do pre\u00e7o m\u00e9dio"
     },
     {
       "id": "robo-take-UNP",
       "symbol": "UNP",
       "type": "target",
-      "price": 334.23,
+      "price": 332.59,
       "note": "rob\u00f4: +10% do pre\u00e7o m\u00e9dio"
     }
   ]

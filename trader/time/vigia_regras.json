@@ -19,12 +19,6 @@
       "pct": 5
     },
     {
-      "id": "vigia-NVDA",
-      "symbol": "NVDA",
-      "type": "pct_move",
-      "pct": 5
-    },
-    {
       "id": "vigia-ORCL",
       "symbol": "ORCL",
       "type": "pct_move",
