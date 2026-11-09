@@ -1,32 +1,60 @@
 {
-  "as_of": "2026-11-09T17:05:00Z",
+  "as_of": "2026-11-09T17:35:00Z",
   "items": [
     {
-      "id": "rss:556452b8-7665-3cb0-b9c6-9636c6a97fd2",
+      "id": "rss:4013010f-2025-351f-940d-dd88da810cb5",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Quarterly Reports and an Independent Board Inquiry Frame the Chip Sector's Week",
-      "summary": "Fly On Wall Street News Commentary - Semiconductor shares opened the week pulling in different directions. As of 10:02 a.m. ET on Monday, the PHLX Semiconductor Sector Index was up 4.33% at 9,796.62, while shares of one chipmaker whose board said on Sunday that it is initiating an independent investigation were trading 4.77% lower. The four other chipmakers covered below, each of which reported quarterly results within the past two weeks, were all trading higher at the same time stamp. Active Co",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/quarterly-reports-independent-board-inquiry-170200762.html?.tsrc=rss",
-      "time": "2026-11-09T17:02:00+00:00",
+      "ticker": "GOOGL",
+      "title": "AI Stock Rout Called 'Unwarranted.' Why Wall Street Sees Post-Midterms Edge For Cloud Giants.",
+      "summary": "Wall Street analysts are picking winners and losers from post-midterms fallout.",
+      "link": "https://finance.yahoo.com/m/4013010f-2025-351f-940d-dd88da810cb5/ai-stock-rout-called.html?.tsrc=rss",
+      "time": "2026-11-09T17:25:08+00:00",
       "touches": [
-        "NVDA"
+        "GOOGL",
+        "MSFT"
       ],
-      "tags": [
-        "earnings",
-        "legal"
-      ],
+      "tags": [],
       "new": true
     },
     {
-      "id": "rss:8c639c5a-2f7f-4d7d-8519-ea73c65c0457",
+      "id": "rss:ce7aba63-789b-3e44-8076-1622a97829bf",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Google Makes Major New Move as Nvidia Faces New Challenge",
+      "summary": "A rapid hardware expansion could reshape the AI industry's competitive landscape.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/google-makes-major-move-nvidia-172048511.html?.tsrc=rss",
+      "time": "2026-11-09T17:20:48+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:6b0ae772-9882-30fa-8847-61798b94f000",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "AMD Stock Jumps as Google Taps Its Chips for a New AI System",
+      "summary": "Google Is Turning to AMD for AI Security, and Investors Are Taking Notice",
+      "link": "https://finance.yahoo.com/technology/ai/articles/amd-stock-jumps-google-taps-170151144.html?.tsrc=rss",
+      "time": "2026-11-09T17:01:51+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:487c513f-dedb-3203-a816-96694521116b",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia vs. AMD: Why Lisa Su's company is a great alternative for investors",
-      "summary": "Yahoo Finance Executive Editor Brian Sozzi looks back at his conversation with AMD (AMD) CEO Lisa Su to highlight viable alternatives for Nvidia (NVDA) investors to consider.",
-      "link": "https://finance.yahoo.com/video/nvidia-vs-amd-why-lisa-170000159.html?.tsrc=rss",
+      "title": "Trump says Jensen Huang should stay on as Nvidia CEO: \u2018I haven\u2019t heard he\u2019s done anything wrong\u2019",
+      "summary": "The president remains firm in his belief that Huang is an \u201chonorable guy.\u201d",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trump-says-jensen-huang-stay-170000675.html?.tsrc=rss",
       "time": "2026-11-09T17:00:00+00:00",
       "touches": [
         "NVDA"
@@ -35,208 +63,7 @@
         "people"
       ],
       "new": true
-    },
-    {
-      "id": "rss:a4a2c7f7-7012-37de-9338-deb673fb3e3b",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Google Hands AMD Major Win in AI Chip Race",
-      "summary": "A powerful new partnership highlights an overlooked AI opportunity.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/google-hands-amd-major-win-165949443.html?.tsrc=rss",
-      "time": "2026-11-09T16:59:49+00:00",
-      "touches": [
-        "GOOGL",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:26af0198-09a0-3d77-acf2-20a1d6b6c470",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "EU drafts curbs targeting addictive social media features and AI chatbots - report",
-      "summary": "Investing.com -- European Union regulators are preparing a fresh legislative assault on digital platforms, targeting addictive design mechanics and conversational artificial intelligence designed to drive compulsive engagement. The draft measures, part of an upcoming \"Digital Fairness Act\" reported by Bloomberg News, would mandate that tech companies allow adult users to disable features that encourage excessive use while also reining in AI chatbots that simulate personal relationships.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/eu-drafts-curbs-targeting-addictive-165151496.html?.tsrc=rss",
-      "time": "2026-11-09T16:51:51+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:19a76809-6f43-395c-a7c4-6675bca78d94",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia intervention preceded transfer of chip probe to Justice Department",
-      "summary": "Investing.com -- Nvidia\u2019s efforts to communicate with U.S. officials over a suspected chip-smuggling investigation preceded an unusual decision to transfer the case from the Commerce Department to the Justice Department, raising new questions about the company\u2019s influence over export-control enforcement.",
-      "link": "https://finance.yahoo.com/technology/articles/nvidia-intervention-preceded-transfer-chip-164950508.html?.tsrc=rss",
-      "time": "2026-11-09T16:49:50+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "legal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:4de7dcb1-1b3c-470b-95f4-8708648689e6",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Analysts say Nvidia CEO unlikely to be ousted over affair, but raise questions about company's future",
-      "summary": "Analysts on Wall Street say the Nvidia CEO's job is likely safe, but that his affair could increase scrutiny of the company.",
-      "link": "https://finance.yahoo.com/technology/article/analysts-say-nvidia-ceo-unlikely-to-be-ousted-over-affair-but-raise-questions-about-companys-future-165238577.html?.tsrc=rss",
-      "time": "2026-11-09T16:48:23+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:21fb3414-0bff-3d48-962e-00e0b90e6823",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia Probe Into CEO's Affair Raises Troubling Questions for AI",
-      "summary": "Nvidia Corp., the world's second-most valuable company and the US chipmaker at the heart of the global AI industry, is facing a crisis like none other in its three-decade history. On Nov. 8, Chief Executive Officer\u00a0Jensen Huang\u00a0admitted\u00a0he had been unfaithful in his marriage, effectively confirming a series of reports linking him romantically with a woman who has been identified as a suspected Chinese spy and whose company bought chips from Nvidia. Michael Shepard, Bloomberg News Senior Technology Editor, discusses the controversy surrounding Jensen Huang as well as news from the New York Times that Nvidia intervened in the US probe of Megaspeed.",
-      "link": "https://finance.yahoo.com/video/nvidia-probe-ceos-affair-raises-164336963.html?.tsrc=rss",
-      "time": "2026-11-09T16:43:36+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "legal",
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:425aedec-8967-3161-8787-0cdd6230a439",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Top Midday Stories: Nvidia Faces China Spy Allegations; NRG to Sell 6 natural Gas Generation Assets to LS Power for $4 Billion",
-      "summary": "All three major US stock indexes were up over 1.5% on Monday, with the Nasdaq Composite trading abov",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-nvidia-faces-164201985.html?.tsrc=rss",
-      "time": "2026-11-09T16:42:01+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:0142a2b7-279e-3c46-8d7d-719a555da8f0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia's 'Robust' Demand Trends Support Strong Quarterly Outlook, RBC Says",
-      "summary": "Nvidia (NVDA) is expected to deliver another \"strong quarter\" and provide an outlook above expectati",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-apos-apos-robust-apos-164114568.html?.tsrc=rss",
-      "time": "2026-11-09T16:41:14+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:188875f1-26b7-355a-b790-f22ab5fe7321",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Barrick Mining Moves on Earnings; Google's New AI Chips | Stock Movers",
-      "summary": "On this episode of Stock Movers: - Shares of Barrick Mining (B) rose in premarket trading after the miner reported third-quarter earnings that beat the average analyst estimate as strength in gold offset copper weakness. The company also said that its Nevada Gold Mines initial public offering remains on track for late 2026 or early 2027. - Shares of Alphabet (GOOG) edged higher after news Google is rolling out a broader array of AI chips, aiming to capitalize on its rapid ascent as a challenger to Nvidia. The company is introducing two new variations of its tensor processing units, or TPUs, custom-made semiconductors that help run AI software. - Shares of KKR & Co. (KKR) rallied in the early session after the company reported a third-quarter profit that beat analysts' estimates as the \"mini Berkshire\" unit that holds long-term private equity bets mitigated a slump at its Global Atlantic insurance arm.",
-      "link": "https://finance.yahoo.com/video/barrick-mining-moves-earnings-googles-163247081.html?.tsrc=rss",
-      "time": "2026-11-09T16:32:47+00:00",
-      "touches": [
-        "GOOGL",
-        "NVDA"
-      ],
-      "tags": [
-        "earnings",
-        "capital"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:85fec69f-1238-37d8-b50a-64310d3de3f1",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "MU or AMD: Which Is the Better Value Stock Right Now?",
-      "summary": "MU vs. AMD: Which Stock Is the Better Value Option?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mu-amd-better-value-stock-154004721.html?.tsrc=rss",
-      "time": "2026-11-09T15:40:04+00:00",
-      "touches": [
-        "MU"
-      ],
-      "tags": [],
-      "new": true
     }
   ],
-  "atencao": [
-    {
-      "id": "rss:556452b8-7665-3cb0-b9c6-9636c6a97fd2",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Quarterly Reports and an Independent Board Inquiry Frame the Chip Sector's Week",
-      "summary": "Fly On Wall Street News Commentary - Semiconductor shares opened the week pulling in different directions. As of 10:02 a.m. ET on Monday, the PHLX Semiconductor Sector Index was up 4.33% at 9,796.62, while shares of one chipmaker whose board said on Sunday that it is initiating an independent investigation were trading 4.77% lower. The four other chipmakers covered below, each of which reported quarterly results within the past two weeks, were all trading higher at the same time stamp. Active Co",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/quarterly-reports-independent-board-inquiry-170200762.html?.tsrc=rss",
-      "time": "2026-11-09T17:02:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "earnings",
-        "legal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:19a76809-6f43-395c-a7c4-6675bca78d94",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia intervention preceded transfer of chip probe to Justice Department",
-      "summary": "Investing.com -- Nvidia\u2019s efforts to communicate with U.S. officials over a suspected chip-smuggling investigation preceded an unusual decision to transfer the case from the Commerce Department to the Justice Department, raising new questions about the company\u2019s influence over export-control enforcement.",
-      "link": "https://finance.yahoo.com/technology/articles/nvidia-intervention-preceded-transfer-chip-164950508.html?.tsrc=rss",
-      "time": "2026-11-09T16:49:50+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "legal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:21fb3414-0bff-3d48-962e-00e0b90e6823",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia Probe Into CEO's Affair Raises Troubling Questions for AI",
-      "summary": "Nvidia Corp., the world's second-most valuable company and the US chipmaker at the heart of the global AI industry, is facing a crisis like none other in its three-decade history. On Nov. 8, Chief Executive Officer\u00a0Jensen Huang\u00a0admitted\u00a0he had been unfaithful in his marriage, effectively confirming a series of reports linking him romantically with a woman who has been identified as a suspected Chinese spy and whose company bought chips from Nvidia. Michael Shepard, Bloomberg News Senior Technology Editor, discusses the controversy surrounding Jensen Huang as well as news from the New York Times that Nvidia intervened in the US probe of Megaspeed.",
-      "link": "https://finance.yahoo.com/video/nvidia-probe-ceos-affair-raises-164336963.html?.tsrc=rss",
-      "time": "2026-11-09T16:43:36+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "legal",
-        "people"
-      ],
-      "new": true
-    }
-  ]
+  "atencao": []
 }
