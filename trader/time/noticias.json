@@ -1,23 +1,43 @@
 {
-  "as_of": "2026-11-09T01:35:00Z",
+  "as_of": "2026-11-09T02:05:00Z",
   "items": [
     {
-      "id": "rss:9c9b1374-8492-3fa9-b655-824021008020",
+      "id": "rss:3188b5aa-f85f-3381-b1de-f24975949aef",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Wall St futures mixed amid AI spending concerns; inflation data awaited",
-      "summary": "Investing.com-- U.S. stock index futures were mixed on Sunday evening as investors assessed whether technology shares could extend their recovery following last week's sharp selloff, while preparing for a fresh round of inflation data and earnings from artificial intelligence-related companies.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-mixed-amid-012009920.html?.tsrc=rss",
-      "time": "2026-11-09T01:20:09+00:00",
+      "title": "3 US Defense Stocks Worth Watching As Nvidia Questions Hit National Security",
+      "summary": "Nvidia\u2019s boardroom drama, with CEO Jensen Huang under investigation after admitting an extramarital affair tied to an alleged intelligence-linked sting, has pushed national security risk from the policy pages onto your portfolio screen. Scrutiny of Nvidia\u2019s China links and AI exports could change who wins and loses across defense and security technology. This piece unpacks three stocks exposed to that story, and why their next chapter matters for you. The stocks covered below are just a small...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-us-defense-stocks-worth-011236831.html?.tsrc=rss",
+      "time": "2026-11-09T01:12:36+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
-        "earnings"
+        "legal",
+        "people"
       ],
       "new": true
     }
   ],
-  "atencao": []
+  "atencao": [
+    {
+      "id": "rss:3188b5aa-f85f-3381-b1de-f24975949aef",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "3 US Defense Stocks Worth Watching As Nvidia Questions Hit National Security",
+      "summary": "Nvidia\u2019s boardroom drama, with CEO Jensen Huang under investigation after admitting an extramarital affair tied to an alleged intelligence-linked sting, has pushed national security risk from the policy pages onto your portfolio screen. Scrutiny of Nvidia\u2019s China links and AI exports could change who wins and loses across defense and security technology. This piece unpacks three stocks exposed to that story, and why their next chapter matters for you. The stocks covered below are just a small...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-us-defense-stocks-worth-011236831.html?.tsrc=rss",
+      "time": "2026-11-09T01:12:36+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "legal",
+        "people"
+      ],
+      "new": true
+    }
+  ]
 }
