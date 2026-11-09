@@ -1,55 +1,58 @@
 {
-  "as_of": "2026-11-09T05:05:00Z",
+  "as_of": "2026-11-09T05:35:00Z",
   "items": [
     {
-      "id": "rss:c3368407-8693-3ed5-a0c2-59399a03bfe0",
+      "id": "rss:1311e10a-aaad-3c00-9c1d-83cf3996fade",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With NVIDIA NVLink Fusion",
-      "summary": "Korean-Designed AI Processors and Models to Build on NVIDIA NVLink Fusion and MGX Infrastructure for Rack-Scale Inference NVIDIA NVLink Fusion NVIDIA, Rebellions and SK Telecom today announced a collaboration to advance Korea\u2019s sovereign AI infrastructure \u2014 using NVIDIA NVLink Fusion to bring together NVIDIA\u2019s open infrastructure platform, Rebellions\u2019 Korean-designed AI processors and SK Telecom\u2019s AI data center, model and service capabilities. News Summary: Rebellions plans to adopt NVIDIA NVLi",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-rebellions-sk-telecom-announce-050000656.html?.tsrc=rss",
-      "time": "2026-11-09T05:00:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:66154c5d-14e2-3455-8f9b-073b8f632bd0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Trump calls Nvidia\u2019s Huang \u2018honorable,\u2019 says yet to discuss China allegations",
-      "summary": "Investing.com-- U.S. President Donald Trump on Sunday evening praised Nvidia\u2019s Jensen Huang for his contributions to the country, and said he had not spoken to the CEO regarding allegations of a relationship with a suspected Chinese spy.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/trump-calls-nvidia-huang-honorable-044451272.html?.tsrc=rss",
-      "time": "2026-11-09T04:44:51+00:00",
+      "title": "Nvidia Probe Puts China Exposed US Chip Stocks In Focus",
+      "summary": "Geopolitics just crashed into the chip aisle. Nvidia\u2019s internal probe into CEO Jensen Huang and fresh scrutiny around China-linked AI hardware sales are turning abstract export rules into very real portfolio questions. That disruption can punish some stocks and open the door for others. This article walks through three large US semiconductor and chip-equipment picks exposed to this news and explains how the risks and potential openings could matter for you. The stocks covered below are just a...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-probe-puts-china-exposed-051236166.html?.tsrc=rss",
+      "time": "2026-11-09T05:12:36+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
+        "legal",
         "people"
       ],
       "new": true
     },
     {
-      "id": "rss:16829f81-5314-3f15-8cda-f75d0e5ed92a",
+      "id": "rss:1e43c864-aac3-366d-8612-062ac1b1cbf3",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MU",
-      "title": "Micron Technology And 2 High Growth Stocks To Watch",
-      "summary": "Rising concern about US government debt and higher Treasury yields has pushed many investors to rethink where they want growth exposure. Strong balance sheets and solid earnings momentum can feel more attractive when borrowing costs are in focus and market swings are sharper. This article highlights three financially healthy companies identified by analysts as having the potential for rapid profit growth over the next few years, drawn from a screener built around that idea. The three stocks...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-2-high-growth-042757242.html?.tsrc=rss",
-      "time": "2026-11-09T04:27:57+00:00",
+      "ticker": "NVDA",
+      "title": "Taiwan shares rally 6% as short-sale curbs and NT$500 bln fund lift sentiment",
+      "summary": "Investing.com -- Taiwan stocks rebounded sharply on Monday, ending a seven-session losing streak that had pushed the technology-heavy market into bear-market territory, as new restrictions on short selling and government support measures helped restore investor confidence.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-shares-rally-6-short-050031171.html?.tsrc=rss",
+      "time": "2026-11-09T05:00:31+00:00",
       "touches": [
-        "MU"
+        "NVDA"
       ],
-      "tags": [
-        "earnings"
-      ],
+      "tags": [],
       "new": true
     }
   ],
-  "atencao": []
+  "atencao": [
+    {
+      "id": "rss:1311e10a-aaad-3c00-9c1d-83cf3996fade",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Nvidia Probe Puts China Exposed US Chip Stocks In Focus",
+      "summary": "Geopolitics just crashed into the chip aisle. Nvidia\u2019s internal probe into CEO Jensen Huang and fresh scrutiny around China-linked AI hardware sales are turning abstract export rules into very real portfolio questions. That disruption can punish some stocks and open the door for others. This article walks through three large US semiconductor and chip-equipment picks exposed to this news and explains how the risks and potential openings could matter for you. The stocks covered below are just a...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-probe-puts-china-exposed-051236166.html?.tsrc=rss",
+      "time": "2026-11-09T05:12:36+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "legal",
+        "people"
+      ],
+      "new": true
+    }
+  ]
 }
