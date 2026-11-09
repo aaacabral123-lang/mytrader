@@ -1,7 +1,11 @@
 {
-  "cash": 757.53,
+  "cash": 505.54,
   "source": "curto prazo: posi\u00e7\u00f5es em ETFs + caixa do curto prazo",
   "positions": [
+    {
+      "ticker": "XLE",
+      "shares": 3.994768547
+    },
     {
       "ticker": "XLK",
       "shares": 1.423925178

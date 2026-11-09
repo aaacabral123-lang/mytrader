@@ -1,48 +1,15 @@
 {
-  "as_of": "2026-11-09T15:35:00Z",
+  "as_of": "2026-11-09T16:05:00Z",
   "items": [
     {
-      "id": "rss:78cef10b-7812-49ba-8a01-82440eebe08f",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Tech stocks rally as Nvidia stock and oil prices fall: AlphaCheck",
-      "summary": "Tech rallied as Nvidia shares dropped on Monday.",
-      "link": "https://finance.yahoo.com/markets/article/tech-stocks-rally-as-nvidia-stock-and-oil-prices-fall-alphacheck-152208023.html?.tsrc=rss",
-      "time": "2026-11-09T15:22:08+00:00",
-      "touches": [
-        "GOOGL",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:5ca8a841-90e0-3d27-bcbc-37e3bde096dd",
+      "id": "rss:f21c1b8f-0954-400c-8b23-10c7dd9ba0b8",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia earnings overhang: what the Nov. 17 report can and cannot resolve",
-      "summary": "Investing.com -- NVIDIA Corporation (NVDA) is $176.31, down 5.53% as of Nov 9, 9:44 AM EST. The stock is down 12.84% over a week and 23.19% over a month (as of the earlier snapshot). Earnings on Nov 17 after the close are the next big event.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-overhang-nov-17-151648293.html?.tsrc=rss",
-      "time": "2026-11-09T15:16:48+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:4188b371-0a5b-4b0d-8504-c62ed10923b6",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia live updates: Nvidia stock falls as tech leaders, Trump weigh in on CEO Jensen Huang's affair with alleged Chinese spy",
-      "summary": "Follow along for live updates and reactions regarding the revelation that Nvidia CEO Jensen Huang had a romantic relationship, reportedly with a woman believed to be a Chinese spy.",
-      "link": "https://finance.yahoo.com/technology/live/nvidia-scandal-live-updates-nvidia-stock-ceo-jensen-huang-chinese-spy-151408598.html?.tsrc=rss",
-      "time": "2026-11-09T15:14:08+00:00",
+      "title": "Nvidia's black eye: One company isn't run by one person",
+      "summary": "Yahoo Finance Executive Editor Brian Sozzi argues that investors shouldn\u2019t lean too heavily on a CEO\u2019s personal life amid the crisis surrounding Nvidia (NVDA) CEO Jensen Huang.",
+      "link": "https://finance.yahoo.com/video/nvidias-black-eye-one-company-isnt-run-by-one-person-155942128.html?.tsrc=rss",
+      "time": "2026-11-09T15:59:42+00:00",
       "touches": [
         "NVDA"
       ],
@@ -52,38 +19,106 @@
       "new": true
     },
     {
-      "id": "rss:c0e91cb4-78d1-42c0-b975-21b60664beb9",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Berkshire Hathaway latest: Q3 earnings, top 5 holdings, record stock buyback, & more",
-      "summary": "Berkshire Hathaway (BRK-B, BRK-A) reported third quarter earnings results and bought a record $9.6 billion of its own shares. \"The 8:30\" hosts Julie Hyman, Pras Subramanian, and Jake Conley take a closer look at the results.",
-      "link": "https://finance.yahoo.com/video/berkshire-hathaway-latest-q3-earnings-top-5-holdings-record-stock-buyback--more-150507713.html?.tsrc=rss",
-      "time": "2026-11-09T15:05:07+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [
-        "earnings",
-        "capital"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:94ede293-8c6e-380f-bd40-1955c4a1e893",
+      "id": "rss:d72c0ae3-1846-3c3f-a3f9-0c36f1e8dd44",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Edgevana Signs $700 Million in AI Infrastructure Agreements as Committed Demand Reaches $7 Billion",
-      "summary": "Edgevana, the data center, energy and compute orchestration platform delivering production-ready AI compute, today announced more than $700 million in fully committed, multi-year take-or-pay agreements to deploy NVIDIA Blackwell computing systems across North America and Europe. The commitment comes as power constraints delay traditional data center builds, driving $7 billion in contracted customer demand and an active pipeline exceeding $20 billion for Edgevana's pre-energized platform.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/edgevana-signs-700-million-ai-150000043.html?.tsrc=rss",
-      "time": "2026-11-09T15:00:00+00:00",
+      "title": "NVDA support and resistance levels as stock trades in oversold territory",
+      "summary": "Investing.com -- NVIDIA Corporation (NVDA) is trading at $178.18, down 4.53%, as of Nov 9, 2026 at 10:22 AM EST. The daily technical gauge reads Strong Sell, while momentum is already oversold.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvda-support-resistance-levels-stock-155408988.html?.tsrc=rss",
+      "time": "2026-11-09T15:54:08+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [],
       "new": true
+    },
+    {
+      "id": "rss:f9f8d0a9-ad27-46ce-b2a5-02b40a70a8b8",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Why Nvidia's board really needs to lay out Jensen Huang's succession plan",
+      "summary": "Nvidia (NVDA) stock is under fire over CEO Jensen Huang's acknowledged affair with Alice Huang, who is suspected of being a spy for Chinese intelligence. The company's board is launching a probe into the affair.Yahoo Finance Executive Editor Brian Sozzi shares some of his thoughts and outlines the importance of a succession plan.",
+      "link": "https://finance.yahoo.com/video/why-nvidias-board-really-needs-to-lay-out-jensen-huangs-succession-plan-154736576.html?.tsrc=rss",
+      "time": "2026-11-09T15:47:36+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "legal",
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:544d9f43-0b7f-3c42-b942-64d1474d8198",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "AMD Stock Rises On Google Cloud Deal, Wall Street Upgrade",
+      "summary": "AMD announced that its fifth-generation Epyc server processors will power Alphabet's Google Cloud TPU 8tx systems. AMD stock rose.",
+      "link": "https://finance.yahoo.com/m/544d9f43-0b7f-3c42-b942-64d1474d8198/amd-stock-rises-on-google.html?.tsrc=rss",
+      "time": "2026-11-09T15:33:11+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [
+        "analyst",
+        "deal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:c0897dfe-5a7d-319b-a640-3ab739bb3ecf",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "BC-Most Active Stocks",
+      "summary": "NEW YORK (AP) \u2014 prices for the Nasdaq composite, NYSE and NYSE American listed most active stocks. Nasdaq most active stocks:Stock Name Volume High Low Last Change  NVIDIA Corp.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-153021871.html?.tsrc=rss",
+      "time": "2026-11-09T15:30:21+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:3b81db4d-f384-385d-8996-7227b3141fb4",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Amazon AWS Revenues Up 39% in Q3 as Cloud Rivals Gain Pace: Hold Stock?",
+      "summary": "AMZN's AWS revenues surge 39% in Q3, fueled by AI demand, but rising cloud competition, steep valuation and heavy capex pose challenges for investors.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-aws-revenues-39-q3-144400988.html?.tsrc=rss",
+      "time": "2026-11-09T14:44:00+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
     }
   ],
-  "atencao": []
+  "atencao": [
+    {
+      "id": "rss:f9f8d0a9-ad27-46ce-b2a5-02b40a70a8b8",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Why Nvidia's board really needs to lay out Jensen Huang's succession plan",
+      "summary": "Nvidia (NVDA) stock is under fire over CEO Jensen Huang's acknowledged affair with Alice Huang, who is suspected of being a spy for Chinese intelligence. The company's board is launching a probe into the affair.Yahoo Finance Executive Editor Brian Sozzi shares some of his thoughts and outlines the importance of a succession plan.",
+      "link": "https://finance.yahoo.com/video/why-nvidias-board-really-needs-to-lay-out-jensen-huangs-succession-plan-154736576.html?.tsrc=rss",
+      "time": "2026-11-09T15:47:36+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "legal",
+        "people"
+      ],
+      "new": true
+    }
+  ]
 }

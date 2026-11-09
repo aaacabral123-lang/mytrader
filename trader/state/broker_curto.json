@@ -59,6 +59,16 @@
       "id": "f544b3a9-a8c4-4627-ba89-b669f852dbc7",
       "approved_by": "robo (automatic, paper)",
       "why": "curto prazo, entrada: RSI(2) 4.0, acima da m\u00e9dia de 200 dias ($58.44)"
+    },
+    {
+      "date": "2026-11-09",
+      "at": "2026-11-09T16:05:09Z",
+      "status": "placed",
+      "symbol": "XLK",
+      "side": "sell",
+      "id": "a66f2c2d-c3c0-4814-8e47-691142a8384c",
+      "approved_by": "robo (automatic, paper)",
+      "why": "curto prazo, sa\u00edda: repique: $170.25 acima da m\u00e9dia de 5 dias ($170.09)"
     }
   ]
 }
