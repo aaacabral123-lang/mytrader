@@ -1,77 +1,40 @@
 {
-  "as_of": "2026-11-09T09:35:00Z",
+  "as_of": "2026-11-09T10:05:00Z",
   "items": [
     {
-      "id": "rss:4190d4ed-f4b5-3220-9b18-9fe3522f835a",
+      "id": "rss:9f53ad16-04c3-4c6f-817f-1adc94181a4f",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Huang allegations, Berkshire earnings, AI regulations - What\u2019s moving markets",
-      "summary": "Investing.com -- Investors are heading into a busy week with U.S. inflation data and fresh corporate earnings likely to shape market sentiment, while developments at major companies and a potential shift in Washington\u2019s approach to artificial intelligence add to the agenda. Berkshire Hathaway\u2019s latest results highlighted the strength of its cash position despite weaker operating earnings, while Binance announced a finance leadership change days after a major cryptocurrency theft.",
-      "link": "https://finance.yahoo.com/markets/articles/huang-allegations-berkshire-earnings-ai-091315250.html?.tsrc=rss",
-      "time": "2026-11-09T09:13:15+00:00",
+      "title": "Nvidia CEO Jensen Huang just made his already surprisingly cheap stock that much cheaper",
+      "summary": "It's almost stunning to see Nvidia's PE ratio at these levels.",
+      "link": "https://finance.yahoo.com/markets/stocks/article/nvidia-ceo-jensen-huang-just-made-his-already-surprisingly-cheap-stock-that-much-cheaper-095550447.html?.tsrc=rss",
+      "time": "2026-11-09T09:55:50+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:8dc068ba-e93c-4b36-944e-0fd6ce0698eb",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise with Nvidia stock, AI trade in focus",
-      "summary": "All eyes will be on the artificial intelligence trade and Nvidia stock following a volatile post-election shake-up in markets and the revelation that Nvidia's board is opening an investigation into CEO Jensen Huang over his affair.",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html?.tsrc=rss",
-      "time": "2026-11-09T09:05:35+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "legal",
         "people"
       ],
       "new": true
     },
     {
-      "id": "rss:68235952-384d-3c2e-90b3-a861fe01fd5e",
+      "id": "rss:615b8140-9681-4e77-a64c-1cbede9fa867",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "FTSE 100 today: Stocks jump as miners lead; oil falls on Iran hopes",
-      "summary": "Investing.com -- British stocks jumped on Monday as miners rose with metals prices and oil slipped on hopes of a U.S.-Iran deal.",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-today-stocks-jump-085612574.html?.tsrc=rss",
-      "time": "2026-11-09T08:56:12+00:00",
+      "title": "Jensen Huang just handed Wall Street its first $4.5 trillion CEO scandal",
+      "summary": "Wall Street has priced plenty of CEO scandals. It has never priced one at a company worth $4.5 trillion that makes up nearly 7% of the S&P 500.",
+      "link": "https://finance.yahoo.com/markets/article/jensen-huang-just-handed-wall-street-its-first-45-trillion-ceo-scandal-094803359.html?.tsrc=rss",
+      "time": "2026-11-09T09:48:03+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
-        "deal"
+        "people"
       ],
       "new": true
     }
   ],
-  "atencao": [
-    {
-      "id": "rss:8dc068ba-e93c-4b36-944e-0fd6ce0698eb",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise with Nvidia stock, AI trade in focus",
-      "summary": "All eyes will be on the artificial intelligence trade and Nvidia stock following a volatile post-election shake-up in markets and the revelation that Nvidia's board is opening an investigation into CEO Jensen Huang over his affair.",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html?.tsrc=rss",
-      "time": "2026-11-09T09:05:35+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "legal",
-        "people"
-      ],
-      "new": true
-    }
-  ]
+  "atencao": []
 }
