@@ -1,16 +1,47 @@
 {
-  "as_of": "2026-11-09T22:05:00Z",
+  "as_of": "2026-11-09T22:35:00Z",
   "items": [
     {
-      "id": "rss:bf0a8ea2-c42a-42b6-95ee-fe6e9e346b3d",
+      "id": "rss:ee44d43f-b07a-4f24-ab74-062f7ed913ed",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia's Jensen Huang scandal raises questions for AI leaders",
-      "summary": "Deirdre Bosa Live host Deirdre Bosa examines the developing controversy surrounding Nvidia (NVDA) CEO Jensen Huang amid allegations involving a woman suspected of passing information to Beijing. Bosa is joined by Sierra CEO and co-founder and OpenAI Chairman Bret Taylor, alongside Sierra co-founder Clay Bavor, to discuss the potential fallout for Nvidia, the importance of trust in AI leadership, and what the controversy could mean for the broader AI ecosystem.",
-      "link": "https://finance.yahoo.com/video/nvidias-jensen-huang-scandal-raises-questions-for-ai-leaders-215445805.html?.tsrc=rss",
-      "time": "2026-11-09T21:54:45+00:00",
+      "title": "Nvidia scandal could help China long-term, and risks in the AI trade",
+      "summary": "Deidre Bosa tackles the hottest tech and AI headlines, beginning with the long-term win China might get from the Nvidia (NVDA) scandal. Risks in the AI trade and how this all could affect the US-China relationship. Deidre Bosa then sits down with Sierra co-founder Clay Bavor and OpenAI (OPAI.PVT) chairman Bret Taylor to discuss doubts about the data center rollout and the competition between the US and China in the AI race. 'Deirdre Bosa Live' airs every day at 4 p.m. Tune in daily to hear how the latest developments in AI and technology are reshaping companies, industries, and the global economy.",
+      "link": "https://finance.yahoo.com/video/nvidia-scandal-could-help-china-long-term-and-risks-in-the-ai-trade-221407013.html?.tsrc=rss",
+      "time": "2026-11-09T22:14:07+00:00",
       "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:9fe183f0-3fd2-430d-a928-14c3105babe3",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "AI infrastructure spending is still accelerating\u2014but can it last?",
+      "summary": "Bernstein Managing Director and Senior Analyst Stacy Rasgon joins Deirdre Bosa Live to break down the biggest risks facing the AI trade, what investors should be watching closely, and why he remains optimistic about the long-term AI infrastructure buildout despite growing concerns.",
+      "link": "https://finance.yahoo.com/video/ai-infrastructure-spending-is-still-acceleratingbut-can-it-last-221359947.html?.tsrc=rss",
+      "time": "2026-11-09T22:13:59+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:8c5bd830-7232-495b-9d9f-73d9ec77ca72",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Why the Jensen Huang scandal is a 'net loss for China'",
+      "summary": "Strategy Risks Founder and CEO Isaac Stone Fish joins Yahoo Finance's Deirdre Bosa to discuss Nvidia (NVDA) CEO Jensen Huang's affair with an alleged Chinese spy, why it looks bad for Beijing, and how the US Commerce Department will react.",
+      "link": "https://finance.yahoo.com/video/why-the-jensen-huang-scandal-is-a-net-loss-for-china-221329322.html?.tsrc=rss",
+      "time": "2026-11-09T22:13:29+00:00",
+      "touches": [
+        "MSFT",
         "NVDA"
       ],
       "tags": [
@@ -19,20 +50,57 @@
       "new": true
     },
     {
-      "id": "rss:1c27d9a4-92f4-3cc2-a5bc-721d899f1149",
+      "id": "rss:c0915511-778a-378f-851c-01a3d171575f",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Update: Wall Street Rebounds From Last Week's Sell-Off; Nvidia Tumbles",
-      "summary": "(Updates with market moves at the end of the day, and other changes, if any.) US benchmark equity",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-rebounds-last-week-215121889.html?.tsrc=rss",
-      "time": "2026-11-09T21:51:21+00:00",
+      "title": "Shopify Is Just One Of 3 Top Founder Led Stocks",
+      "summary": "The headlines around Nvidia\u2019s investigation into CEO Jensen Huang\u2019s alleged ties to a foreign intelligence effort underline one thing: leadership risk is real, and investors can be exposed to it overnight. That is why some people look for founders with substantial personal stakes whose fortunes move with their shareholders. This article breaks down three founder led stocks from a high insider ownership screener that aims to capture that alignment. The three founder led stocks in this article...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/shopify-just-one-3-top-221047863.html?.tsrc=rss",
+      "time": "2026-11-09T22:10:47+00:00",
       "touches": [
         "NVDA"
+      ],
+      "tags": [
+        "legal",
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:6a5eacbf-5495-3d8e-b730-6a037d604b95",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Advanced Micro Devices (AMD) Lands EPYC Role In New AI Security System",
+      "summary": "Advanced Micro Devices (NasdaqGS:AMD) has been selected by Google Cloud to supply EPYC CPUs for the new TPU 8tx system. Google is shifting the host layer of its flagship TPU 8tx platform back to x86 CPUs, after previously relying on in house chips. The TPU 8tx infrastructure is designed with hardware enforced confidential computing to protect sensitive AI workloads running on Google Cloud. The choice of AMD EPYC for Google Cloud's TPU 8tx host systems is important, but the rest of the AMD...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-lands-220845589.html?.tsrc=rss",
+      "time": "2026-11-09T22:08:45+00:00",
+      "touches": [
+        "GOOGL"
       ],
       "tags": [],
       "new": true
     }
   ],
-  "atencao": []
+  "atencao": [
+    {
+      "id": "rss:c0915511-778a-378f-851c-01a3d171575f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Shopify Is Just One Of 3 Top Founder Led Stocks",
+      "summary": "The headlines around Nvidia\u2019s investigation into CEO Jensen Huang\u2019s alleged ties to a foreign intelligence effort underline one thing: leadership risk is real, and investors can be exposed to it overnight. That is why some people look for founders with substantial personal stakes whose fortunes move with their shareholders. This article breaks down three founder led stocks from a high insider ownership screener that aims to capture that alignment. The three founder led stocks in this article...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/shopify-just-one-3-top-221047863.html?.tsrc=rss",
+      "time": "2026-11-09T22:10:47+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "legal",
+        "people"
+      ],
+      "new": true
+    }
+  ]
 }
