@@ -1,363 +1,104 @@
 {
-  "as_of": "2026-11-09T11:35:00Z",
+  "as_of": "2026-11-09T12:05:00Z",
   "items": [
     {
-      "id": "rss:786bcc93-916e-3975-b7c4-ff62e26158ee",
+      "id": "rss:fe374e8b-9c36-305c-ba24-270c221651f8",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia stock falls as Jensen Huang faces unexpected probe",
-      "summary": "An investigation involving the chipmaker's CEO raises leadership questions while Asian semiconductor suppliers recover.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-falls-jensen-huang-112116598.html?.tsrc=rss",
-      "time": "2026-11-09T11:21:16+00:00",
+      "title": "YieldMax\u00ae ETFs Announces Distributions on\u00a0MSST, NVIT, and TEST",
+      "summary": "CHICAGO and MILWAUKEE and NEW YORK, Nov. 09, 2026 (GLOBE NEWSWIRE) -- YieldMax\u00ae today announced distributions for the YieldMax\u00ae Performance & Distribution Target 25\u2122 ETFs listed in the table below. The Fund seeks to generate income with a 25% target annual income level. Group 3 Distribution Announcement: Ex. & Record Date: November 10, 2026Payment Date: November 12, 2026 ETF Ticker1ETF NameDistribution FrequencyDistribution per ShareDistribution Rate230-DaySEC Yield3MSSTYieldMax\u00ae MSTR Performanc",
+      "link": "https://finance.yahoo.com/markets/options/articles/yieldmax-etfs-announces-distributions-msst-115500504.html?.tsrc=rss",
+      "time": "2026-11-09T11:55:00+00:00",
       "touches": [
         "NVDA"
       ],
-      "tags": [
-        "legal",
-        "people"
-      ],
+      "tags": [],
       "new": true
     },
     {
-      "id": "rss:706961cc-7495-3093-8872-f48371cba4c8",
+      "id": "rss:af002074-30ed-3119-8db5-b39b98a919c6",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Alphabet Keeps Its Massive SpaceX Bet. Now It's Making a $548 Million Qualcomm Move",
-      "summary": "Alphabet Sells Several Stock Holdings but Holds Firm on SpaceX",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-keeps-massive-spacex-bet-111823968.html?.tsrc=rss",
-      "time": "2026-11-09T11:18:23+00:00",
+      "title": "Constellation Reports Third Quarter 2026 Results",
+      "summary": "BALTIMORE, November 09, 2026--Constellation Energy Corporation (Nasdaq: CEG) today reported its financial results for the third quarter of 2026.",
+      "link": "https://finance.yahoo.com/energy/articles/constellation-reports-third-quarter-2026-114900702.html?.tsrc=rss",
+      "time": "2026-11-09T11:49:00+00:00",
       "touches": [
         "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:de5fdc63-9bc9-3e2b-aa5d-98c118554006",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia Stock Fans Just Got Bad News From China",
-      "summary": "Jensen Huang Apologizes to Nvidia Employees as China Intelligence Allegations Surface",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-fans-just-got-111731814.html?.tsrc=rss",
-      "time": "2026-11-09T11:17:31+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:a3d97034-e55c-301b-9197-0029ba3f63b6",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia Scandal Hurdled on Pre-Bell Wall Street; Asia, Europe Up",
-      "summary": "Wall Street futures pointed moderately higher pre-bell Monday as crude prices eased, and as traders",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-scandal-hurdled-pre-bell-111038422.html?.tsrc=rss",
-      "time": "2026-11-09T11:10:38+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:e1ec29cd-1c6f-31a8-922f-ed585f35f33a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "iShares Expanded Tech Sector ETF (IGM) Sells Apple and Microsoft on Nov. 5",
-      "summary": "The $9.59 billion fund sold $152.9 million of stock, cutting 288 positions and adding none.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-expanded-tech-sector-etf-110648130.html?.tsrc=rss",
-      "time": "2026-11-09T11:06:48+00:00",
-      "touches": [
-        "MSFT",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:620b14e4-04d8-34f1-9537-0e3fc459cc22",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "State Street Comm Services SPDR (XLC) Sells Meta and Alphabet on Nov. 5",
-      "summary": "The $21.48 billion fund sold $177.4 million of stock, cutting all 22 positions and adding none.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-comm-services-spdr-110634674.html?.tsrc=rss",
-      "time": "2026-11-09T11:06:34+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:0d57815b-7f30-3c84-8024-9c4142f10e3a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "What iShares Core S&P 500 ETF (IVV) Bought: Apple Leads on Nov. 5",
-      "summary": "The fund added $220.1 million in net buys across 498 positions, with Apple's $17.5 million topping the list.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-p-500-etf-110623906.html?.tsrc=rss",
-      "time": "2026-11-09T11:06:23+00:00",
-      "touches": [
-        "GOOGL",
-        "MSFT",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:86e0c3dd-1547-39c8-ac7c-b018e341796c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "What Direxion Daily S&P 500 Bull 3X (SPXL) Sold: Apple Leads on Nov. 5",
-      "summary": "The fund sold $262.9 million on net, with Apple, Nvidia and Microsoft the largest reductions.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/direxion-daily-p-500-bull-110604580.html?.tsrc=rss",
-      "time": "2026-11-09T11:06:04+00:00",
-      "touches": [
-        "MSFT",
-        "NVDA",
-        "ORCL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:8a4123c4-72a9-31fd-b5ea-6ab3b608d300",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "State Street SPDR Portfolio S&P 500 (SPYM) Buys $23.9 Million More Apple on Nov. 5",
-      "summary": "The fund added $301.8 million in net new positions across 502 holdings, led by Apple, Nvidia and Microsoft.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-spdr-portfolio-p-110543000.html?.tsrc=rss",
-      "time": "2026-11-09T11:05:43+00:00",
-      "touches": [
-        "GOOGL",
-        "MSFT",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:2287cbf9-184d-31f1-8865-c7c799d4ad5a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "iShares Russell 1000 Growth (IWF) Buys $42.9 Million More NVIDIA on Thursday",
-      "summary": "The $114.64 billion fund added $324.6 million in new positions, led by a $42.9 million purchase of NVIDIA.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-russell-1000-growth-iwf-110538850.html?.tsrc=rss",
-      "time": "2026-11-09T11:05:38+00:00",
-      "touches": [
-        "GOOGL",
-        "MSFT",
-        "NVDA",
-        "ORCL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:cc3463f9-a557-3f3d-8f42-cf5dabb2e64d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Invesco NASDAQ 100 ETF (QQQM) Buys $38.3 Million More Apple on Nov. 5",
-      "summary": "The fund added $439.3 million across all 101 holdings, led by $38.3 million in Apple and $33.3 million in NVIDIA.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-nasdaq-100-etf-qqqm-110526325.html?.tsrc=rss",
-      "time": "2026-11-09T11:05:26+00:00",
-      "touches": [
-        "MSFT",
-        "MU",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:ab17b693-aaa2-3654-bd06-09392e83277c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "SPDR Portfolio S&P 500 Growth (SPYG) Sells $74.8 Million of NVIDIA on Nov. 5",
-      "summary": "The $51.73 billion fund sold $566.9 million of stock on Thursday, trimming all 153 positions and adding none.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spdr-portfolio-p-500-growth-110515324.html?.tsrc=rss",
-      "time": "2026-11-09T11:05:15+00:00",
-      "touches": [
-        "GOOGL",
-        "MSFT",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:797a059e-8790-3dde-bef6-55a15e5d57a0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Proshares Trust (TQQQ) Buys $83.0 Million More Apple on Thursday",
-      "summary": "The fund added $948.8 million across all 100 of its positions, led by an $83.0 million increase in Apple.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/proshares-trust-tqqq-buys-83-110500104.html?.tsrc=rss",
-      "time": "2026-11-09T11:05:00+00:00",
-      "touches": [
-        "MSFT",
-        "MU",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:8bb53891-2ba1-3c3f-9fbf-f0ec1a7adb95",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "What SPDR Dow Jones Industrial Avg ETF (DIA) Sold: Goldman Leads on Nov. 5",
-      "summary": "The fund sold $1.08 billion of stock on Thursday, cutting all 30 positions and buying nothing.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spdr-dow-jones-industrial-avg-110445805.html?.tsrc=rss",
-      "time": "2026-11-09T11:04:45+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:17e6984f-8a69-3503-a640-83f1e4f371cd",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Invesco QQQ (QQQ) Sells Apple and Nvidia on Nov. 5",
-      "summary": "The $446.09 billion fund sold $2.10 billion of stock and bought nothing, trimming all 101 positions.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-qqq-sells-apple-110438229.html?.tsrc=rss",
-      "time": "2026-11-09T11:04:38+00:00",
-      "touches": [
-        "MSFT",
-        "MU",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:9980acbf-53d5-3269-8733-b45bb0a97eb6",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "SPDR S&P 500 ETF (SPY) Sells $182.9 Million of Apple on Nov. 5",
-      "summary": "The fund sold $2.31 billion across all 503 holdings and bought nothing, trimming every position in its portfolio.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spdr-p-500-etf-spy-110431430.html?.tsrc=rss",
-      "time": "2026-11-09T11:04:31+00:00",
-      "touches": [
-        "GOOGL",
-        "MSFT",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:df5f33f9-d6bb-368f-a2c7-bdc68c08a6b0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "ETFs Are Net Sellers of Alphabet (GOOG) on Nov. 5",
-      "summary": "ETFs sold $67.7 million of Alphabet (GOOG) on Thursday, with 14 sellers against 47 buyers.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-alphabet-goog-110350264.html?.tsrc=rss",
-      "time": "2026-11-09T11:03:50+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:1ab036f8-1393-3134-b272-50923fe6cc98",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "ETFs Are Net Sellers of Alphabet (GOOGL) on Nov. 5",
-      "summary": "ETFs sold a net $106.8 million of Alphabet (GOOGL) on Thursday.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-alphabet-googl-110308088.html?.tsrc=rss",
-      "time": "2026-11-09T11:03:08+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:6cb3f71a-5de6-3fe4-a22e-9879061826f5",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "ETFs Are Net Sellers of Microsoft (MSFT) on Nov. 5",
-      "summary": "Microsoft (MSFT) drew $189.2 million in net ETF selling last Thursday.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-microsoft-msft-110243773.html?.tsrc=rss",
-      "time": "2026-11-09T11:02:43+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:09dbe87a-ee0e-374f-863a-46eee6d62396",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ORCL",
-      "title": "ETFs Are Buying Oracle (ORCL) on Thursday",
-      "summary": "ETFs bought $111.1 million of Oracle stock on Thursday.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-oracle-orcl-thursday-110052382.html?.tsrc=rss",
-      "time": "2026-11-09T11:00:52+00:00",
-      "touches": [
-        "ORCL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:30d30f19-47c1-3138-adbb-72d9e4614f1f",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XLK",
-      "title": "Stock Market News for Nov 9, 2026",
-      "summary": "Wall Street ended mixed on Friday as stronger-than-expected jobs data and mixed third-quarter earnings shaped market sentiment.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-9-100500879.html?.tsrc=rss",
-      "time": "2026-11-09T10:05:00+00:00",
-      "touches": [
-        "XLK"
       ],
       "tags": [
         "earnings"
       ],
       "new": true
-    }
-  ],
-  "atencao": [
+    },
     {
-      "id": "rss:786bcc93-916e-3975-b7c4-ff62e26158ee",
+      "id": "rss:264a44dd-6512-3993-af40-10826ab8c1b5",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "AI Chips Today - AI Tech Leaders Gather to Define Future Innovation",
+      "summary": "The 1st Annual Tennessee C-Level Technology Leadership Summit, hosted by HMG Strategy, is set to take place in Nashville on November 13. This event will convene CIOs, CISOs, CTOs, and senior technology executives from Tennessee and the surrounding regions to engage in discussions centered around artificial intelligence (AI), cybersecurity, and workforce transformation. The summit aims to foster a collaborative environment where technology leaders can share insights on how AI is redefining...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-chips-today-ai-tech-113730173.html?.tsrc=rss",
+      "time": "2026-11-09T11:37:30+00:00",
+      "touches": [
+        "MU",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:ca54e053-1075-3cb3-acf9-55fda3aba1d1",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia stock falls as Jensen Huang faces unexpected probe",
-      "summary": "An investigation involving the chipmaker's CEO raises leadership questions while Asian semiconductor suppliers recover.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-falls-jensen-huang-112116598.html?.tsrc=rss",
-      "time": "2026-11-09T11:21:16+00:00",
+      "title": "Premarket movers: Nvidia slides on Huang probe, NVR extends rally",
+      "summary": "Investing.com -- Stock futures rose early Monday as traders watched technology shares following last week\u2019s volatility, awaiting key inflation data and earnings from major AI companies. S&P 500 futures gained 0.5% and Nasdaq 100 futures rose about 0.3%. Dow Jones Industrial Average futures led, climbing 0.9%.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-nvidia-slides-huang-113609873.html?.tsrc=rss",
+      "time": "2026-11-09T11:36:09+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
-        "legal",
-        "people"
+        "earnings",
+        "legal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:085c1497-b34e-37a0-9cc4-0563035b5d60",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Google warns millions of Gmail users could face new restrictions",
+      "summary": "Google says proposed online safety requirements could extend age verification to everyday communication services.",
+      "link": "https://finance.yahoo.com/technology/articles/google-warns-millions-gmail-users-112929192.html?.tsrc=rss",
+      "time": "2026-11-09T11:29:29+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
+  "atencao": [
+    {
+      "id": "rss:ca54e053-1075-3cb3-acf9-55fda3aba1d1",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Premarket movers: Nvidia slides on Huang probe, NVR extends rally",
+      "summary": "Investing.com -- Stock futures rose early Monday as traders watched technology shares following last week\u2019s volatility, awaiting key inflation data and earnings from major AI companies. S&P 500 futures gained 0.5% and Nasdaq 100 futures rose about 0.3%. Dow Jones Industrial Average futures led, climbing 0.9%.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-nvidia-slides-huang-113609873.html?.tsrc=rss",
+      "time": "2026-11-09T11:36:09+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "earnings",
+        "legal"
       ],
       "new": true
     }
