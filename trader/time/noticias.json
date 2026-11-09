@@ -1,61 +1,95 @@
 {
-  "as_of": "2026-11-09T17:35:00Z",
+  "as_of": "2026-11-09T18:05:00Z",
   "items": [
     {
-      "id": "rss:4013010f-2025-351f-940d-dd88da810cb5",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "AI Stock Rout Called 'Unwarranted.' Why Wall Street Sees Post-Midterms Edge For Cloud Giants.",
-      "summary": "Wall Street analysts are picking winners and losers from post-midterms fallout.",
-      "link": "https://finance.yahoo.com/m/4013010f-2025-351f-940d-dd88da810cb5/ai-stock-rout-called.html?.tsrc=rss",
-      "time": "2026-11-09T17:25:08+00:00",
-      "touches": [
-        "GOOGL",
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:ce7aba63-789b-3e44-8076-1622a97829bf",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Google Makes Major New Move as Nvidia Faces New Challenge",
-      "summary": "A rapid hardware expansion could reshape the AI industry's competitive landscape.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/google-makes-major-move-nvidia-172048511.html?.tsrc=rss",
-      "time": "2026-11-09T17:20:48+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:6b0ae772-9882-30fa-8847-61798b94f000",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "AMD Stock Jumps as Google Taps Its Chips for a New AI System",
-      "summary": "Google Is Turning to AMD for AI Security, and Investors Are Taking Notice",
-      "link": "https://finance.yahoo.com/technology/ai/articles/amd-stock-jumps-google-taps-170151144.html?.tsrc=rss",
-      "time": "2026-11-09T17:01:51+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:487c513f-dedb-3203-a816-96694521116b",
+      "id": "rss:f2e80a4e-ba19-3ea4-9ece-3147e3c402e6",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Trump says Jensen Huang should stay on as Nvidia CEO: \u2018I haven\u2019t heard he\u2019s done anything wrong\u2019",
-      "summary": "The president remains firm in his belief that Huang is an \u201chonorable guy.\u201d",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/trump-says-jensen-huang-stay-170000675.html?.tsrc=rss",
-      "time": "2026-11-09T17:00:00+00:00",
+      "title": "Job Hopping Advantages, Nvidia Scandal and More of Today\u2019s Top Money News",
+      "summary": "Welcome to \"GO in the Know,\" our daily rundown of some of the top financial stories out there.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/job-hopping-advantages-nvidia-scandal-174905918.html?.tsrc=rss",
+      "time": "2026-11-09T17:49:05+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:a47a8cc7-9113-3e18-946f-13676e199774",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "AMD Stocks Jump 9.50% After Oppenheimer Upgrade Sets $600 Target",
+      "summary": "Oppenheimer moves to Outperform after a record quarter in which data center revenue nearly doubled to $8.5 billion.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/amd-stocks-jump-9-50-174557188.html?.tsrc=rss",
+      "time": "2026-11-09T17:45:57+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "analyst"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:760b919e-a204-3dc9-b28d-2db5afba163f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Nvidia Stocks Fall 4.25% as Board Opens Independent Probe Tied to CEO",
+      "summary": "Jensen Huang's memo pledges full cooperation, but the review puts key-person risk at a $4.3 trillion chipmaker into sharp focus.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-fall-4-25-174520271.html?.tsrc=rss",
+      "time": "2026-11-09T17:45:20+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "legal",
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:7656084b-d7e5-36c0-838d-cac8f7acb247",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Nvidia\u2019s Loss Is the Rest of the Stock Market\u2019s Gain",
+      "summary": "The stock market is having its best day since April, but Nvidia is down nearly 5%.",
+      "link": "https://finance.yahoo.com/m/7656084b-d7e5-36c0-838d-cac8f7acb247/nvidia%E2%80%99s-loss-is-the-rest-of.html?.tsrc=rss",
+      "time": "2026-11-09T17:44:55+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:5c9135b6-1f33-365c-b946-076f2795f90d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Don\u2019t Buy This Bounce. An Nvidia Scandal Is the Last Thing Stocks Need Now.",
+      "summary": "The market\u2019s most important stock is in trouble. Navigating around that will be tricky.",
+      "link": "https://finance.yahoo.com/m/5c9135b6-1f33-365c-b946-076f2795f90d/don%E2%80%99t-buy-this-bounce.-an.html?.tsrc=rss",
+      "time": "2026-11-09T17:41:00+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:7938804d-fd16-3464-b849-798fc924d0c3",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Inside Nvidia CEO Jensen Huang\u2019s $53 Million Property Portfolio\u2014as Board Probes Co-Founder on Affair With Suspected Chinese Spy",
+      "summary": "Nvidia's stock price has taken a hit in the wake of Huang's admission to an affair with a suspected Chinese spy.",
+      "link": "https://finance.yahoo.com/news/inside-nvidia-ceo-jensen-huang-030100548.html?.tsrc=rss",
+      "time": "2026-11-09T17:40:00+00:00",
       "touches": [
         "NVDA"
       ],
@@ -63,7 +97,108 @@
         "people"
       ],
       "new": true
+    },
+    {
+      "id": "rss:18f8b6bf-bbfc-3cbb-80c0-7d03409bb54a",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Market Chatter: Nvidia's Contact With Commerce Officials Led to Transfer of Megaspeed Probe",
+      "summary": "Nvidia's (NVDA) contact with Commerce Department officials led to the transfer of an investigation i",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-nvidia-apos-contact-173304458.html?.tsrc=rss",
+      "time": "2026-11-09T17:33:04+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "legal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:2899c275-fa38-3da1-a72c-8fb92bf7ae83",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ORCL",
+      "title": "Skydance Earnings Will Put Its Streaming Strategy to the Test",
+      "summary": "Skydance reports third-quarter earnings after the closing bell Monday, and analysts\u2019 expectations are modest.",
+      "link": "https://finance.yahoo.com/m/2899c275-fa38-3da1-a72c-8fb92bf7ae83/skydance-earnings-will-put.html?.tsrc=rss",
+      "time": "2026-11-09T17:22:00+00:00",
+      "touches": [
+        "ORCL"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:a757013d-f1ef-3159-b47e-eee8b6abe5a5",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "UNP",
+      "title": "3 Railroad Stocks to Consider From the Prospering Industry",
+      "summary": "Headwinds, including high fuel costs, tariff-related tensions and lingering supply-chain disruptions, hurt the Zacks Transportation - Railroad industry. UNP, CSX and NSC are likely to stand out.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-railroad-stocks-consider-prospering-164500797.html?.tsrc=rss",
+      "time": "2026-11-09T16:45:00+00:00",
+      "touches": [
+        "UNP"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:77657f70-12ab-34e6-97af-5948693553d3",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "The Rest of the Magnificent 7 Are Leaving Nvidia in the Dust",
+      "summary": "Wall Street may be selling Nvidia stock in the wake of the Jensen Huang affair, but investors are keeping their money in the Magnificent Seven.",
+      "link": "https://finance.yahoo.com/m/77657f70-12ab-34e6-97af-5948693553d3/the-rest-of-the-magnificent-7.html?.tsrc=rss",
+      "time": "2026-11-09T16:14:40+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
     }
   ],
-  "atencao": []
+  "atencao": [
+    {
+      "id": "rss:760b919e-a204-3dc9-b28d-2db5afba163f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Nvidia Stocks Fall 4.25% as Board Opens Independent Probe Tied to CEO",
+      "summary": "Jensen Huang's memo pledges full cooperation, but the review puts key-person risk at a $4.3 trillion chipmaker into sharp focus.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stocks-fall-4-25-174520271.html?.tsrc=rss",
+      "time": "2026-11-09T17:45:20+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "legal",
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:18f8b6bf-bbfc-3cbb-80c0-7d03409bb54a",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Market Chatter: Nvidia's Contact With Commerce Officials Led to Transfer of Megaspeed Probe",
+      "summary": "Nvidia's (NVDA) contact with Commerce Department officials led to the transfer of an investigation i",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-nvidia-apos-contact-173304458.html?.tsrc=rss",
+      "time": "2026-11-09T17:33:04+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "legal"
+      ],
+      "new": true
+    }
+  ]
 }
