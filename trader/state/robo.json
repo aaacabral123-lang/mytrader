@@ -1,11 +1,19 @@
 {
   "cash": 411.48,
-  "pending": [],
+  "pending": [
+    {
+      "id": "ca42b1d4-6c57-4b9f-afe6-be74309ec17f",
+      "symbol": "NVDA",
+      "side": "sell",
+      "why": "stop: NVDA is $174.41 is at or below your stop $176.64 (rob\u00f4: -15% do pre\u00e7o m\u00e9dio)."
+    }
+  ],
   "strategy": "screener",
-  "last_screen": "2026-11-06",
-  "last_report": "2026-11-06",
+  "last_screen": "2026-11-09",
+  "last_report": "2026-11-09",
   "cooldown": {
-    "MU": "2026-12-02"
+    "MU": "2026-12-02",
+    "NVDA": "2026-12-09"
   },
   "fills": [
     {
@@ -443,88 +451,88 @@
     },
     "signals": {
       "SPY": {
-        "price": 737.46,
-        "rsi2": 30.05,
-        "sma_exit": 748.81,
-        "sma_trend": 727.62
+        "price": 743.76,
+        "rsi2": 56.02,
+        "sma_exit": 746.74,
+        "sma_trend": 727.91
       },
       "QQQ": {
-        "price": 658.58,
-        "rsi2": 35.27,
-        "sma_exit": 672.97,
-        "sma_trend": 679.77
+        "price": 666.16,
+        "rsi2": 56.37,
+        "sma_exit": 669.5,
+        "sma_trend": 679.99
       },
       "IWM": {
-        "price": 274.42,
-        "rsi2": 40.9,
-        "sma_exit": 277.68,
-        "sma_trend": 278.01
+        "price": 277.69,
+        "rsi2": 64.33,
+        "sma_exit": 277.21,
+        "sma_trend": 278.08
       },
       "DIA": {
-        "price": 513.21,
-        "rsi2": 27.29,
-        "sma_exit": 519.42,
-        "sma_trend": 504.11
+        "price": 518.22,
+        "rsi2": 57.23,
+        "sma_exit": 519.01,
+        "sma_trend": 504.27
       },
       "XLK": {
-        "price": 165.34,
-        "rsi2": 29.44,
-        "sma_exit": 171.0,
-        "sma_trend": 169.91
+        "price": 166.59,
+        "rsi2": 44.9,
+        "sma_exit": 169.36,
+        "sma_trend": 170.02
       },
       "XLF": {
-        "price": 57.3,
-        "rsi2": 34.18,
-        "sma_exit": 57.74,
-        "sma_trend": 53.52
+        "price": 57.41,
+        "rsi2": 46.28,
+        "sma_exit": 57.69,
+        "sma_trend": 53.54
       },
       "XLE": {
-        "price": 61.85,
-        "rsi2": 9.6,
-        "sma_exit": 64.21,
-        "sma_trend": 58.58
+        "price": 61.23,
+        "rsi2": 1.69,
+        "sma_exit": 62.96,
+        "sma_trend": 58.64
       },
       "XLV": {
-        "price": 184.75,
-        "rsi2": 36.14,
-        "sma_exit": 185.62,
-        "sma_trend": 158.44
+        "price": 185.86,
+        "rsi2": 57.92,
+        "sma_exit": 185.87,
+        "sma_trend": 158.59
       },
       "XLY": {
-        "price": 118.04,
-        "rsi2": 42.63,
-        "sma_exit": 118.7,
-        "sma_trend": 115.1
+        "price": 120.86,
+        "rsi2": 75.98,
+        "sma_exit": 119.14,
+        "sma_trend": 115.09
       },
       "XLP": {
-        "price": 90.1,
-        "rsi2": 33.73,
-        "sma_exit": 90.63,
-        "sma_trend": 83.82
+        "price": 90.08,
+        "rsi2": 33.48,
+        "sma_exit": 90.48,
+        "sma_trend": 83.87
       },
       "XLI": {
-        "price": 163.16,
-        "rsi2": 20.72,
-        "sma_exit": 167.23,
-        "sma_trend": 172.65
+        "price": 165.9,
+        "rsi2": 63.47,
+        "sma_exit": 166.37,
+        "sma_trend": 172.66
       },
       "XLU": {
-        "price": 43.28,
-        "rsi2": 27.19,
-        "sma_exit": 43.47,
-        "sma_trend": 43.83
+        "price": 43.2,
+        "rsi2": 35.76,
+        "sma_exit": 43.34,
+        "sma_trend": 43.84
       },
       "XLB": {
-        "price": 52.13,
-        "rsi2": 26.49,
-        "sma_exit": 52.92,
-        "sma_trend": 50.84
+        "price": 52.64,
+        "rsi2": 57.78,
+        "sma_exit": 52.68,
+        "sma_trend": 50.86
       },
       "SMH": {
-        "price": 464.88,
-        "rsi2": 36.5,
-        "sma_exit": 488.44,
-        "sma_trend": 521.69
+        "price": 469.21,
+        "rsi2": 46.16,
+        "sma_exit": 480.43,
+        "sma_trend": 522.03
       }
     }
   },

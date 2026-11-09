@@ -369,6 +369,16 @@
       "id": "b7e7ba21-0e45-4d2c-ade4-1ecfcd5b98ff",
       "approved_by": "robo (automatic, paper)",
       "why": "drifted -12.9 points from its 12.9% target (band 2)"
+    },
+    {
+      "date": "2026-11-09",
+      "at": "2026-11-09T14:35:09Z",
+      "status": "placed",
+      "symbol": "NVDA",
+      "side": "sell",
+      "id": "ca42b1d4-6c57-4b9f-afe6-be74309ec17f",
+      "approved_by": "robo (automatic, paper)",
+      "why": "stop: NVDA is $174.41 is at or below your stop $176.64 (rob\u00f4: -15% do pre\u00e7o m\u00e9dio)."
     }
   ]
 }

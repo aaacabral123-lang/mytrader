@@ -1,35 +1,24 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-09",
   "paper": true,
   "results": [
     {
       "index": 1,
-      "symbol": "BLK",
+      "symbol": "NVDA",
       "side": "sell",
-      "amount": "0.424786446 shares",
-      "value_usd": 525.32,
-      "fingerprint": "dc53800c56ab8d45",
-      "verdict": "PASS",
-      "reasons": [],
-      "warnings": []
-    },
-    {
-      "index": 2,
-      "symbol": "REGN",
-      "side": "buy",
-      "amount": "$500",
-      "value_usd": 500.0,
-      "fingerprint": "53759a27d0d4e27f",
+      "amount": "2.381935421 shares",
+      "value_usd": 415.23,
+      "fingerprint": "47bc7df1179e300e",
       "verdict": "PASS",
       "reasons": [],
       "warnings": []
     }
   ],
-  "pass": 2,
+  "pass": 1,
   "block": 0,
   "warnings": [],
-  "cash_after": 411.81,
-  "prices_as_of": "2026-11-05T14:35:38Z",
-  "checked_at": "2026-11-05T14:35:52",
+  "cash_after": 826.71,
+  "prices_as_of": "2026-11-09T14:35:30Z",
+  "checked_at": "2026-11-09T14:35:39",
   "orders_file": "trader/orders.json"
 }
