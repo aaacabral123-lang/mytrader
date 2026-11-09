@@ -1,21 +1,43 @@
 {
-  "as_of": "2026-11-09T03:35:00Z",
+  "as_of": "2026-11-09T04:05:00Z",
   "items": [
     {
-      "id": "rss:631692a0-738b-3a70-80e3-bb09a9192a2d",
+      "id": "rss:151a2b09-40f3-30e6-aed9-2d2bada45b6f",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Top 3 Undervalued Stocks To Watch In November 2026",
-      "summary": "Wall Street\u2019s recent focus on rising U.S. debt costs and higher Treasury yields has pushed many investors toward quick trades and away from slower burning opportunities. That shift can leave solid cash generators mispriced when discounted cash flow models suggest a higher underlying worth. For anyone who cares about buying cash today at a markdown, this article highlights three stocks that screen as meaningfully cheap on their future cash streams. The three ideas in this piece are just a...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-undervalued-stocks-watch-031414693.html?.tsrc=rss",
-      "time": "2026-11-09T03:14:14+00:00",
+      "title": "Nvidia CEO's Affair Engulfs AI Giant in Spying Probe",
+      "summary": "Nvidia Chief Executive Officer Jensen Huang admitted to having an affair with a woman suspected of being a Chinese spy, prompting the Nvidia board to launch an investigation. Bloomberg's Minmin Low breaks down the news and shares what Huang previously told Bloomberg about the company's succession plans.",
+      "link": "https://finance.yahoo.com/video/nvidia-ceos-affair-engulfs-ai-032622287.html?.tsrc=rss",
+      "time": "2026-11-09T03:26:22+00:00",
       "touches": [
         "NVDA"
       ],
-      "tags": [],
+      "tags": [
+        "legal",
+        "people"
+      ],
       "new": true
     }
   ],
-  "atencao": []
+  "atencao": [
+    {
+      "id": "rss:151a2b09-40f3-30e6-aed9-2d2bada45b6f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Nvidia CEO's Affair Engulfs AI Giant in Spying Probe",
+      "summary": "Nvidia Chief Executive Officer Jensen Huang admitted to having an affair with a woman suspected of being a Chinese spy, prompting the Nvidia board to launch an investigation. Bloomberg's Minmin Low breaks down the news and shares what Huang previously told Bloomberg about the company's succession plans.",
+      "link": "https://finance.yahoo.com/video/nvidia-ceos-affair-engulfs-ai-032622287.html?.tsrc=rss",
+      "time": "2026-11-09T03:26:22+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "legal",
+        "people"
+      ],
+      "new": true
+    }
+  ]
 }
