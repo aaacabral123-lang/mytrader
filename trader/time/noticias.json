@@ -1,15 +1,15 @@
 {
-  "as_of": "2026-11-09T23:05:00Z",
+  "as_of": "2026-11-09T23:35:00Z",
   "items": [
     {
-      "id": "rss:f8ca29b1-ab5e-3425-a0f6-73b0c2541b21",
+      "id": "rss:db2f6d95-b7a5-3274-8193-c767d2b681c1",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia is about 6% of the S&P 500. If Jensen Huang is ousted, there\u2019s no clear successor \u2014 could chaos hit portfolios?",
-      "summary": "An Nvidia leadership shake-up could send shockwaves through the market \u2014 and analysts are looking ahead to glean how much investor portfolios could be at risk.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-6-p-500-jensen-230000817.html?.tsrc=rss",
-      "time": "2026-11-09T23:00:00+00:00",
+      "title": "Dow Jones Soars 1,132 Points As Amazon, Tesla Rally, But Nvidia Dives; CPI Inflation Report Next",
+      "summary": "Dow Jones futures were in focus after soaring 1,132 points ahead of the CPI inflation report. Amazon and Tesla rallied, but Nvidia dived.",
+      "link": "https://finance.yahoo.com/m/db2f6d95-b7a5-3274-8193-c767d2b681c1/dow-jones-soars-1%2C132-points.html?.tsrc=rss",
+      "time": "2026-11-09T23:27:00+00:00",
       "touches": [
         "NVDA"
       ],
@@ -17,55 +17,39 @@
       "new": true
     },
     {
-      "id": "rss:e897043d-6d5d-3ba9-beca-701581ae3f54",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "The race is on to sue Nvidia",
-      "summary": "Nvidia\u2019s stock slid more than 4% after its board opened an investigation into Jensen Huang\u2019s relationship with a suspected Chinese spy, and one securities law expert says the company\u2019s earlier insistence that it was all \u201cnormal\u201d could turn into a very expensive problem.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/race-sue-nvidia-222342148.html?.tsrc=rss",
-      "time": "2026-11-09T22:23:42+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "legal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:f199ef30-e7f6-3cf2-aeb5-2a1564162340",
+      "id": "rss:ebdb5691-7625-34c1-a45f-3eddc48b4a26",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Berkshire Hathaway May Have Sold More Bank of America Stock in the Third Quarter",
-      "summary": "Berkshire\u2019s quarterly filing offers clues to possible Bank of America sales and additional Alphabet purchases ahead of its portfolio disclosure.",
-      "link": "https://finance.yahoo.com/m/f199ef30-e7f6-3cf2-aeb5-2a1564162340/berkshire-hathaway-may-have.html?.tsrc=rss",
-      "time": "2026-11-09T21:54:00+00:00",
+      "title": "Fervo Energy Co (FRVO) (Q3 2026) Earnings Call Highlights: First Geoblock Online, Google PPA ...",
+      "summary": "Fervo Energy Co (FRVO) delivered 33 MW at Cape Station ahead of schedule, locked in a 15-year Google PPA and grew its contracted backlog to 1,054 MW, even as it posted a $43.7 million operating loss.",
+      "link": "https://finance.yahoo.com/energy/articles/fervo-energy-co-frvo-q3-230444854.html?.tsrc=rss",
+      "time": "2026-11-09T23:04:44+00:00",
       "touches": [
         "GOOGL"
       ],
-      "tags": [],
+      "tags": [
+        "earnings"
+      ],
       "new": true
-    }
-  ],
-  "atencao": [
+    },
     {
-      "id": "rss:e897043d-6d5d-3ba9-beca-701581ae3f54",
+      "id": "rss:f1dde474-3561-3fdf-a6d4-d8843eaf88f4",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "The race is on to sue Nvidia",
-      "summary": "Nvidia\u2019s stock slid more than 4% after its board opened an investigation into Jensen Huang\u2019s relationship with a suspected Chinese spy, and one securities law expert says the company\u2019s earlier insistence that it was all \u201cnormal\u201d could turn into a very expensive problem.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/race-sue-nvidia-222342148.html?.tsrc=rss",
-      "time": "2026-11-09T22:23:42+00:00",
+      "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "link": "https://finance.yahoo.com/technology/articles/short-seller-flagged-nvidia-ceo-224609300.html?.tsrc=rss",
+      "time": "2026-11-09T22:46:09+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
-        "legal"
+        "people"
       ],
       "new": true
     }
-  ]
+  ],
+  "atencao": []
 }
