@@ -1,77 +1,55 @@
 {
-  "as_of": "2026-11-09T04:35:00Z",
+  "as_of": "2026-11-09T05:05:00Z",
   "items": [
     {
-      "id": "rss:90e1d1ea-78dd-3c76-88b9-d0c69658f6fd",
+      "id": "rss:c3368407-8693-3ed5-a0c2-59399a03bfe0",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Asia stocks roar back as Taiwan jumps 6%, Nvidia probe rattles AI trade",
-      "summary": "Investing.com -- Asian stocks rallied on Monday, following a recovery on Wall Street, although concerns over an investigation involving Nvidia CEO Jensen Huang tempered gains as investors reassessed the outlook for the artificial intelligence trade.",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-roar-back-taiwan-042552045.html?.tsrc=rss",
-      "time": "2026-11-09T04:25:52+00:00",
+      "title": "NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With NVIDIA NVLink Fusion",
+      "summary": "Korean-Designed AI Processors and Models to Build on NVIDIA NVLink Fusion and MGX Infrastructure for Rack-Scale Inference NVIDIA NVLink Fusion NVIDIA, Rebellions and SK Telecom today announced a collaboration to advance Korea\u2019s sovereign AI infrastructure \u2014 using NVIDIA NVLink Fusion to bring together NVIDIA\u2019s open infrastructure platform, Rebellions\u2019 Korean-designed AI processors and SK Telecom\u2019s AI data center, model and service capabilities. News Summary: Rebellions plans to adopt NVIDIA NVLi",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-rebellions-sk-telecom-announce-050000656.html?.tsrc=rss",
+      "time": "2026-11-09T05:00:00+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:66154c5d-14e2-3455-8f9b-073b8f632bd0",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Trump calls Nvidia\u2019s Huang \u2018honorable,\u2019 says yet to discuss China allegations",
+      "summary": "Investing.com-- U.S. President Donald Trump on Sunday evening praised Nvidia\u2019s Jensen Huang for his contributions to the country, and said he had not spoken to the CEO regarding allegations of a relationship with a suspected Chinese spy.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trump-calls-nvidia-huang-honorable-044451272.html?.tsrc=rss",
+      "time": "2026-11-09T04:44:51+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
-        "legal",
         "people"
       ],
       "new": true
     },
     {
-      "id": "rss:ceea6d1c-101f-3b7a-85c7-491a63a6529e",
+      "id": "rss:16829f81-5314-3f15-8cda-f75d0e5ed92a",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Expert: Nvidia Probe Could Weaken China Leverage",
-      "summary": "Mehran Gul, author of \"The New Geography of Innovation,\" says the investigation into Nvidia's Jensen Huang could diminish his leverage with the US government over China. He speaks on \"Bloomberg: The China Show.\"",
-      "link": "https://finance.yahoo.com/video/expert-nvidia-probe-could-weaken-035548726.html?.tsrc=rss",
-      "time": "2026-11-09T03:55:48+00:00",
+      "ticker": "MU",
+      "title": "Micron Technology And 2 High Growth Stocks To Watch",
+      "summary": "Rising concern about US government debt and higher Treasury yields has pushed many investors to rethink where they want growth exposure. Strong balance sheets and solid earnings momentum can feel more attractive when borrowing costs are in focus and market swings are sharper. This article highlights three financially healthy companies identified by analysts as having the potential for rapid profit growth over the next few years, drawn from a screener built around that idea. The three stocks...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-2-high-growth-042757242.html?.tsrc=rss",
+      "time": "2026-11-09T04:27:57+00:00",
       "touches": [
-        "NVDA"
+        "MU"
       ],
       "tags": [
-        "legal"
+        "earnings"
       ],
       "new": true
     }
   ],
-  "atencao": [
-    {
-      "id": "rss:90e1d1ea-78dd-3c76-88b9-d0c69658f6fd",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Asia stocks roar back as Taiwan jumps 6%, Nvidia probe rattles AI trade",
-      "summary": "Investing.com -- Asian stocks rallied on Monday, following a recovery on Wall Street, although concerns over an investigation involving Nvidia CEO Jensen Huang tempered gains as investors reassessed the outlook for the artificial intelligence trade.",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-roar-back-taiwan-042552045.html?.tsrc=rss",
-      "time": "2026-11-09T04:25:52+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "legal",
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:ceea6d1c-101f-3b7a-85c7-491a63a6529e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Expert: Nvidia Probe Could Weaken China Leverage",
-      "summary": "Mehran Gul, author of \"The New Geography of Innovation,\" says the investigation into Nvidia's Jensen Huang could diminish his leverage with the US government over China. He speaks on \"Bloomberg: The China Show.\"",
-      "link": "https://finance.yahoo.com/video/expert-nvidia-probe-could-weaken-035548726.html?.tsrc=rss",
-      "time": "2026-11-09T03:55:48+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "legal"
-      ],
-      "new": true
-    }
-  ]
+  "atencao": []
 }
