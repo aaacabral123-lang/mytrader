@@ -1,32 +1,45 @@
 {
-  "as_of": "2026-11-09T20:35:00Z",
+  "as_of": "2026-11-09T21:05:00Z",
   "items": [
     {
-      "id": "rss:b5c14954-9eab-4d39-8528-5d61c86bde24",
+      "id": "rss:d2453a4e-a683-37e8-916e-67c2698014db",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia CEO Jensen Huang's affair with a reported Chinese spy damages this key investing factor",
-      "summary": "It will take a while for Nvidia CEO Jensen Huang to earn back trust.",
-      "link": "https://finance.yahoo.com/technology/article/nvidia-ceo-jensen-huangs-affair-with-a-reported-chinese-spy-damages-this-key-investing-factor-201922852.html?.tsrc=rss",
-      "time": "2026-11-09T20:19:22+00:00",
+      "ticker": "XLE",
+      "title": "Sector Update: Energy Stocks Advance Late Afternoon",
+      "summary": "Energy stocks were higher late Monday afternoon, with the NYSE Energy Sector Index up 0.2% and the S",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-afternoon-205549123.html?.tsrc=rss",
+      "time": "2026-11-09T20:55:49+00:00",
       "touches": [
-        "NVDA"
+        "XLE"
       ],
-      "tags": [
-        "people"
-      ],
+      "tags": [],
       "new": true
     },
     {
-      "id": "rss:275402cf-4175-3d38-bebb-e3114fe968bf",
+      "id": "rss:5f976bf7-86c5-37b1-b149-c2375050a877",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ORCL",
+      "title": "AI Capacity Risks Following Democrats' Win Overblown, UBS Says",
+      "summary": "Risks around artificial intelligence data center capacity expansion have increased following the Dem",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-capacity-risks-following-democrats-202858079.html?.tsrc=rss",
+      "time": "2026-11-09T20:28:58+00:00",
+      "touches": [
+        "ORCL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:753fc568-798c-34eb-8543-04210de60f3a",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "3 Australian Small Cap Stocks With Revenue Growth Over 8%",
-      "summary": "AI heavyweights like Nvidia are back in the spotlight after recent volatility in AI related stocks, reminding investors how quickly sentiment can swing when everyone crowds into the same few global giants. Australian small caps with solid balance sheets and resilient business models are not getting that attention. That gap creates room for patient buyers. This article walks through three under the radar local stocks that have been filtered for quality from this high conviction list. The three...",
-      "link": "https://finance.yahoo.com/small-business/articles/3-australian-small-cap-stocks-200902759.html?.tsrc=rss",
-      "time": "2026-11-09T20:09:02+00:00",
+      "title": "Jensen Huang\u2019s image has been shattered. Could he be pushed out at Nvidia?",
+      "summary": "Huang built Nvidia as a family business but after the co-founder had an affair with an alleged Chinese spy, its board faces a difficult decision",
+      "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-image-shattered-could-202707202.html?.tsrc=rss",
+      "time": "2026-11-09T20:27:07+00:00",
       "touches": [
         "NVDA"
       ],
@@ -34,30 +47,14 @@
       "new": true
     },
     {
-      "id": "rss:0e10b80c-0141-37a4-8df2-983e89c3dfe9",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Adobe (ADBE) Expands AI Reach, Is The 25% Discount Too Wide?",
-      "summary": "Adobe (ADBE) has pushed its CX Enterprise Coworker deeper into mainstream AI platforms, making the customer experience tool accessible inside ChatGPT, Claude, Gemini for business, Microsoft Copilot and Databricks Genie for marketing teams. Despite a steady drumbeat of AI and product headlines, Adobe\u2019s recent trading tells a different story. The share price stands at US$239.30, with a year-to-date share price return down 28.2% and a 3-year total shareholder return down 59.5%. This points to...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-expands-ai-reach-200712841.html?.tsrc=rss",
-      "time": "2026-11-09T20:07:12+00:00",
-      "touches": [
-        "ADBE",
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:b09fba7c-33bf-3a62-a8b0-511f72ab3c8c",
+      "id": "rss:657a7da1-b772-30ad-baed-93e40965c145",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Hegseth Has Been 'Disaster' as Secretary of Defense, Says Rep. Stanton",
-      "summary": "Democrat Representative from Arizona Greg Stanton said that he will vote yes to impeach Secretary of Defense Pete Hegseth and described the secretary's tenure as 'a disaster.' Stanton said that while Democrats are looking to lower costs for the American people, the  party also promised midterm voters to 'reestablish checks and balances' in government and this impeachment is in line with that plan. Stanton, who sits on the House China Select Committee, also discussed probes in Nvidia CEO Jensen Huang and said that lawmakers need a classified briefing as soon as possible about what the intelligence community knows about the Huang's affair with an alleged Chinese spy.",
-      "link": "https://finance.yahoo.com/video/hegseth-disaster-secretary-defense-says-193019004.html?.tsrc=rss",
-      "time": "2026-11-09T19:30:19+00:00",
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-pulls-elevenlabs-summit-200906957.html?.tsrc=rss",
+      "time": "2026-11-09T20:09:06+00:00",
       "touches": [
         "NVDA"
       ],
