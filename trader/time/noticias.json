@@ -1,15 +1,30 @@
 {
-  "as_of": "2026-11-09T19:35:00Z",
+  "as_of": "2026-11-09T20:05:00Z",
   "items": [
     {
-      "id": "rss:d8569aae-2d5d-3e7e-84aa-eaa29f9f5bbb",
+      "id": "rss:96e7ef47-873c-3a35-b7ab-224f654ac5f6",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Wall Street rallies by $1tn even as Bailey warns AI may not pay off",
+      "summary": "Wall Street gained $1tn (\u00a3740bn) on Monday after shrugging off fears of an AI bubble and a national security scandal at Nvidia.",
+      "link": "https://uk.finance.yahoo.com/news/wall-street-rallies-1tn-even-194911782.html?.tsrc=rss",
+      "time": "2026-11-09T19:49:11+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:616785db-f5ed-3019-8fa4-02cecb826114",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "ARK Invest Dumps These Shares While They're Hot, Buys Chips The Size Of Your Face",
-      "summary": "Cathie Wood's ARK Invest bought and sold medtech shares Friday. She also bought shares of an unconventional AI chipmaker \u2014 an unpopular one at that.",
-      "link": "https://finance.yahoo.com/m/d8569aae-2d5d-3e7e-84aa-eaa29f9f5bbb/ark-invest-dumps-these-shares.html?.tsrc=rss",
-      "time": "2026-11-09T19:29:22+00:00",
+      "title": "Reindeer Launches on Google Cloud Marketplace, Expanding Collaboration with Google Cloud to Help Enterprises Move Agentic AI into Core Operations",
+      "summary": "Reindeer, an enterprise agentic AI company that builds and runs AI agents for complex core operations, today announced an expanded collaboration with Google Cloud. Reindeer has graduated from the Google Cloud ISV Startup Springboard program, and its platform is now available on Google Cloud Marketplace. Large enterprises now have a direct path to put Reindeer agents enabled by Google's Gemini models to work on the Google Cloud infrastructure they already run.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/reindeer-launches-google-cloud-marketplace-194200052.html?.tsrc=rss",
+      "time": "2026-11-09T19:42:00+00:00",
       "touches": [
         "GOOGL"
       ],
@@ -17,138 +32,22 @@
       "new": true
     },
     {
-      "id": "rss:a6a1401d-30af-4729-bd19-b04b239cdf2e",
+      "id": "rss:e0d663df-5ca8-3438-bf12-79a06dce7d6e",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "A closer look at a firm tied to Nvidia\u2019s chip scandal: Megaspeed",
-      "summary": "In the Loop host Ejaaz Ahamadeen breaks down how Megaspeed and a web of satellite firms in Malaysia and Singapore allegedly obtained Nvidia (NVDA) chips and may have leased the compute to China.",
-      "link": "https://finance.yahoo.com/video/a-closer-look-at-a-firm-tied-to-nvidias-chip-scandal-megaspeed-192158390.html?.tsrc=rss",
-      "time": "2026-11-09T19:21:58+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:b34255cd-b9b4-328b-9880-79c837f36734",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ORCL",
-      "title": "Credo Technology Group Holding (CRDO) Helped Set New AI Network Standards, Is The 44% Undervaluation Real?",
-      "summary": "Credo Technology Group Holding (CRDO) has contributed to the delivery of two new Open Compute Project optical telemetry standards, created with Oracle and industry partners. These standards aim to support more reliable AI data center networks by enabling richer link monitoring. For investors watching Credo Technology Group Holding, the approval of these Open Compute Project standards lands after a sharp reset in sentiment. The share price has risen 7.3% over the last day but is still down...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-group-holding-crdo-191342028.html?.tsrc=rss",
-      "time": "2026-11-09T19:13:42+00:00",
-      "touches": [
-        "ORCL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:3ceb82fa-9c27-35f0-b5d5-2d4772840522",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Top Midday Decliners",
-      "summary": "Faeth Therapeutics' (FTH) topline clinical results from a phase 2 trial of Piktor plus paclitaxel in",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-decliners-185532298.html?.tsrc=rss",
-      "time": "2026-11-09T18:55:32+00:00",
+      "title": "What we know \u2014 and what we don't \u2014 as Nvidia investigates an alleged spy plot involving its CEO",
+      "summary": "Stunning allegations of a spy plot have prompted Nvidia to investigate whether its founder and CEO, Jensen Huang, was the target of a \u201cforeign intelligence effort.\"Huang on Sunday admitted to having an extramarital affair, and acknowledged that news reports surrounding the relationship and potential national security concerns led Nvidia's board to investigate.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/know-dont-nvidia-investigates-alleged-193242398.html?.tsrc=rss",
+      "time": "2026-11-09T19:32:42+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:6de98964-1c79-3f0a-b8cc-b8841217045f",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Wall Street names 3 AI winners, but there's a catch",
-      "summary": "An Oppenheimer survey of 449 IT buyers identified Microsoft, Oracle and SAP as companies positioned to benefit from enterprise AI adoption.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/wall-street-names-3-ai-185527055.html?.tsrc=rss",
-      "time": "2026-11-09T18:55:27+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:0c14eeac-1952-331b-bcdd-7f69cf1d20c7",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Update: Equities Rally, Oil Drops Intraday; Nvidia Slumps Amid CEO Probe",
-      "summary": "(Updates with latest market prices and developments.) US benchmark equity indexes were higher int",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rally-oil-drops-intraday-185507615.html?.tsrc=rss",
-      "time": "2026-11-09T18:55:07+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "legal",
         "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:3ce1eab9-d12e-35e5-8620-085e7fe5c288",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "WULF Q3 Earnings Call Highlights AI Expansion and Funding Plans",
-      "summary": "TeraWulf targets $700M in annualized lease revenue by Q1 2027, backed by AI infrastructure expansion, Google's credit support and disciplined funding plans.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/wulf-q3-earnings-call-highlights-180800240.html?.tsrc=rss",
-      "time": "2026-11-09T18:08:00+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:f4de2e19-4cd1-3daa-b6c5-a9b556f4c9ad",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Fox Looks to Sell $8 Billion of High-Grade Bonds for Roku Deal",
-      "summary": "Fox Corp. is looking to raise around $8 billion from an investment-grade bond sale to help fund its acquisition of Roku Inc.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fox-looks-sell-8-billion-171553501.html?.tsrc=rss",
-      "time": "2026-11-09T17:15:53+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [
-        "deal"
       ],
       "new": true
     }
   ],
-  "atencao": [
-    {
-      "id": "rss:0c14eeac-1952-331b-bcdd-7f69cf1d20c7",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Update: Equities Rally, Oil Drops Intraday; Nvidia Slumps Amid CEO Probe",
-      "summary": "(Updates with latest market prices and developments.) US benchmark equity indexes were higher int",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equities-rally-oil-drops-intraday-185507615.html?.tsrc=rss",
-      "time": "2026-11-09T18:55:07+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "legal",
-        "people"
-      ],
-      "new": true
-    }
-  ]
+  "atencao": []
 }
