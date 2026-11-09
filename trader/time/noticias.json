@@ -1,181 +1,38 @@
 {
-  "as_of": "2026-11-09T21:35:00Z",
+  "as_of": "2026-11-09T22:05:00Z",
   "items": [
     {
-      "id": "rss:3108035e-b5c7-40c4-959b-9667864193f3",
+      "id": "rss:bf0a8ea2-c42a-42b6-95ee-fe6e9e346b3d",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Jensen Huang's stance against cutting China off from US chips holds a lot less weight",
-      "summary": "Nvidia (NVDA) stock is under fire over CEO Jensen Huang's acknowledged affair with Alice Huang, who is suspected of being a spy for Chinese intelligence. The company's board is launching a probe into the affair.Deirdre Bosa takes a closer look in the video above.",
-      "link": "https://finance.yahoo.com/video/jensen-huangs-stance-against-cutting-china-off-from-us-chips-holds-a-lot-less-weight-213031755.html?.tsrc=rss",
-      "time": "2026-11-09T21:30:31+00:00",
+      "title": "Nvidia's Jensen Huang scandal raises questions for AI leaders",
+      "summary": "Deirdre Bosa Live host Deirdre Bosa examines the developing controversy surrounding Nvidia (NVDA) CEO Jensen Huang amid allegations involving a woman suspected of passing information to Beijing. Bosa is joined by Sierra CEO and co-founder and OpenAI Chairman Bret Taylor, alongside Sierra co-founder Clay Bavor, to discuss the potential fallout for Nvidia, the importance of trust in AI leadership, and what the controversy could mean for the broader AI ecosystem.",
+      "link": "https://finance.yahoo.com/video/nvidias-jensen-huang-scandal-raises-questions-for-ai-leaders-215445805.html?.tsrc=rss",
+      "time": "2026-11-09T21:54:45+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
-        "legal",
         "people"
       ],
       "new": true
     },
     {
-      "id": "rss:33625363-22af-3c89-976a-14ad7d400526",
+      "id": "rss:1c27d9a4-92f4-3cc2-a5bc-721d899f1149",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "How major US stock indexes fared Monday 11/9/2026",
-      "summary": "stock market rallied to its best day since April and clawed back more of its big loss from last week as oil prices swing lower.3% Monday, its second straight gain following a wipeout on worries that Democratic victories in the midterm elections could mean a slowdown in the construction of AI data centers.",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-212258454.html?.tsrc=rss",
-      "time": "2026-11-09T21:22:58+00:00",
+      "title": "Update: Wall Street Rebounds From Last Week's Sell-Off; Nvidia Tumbles",
+      "summary": "(Updates with market moves at the end of the day, and other changes, if any.) US benchmark equity",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-rebounds-last-week-215121889.html?.tsrc=rss",
+      "time": "2026-11-09T21:51:21+00:00",
       "touches": [
         "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:09ad4ee7-69eb-3f87-94e4-be5e41741a89",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "US Equity Markets End Higher as Oil Drops; Industrials, Consumer Discretionary Lead Gains",
-      "summary": "US equity indexes ended higher Monday as crude oil prices fell, with industrials and consumer discre",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-211754273.html?.tsrc=rss",
-      "time": "2026-11-09T21:17:54+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:904a2543-d036-3e11-8b8e-b2a3842e35c6",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia Stock\u2019s (NVDA) Sell-Off Looks Overdone Ahead of Q3",
-      "summary": "Nvidia (NVDA) stock\u2019s sell-off looks overdone to me, ahead of Q3 earnings. The artificial intelligence (AI) computing giant remains about 22% below its 52-week high after Friday\u2019s premarket rebound. Yet CEO Jensen Huang reminded us just two weeks ago that \u201cDemand is extraordinary. Capacity is the constraint.\u201d That hardly describes a business losing any momentum. I believe political uncertainty deserves attention, but recent deployments suggest the global buildout continues. With Fiscal 2028 earn",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-nvda-sell-off-211700494.html?.tsrc=rss",
-      "time": "2026-11-09T21:17:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "earnings",
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:cc5e8ba5-2cae-3072-b897-de4b392771b4",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "How Investors May Respond To Adobe (ADBE) Disney AI Partnership",
-      "summary": "Adobe announced that its CX Enterprise Coworker is now embedded in major AI platforms and expanded through new MCP-based connectors, while also entering a multi year alliance with Disney to co develop generative AI models using Adobe Firefly and Firefly Foundry across Disney\u2019s media and experiences businesses. The combination of AI distribution through platforms like ChatGPT and Gemini, together with deep integration into Disney\u2019s creative pipeline, points to Adobe pushing its customer...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/investors-may-respond-adobe-adbe-210957988.html?.tsrc=rss",
-      "time": "2026-11-09T21:09:57+00:00",
-      "touches": [
-        "ADBE"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:3d8db8b1-3750-3087-9192-47ccc3eed61d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Analyzing AMD as a near-term beneficiary of Nvidia\u2019s leadership uncertainty",
-      "summary": "Investing.com -- The tape suggests investors are already treating Advanced Micro Devices (AMD) as a relative winner. It trades at $513.73 (+14.41%) as of Nov 9, 3:38 PM EST. NVIDIA (NVDA) is at $177.20 (-5.06%) at the same time. That\u2019s a roughly 19-point gap in one session. AMD is also up about 134% YTD but down 15.6% over the past month, so it isn\u2019t a clean one-way run.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/analyzing-amd-near-term-beneficiary-210952293.html?.tsrc=rss",
-      "time": "2026-11-09T21:09:52+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:1558adb4-5f76-3eca-8829-a95baead2aea",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Stock Market's Best Day in Months Was Also Its Most Unpredictable",
-      "summary": "The stock market managed its best day in months in what was a bizarre day on Wall Street.",
-      "link": "https://finance.yahoo.com/m/1558adb4-5f76-3eca-8829-a95baead2aea/stock-market%27s-best-day-in.html?.tsrc=rss",
-      "time": "2026-11-09T21:02:20+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:52dad010-6100-329b-945c-1c041424e572",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Soprano to Support Organisations Navigating Microsoft Entra MFA Changes",
-      "summary": "Australian automated communications technology company, Soprano Design, will support Microsoft Entra customers who need to continue using SMS and Voice multi-factor authentication (MFA) as Microsoft retires SMS and Voice authentication delivery in Microsoft Entra ID beginning 1 February 2027.",
-      "link": "https://finance.yahoo.com/technology/articles/soprano-support-organisations-navigating-microsoft-210000722.html?.tsrc=rss",
-      "time": "2026-11-09T21:00:00+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:72b966b4-93c5-31b9-b86a-cf83cefb9e8c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Sector Update: Tech Stocks Gain Late Afternoon",
-      "summary": "Tech stocks were higher late Monday afternoon, with the State Street Technology Select Sector SPDR E",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-gain-afternoon-205841292.html?.tsrc=rss",
-      "time": "2026-11-09T20:58:41+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:9191d7fe-4b04-30ce-a72a-79d1feb6635c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Fervo now has $12B in orders for its geothermal power tech",
-      "summary": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
-      "link": "https://finance.yahoo.com/energy/articles/fervo-now-12b-orders-geothermal-205534908.html?.tsrc=rss",
-      "time": "2026-11-09T20:55:34+00:00",
-      "touches": [
-        "GOOGL"
       ],
       "tags": [],
       "new": true
     }
   ],
-  "atencao": [
-    {
-      "id": "rss:3108035e-b5c7-40c4-959b-9667864193f3",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Jensen Huang's stance against cutting China off from US chips holds a lot less weight",
-      "summary": "Nvidia (NVDA) stock is under fire over CEO Jensen Huang's acknowledged affair with Alice Huang, who is suspected of being a spy for Chinese intelligence. The company's board is launching a probe into the affair.Deirdre Bosa takes a closer look in the video above.",
-      "link": "https://finance.yahoo.com/video/jensen-huangs-stance-against-cutting-china-off-from-us-chips-holds-a-lot-less-weight-213031755.html?.tsrc=rss",
-      "time": "2026-11-09T21:30:31+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "legal",
-        "people"
-      ],
-      "new": true
-    }
-  ]
+  "atencao": []
 }
