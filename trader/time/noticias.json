@@ -1,15 +1,15 @@
 {
-  "as_of": "2026-11-09T18:35:00Z",
+  "as_of": "2026-11-09T19:05:00Z",
   "items": [
     {
-      "id": "rss:84580a5c-46ce-30bb-8855-c5a68dab25cb",
+      "id": "rss:785e59b5-1dc7-4f8d-8d47-50e87d4562c0",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Samsung Stocks Rise 0.64% as Taylor Fab Nears December Trial Run",
-      "summary": "Samsung edged higher while the KOSPI fell 0.81%, as reports pointed to a trial run at its Texas foundry next month.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/samsung-stocks-rise-0-64-182834179.html?.tsrc=rss",
-      "time": "2026-11-09T18:28:34+00:00",
+      "title": "Why Jensen Huang wants to keep China on Nvidia chips",
+      "summary": "In the Loop host Ejaaz Ahamadeen looks at the business case for Nvidia (NVDA) to continue selling AI chips to China and why maintaining access to the Chinese market remains a strategic priority.",
+      "link": "https://finance.yahoo.com/video/why-jensen-huang-wants-to-keep-china-on-nvidia-chips-190019440.html?.tsrc=rss",
+      "time": "2026-11-09T19:00:19+00:00",
       "touches": [
         "NVDA"
       ],
@@ -17,14 +17,48 @@
       "new": true
     },
     {
-      "id": "rss:4341abd3-0ce7-3eaf-b385-220d586a9ff1",
+      "id": "rss:99bf2095-9648-355b-8e1d-eb7e8943f1dc",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia CEO Huang's Washington Influence at Risk Amid Chinese Spy Probe, Wedbush Says",
-      "summary": "Nvidia (NVDA) Chief Executive Jensen Huang could see his political influence in Washington erode ami",
-      "link": "https://finance.yahoo.com/technology/articles/nvidia-ceo-huang-apos-washington-182757537.html?.tsrc=rss",
-      "time": "2026-11-09T18:27:57+00:00",
+      "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
+      "summary": "Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair in an email to employees",
+      "link": "https://finance.yahoo.com/technology/articles/silicon-valley-trump-rally-behind-164235068.html?.tsrc=rss",
+      "time": "2026-11-09T18:58:37+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:fc444f06-6ee4-33f5-84d9-645a9832e62b",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Update: Market Chatter: Nvidia's Contact With Commerce Officials Led to Transfer of Megaspeed Probe",
+      "summary": "(Updates with Nvidia's response in the sixth paragraph.) Nvidia's (NVDA) contact with Commerce De",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-nvidia-apos-contact-185231363.html?.tsrc=rss",
+      "time": "2026-11-09T18:52:31+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "legal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:13d1967b-d768-3ac6-b150-3cafa07f0cd2",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Nvidia CEO Probe Prompts Investor Questions, Scrutiny",
+      "summary": "Shares of Nvidia slumped after Chief Executive Officer Jensen Huang admitted to having an extramarital affair with Alice Huang, a woman identified as a suspected Chinese spy. Wall Street experts react on Bloomberg Television.",
+      "link": "https://finance.yahoo.com/video/nvidia-ceo-probe-prompts-investor-184938842.html?.tsrc=rss",
+      "time": "2026-11-09T18:49:38+00:00",
       "touches": [
         "NVDA"
       ],
@@ -35,127 +69,14 @@
       "new": true
     },
     {
-      "id": "rss:c2fb7605-8662-3ffb-b405-3db8f94a4246",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "CoreWeave Stocks Jump 6.96% After Multi-Year Wayve Self-Driving AI Deal",
-      "summary": "CoreWeave will train Wayve's AI Driver on Nvidia Blackwell GPUs, pushing the AI cloud into physical AI",
-      "link": "https://finance.yahoo.com/technology/ai/articles/coreweave-stocks-jump-6-96-182326598.html?.tsrc=rss",
-      "time": "2026-11-09T18:23:26+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "deal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:8e8867e4-358d-34d8-8fae-c0340c2bf94d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Qualcomm Stocks Jump 5.82% After Alphabet Discloses $548 Million Stake",
-      "summary": "Alphabet's filing shows about 2.98 million Qualcomm shares, as the chipmaker pushes into AI data centers to offset weaker handsets.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stocks-jump-5-82-182124973.html?.tsrc=rss",
-      "time": "2026-11-09T18:21:24+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:41f3582e-b564-4664-9dac-b44ebe73b7b4",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia has a 'deep bench' if Jensen Huang steps aside, tech investor says",
-      "summary": "What does life after Jensen Huang even look like?",
-      "link": "https://finance.yahoo.com/markets/stocks/article/nvidia-has-a-deep-bench-if-jensen-huang-steps-aside-tech-investor-says-181907948.html?.tsrc=rss",
-      "time": "2026-11-09T18:19:07+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:3176a542-ff41-3223-807c-fc5100f4f79e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Constellation Energy Stocks Jump 6.94% After Q3 Beat and Raised Guidance",
-      "summary": "Adjusted EPS of $5.06 topped last year's $3.04 as Google and Amazon nuclear power deals deepen its data-center pipeline.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-stocks-jump-6-181850302.html?.tsrc=rss",
-      "time": "2026-11-09T18:18:50+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:12550f7b-8871-30b4-8982-8892386bcc66",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Jensen Huang\u2019s affair with alleged Chinese spy puts Nvidia\u2019s China ambitions under scrutiny",
-      "summary": "Jensen Huang\u2019s alleged affair with a suspected Chinese spy threatens to complicate Nvidia\u2019s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China\u2019s lucrative AI market.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-affair-alleged-chinese-180952926.html?.tsrc=rss",
-      "time": "2026-11-09T18:09:52+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:d196b445-861a-3576-b52d-91a162fb710c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia Stock Shock Has Investors Looking At AI Chip Alternatives",
-      "summary": "Nvidia\u2019s sudden 5% pre market drop after the CEO\u2019s personal scandal has yanked key person and geopolitical risk from the footnotes to the front page, and investors are quickly reassessing anything tied to high end AI chips. That kind of shock often reshuffles attention and capital. In this article, you will see three large cap AI and semiconductor peers exposed to the same headlines, along with an outline of why some readers may lean toward them or step away. The three stocks in focus below...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-shock-investors-looking-180922260.html?.tsrc=rss",
-      "time": "2026-11-09T18:09:22+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:371325fc-ef9c-3ed2-8e6b-707e9327db68",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Coherent Stock Earnings Beat Has The Bull Case Changed?",
-      "summary": "Coherent reported first quarter 2027 sales of US$2,370.32 million and net income of US$384.67 million, along with guidance for second quarter revenue in the range of US$2.55 billion to US$2.75 billion. The PhotonLink AI datacenter contract and Nvidia\u2019s US$2 billion investment together highlight how large customers are tying Coherent\u2019s photonics roadmap directly to long-term optical connectivity demand. We will now examine how Coherent\u2019s investment narrative could shift as earnings guidance...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/coherent-stock-earnings-beat-bull-180828256.html?.tsrc=rss",
-      "time": "2026-11-09T18:08:28+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:c55f2add-d70f-3fc0-bdf8-1878555332fd",
+      "id": "rss:1a3f51b8-253c-35e2-ad34-74dd38c17169",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "XLE",
-      "title": "Exchange-Traded Funds Higher as US Equities Advance After Midday",
-      "summary": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV rose. Actively traded I",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-us-180817957.html?.tsrc=rss",
-      "time": "2026-11-09T18:08:17+00:00",
+      "title": "Sector Update: Energy Stocks Higher Monday Afternoon",
+      "summary": "Energy stocks advanced Monday afternoon, with the NYSE Energy Sector Index rising 0.7% and the State",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-higher-monday-184627929.html?.tsrc=rss",
+      "time": "2026-11-09T18:46:27+00:00",
       "touches": [
         "XLE"
       ],
@@ -163,51 +84,50 @@
       "new": true
     },
     {
-      "id": "rss:bf0b43cc-f9ac-3e78-af11-8e2451d642f0",
+      "id": "rss:a60f5171-7be7-334d-9074-0a5e13e42d18",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia's Huang scandal rattles AI industry built around him",
-      "summary": "Nvidia chief Jensen Huang sits at the center of the artificial intelligence boom, and the spy scandal that erupted over the weekend threatens to shake the company at a time when confidence in the AI investment frenzy is already fragile.Other investors were less confident Huang would survive the probe launched by the Nvidia board.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-huang-scandal-rattles-ai-180531112.html?.tsrc=rss",
-      "time": "2026-11-09T18:05:31+00:00",
+      "ticker": "ADBE",
+      "title": "Disney Signs Adobe AI Deal Amid Reported Job Cut Plans",
+      "summary": "Disney says the tools won't replace Imagineering roles even as it reportedly weighs thousands of job cuts",
+      "link": "https://finance.yahoo.com/technology/ai/articles/disney-signs-adobe-ai-deal-184604112.html?.tsrc=rss",
+      "time": "2026-11-09T18:46:04+00:00",
       "touches": [
-        "NVDA"
+        "ADBE"
       ],
       "tags": [
-        "legal"
+        "deal"
       ],
       "new": true
     },
     {
-      "id": "rss:651ebea4-32a3-457a-b4b0-02f9c0510337",
+      "id": "rss:97edbf0b-fc95-4c0d-bf38-2eda5ed0829e",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Did Jensen Huang know? Nvidia's CEO and an alleged spy",
-      "summary": "Nvidia CEO Jensen Huang has admitted to an affair with Alice Huang, a Megaspeed executive US intelligence believes was recruited by China. Host Ejaaz Ahamadeen breaks down her alleged goal of loosening AI chip export controls, the classified memo, Nvidia's board investigation, why Commerce didn't act and whether Jensen knew.",
-      "link": "https://finance.yahoo.com/video/did-jensen-huang-know-nvidias-ceo-and-an-alleged-spy-180451767.html?.tsrc=rss",
-      "time": "2026-11-09T18:04:51+00:00",
+      "title": "Nvidia $5T CEO scandal, AI legislation headaches, and Tesla returns deposits for Cybertrucks",
+      "summary": "Host Kevin Kelly, Kelly Intelligence Founder, CEO, and CCO, and his panel of experts weigh in on Nvidia's (NVDA) Jensen Huang alleged affair with a Chinese spy, plus Tesla (TSLA) CEO Elon Musk, confirming the company will refund deposits to many Cybertruck reservation holders because outstanding orders exceed remaining production capacity Today's panel includes Julie Biel, Kayne Anderson Rudnick, Chief Market Strategist, Portfolio Manager & Senior Research Analyst; Michael Monaghan, Founder, ETFs Partner and Portfolio Manager; and Dave Nadig, ETF.com president.",
+      "link": "https://finance.yahoo.com/video/nvidia-5t-ceo-scandal-ai-legislation-headaches-and-tesla-returns-deposits-for-cybertrucks-184342686.html?.tsrc=rss",
+      "time": "2026-11-09T18:43:42+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
-        "legal",
         "people"
       ],
       "new": true
     },
     {
-      "id": "rss:d0edb9c5-19b0-3c8f-adde-e99dca090339",
+      "id": "rss:2647d905-313f-3b7e-a74c-fcdb36330a17",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Alphabet Stocks Rise 3.16% as Google Unveils Two New TPU Systems",
-      "summary": "TPU 8tx targets confidential inference while TPU 8i Max doubles compute and memory bandwidth in the same rack space.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-stocks-rise-3-16-175806057.html?.tsrc=rss",
-      "time": "2026-11-09T17:58:06+00:00",
+      "ticker": "MSFT",
+      "title": "The AI Power Grab That Could Upend America's Electricity Industry",
+      "summary": "AI data centers are building their own power infrastructure, potentially adding 30\u201350 GW of behind-the-meter generation within five years, largely using natural gas turbines.",
+      "link": "https://finance.yahoo.com/energy/articles/ai-power-grab-could-upend-180000495.html?.tsrc=rss",
+      "time": "2026-11-09T18:00:00+00:00",
       "touches": [
-        "GOOGL"
+        "MSFT"
       ],
       "tags": [],
       "new": true
@@ -215,32 +135,14 @@
   ],
   "atencao": [
     {
-      "id": "rss:4341abd3-0ce7-3eaf-b385-220d586a9ff1",
+      "id": "rss:fc444f06-6ee4-33f5-84d9-645a9832e62b",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia CEO Huang's Washington Influence at Risk Amid Chinese Spy Probe, Wedbush Says",
-      "summary": "Nvidia (NVDA) Chief Executive Jensen Huang could see his political influence in Washington erode ami",
-      "link": "https://finance.yahoo.com/technology/articles/nvidia-ceo-huang-apos-washington-182757537.html?.tsrc=rss",
-      "time": "2026-11-09T18:27:57+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "legal",
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:bf0b43cc-f9ac-3e78-af11-8e2451d642f0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia's Huang scandal rattles AI industry built around him",
-      "summary": "Nvidia chief Jensen Huang sits at the center of the artificial intelligence boom, and the spy scandal that erupted over the weekend threatens to shake the company at a time when confidence in the AI investment frenzy is already fragile.Other investors were less confident Huang would survive the probe launched by the Nvidia board.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidias-huang-scandal-rattles-ai-180531112.html?.tsrc=rss",
-      "time": "2026-11-09T18:05:31+00:00",
+      "title": "Update: Market Chatter: Nvidia's Contact With Commerce Officials Led to Transfer of Megaspeed Probe",
+      "summary": "(Updates with Nvidia's response in the sixth paragraph.) Nvidia's (NVDA) contact with Commerce De",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-nvidia-apos-contact-185231363.html?.tsrc=rss",
+      "time": "2026-11-09T18:52:31+00:00",
       "touches": [
         "NVDA"
       ],
@@ -250,14 +152,14 @@
       "new": true
     },
     {
-      "id": "rss:651ebea4-32a3-457a-b4b0-02f9c0510337",
+      "id": "rss:13d1967b-d768-3ac6-b150-3cafa07f0cd2",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Did Jensen Huang know? Nvidia's CEO and an alleged spy",
-      "summary": "Nvidia CEO Jensen Huang has admitted to an affair with Alice Huang, a Megaspeed executive US intelligence believes was recruited by China. Host Ejaaz Ahamadeen breaks down her alleged goal of loosening AI chip export controls, the classified memo, Nvidia's board investigation, why Commerce didn't act and whether Jensen knew.",
-      "link": "https://finance.yahoo.com/video/did-jensen-huang-know-nvidias-ceo-and-an-alleged-spy-180451767.html?.tsrc=rss",
-      "time": "2026-11-09T18:04:51+00:00",
+      "title": "Nvidia CEO Probe Prompts Investor Questions, Scrutiny",
+      "summary": "Shares of Nvidia slumped after Chief Executive Officer Jensen Huang admitted to having an extramarital affair with Alice Huang, a woman identified as a suspected Chinese spy. Wall Street experts react on Bloomberg Television.",
+      "link": "https://finance.yahoo.com/video/nvidia-ceo-probe-prompts-investor-184938842.html?.tsrc=rss",
+      "time": "2026-11-09T18:49:38+00:00",
       "touches": [
         "NVDA"
       ],

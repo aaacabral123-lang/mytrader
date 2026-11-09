@@ -1,30 +1,5 @@
 {
-  "as_of": "2026-11-09T17:05:00Z",
-  "new": [
-    {
-      "doc_id": "20035780",
-      "type": "P",
-      "type_name": "Periodic Transaction Report",
-      "last": "Pelosi",
-      "first": "Nancy",
-      "name": "Hon. Nancy Pelosi",
-      "district": "CA11",
-      "year": 2026,
-      "filed": "2026-11-06",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035780.pdf"
-    },
-    {
-      "doc_id": "20035775",
-      "type": "P",
-      "type_name": "Periodic Transaction Report",
-      "last": "McGuire",
-      "first": "John J Mr",
-      "name": "Hon. John J Mr McGuire III",
-      "district": "VA05",
-      "year": 2026,
-      "filed": "2026-11-06",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035775.pdf"
-    }
-  ],
+  "as_of": "2026-11-09T19:05:00Z",
+  "new": [],
   "hits": []
 }
