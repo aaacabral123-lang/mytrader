@@ -1,15 +1,32 @@
 {
-  "as_of": "2026-11-09T20:05:00Z",
+  "as_of": "2026-11-09T20:35:00Z",
   "items": [
     {
-      "id": "rss:96e7ef47-873c-3a35-b7ab-224f654ac5f6",
+      "id": "rss:b5c14954-9eab-4d39-8528-5d61c86bde24",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Wall Street rallies by $1tn even as Bailey warns AI may not pay off",
-      "summary": "Wall Street gained $1tn (\u00a3740bn) on Monday after shrugging off fears of an AI bubble and a national security scandal at Nvidia.",
-      "link": "https://uk.finance.yahoo.com/news/wall-street-rallies-1tn-even-194911782.html?.tsrc=rss",
-      "time": "2026-11-09T19:49:11+00:00",
+      "title": "Nvidia CEO Jensen Huang's affair with a reported Chinese spy damages this key investing factor",
+      "summary": "It will take a while for Nvidia CEO Jensen Huang to earn back trust.",
+      "link": "https://finance.yahoo.com/technology/article/nvidia-ceo-jensen-huangs-affair-with-a-reported-chinese-spy-damages-this-key-investing-factor-201922852.html?.tsrc=rss",
+      "time": "2026-11-09T20:19:22+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:275402cf-4175-3d38-bebb-e3114fe968bf",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "3 Australian Small Cap Stocks With Revenue Growth Over 8%",
+      "summary": "AI heavyweights like Nvidia are back in the spotlight after recent volatility in AI related stocks, reminding investors how quickly sentiment can swing when everyone crowds into the same few global giants. Australian small caps with solid balance sheets and resilient business models are not getting that attention. That gap creates room for patient buyers. This article walks through three under the radar local stocks that have been filtered for quality from this high conviction list. The three...",
+      "link": "https://finance.yahoo.com/small-business/articles/3-australian-small-cap-stocks-200902759.html?.tsrc=rss",
+      "time": "2026-11-09T20:09:02+00:00",
       "touches": [
         "NVDA"
       ],
@@ -17,29 +34,30 @@
       "new": true
     },
     {
-      "id": "rss:616785db-f5ed-3019-8fa4-02cecb826114",
+      "id": "rss:0e10b80c-0141-37a4-8df2-983e89c3dfe9",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Reindeer Launches on Google Cloud Marketplace, Expanding Collaboration with Google Cloud to Help Enterprises Move Agentic AI into Core Operations",
-      "summary": "Reindeer, an enterprise agentic AI company that builds and runs AI agents for complex core operations, today announced an expanded collaboration with Google Cloud. Reindeer has graduated from the Google Cloud ISV Startup Springboard program, and its platform is now available on Google Cloud Marketplace. Large enterprises now have a direct path to put Reindeer agents enabled by Google's Gemini models to work on the Google Cloud infrastructure they already run.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/reindeer-launches-google-cloud-marketplace-194200052.html?.tsrc=rss",
-      "time": "2026-11-09T19:42:00+00:00",
+      "ticker": "ADBE",
+      "title": "Adobe (ADBE) Expands AI Reach, Is The 25% Discount Too Wide?",
+      "summary": "Adobe (ADBE) has pushed its CX Enterprise Coworker deeper into mainstream AI platforms, making the customer experience tool accessible inside ChatGPT, Claude, Gemini for business, Microsoft Copilot and Databricks Genie for marketing teams. Despite a steady drumbeat of AI and product headlines, Adobe\u2019s recent trading tells a different story. The share price stands at US$239.30, with a year-to-date share price return down 28.2% and a 3-year total shareholder return down 59.5%. This points to...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-expands-ai-reach-200712841.html?.tsrc=rss",
+      "time": "2026-11-09T20:07:12+00:00",
       "touches": [
-        "GOOGL"
+        "ADBE",
+        "MSFT"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:e0d663df-5ca8-3438-bf12-79a06dce7d6e",
+      "id": "rss:b09fba7c-33bf-3a62-a8b0-511f72ab3c8c",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "What we know \u2014 and what we don't \u2014 as Nvidia investigates an alleged spy plot involving its CEO",
-      "summary": "Stunning allegations of a spy plot have prompted Nvidia to investigate whether its founder and CEO, Jensen Huang, was the target of a \u201cforeign intelligence effort.\"Huang on Sunday admitted to having an extramarital affair, and acknowledged that news reports surrounding the relationship and potential national security concerns led Nvidia's board to investigate.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/know-dont-nvidia-investigates-alleged-193242398.html?.tsrc=rss",
-      "time": "2026-11-09T19:32:42+00:00",
+      "title": "Hegseth Has Been 'Disaster' as Secretary of Defense, Says Rep. Stanton",
+      "summary": "Democrat Representative from Arizona Greg Stanton said that he will vote yes to impeach Secretary of Defense Pete Hegseth and described the secretary's tenure as 'a disaster.' Stanton said that while Democrats are looking to lower costs for the American people, the  party also promised midterm voters to 'reestablish checks and balances' in government and this impeachment is in line with that plan. Stanton, who sits on the House China Select Committee, also discussed probes in Nvidia CEO Jensen Huang and said that lawmakers need a classified briefing as soon as possible about what the intelligence community knows about the Huang's affair with an alleged Chinese spy.",
+      "link": "https://finance.yahoo.com/video/hegseth-disaster-secretary-defense-says-193019004.html?.tsrc=rss",
+      "time": "2026-11-09T19:30:19+00:00",
       "touches": [
         "NVDA"
       ],

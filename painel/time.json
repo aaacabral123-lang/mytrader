@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-09T20:05:00Z",
+  "as_of": "2026-11-09T20:35:00Z",
   "market_open": true,
   "bloqueio": {},
   "robots": [
@@ -8,7 +8,7 @@
       "nome": "Gestor",
       "skills": "trader-budget, trader-rebalance, trader-risk, trader-broker",
       "quando": "a cada 30 min com a bolsa aberta",
-      "last_run": "2026-11-09T20:05:00Z",
+      "last_run": "2026-11-09T20:35:00Z",
       "result": "rodada feita",
       "ok": true
     },
@@ -17,8 +17,8 @@
       "nome": "Not\u00edcias",
       "skills": "trader-news",
       "quando": "a cada 30 min, 24 h",
-      "last_run": "2026-11-09T20:05:00Z",
-      "result": "3 novas de fontes confi\u00e1veis (8 descartadas), 0 comunicados graves, 0 manchetes de aten\u00e7\u00e3o",
+      "last_run": "2026-11-09T20:35:00Z",
+      "result": "4 novas de fontes confi\u00e1veis (4 descartadas), 0 comunicados graves, 0 manchetes de aten\u00e7\u00e3o",
       "ok": true
     },
     {
@@ -35,7 +35,7 @@
       "nome": "Vigia de pre\u00e7os",
       "skills": "trader-alerts",
       "quando": "a cada 30 min com a bolsa aberta",
-      "last_run": "2026-11-09T20:05:00Z",
+      "last_run": "2026-11-09T20:35:00Z",
       "result": "7 a\u00e7\u00f5es vigiadas, 0 alertas",
       "ok": true
     },
