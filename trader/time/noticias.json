@@ -1,55 +1,5 @@
 {
-  "as_of": "2026-11-09T06:35:00Z",
-  "items": [
-    {
-      "id": "rss:b209ad53-83a7-3c3c-a95b-2238515d5882",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia CEO row: Bernstein sees \u2018heavy distraction\u2019 at best, \u2018ammunition\u2019 at worst",
-      "summary": "Investing.com -- Allegations that Nvidia (NASDAQ:NVDA) CEO Jensen Huang had a relationship with a suspected Chinese intelligence source will at best be a \"heavy distraction\" and at worst give \"significant ammunition\" to lawmakers on both sides of the aisle, brokerage Bernstein said on Monday.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-ceo-row-bernstein-sees-062039338.html?.tsrc=rss",
-      "time": "2026-11-09T06:20:39+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:a4b5d15c-67f0-342b-96b5-e189cdcabdb5",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia (NVDA) Stock May Be A Bargain Following Data Center Regulation Fears",
-      "summary": "NVIDIA has just come through a sharp pullback, with the stock down over the past month and year after a very large multiyear rise. This leaves a straightforward question for you as an investor: Are today\u2019s cash flows, and the ones buyers expect over time, enough to support the current share price after this reset? Over the past 5 years, NVIDIA has returned roughly 5x. This means a lot of future cash generation is already embedded in expectations and needs to be weighed carefully against the...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-may-bargain-060738189.html?.tsrc=rss",
-      "time": "2026-11-09T06:07:38+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:48159fb6-faae-3f77-a208-f3452e8b1269",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia CEO\u2019s Affair Admission Counters Past Statements on Ties",
-      "summary": "For more than a year, Nvidia Corp. minimized the ties that Chief Executive Officer Jensen Huang had with Megaspeed, the once-obscure spinoff of a Chinese gaming enterprise, and a woman named Huang Le who helped set it up.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-affair-admission-counters-051608985.html?.tsrc=rss",
-      "time": "2026-11-09T05:16:08+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "people"
-      ],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-09T07:05:00Z",
+  "items": [],
   "atencao": []
 }
