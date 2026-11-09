@@ -167,7 +167,7 @@ def r_analista(ctx, state):
     res = robo.skill_json("trader-analyst/facts.py", *(tickers + ["--no-filings", "--metrics", "trader/time/metricas.json"]))
     companies = (robo.read_json(mfile, {}) or {}).get("companies", [])
     if res is None and not companies:
-        raise RuntimeError("trader-analyst não respondeu")
+        return "nenhuma empresa para analisar (ETFs não divulgam balanço)"
     changes = {r.get("ticker"): (r.get("changes") or [""])[0] for r in (res or []) if isinstance(r, dict)}
     seen = state.setdefault("analista", {}).setdefault("periods", {})
     fresh = []
