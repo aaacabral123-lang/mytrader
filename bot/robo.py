@@ -270,9 +270,25 @@ def settle(api, state, log):
 
 def refresh_targets(api, robo, state, today, log):
     """Returns True when the stocks to hold changed (then stocks that left are sold)."""
-    if robo.get("strategy", "screener") == "screener":
+    strategy = robo.get("strategy", "screener")
+    if strategy == "indice":
+        return refresh_index(robo, log)
+    if strategy == "screener":
         return refresh_screen(api, robo, state, today, log)
     return refresh_13f(robo, state, today, log)
+
+
+def refresh_index(robo, log):
+    """The whole long-term sleeve in one index ETF (VOO by default: the S&P 500, like SPY, which the
+    short-term sleeve trades, so the two sleeves never share a symbol)."""
+    sym = robo.get("index_etf", "VOO")
+    prev = [w["ticker"] for w in (read_json(path("targets.json"), {}) or {}).get("weights", [])]
+    if prev == [sym]:
+        return False
+    write_json(path("targets.json"), {"source": "índice S&P 500 (%s)" % sym, "weights": [
+        {"ticker": sym, "name": "ETF do índice S&P 500 (as 500 maiores empresas dos EUA)", "weight": 100}]})
+    log("longo prazo agora no índice: vende %s e compra %s" % (", ".join(prev) or "nada", sym))
+    return True
 
 
 def refresh_screen(api, robo, state, today, log):
@@ -701,7 +717,8 @@ def run(dry_run=False):
                                              "orders": [{k: v for k, v in o.items() if k != "_effect"} for o in orders]})
         else:
             # in a falling market the whole stock sleeve sits in the one inverse ETF, so lift the per-stock caps
-            cfg_now = cfg if state.get("regime", "alta") == "alta" else dict(
+            one_fund = state.get("regime", "alta") != "alta" or robo.get("strategy") == "indice"
+            cfg_now = cfg if not one_fund else dict(
                 cfg, max_position_pct=100, max_order_usd=max(float(cfg.get("max_order_usd") or 0), float(cfg.get("budget", 0))))
             targets_path, config_path = active_targets(api, cfg_now, targets, state, today, log)
             orders = propose(robo, held, new_13f, state["cash"], targets_path, config_path)
@@ -789,7 +806,7 @@ def write_panel(api, robo, cfg, state, targets, now):
     short = read_json(path("shortlist.json"), {}) or {}
     metrics = {c["ticker"]: c for c in (read_json(path("metrics.json"), {}) or {}).get("companies", [])}
     uprices = (read_json(path("state", "universe_prices.json"), {}) or {}).get("prices") or {}
-    for r in short.get("passed", [])[:10]:
+    for r in (short.get("passed", []) if robo.get("strategy") == "screener" else [])[:10]:
         m = metrics.get(r["ticker"], {})
         px, eps = uprices.get(r["ticker"]), m.get("eps_ttm") or 0
         picks.append({"symbol": r["ticker"], "name": r.get("name", ""), "score": r.get("score"),

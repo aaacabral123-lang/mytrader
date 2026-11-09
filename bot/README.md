@@ -26,6 +26,10 @@ A cada 30 minutos, de segunda a sexta, o GitHub Actions roda `bot/robo.py`. Se a
 7. **Passa cada ordem pelo controle de risco** (`trader-risk`) e só envia as aprovadas (PASS).
 8. **Registra tudo** em `trader/log/robo-AAAA-MM.md` e salva o estado no repositório.
 
+## Longo prazo no índice (estratégia atual)
+
+Com `"strategy": "indice"` em `trader/robo.json`, os 80% de longo prazo ficam inteiros no **VOO**, um ETF do índice S&P 500 (as 500 maiores empresas dos EUA), sem stop e sem venda para realizar lucro (`stop_loss_pct` e `take_profit_pct` em 0). O VOO segue o mesmo índice que o SPY, mas é outro ETF, para não se misturar com o curto prazo, que opera o SPY. No teste de 20 anos, segurar o índice foi o melhor resultado (+10,8% ao ano). Nas duas primeiras semanas reais, a escolha de ações pelo screener concentrou a carteira em tecnologia, e o stop vendeu Nvidia e Micron no fundo. Para voltar ao screener, use `"strategy": "screener"`.
+
 ## Filtro de mercado (a favor na alta, contra na queda)
 
 **Desligado** (`"enabled": false`): no teste no passado (`trader/backtest/resultado.md`), trocar para o SH nas quedas rendeu +0,5% ao ano, contra +10,8% de só segurar o SPY.

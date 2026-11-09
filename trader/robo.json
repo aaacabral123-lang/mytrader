@@ -1,11 +1,11 @@
 {
   "enabled": true,
-  "strategy": "screener",
+  "strategy": "indice",
   "top": 8,
   "screen_every_days": 1,
   "band": 2,
   "sell_untracked_on_new_13f": true,
-  "stop_loss_pct": 15,
+  "stop_loss_pct": 0,
   "stop_cooldown_days": 30,
   "daily_report": true,
   "universe": [
@@ -114,7 +114,7 @@
   ],
   "investor_cik": "1067983",
   "investor_name": "Berkshire Hathaway",
-  "take_profit_pct": 10,
+  "take_profit_pct": 0,
   "take_profit_reentry_dip_pct": 5,
   "take_profit_max_days": 10,
   "curto": {
@@ -145,5 +145,6 @@
     "barrons.com",
     "nytimes.com",
     "finance.yahoo.com"
-  ]
+  ],
+  "index_etf": "VOO"
 }
