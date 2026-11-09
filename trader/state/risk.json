@@ -4,21 +4,54 @@
   "results": [
     {
       "index": 1,
-      "symbol": "NVDA",
-      "side": "sell",
-      "amount": "2.381935421 shares",
-      "value_usd": 415.23,
-      "fingerprint": "47bc7df1179e300e",
+      "symbol": "ADBE",
+      "side": "buy",
+      "amount": "$86",
+      "value_usd": 86.0,
+      "fingerprint": "f83e0c7960f6b5a5",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 2,
+      "symbol": "ORCL",
+      "side": "buy",
+      "amount": "$101",
+      "value_usd": 101.0,
+      "fingerprint": "4e9a52f84e30038d",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 3,
+      "symbol": "REGN",
+      "side": "buy",
+      "amount": "$83",
+      "value_usd": 83.0,
+      "fingerprint": "3c89ffd3b8bddac5",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 4,
+      "symbol": "UNP",
+      "side": "buy",
+      "amount": "$87",
+      "value_usd": 87.0,
+      "fingerprint": "15bdcc4a94326f63",
       "verdict": "PASS",
       "reasons": [],
       "warnings": []
     }
   ],
-  "pass": 1,
+  "pass": 4,
   "block": 0,
   "warnings": [],
-  "cash_after": 826.71,
-  "prices_as_of": "2026-11-09T14:35:30Z",
-  "checked_at": "2026-11-09T14:35:39",
+  "cash_after": 469.84,
+  "prices_as_of": "2026-11-09T15:05:10Z",
+  "checked_at": "2026-11-09T15:05:16",
   "orders_file": "trader/orders.json"
 }

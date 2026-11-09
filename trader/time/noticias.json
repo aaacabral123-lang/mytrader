@@ -1,30 +1,64 @@
 {
-  "as_of": "2026-11-09T14:35:00Z",
+  "as_of": "2026-11-09T15:05:00Z",
   "items": [
     {
-      "id": "rss:d59af910-0716-3ba8-99e1-e7815a3bdc84",
+      "id": "rss:aa2410fa-499a-4db3-ab6f-042a0e6ca6e2",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "XLE",
-      "title": "Sector Update: Energy Stocks Decline Premarket Monday",
-      "summary": "Energy stocks were declining premarket Monday, with the State Street Energy Select Sector SPDR ETF (",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-premarket-142516412.html?.tsrc=rss",
-      "time": "2026-11-09T14:25:16+00:00",
+      "ticker": "NVDA",
+      "title": "Intel took 25 years to get back to its dot-com peak \u2014 and lost it in 6 months: Chart of the Day",
+      "summary": "Half off sounds like a deal. On Wall Street, it can be the start of a much bigger sale.",
+      "link": "https://finance.yahoo.com/markets/article/intel-took-25-years-to-get-back-to-its-dot-com-peak--and-lost-it-in-6-months-chart-of-the-day-144715722.html?.tsrc=rss",
+      "time": "2026-11-09T14:47:15+00:00",
       "touches": [
-        "XLE"
+        "NVDA"
+      ],
+      "tags": [
+        "deal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:130d8a8a-3104-4b35-9fdd-fef23cf97046",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Trump defends Jensen Huang, but other Republicans could turn up the pressure quickly",
+      "summary": "President Trump defended Jensen Huang on Sunday night, calling the embattled Nvidia chief \"an honorable guy.\"",
+      "link": "https://finance.yahoo.com/markets/article/trump-defends-jensen-huang-but-other-republicans-could-turn-up-the-pressure-quickly-144235766.html?.tsrc=rss",
+      "time": "2026-11-09T14:42:35+00:00",
+      "touches": [
+        "NVDA"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:b2520459-9265-49b6-bdba-00a4e65dd39c",
+      "id": "rss:11384a42-5890-4a55-b5fe-18cbea6d5194",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia's Jensen Huang admits to affair with suspected Chinese spy, raising security concerns",
-      "summary": "Nvidia (NVDA) stock is under fire over CEO Jensen Huang's acknowledged affair with Alice Wong, who is suspected of being a spy for Chinese intelligence. The company's board is launching a probe into the affair. \"The 8:30\" hosts Julie Hyman, Pras Subramanian, and Jake Conley take a closer look.",
-      "link": "https://finance.yahoo.com/video/nvidias-jensen-huang-admits-to-affair-with-suspected-chinese-spy-raising-security-concerns-141917404.html?.tsrc=rss",
-      "time": "2026-11-09T14:19:17+00:00",
+      "title": "Nvidia stock reacts as Huang admits to an affair with a Chinese spy, Anthropic moves ahead with IPO",
+      "summary": "The 8:30 hosts, Julie Hyman, Jake Conley, and Pras Subramanian, break down the top market stories of the day, including Nvidia's CEO, Jensen Huang, admitting to an affair with a suspected Chinese spy. Nvidia's stock drops as US national security and US-China relations come into sharper focus. Plus, the latest on the Anthropic IPO as the company targets a $1.5 trillion valuation.",
+      "link": "https://finance.yahoo.com/video/nvidia-stock-reacts-as-huang-admits-to-an-affair-with-a-chinese-spy-anthropic-moves-ahead-with-ipo-145459810.html?.tsrc=rss",
+      "time": "2026-11-09T14:41:04+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:18a9a3ed-7082-4067-b97a-1baa07a038c2",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Did Trump know about Jensen Huang? What Congress will be looking at",
+      "summary": "Nvidia (NVDA) stock is under fire over CEO Jensen Huang's acknowledged affair with Alice Wong, who is suspected of being a spy for Chinese intelligence. The company's board is launching a probe into the affair. \"Chip War\" author Chris Miller chats with Yahoo Finance Breaking Business News Reporter Jake Conley about his expectations for the US government's response and Congress's closed-door briefing.",
+      "link": "https://finance.yahoo.com/video/did-trump-know-about-jensen-huang-what-congress-will-be-looking-at-143858698.html?.tsrc=rss",
+      "time": "2026-11-09T14:38:58+00:00",
       "touches": [
         "NVDA"
       ],
@@ -35,190 +69,69 @@
       "new": true
     },
     {
-      "id": "rss:fe6745b8-3e76-34ea-b81e-812cda757700",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "3 Top Quantum Stocks To Watch With Up To 71% Revenue Growth",
-      "summary": "Google\u2019s latest push into custom AI chips has put advanced computing power back in the spotlight, and quantum technology sits on the frontier of what could come next. Investors who ignore this shift risk watching the next wave of computing pass by. This article breaks down three stocks from a focused quantum computing screener to show where some of the most ambitious work is happening today. The three stocks covered next are only a sample, and the full quantum screen surfaced 22 more...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/3-top-quantum-stocks-watch-141158992.html?.tsrc=rss",
-      "time": "2026-11-09T14:11:58+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:589d2e26-ebc7-3793-97d9-865006318145",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Flight Centre Travel Group And 2 Australian Founder Led Stocks To Watch",
-      "summary": "Google\u2019s rapid push into custom AI chips has thrown a spotlight on who really drives value in technology, the architects or the hired hands. That question matters for Australian investors looking at businesses where founders still own the vision and feel the consequences of every decision. This article walks through three founder led Australian stocks from our screener that align leadership, risk and long term ambition on the same side as you. The three stocks highlighted here offer a...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/flight-centre-travel-group-2-141150285.html?.tsrc=rss",
-      "time": "2026-11-09T14:11:50+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:6ea5d1f0-72cc-338d-88a1-e81ae1ee131d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Is Oracle (ORCL) Losing Ground In AI Infrastructure Demand?",
-      "summary": "Oracle (NYSE: ORCL) is losing a cloud AI rental arrangement as Microsoft winds down use of Oracle infrastructure tied to older Nvidia chips. ING plans to sell a large portfolio of data center loans that includes a major Oracle related AI project involving OpenAI and SoftBank. Both the Microsoft exit and ING loan sale raise fresh questions about demand for Oracle linked AI infrastructure projects. Take a look at 4 other big wins we have identified for Oracle. Consider widening your research...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-losing-ground-ai-140934525.html?.tsrc=rss",
-      "time": "2026-11-09T14:09:34+00:00",
-      "touches": [
-        "MSFT",
-        "NVDA",
-        "ORCL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:2c1c8bc5-818d-357d-a3f9-2b7a4a511e1f",
+      "id": "rss:8e6a68af-972e-3418-b01b-ee9604d3ea02",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia Stock Drops On Spy Scandal, CEO Probe",
-      "summary": "Nvidia stock fell Monday as the AI chipmaker deals with an embarrassing \"honeypot\" scandal involving Chief Executive Jensen Huang.",
-      "link": "https://finance.yahoo.com/m/2c1c8bc5-818d-357d-a3f9-2b7a4a511e1f/nvidia-stock-drops-on-spy.html?.tsrc=rss",
-      "time": "2026-11-09T14:06:41+00:00",
+      "title": "DraftKings downgraded, AMD upgraded: Wall Street's top analyst calls",
+      "summary": "DraftKings downgraded, AMD upgraded: Wall Street's top analyst calls",
+      "link": "https://finance.yahoo.com/news/netflix-resumed-starbucks-downgraded-wall-133343741.html?.tsrc=rss",
+      "time": "2026-11-09T14:35:30+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
-        "legal",
-        "people"
+        "analyst"
       ],
       "new": true
     },
     {
-      "id": "rss:75892a5f-ed84-3d40-9b19-24a7750fd093",
+      "id": "rss:b434e313-abc5-3b0c-b279-1309bc53af57",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Quantum X Labs Expands AI-Powered Quantum Error Correction Program to Three IBM Quantum Processors, Demonstrating Up to 20% Fewer Logical Decoding Failures",
-      "summary": "The Company has expanded its AI-powered quantum error correction program across three IBM quantum processors, building on its earlier work using datasets generated by Google quantum hardware and advancing its hardware-agnostic decoding technology. TEL AVIV, Israel, Nov. 09, 2026 (GLOBE NEWSWIRE) -- Quantum X Labs Inc. (NASDAQ: QXL) (\u201cQuantum X Labs\u201d or the \u201cCompany\u201d), a quantum technology company developing quantum computing, quantum sensing, quantum error correction and quantum applications tec",
-      "link": "https://finance.yahoo.com/technology/ai/articles/quantum-x-labs-expands-ai-140200075.html?.tsrc=rss",
-      "time": "2026-11-09T14:02:00+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:d298c84d-7dae-3e5d-abaf-0b3c09bd8595",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Adobe and The Walt Disney Company Announce Multi-Year Strategic Alliance to Support Disney Innovation with New AI-Powered Tools",
-      "summary": "MIAMI BEACH, Fla. & BURBANK, Calif., November 09, 2026--Today at Adobe MAX\u2014the world\u2019s largest creativity conference\u2014 Adobe (Nasdaq: ADBE)\u2014a global technology leader that unleashes creativity, productivity and customer experiences through innovative tools and platforms\u2014and The Walt Disney Company have announced a multi-year strategic alliance to advance creativity, innovation and the art of storytelling through new technologies and experiences. Building on the companies\u2019 longstanding relationshi",
-      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-walt-disney-company-announce-140000285.html?.tsrc=rss",
-      "time": "2026-11-09T14:00:00+00:00",
-      "touches": [
-        "ADBE"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:92bb5480-3916-32c9-b881-de3b3cd119b0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ORCL",
-      "title": "Oracle's $1.55 Million Grant Helps Trinity Community Commons Bring Its Neighborhood Vision to Life in Nashville",
-      "summary": "Oracle today announced a $1.55 million grant to Trinity Community Commons (TCC) to renovate its community hub, a welcoming space for free community meals, neighborhood events, and connections to essential services. The grant supports the nonprofit's broader redevelopment of its historic East Nashville property, with groundbreaking to be announced soon.",
-      "link": "https://finance.yahoo.com/small-business/articles/oracles-1-55-million-grant-140000224.html?.tsrc=rss",
-      "time": "2026-11-09T14:00:00+00:00",
-      "touches": [
-        "ORCL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:5bb1c57f-d766-3c94-9b09-ed4f5f854295",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "JPMorgan drops Alphabet from focus list, adds Meta on AI advertising gains",
-      "summary": "Investing.com -- JPMorgan has removed Alphabet from its Analyst Focus List and added Meta Platforms, betting that AI-driven advertising gains and emerging monetization opportunities make Meta the more attractive internet stock.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-drops-alphabet-focus-list-135901285.html?.tsrc=rss",
-      "time": "2026-11-09T13:59:01+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:a9939c40-4449-3bfd-8026-e667bc2ee197",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Can IBM's Latest Quantum System Boost Illinois' Innovation Future?",
-      "summary": "IBM has launched its first quantum computer in Illinois, advancing research partnerships, industry applications and plans to create 750 technology jobs.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ibms-latest-quantum-system-boost-130900743.html?.tsrc=rss",
-      "time": "2026-11-09T13:09:00+00:00",
+      "title": "Global Clinical Genomics Software Market Report 2026 | Capitalize on 14.8% CAGR Through 2030 as Google, Microsoft, NVIDIA and Illumina Scale AI, Cloud and Precision Medicine",
+      "summary": "Players: Google, Microsoft, AWS, NVIDIA and Thermo Fisher. Profiled: clinical genomics software competitors, services, trends, regional shares and opportunities.Dublin, Nov. 09, 2026 (GLOBE NEWSWIRE) -- \"Clinical Genomics Software Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global clinical genomics software market is experiencing rapid expansion, supported by advances in genomic testing, bioinformatics, precision medicine, and cloud-based healthcare techno",
+      "link": "https://finance.yahoo.com/healthcare/articles/global-clinical-genomics-software-market-143200767.html?.tsrc=rss",
+      "time": "2026-11-09T14:32:00+00:00",
       "touches": [
         "GOOGL",
-        "MSFT"
+        "MSFT",
+        "NVDA"
       ],
-      "tags": [],
+      "tags": [
+        "capital"
+      ],
       "new": true
     },
     {
-      "id": "rss:bfcf6bdc-b653-35bb-a44c-add79a346594",
+      "id": "rss:ed4b5999-1f40-3841-93a8-332799e9c175",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MU",
-      "title": "Micron Technology, Inc. (MU) Is a Trending Stock: Facts to Know Before Betting on It",
-      "summary": "Zacks.com users have recently been watching Micron (MU) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-inc-mu-trending-130005788.html?.tsrc=rss",
-      "time": "2026-11-09T13:00:05+00:00",
+      "ticker": "REGN",
+      "title": "Global Gene Therapy for Hearing Loss Market Report 2026 | Capture Growth to $1.71B by 2030 as Regeneron, Lilly, Sensorion and Astellas Advance AAV, CRISPR and Cochlear Delivery",
+      "summary": "Profiles Regeneron, Eli Lilly, Sensorion, Astellas Pharma and BridgeBio, covering hearing-loss gene therapies, pipelines, innovation and market activity.Dublin, Nov. 09, 2026 (GLOBE NEWSWIRE) -- \"Gene Therapy For Hearing Loss Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. The global gene therapy for hearing loss market is experiencing rapid expansion, supported by advances in molecular genetics, regenerative medicine and targeted treatment development. The market",
+      "link": "https://finance.yahoo.com/healthcare/articles/global-gene-therapy-hearing-loss-143100941.html?.tsrc=rss",
+      "time": "2026-11-09T14:31:00+00:00",
       "touches": [
-        "MU"
+        "REGN"
       ],
-      "tags": [],
+      "tags": [
+        "capital"
+      ],
       "new": true
     }
   ],
   "atencao": [
     {
-      "id": "rss:b2520459-9265-49b6-bdba-00a4e65dd39c",
+      "id": "rss:18a9a3ed-7082-4067-b97a-1baa07a038c2",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia's Jensen Huang admits to affair with suspected Chinese spy, raising security concerns",
-      "summary": "Nvidia (NVDA) stock is under fire over CEO Jensen Huang's acknowledged affair with Alice Wong, who is suspected of being a spy for Chinese intelligence. The company's board is launching a probe into the affair. \"The 8:30\" hosts Julie Hyman, Pras Subramanian, and Jake Conley take a closer look.",
-      "link": "https://finance.yahoo.com/video/nvidias-jensen-huang-admits-to-affair-with-suspected-chinese-spy-raising-security-concerns-141917404.html?.tsrc=rss",
-      "time": "2026-11-09T14:19:17+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "legal",
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:2c1c8bc5-818d-357d-a3f9-2b7a4a511e1f",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia Stock Drops On Spy Scandal, CEO Probe",
-      "summary": "Nvidia stock fell Monday as the AI chipmaker deals with an embarrassing \"honeypot\" scandal involving Chief Executive Jensen Huang.",
-      "link": "https://finance.yahoo.com/m/2c1c8bc5-818d-357d-a3f9-2b7a4a511e1f/nvidia-stock-drops-on-spy.html?.tsrc=rss",
-      "time": "2026-11-09T14:06:41+00:00",
+      "title": "Did Trump know about Jensen Huang? What Congress will be looking at",
+      "summary": "Nvidia (NVDA) stock is under fire over CEO Jensen Huang's acknowledged affair with Alice Wong, who is suspected of being a spy for Chinese intelligence. The company's board is launching a probe into the affair. \"Chip War\" author Chris Miller chats with Yahoo Finance Breaking Business News Reporter Jake Conley about his expectations for the US government's response and Congress's closed-door briefing.",
+      "link": "https://finance.yahoo.com/video/did-trump-know-about-jensen-huang-what-congress-will-be-looking-at-143858698.html?.tsrc=rss",
+      "time": "2026-11-09T14:38:58+00:00",
       "touches": [
         "NVDA"
       ],

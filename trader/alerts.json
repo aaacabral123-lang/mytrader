@@ -43,20 +43,6 @@
       "note": "rob\u00f4: +10% do pre\u00e7o m\u00e9dio"
     },
     {
-      "id": "robo-stop-NVDA",
-      "symbol": "NVDA",
-      "type": "stop",
-      "price": 176.64,
-      "note": "rob\u00f4: -15% do pre\u00e7o m\u00e9dio"
-    },
-    {
-      "id": "robo-take-NVDA",
-      "symbol": "NVDA",
-      "type": "target",
-      "price": 228.59,
-      "note": "rob\u00f4: +10% do pre\u00e7o m\u00e9dio"
-    },
-    {
       "id": "robo-stop-ORCL",
       "symbol": "ORCL",
       "type": "stop",

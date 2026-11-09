@@ -379,6 +379,46 @@
       "id": "ca42b1d4-6c57-4b9f-afe6-be74309ec17f",
       "approved_by": "robo (automatic, paper)",
       "why": "stop: NVDA is $174.41 is at or below your stop $176.64 (rob\u00f4: -15% do pre\u00e7o m\u00e9dio)."
+    },
+    {
+      "date": "2026-11-09",
+      "at": "2026-11-09T15:05:09Z",
+      "status": "placed",
+      "symbol": "ADBE",
+      "side": "buy",
+      "id": "36e63a4c-89be-4a22-bfb8-9130f70ac80f",
+      "approved_by": "robo (automatic, paper)",
+      "why": "drifted -2.3 points from its 15.0% target (band 2)"
+    },
+    {
+      "date": "2026-11-09",
+      "at": "2026-11-09T15:05:09Z",
+      "status": "placed",
+      "symbol": "ORCL",
+      "side": "buy",
+      "id": "d2307594-a9be-4742-a5f0-d9ff42e8b956",
+      "approved_by": "robo (automatic, paper)",
+      "why": "drifted -2.7 points from its 15.0% target (band 2)"
+    },
+    {
+      "date": "2026-11-09",
+      "at": "2026-11-09T15:05:09Z",
+      "status": "placed",
+      "symbol": "REGN",
+      "side": "buy",
+      "id": "58b1c66f-da8d-49f5-9026-e6a38ed51e65",
+      "approved_by": "robo (automatic, paper)",
+      "why": "drifted -2.2 points from its 15.0% target (band 2)"
+    },
+    {
+      "date": "2026-11-09",
+      "at": "2026-11-09T15:05:09Z",
+      "status": "placed",
+      "symbol": "UNP",
+      "side": "buy",
+      "id": "3a5a6e65-2e7b-432e-8a21-89efe3910585",
+      "approved_by": "robo (automatic, paper)",
+      "why": "drifted -2.3 points from its 15.0% target (band 2)"
     }
   ]
 }

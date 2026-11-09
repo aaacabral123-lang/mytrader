@@ -1,14 +1,42 @@
 {
-  "created_by": "robo (stop)",
+  "created_by": "trader-rebalance",
+  "created_at": "2026-11-09T15:05:16",
+  "status": "proposed",
   "paper": true,
+  "note": "Proposals only, sells first. Nothing is placed until trader-risk passes each order and you say yes to it in the chat.",
+  "prices_as_of": "2026-11-09T15:05:10Z",
   "orders": [
     {
-      "symbol": "NVDA",
-      "side": "sell",
-      "qty": "2.381935421",
+      "symbol": "ADBE",
+      "side": "buy",
+      "notional": "86",
       "type": "market",
       "time_in_force": "day",
-      "why": "stop: NVDA is $174.41 is at or below your stop $176.64 (rob\u00f4: -15% do pre\u00e7o m\u00e9dio)."
+      "why": "drifted -2.3 points from its 15.0% target (band 2)"
+    },
+    {
+      "symbol": "ORCL",
+      "side": "buy",
+      "notional": "101",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "drifted -2.7 points from its 15.0% target (band 2)"
+    },
+    {
+      "symbol": "REGN",
+      "side": "buy",
+      "notional": "83",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "drifted -2.2 points from its 15.0% target (band 2)"
+    },
+    {
+      "symbol": "UNP",
+      "side": "buy",
+      "notional": "87",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "drifted -2.3 points from its 15.0% target (band 2)"
     }
   ]
 }

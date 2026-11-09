@@ -1,5 +1,5 @@
 {
-  "cash": 411.48,
+  "cash": 826.84,
   "positions": [
     {
       "ticker": "ADBE",
@@ -33,18 +33,6 @@
           "id": "MSFT-alpaca",
           "shares": 0.96296023,
           "cost": 495.99,
-          "date": "2026-10-28"
-        }
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "shares": 2.381935421,
-      "lots": [
-        {
-          "id": "NVDA-alpaca",
-          "shares": 2.381935421,
-          "cost": 494.99,
           "date": "2026-10-28"
         }
       ]

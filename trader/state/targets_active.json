@@ -1,12 +1,7 @@
 {
-  "source": "trader-screener: Growing, profitable, not priced for perfection (2026-11-06), 10 de 102 empresas passaram",
-  "as_of": "2026-11-06",
+  "source": "trader-screener: Growing, profitable, not priced for perfection (2026-11-09), 10 de 102 empresas passaram",
+  "as_of": "2026-11-09",
   "weights": [
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA CORP",
-      "weight": 12.5
-    },
     {
       "ticker": "ORCL",
       "name": "ORACLE CORP",
