@@ -1,58 +1,39 @@
 {
-  "as_of": "2026-11-09T02:35:00Z",
+  "as_of": "2026-11-09T03:05:00Z",
   "items": [
     {
-      "id": "rss:2ae59a6a-ec3b-3c69-b2a3-00996ac4ae8c",
+      "id": "rss:cae4733a-fab3-36e9-a708-e0bfc2c1b25c",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "3 US Chip Stocks for AI Exposure With Lower China Risk",
-      "summary": "Nvidia\u2019s internal probe into CEO Jensen Huang and possible foreign intelligence targeting has put governance and national security risk in the spotlight, and that ripple hits anything tied to the AI chip story. Investors hunting for exposure without leaning heavily on China are now scanning for alternatives that could benefit as attention broadens. This article walks through three U.S. listed semiconductor and chip equipment stocks from our low China exposure screener that appear most closely...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/3-us-chip-stocks-ai-021219756.html?.tsrc=rss",
-      "time": "2026-11-09T02:12:19+00:00",
+      "title": "Tech firms claw back some losses after midterms rout, eyes on Nvidia",
+      "summary": "Tech firms rose Monday to claw back some of last week's painful losses fuelled by AI regulation worries, though traders were keeping a wary eye on a probe into Nvidia boss Jensen Huang amid claims of an affair with a Chinese spy.The executive, Alice Huang -- also known as Huang Le, and no relation to 63-year-old Taiwanese-born Jensen -- developed a close relationship with the Nvidia boss, the Times said.",
+      "link": "https://finance.yahoo.com/technology/articles/tech-firms-claw-back-losses-025428116.html?.tsrc=rss",
+      "time": "2026-11-09T02:54:28+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
-        "legal",
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:ebe8cee7-6651-3eae-ad89-4107f37bc43f",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "The Pentagon is reportedly ramping up economic warfare and espionage. Nvidia CEO Jensen Huang\u2019s affair with a suspected Chinese spy shows why",
-      "summary": "\"While the Board has no reason to believe that either national security or NVIDIA secrets were compromised, the Board's inquiry will examine all available information.\"",
-      "link": "https://finance.yahoo.com/technology/ai/articles/pentagon-reportedly-ramping-economic-warfare-232038815.html?.tsrc=rss",
-      "time": "2026-11-08T23:20:38+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "people"
+        "legal"
       ],
       "new": true
     }
   ],
   "atencao": [
     {
-      "id": "rss:2ae59a6a-ec3b-3c69-b2a3-00996ac4ae8c",
+      "id": "rss:cae4733a-fab3-36e9-a708-e0bfc2c1b25c",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "3 US Chip Stocks for AI Exposure With Lower China Risk",
-      "summary": "Nvidia\u2019s internal probe into CEO Jensen Huang and possible foreign intelligence targeting has put governance and national security risk in the spotlight, and that ripple hits anything tied to the AI chip story. Investors hunting for exposure without leaning heavily on China are now scanning for alternatives that could benefit as attention broadens. This article walks through three U.S. listed semiconductor and chip equipment stocks from our low China exposure screener that appear most closely...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/3-us-chip-stocks-ai-021219756.html?.tsrc=rss",
-      "time": "2026-11-09T02:12:19+00:00",
+      "title": "Tech firms claw back some losses after midterms rout, eyes on Nvidia",
+      "summary": "Tech firms rose Monday to claw back some of last week's painful losses fuelled by AI regulation worries, though traders were keeping a wary eye on a probe into Nvidia boss Jensen Huang amid claims of an affair with a Chinese spy.The executive, Alice Huang -- also known as Huang Le, and no relation to 63-year-old Taiwanese-born Jensen -- developed a close relationship with the Nvidia boss, the Times said.",
+      "link": "https://finance.yahoo.com/technology/articles/tech-firms-claw-back-losses-025428116.html?.tsrc=rss",
+      "time": "2026-11-09T02:54:28+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
-        "legal",
-        "people"
+        "legal"
       ],
       "new": true
     }
