@@ -1,5 +1,94 @@
 {
-  "as_of": "2026-11-09T08:05:00Z",
-  "items": [],
-  "atencao": []
+  "as_of": "2026-11-09T09:05:00Z",
+  "items": [
+    {
+      "id": "rss:fb33f17b-0831-3d21-9fd6-ec3dba64f465",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "European equities flatline as markets digest Nvidia board probe",
+      "summary": "Investing.com - European shares began the week on a dour note, as a heavy slate of upcoming macroeconomic data and unsettling leadership drama at artificial intelligence bellwether Nvidia kept markets on the sidelines.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/european-equities-flatline-markets-digest-083653253.html?.tsrc=rss",
+      "time": "2026-11-09T08:36:53+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "legal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:7de221d5-2e41-308f-837f-f6f55b95951f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "China dismisses a spy plot claim involving Nvidia CEO Jensen Huang as smear campaign",
+      "summary": "BANGKOK (AP) \u2014 China denied on Monday there was a spy plot attempt to ensnare Nvidia CEO Jensen Huang, calling the spying allegations unsubstantiated and a smear campaign against Beijing.Huang has acknowledged to the Nvidia board that he had been intimate with a business executive who U.",
+      "link": "https://finance.yahoo.com/technology/articles/china-dismisses-spy-plot-claim-082725343.html?.tsrc=rss",
+      "time": "2026-11-09T08:27:25+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:6cfb51c2-cee5-3d6d-b0d3-7c5bd0ff0e43",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Applied Materials, Cisco, Berkshire Hathaway, Nvidia, Micron and Alphabet are part of Zacks Earnings Preview",
+      "summary": "Zacks' Earnings Preview highlights AMAT, CSCO, BRK.B, NVDA, MU and GOOGL as key companies amid broad-based Q3 earnings growth and evolving estimate revisions.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-cisco-berkshire-hathaway-070000795.html?.tsrc=rss",
+      "time": "2026-11-09T07:00:00+00:00",
+      "touches": [
+        "GOOGL",
+        "MU",
+        "NVDA"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:d2e7f6be-6841-337c-99f2-aa800a2810dc",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Cinemark and Whirlpool have been highlighted as Zacks Bull and Bear of the Day",
+      "summary": "CNK's record results and rising earnings estimates earn it Bull of the Day, while WHR's weak demand and sharply reduced earnings outlook make it a Bear.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cinemark-whirlpool-highlighted-zacks-bull-065300740.html?.tsrc=rss",
+      "time": "2026-11-09T06:53:00+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    }
+  ],
+  "atencao": [
+    {
+      "id": "rss:fb33f17b-0831-3d21-9fd6-ec3dba64f465",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "European equities flatline as markets digest Nvidia board probe",
+      "summary": "Investing.com - European shares began the week on a dour note, as a heavy slate of upcoming macroeconomic data and unsettling leadership drama at artificial intelligence bellwether Nvidia kept markets on the sidelines.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/european-equities-flatline-markets-digest-083653253.html?.tsrc=rss",
+      "time": "2026-11-09T08:36:53+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "legal"
+      ],
+      "new": true
+    }
+  ]
 }
