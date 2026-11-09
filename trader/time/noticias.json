@@ -1,103 +1,73 @@
 {
-  "as_of": "2026-11-09T12:05:00Z",
+  "as_of": "2026-11-09T12:35:00Z",
   "items": [
     {
-      "id": "rss:fe374e8b-9c36-305c-ba24-270c221651f8",
+      "id": "rss:ce4d915d-e7e5-39d3-aac2-b939823c3832",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "YieldMax\u00ae ETFs Announces Distributions on\u00a0MSST, NVIT, and TEST",
-      "summary": "CHICAGO and MILWAUKEE and NEW YORK, Nov. 09, 2026 (GLOBE NEWSWIRE) -- YieldMax\u00ae today announced distributions for the YieldMax\u00ae Performance & Distribution Target 25\u2122 ETFs listed in the table below. The Fund seeks to generate income with a 25% target annual income level. Group 3 Distribution Announcement: Ex. & Record Date: November 10, 2026Payment Date: November 12, 2026 ETF Ticker1ETF NameDistribution FrequencyDistribution per ShareDistribution Rate230-DaySEC Yield3MSSTYieldMax\u00ae MSTR Performanc",
-      "link": "https://finance.yahoo.com/markets/options/articles/yieldmax-etfs-announces-distributions-msst-115500504.html?.tsrc=rss",
-      "time": "2026-11-09T11:55:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:af002074-30ed-3119-8db5-b39b98a919c6",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Constellation Reports Third Quarter 2026 Results",
-      "summary": "BALTIMORE, November 09, 2026--Constellation Energy Corporation (Nasdaq: CEG) today reported its financial results for the third quarter of 2026.",
-      "link": "https://finance.yahoo.com/energy/articles/constellation-reports-third-quarter-2026-114900702.html?.tsrc=rss",
-      "time": "2026-11-09T11:49:00+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:264a44dd-6512-3993-af40-10826ab8c1b5",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "AI Chips Today - AI Tech Leaders Gather to Define Future Innovation",
-      "summary": "The 1st Annual Tennessee C-Level Technology Leadership Summit, hosted by HMG Strategy, is set to take place in Nashville on November 13. This event will convene CIOs, CISOs, CTOs, and senior technology executives from Tennessee and the surrounding regions to engage in discussions centered around artificial intelligence (AI), cybersecurity, and workforce transformation. The summit aims to foster a collaborative environment where technology leaders can share insights on how AI is redefining...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-chips-today-ai-tech-113730173.html?.tsrc=rss",
-      "time": "2026-11-09T11:37:30+00:00",
-      "touches": [
-        "MU",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:ca54e053-1075-3cb3-acf9-55fda3aba1d1",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Premarket movers: Nvidia slides on Huang probe, NVR extends rally",
-      "summary": "Investing.com -- Stock futures rose early Monday as traders watched technology shares following last week\u2019s volatility, awaiting key inflation data and earnings from major AI companies. S&P 500 futures gained 0.5% and Nasdaq 100 futures rose about 0.3%. Dow Jones Industrial Average futures led, climbing 0.9%.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-nvidia-slides-huang-113609873.html?.tsrc=rss",
-      "time": "2026-11-09T11:36:09+00:00",
+      "title": "Nvidia Stock Shock Has Investors Rethinking AI Infrastructure ETFs",
+      "summary": "Governance risk at Nvidia has suddenly moved from fine print to front page, and that shift matters for every investor leaning on big tech ETFs for stability. When a single leadership probe can ripple through AI supply chains and export rules, concentration risk stops being theoretical. This piece walks through three mega cap stocks exposed to the same news shock, and shows how governance resilience might help you decide where to lean in or step back. The ETFs highlighted in this article are...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-shock-investors-rethinking-121152946.html?.tsrc=rss",
+      "time": "2026-11-09T12:11:52+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
-        "earnings",
         "legal"
       ],
       "new": true
     },
     {
-      "id": "rss:085c1497-b34e-37a0-9cc4-0563035b5d60",
+      "id": "rss:99a68749-2e71-4c77-b537-f4829919ae38",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Google warns millions of Gmail users could face new restrictions",
-      "summary": "Google says proposed online safety requirements could extend age verification to everyday communication services.",
-      "link": "https://finance.yahoo.com/technology/articles/google-warns-millions-gmail-users-112929192.html?.tsrc=rss",
-      "time": "2026-11-09T11:29:29+00:00",
+      "title": "OpenAI's Hail Mary: GPT-6.2 Astra and a $1.25 trillion bet",
+      "summary": "OpenAI has gone quiet while Anthropic takes the IPO spotlight, but it hasn't been idle. Host Ejaaz Ahamadeen breaks down what it's been doing, from ChatGPT handling a fifth of Google's searches and poaching Anthropic talent to a shrinking funding round, a compute crunch and the GPT-6.2 Astra model waiting in the wings.",
+      "link": "https://finance.yahoo.com/video/openais-hail-mary-gpt-6-120000784.html?.tsrc=rss",
+      "time": "2026-11-09T12:00:00+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT",
+        "ORCL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:b13321d3-b83b-34d0-8745-afcce0620fd7",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Fervo Energy Reports Third Quarter 2026 Results",
+      "summary": "HOUSTON, Nov. 09, 2026 (GLOBE NEWSWIRE) -- Fervo Energy Company (\u201cFervo\u201d or the \u201cCompany\u201d) (NASDAQ: FRVO), global pioneer of next-generation geothermal energy, today reported financial and operational results for the third quarter ended September 30, 2026. \"In the third quarter, Cape Station achieved a major milestone, reaching first power and contractual commercial operation,\" said Tim Latimer, CEO and Co-founder of Fervo. \"We also signed what we believe is the largest enhanced geothermal power",
+      "link": "https://finance.yahoo.com/energy/articles/fervo-energy-reports-third-quarter-120000055.html?.tsrc=rss",
+      "time": "2026-11-09T12:00:00+00:00",
       "touches": [
         "GOOGL"
       ],
-      "tags": [],
+      "tags": [
+        "earnings",
+        "people"
+      ],
       "new": true
     }
   ],
   "atencao": [
     {
-      "id": "rss:ca54e053-1075-3cb3-acf9-55fda3aba1d1",
+      "id": "rss:ce4d915d-e7e5-39d3-aac2-b939823c3832",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Premarket movers: Nvidia slides on Huang probe, NVR extends rally",
-      "summary": "Investing.com -- Stock futures rose early Monday as traders watched technology shares following last week\u2019s volatility, awaiting key inflation data and earnings from major AI companies. S&P 500 futures gained 0.5% and Nasdaq 100 futures rose about 0.3%. Dow Jones Industrial Average futures led, climbing 0.9%.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-nvidia-slides-huang-113609873.html?.tsrc=rss",
-      "time": "2026-11-09T11:36:09+00:00",
+      "title": "Nvidia Stock Shock Has Investors Rethinking AI Infrastructure ETFs",
+      "summary": "Governance risk at Nvidia has suddenly moved from fine print to front page, and that shift matters for every investor leaning on big tech ETFs for stability. When a single leadership probe can ripple through AI supply chains and export rules, concentration risk stops being theoretical. This piece walks through three mega cap stocks exposed to the same news shock, and shows how governance resilience might help you decide where to lean in or step back. The ETFs highlighted in this article are...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-shock-investors-rethinking-121152946.html?.tsrc=rss",
+      "time": "2026-11-09T12:11:52+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
-        "earnings",
         "legal"
       ],
       "new": true
