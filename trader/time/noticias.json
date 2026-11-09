@@ -1,40 +1,128 @@
 {
-  "as_of": "2026-11-09T10:05:00Z",
+  "as_of": "2026-11-09T10:35:00Z",
   "items": [
     {
-      "id": "rss:9f53ad16-04c3-4c6f-817f-1adc94181a4f",
+      "id": "rss:6e09a461-0af2-32c5-8aa3-01ec1c2c47d7",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia CEO Jensen Huang just made his already surprisingly cheap stock that much cheaper",
-      "summary": "It's almost stunning to see Nvidia's PE ratio at these levels.",
-      "link": "https://finance.yahoo.com/markets/stocks/article/nvidia-ceo-jensen-huang-just-made-his-already-surprisingly-cheap-stock-that-much-cheaper-095550447.html?.tsrc=rss",
-      "time": "2026-11-09T09:55:50+00:00",
+      "title": "3 Founder Led Stocks To Own In November 2026",
+      "summary": "Leadership scandals tied to national security concerns, such as the probe into Nvidia CEO Jensen Huang\u2019s relationship with an alleged Chinese spy, show how much can rest on a single executive. When a founder still runs the business, their reputation and stake in the outcome are closely tied to every decision. This article examines three founder run stocks from our screener that reflect that kind of personal commitment. The three stocks highlighted here offer a compelling starting point if you...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-founder-led-stocks-own-100920495.html?.tsrc=rss",
+      "time": "2026-11-09T10:09:20+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
+        "legal",
         "people"
       ],
       "new": true
     },
     {
-      "id": "rss:615b8140-9681-4e77-a64c-1cbede9fa867",
+      "id": "rss:41276ee7-79e7-3d45-b0a1-875f281d1f90",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Jensen Huang just handed Wall Street its first $4.5 trillion CEO scandal",
-      "summary": "Wall Street has priced plenty of CEO scandals. It has never priced one at a company worth $4.5 trillion that makes up nearly 7% of the S&P 500.",
-      "link": "https://finance.yahoo.com/markets/article/jensen-huang-just-handed-wall-street-its-first-45-trillion-ceo-scandal-094803359.html?.tsrc=rss",
-      "time": "2026-11-09T09:48:03+00:00",
+      "title": "AI Chip Stocks to Watch After TSMC and Nvidia Lift Sentiment",
+      "summary": "AI hardware and semiconductor stocks just swung from political worry to renewed excitement, as TSMC, Nvidia and their peers helped pull Asian markets off the mat and lent support to U.S. futures. For investors, that kind of sharp mood shift can quickly reprice both perceived winners and overlooked laggards. This article unpacks the news triggers and highlights three stocks exposed to these AI headlines that may warrant a closer look. The stocks covered next are just a starting sample from...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-chip-stocks-watch-tsmc-100834448.html?.tsrc=rss",
+      "time": "2026-11-09T10:08:34+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:7fcb7dc2-e0de-3ac5-a0b7-8c290f04425d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Trump Praises Nvidia CEO Amid Probe Into Affair With Suspected Spy",
+      "summary": "The president dismissed allegations against Jensen Huang, who had a romantic relationship with an executive suspected of working for Chinese intelligence.",
+      "link": "https://finance.yahoo.com/video/trump-praises-nvidia-ceo-amid-095600117.html?.tsrc=rss",
+      "time": "2026-11-09T09:56:00+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
+        "legal",
         "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:80f3640f-091c-3bd5-9673-d7f3818e07ac",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "Zacks Investment Ideas feature highlights: Bloom Energy, Skyworks Solutions and Quanta Services",
+      "summary": "AI stocks face a major selloff, but Bloom Energy, Skyworks Solutions and Quanta Services offer compelling opportunities as earnings estimates rise and infrastructure demand grows.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-091400948.html?.tsrc=rss",
+      "time": "2026-11-09T09:14:00+00:00",
+      "touches": [
+        "MU"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:75e12cb7-8393-39ca-b66f-7c4cfa786c39",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "Zacks Value Investor Highlights: MU, SNDK, SANM, STRL and FIX",
+      "summary": "AI stocks have plunged despite strong earnings and rising forecasts. Discover five beaten-down companies trading at attractive valuations, including MU and SNDK.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-value-investor-highlights-mu-090700409.html?.tsrc=rss",
+      "time": "2026-11-09T09:07:00+00:00",
+      "touches": [
+        "MU"
+      ],
+      "tags": [
+        "earnings"
       ],
       "new": true
     }
   ],
-  "atencao": []
+  "atencao": [
+    {
+      "id": "rss:6e09a461-0af2-32c5-8aa3-01ec1c2c47d7",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "3 Founder Led Stocks To Own In November 2026",
+      "summary": "Leadership scandals tied to national security concerns, such as the probe into Nvidia CEO Jensen Huang\u2019s relationship with an alleged Chinese spy, show how much can rest on a single executive. When a founder still runs the business, their reputation and stake in the outcome are closely tied to every decision. This article examines three founder run stocks from our screener that reflect that kind of personal commitment. The three stocks highlighted here offer a compelling starting point if you...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-founder-led-stocks-own-100920495.html?.tsrc=rss",
+      "time": "2026-11-09T10:09:20+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "legal",
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:7fcb7dc2-e0de-3ac5-a0b7-8c290f04425d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Trump Praises Nvidia CEO Amid Probe Into Affair With Suspected Spy",
+      "summary": "The president dismissed allegations against Jensen Huang, who had a romantic relationship with an executive suspected of working for Chinese intelligence.",
+      "link": "https://finance.yahoo.com/video/trump-praises-nvidia-ceo-amid-095600117.html?.tsrc=rss",
+      "time": "2026-11-09T09:56:00+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "legal",
+        "people"
+      ],
+      "new": true
+    }
+  ]
 }
