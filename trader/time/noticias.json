@@ -1,60 +1,23 @@
 {
-  "as_of": "2026-11-09T01:05:00Z",
+  "as_of": "2026-11-09T01:35:00Z",
   "items": [
     {
-      "id": "rss:9d6961a4-59db-3e6c-8334-a7ef7ed5cfdb",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "5 Stocks I am Retiring On",
-      "summary": "A retirement portfolio needs businesses that can keep rewarding shareholders long after the current market narrative fades. Dividends show how important those quieter sources of return can be: according to S&P Dow Jones Indices research cited in our coverage of Dividend Aristocrat stocks, dividends have accounted for roughly 31% of the S&P 500\u2019s total return [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-am-retiring-004943035.html?.tsrc=rss",
-      "time": "2026-11-09T00:49:43+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [
-        "capital"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:457eee96-557c-3a72-98e7-fa5f01d43315",
+      "id": "rss:9c9b1374-8492-3fa9-b655-824021008020",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia CEO Jensen Huang's image tarnished by board investigation and affair, analysts say",
-      "summary": "Nvidia's board of directors said Sunday it will launch an investigation into its CEO Jensen Huang, after he revealed he had an affair with a former Chinese executive.",
-      "link": "https://finance.yahoo.com/technology/articles/nvidia-ceo-jensen-huangs-image-000737077.html?.tsrc=rss",
-      "time": "2026-11-09T00:07:37+00:00",
+      "title": "Wall St futures mixed amid AI spending concerns; inflation data awaited",
+      "summary": "Investing.com-- U.S. stock index futures were mixed on Sunday evening as investors assessed whether technology shares could extend their recovery following last week's sharp selloff, while preparing for a fresh round of inflation data and earnings from artificial intelligence-related companies.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-mixed-amid-012009920.html?.tsrc=rss",
+      "time": "2026-11-09T01:20:09+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
-        "legal",
-        "people"
+        "earnings"
       ],
       "new": true
     }
   ],
-  "atencao": [
-    {
-      "id": "rss:457eee96-557c-3a72-98e7-fa5f01d43315",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia CEO Jensen Huang's image tarnished by board investigation and affair, analysts say",
-      "summary": "Nvidia's board of directors said Sunday it will launch an investigation into its CEO Jensen Huang, after he revealed he had an affair with a former Chinese executive.",
-      "link": "https://finance.yahoo.com/technology/articles/nvidia-ceo-jensen-huangs-image-000737077.html?.tsrc=rss",
-      "time": "2026-11-09T00:07:37+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "legal",
-        "people"
-      ],
-      "new": true
-    }
-  ]
+  "atencao": []
 }
