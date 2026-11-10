@@ -1,46 +1,10 @@
 {
-  "source": "trader-screener: Growing, profitable, not priced for perfection (2026-11-09), 10 de 102 empresas passaram",
-  "as_of": "2026-11-09",
+  "source": "\u00edndice S&P 500 (VOO)",
   "weights": [
     {
-      "ticker": "NVDA",
-      "name": "NVIDIA CORP",
-      "weight": 12.5
-    },
-    {
-      "ticker": "ORCL",
-      "name": "ORACLE CORP",
-      "weight": 12.5
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet Inc.",
-      "weight": 12.5
-    },
-    {
-      "ticker": "MSFT",
-      "name": "MICROSOFT CORP",
-      "weight": 12.5
-    },
-    {
-      "ticker": "ADBE",
-      "name": "ADOBE INC.",
-      "weight": 12.5
-    },
-    {
-      "ticker": "MU",
-      "name": "MICRON TECHNOLOGY INC",
-      "weight": 12.5
-    },
-    {
-      "ticker": "UNP",
-      "name": "UNION PACIFIC CORP",
-      "weight": 12.5
-    },
-    {
-      "ticker": "REGN",
-      "name": "REGENERON PHARMACEUTICALS, INC.",
-      "weight": 12.5
+      "ticker": "VOO",
+      "name": "ETF do \u00edndice S&P 500 (as 500 maiores empresas dos EUA)",
+      "weight": 100
     }
   ]
 }

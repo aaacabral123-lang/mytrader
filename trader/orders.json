@@ -1,0 +1,66 @@
+{
+  "created_by": "trader-rebalance",
+  "created_at": "2026-11-10T14:35:11",
+  "status": "proposed",
+  "paper": true,
+  "note": "Proposals only, sells first. Nothing is placed until trader-risk passes each order and you say yes to it in the chat.",
+  "prices_as_of": "2026-11-10T14:35:07Z",
+  "orders": [
+    {
+      "symbol": "ADBE",
+      "side": "sell",
+      "qty": "2.3802",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "not in your targets; selling the whole position (--sell-untracked)"
+    },
+    {
+      "symbol": "GOOGL",
+      "side": "sell",
+      "qty": "1.78815038",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "not in your targets; selling the whole position (--sell-untracked)"
+    },
+    {
+      "symbol": "MSFT",
+      "side": "sell",
+      "qty": "0.96296023",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "not in your targets; selling the whole position (--sell-untracked)"
+    },
+    {
+      "symbol": "ORCL",
+      "side": "sell",
+      "qty": "4.795958226",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "not in your targets; selling the whole position (--sell-untracked)"
+    },
+    {
+      "symbol": "REGN",
+      "side": "sell",
+      "qty": "0.62177752",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "not in your targets; selling the whole position (--sell-untracked)"
+    },
+    {
+      "symbol": "UNP",
+      "side": "sell",
+      "qty": "1.9281",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "not in your targets; selling the whole position (--sell-untracked)"
+    },
+    {
+      "symbol": "VOO",
+      "side": "buy",
+      "notional": "3400",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "drifted -90.0 points from its 90.0% target (band 2)"
+    }
+  ]
+}

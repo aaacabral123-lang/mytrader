@@ -419,6 +419,76 @@
       "id": "3a5a6e65-2e7b-432e-8a21-89efe3910585",
       "approved_by": "robo (automatic, paper)",
       "why": "drifted -2.3 points from its 15.0% target (band 2)"
+    },
+    {
+      "date": "2026-11-10",
+      "at": "2026-11-10T14:35:06Z",
+      "status": "placed",
+      "symbol": "ADBE",
+      "side": "sell",
+      "id": "8356ef93-7cda-462f-9080-64ff1b5d6287",
+      "approved_by": "robo (automatic, paper)",
+      "why": "not in your targets; selling the whole position (--sell-untracked)"
+    },
+    {
+      "date": "2026-11-10",
+      "at": "2026-11-10T14:35:06Z",
+      "status": "placed",
+      "symbol": "GOOGL",
+      "side": "sell",
+      "id": "22ecd8cb-f8b5-45f9-b126-aab4377b1099",
+      "approved_by": "robo (automatic, paper)",
+      "why": "not in your targets; selling the whole position (--sell-untracked)"
+    },
+    {
+      "date": "2026-11-10",
+      "at": "2026-11-10T14:35:06Z",
+      "status": "placed",
+      "symbol": "MSFT",
+      "side": "sell",
+      "id": "73f75965-49eb-4c62-93c7-cf17e7842bf3",
+      "approved_by": "robo (automatic, paper)",
+      "why": "not in your targets; selling the whole position (--sell-untracked)"
+    },
+    {
+      "date": "2026-11-10",
+      "at": "2026-11-10T14:35:06Z",
+      "status": "placed",
+      "symbol": "ORCL",
+      "side": "sell",
+      "id": "780a8a12-b3f7-47d4-81a6-0f1df5702509",
+      "approved_by": "robo (automatic, paper)",
+      "why": "not in your targets; selling the whole position (--sell-untracked)"
+    },
+    {
+      "date": "2026-11-10",
+      "at": "2026-11-10T14:35:06Z",
+      "status": "placed",
+      "symbol": "REGN",
+      "side": "sell",
+      "id": "5306c773-ffdf-40cb-abe0-9e20320074f1",
+      "approved_by": "robo (automatic, paper)",
+      "why": "not in your targets; selling the whole position (--sell-untracked)"
+    },
+    {
+      "date": "2026-11-10",
+      "at": "2026-11-10T14:35:06Z",
+      "status": "placed",
+      "symbol": "UNP",
+      "side": "sell",
+      "id": "b7367fc7-ed13-4815-8b5f-1bfcc55828c1",
+      "approved_by": "robo (automatic, paper)",
+      "why": "not in your targets; selling the whole position (--sell-untracked)"
+    },
+    {
+      "date": "2026-11-10",
+      "at": "2026-11-10T14:35:06Z",
+      "status": "placed",
+      "symbol": "VOO",
+      "side": "buy",
+      "id": "8df42689-f002-44ea-a46f-31d5ebb4f7a7",
+      "approved_by": "robo (automatic, paper)",
+      "why": "drifted -90.0 points from its 90.0% target (band 2)"
     }
   ]
 }

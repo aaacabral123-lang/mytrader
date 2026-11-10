@@ -1,15 +1,15 @@
 {
-  "as_of": "2026-11-10T14:05:00Z",
+  "as_of": "2026-11-10T14:35:00Z",
   "items": [
     {
-      "id": "rss:14b1a85a-0821-332c-a3e3-a268eb1a681d",
+      "id": "rss:cbc64037-e79a-3b92-8ef8-196ac639605b",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "GIGABYTE Expands Its Local AI Portfolio with the Launch of AI TOP AERO Powered by NVIDIA RTX SPARK\u2122",
-      "summary": "GIGABYTE today announced the launch of AI TOP AERO, a new AI desktop powered by the NVIDIA RTX Spark platform. Positioned as a Personal AI Studio, AI TOP AERO combines an NVIDIA Blackwell architecture GPU, up to 128GB of unified system memory, and GIGABYTE's cooling and compact chassis design. The new desktop expands GIGABYTE's AI PC lineup, bringing local AI development, content creation and gaming to personal workspaces.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/gigabyte-expands-local-ai-portfolio-140000621.html?.tsrc=rss",
-      "time": "2026-11-10T14:00:00+00:00",
+      "title": "Investors pile into Nvidia after \u2018honeytrap\u2019 scandal",
+      "summary": "Investors poured money into Nvidia shares after a suspected Chinese \u201choneytrap\u201d scandal involving the company\u2019s chief executive caused its share price to drop.",
+      "link": "https://uk.finance.yahoo.com/news/investors-pile-nvidia-honeytrap-scandal-142800843.html?.tsrc=rss",
+      "time": "2026-11-10T14:28:00+00:00",
       "touches": [
         "NVDA"
       ],
@@ -17,255 +17,267 @@
       "new": true
     },
     {
-      "id": "rss:d6c2b3fd-7a7d-378a-8aa0-9044dd7df2e0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "GoodRx stock rises on Google Cloud healthcare AI partnership",
-      "summary": "Investing.com -- Goodrx Holdings Inc (NASDAQ:GDRX) shares rose 4.7% in premarket trading Tuesday following the announcement of a partnership with Google Cloud's Gemini for healthcare platform.",
-      "link": "https://finance.yahoo.com/healthcare/articles/goodrx-stock-rises-google-cloud-135839792.html?.tsrc=rss",
-      "time": "2026-11-10T13:58:39+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:9b6387c6-08c7-369c-8cfb-0f613742ff0e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "S&P 500 market positioning risks ahead of CPI and NVIDIA earnings",
-      "summary": "Investing.com -- Last week\u2019s selloff cleared some of the froth, but the S&P 500 has not returned to a clean slate.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-market-positioning-risks-134950222.html?.tsrc=rss",
-      "time": "2026-11-10T13:49:50+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:473f132e-c68d-3d69-9051-d0d78bb500eb",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ORCL",
-      "title": "Verint Appoints Abhi Sharma as Chief Product and Technology Officer",
-      "summary": "MELVILLE, N.Y., November 10, 2026--Verint\u00ae today announced the appointment of Abhi Sharma as chief product and technology officer (CPTO), a newly created role uniting product and technology under a single leader. Sharma brings decades of experience leading and scaling global technology organizations.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/verint-appoints-abhi-sharma-chief-133300987.html?.tsrc=rss",
-      "time": "2026-11-10T13:33:00+00:00",
-      "touches": [
-        "ORCL"
-      ],
-      "tags": [
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:9545d0a6-bd5d-323c-bfc8-259b112598cb",
+      "id": "rss:4eb24bfb-0dc7-31f2-acff-c03a79fc82db",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MSFT",
-      "title": "28th China Hi-Tech Fair to Open November 26, Bringing Together Global Technology Leaders",
-      "summary": "Shenzhen,China, Nov. 10, 2026 (GLOBE NEWSWIRE) -- The 28th China Hi-Tech Fair (CHTF), hosted by the Shenzhen Municipal People's Government and organized by Zhenwei Exhibition Group, will take place from November 26 to 28 at the Shenzhen World Exhibition & Convention Center (Bao'an). Preparations for the Global Procurement Matchmaking Conference are progressing smoothly, with major international companies confirming their participation and procurement needs becoming clearer across key industries.",
-      "link": "https://finance.yahoo.com/technology/articles/28th-china-hi-tech-fair-133200451.html?.tsrc=rss",
-      "time": "2026-11-10T13:32:00+00:00",
+      "title": "Mobile Robot Middleware Market Report 2026: Size, Share, Trends and Forecast to 2030 | Capitalize on AI, Cloud and 18.6% CAGR with Microsoft, AWS, NVIDIA, ABB and Locus Robotics",
+      "summary": "Dublin, Nov. 10, 2026 (GLOBE NEWSWIRE) -- \"Mobile Robot Middleware Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global mobile robot middleware market is experiencing rapid expansion, driven by growing demand for autonomous mobile robots, industrial automation, intelligent navigation, and integrated robotics software. The market is projected to increase from $1.62 billion in 2025 to $1.91 billion in 2026, representing a compound annual growth rate (CAGR) of 18.4%.",
+      "link": "https://finance.yahoo.com/technology/articles/mobile-robot-middleware-market-report-142500619.html?.tsrc=rss",
+      "time": "2026-11-10T14:25:00+00:00",
       "touches": [
         "MSFT",
         "NVDA"
       ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:aa2de0ae-f85a-3376-be52-ce9b1c586f2c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ORCL",
-      "title": "Why Bernstein says Oracle AI opportunity is more valuable than previously thought",
-      "summary": "Investing.com -- Bernstein reiterated its Outperform rating and $325 price target on Oracle (NYSE: ORCL) shares in a note on Tuesday, telling investors that the company\u2019s economics are better than it previously thought after updating its 10-year model.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/why-bernstein-says-oracle-ai-133149244.html?.tsrc=rss",
-      "time": "2026-11-10T13:31:49+00:00",
-      "touches": [
-        "ORCL"
-      ],
       "tags": [
-        "analyst"
+        "earnings",
+        "capital"
       ],
       "new": true
     },
     {
-      "id": "rss:62cea62e-75a0-310d-9f63-519b35e0e680",
+      "id": "rss:3be86125-f32d-3c11-8f66-1f92b69e3273",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "RESAAS Announces Integration with Google Cloud, Connecting Proprietary Real Estate Data to Google's Gemini AI",
-      "summary": "Integration enables enterprise customers to leverage RESAAS's unique real estate data within their own secure Google Cloud AI environments and query it with GeminiVancouver, British Columbia--(Newsfile Corp. - November 10, 2026) - RESAAS Services Inc. (TSXV: RSS) (OTCID: RSASF) (\"RESAAS\" or \"the Company\"), a leading provider of real estate technology solutions, is pleased to announce an integration with Google Cloud, enabling enterprise customers to connect RESAAS's proprietary real estate data.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/resaas-announces-integration-google-cloud-133000184.html?.tsrc=rss",
-      "time": "2026-11-10T13:30:00+00:00",
+      "ticker": "XLE",
+      "title": "Sector Update: Energy Stocks Fall Pre-Bell Tuesday",
+      "summary": "Energy stocks were falling pre-bell Tuesday, with the State Street Energy Select Sector SPDR ETF (XL",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-pre-141948947.html?.tsrc=rss",
+      "time": "2026-11-10T14:19:48+00:00",
       "touches": [
-        "GOOGL"
+        "XLE"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:9a047e22-0a21-302b-9c36-9a188900bde7",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "NEWU expands internationally with the launch of NEWU Americas Inc. in New York",
-      "summary": "The consultancy founded by Anna Paterlini and Raffaele Bifulco strengthens its international presence, combining trend intelligence, strategy, creativity and artificial intelligence Raffaele Bifulco (left) & Anna Paterlini (right) NEWU's co-founders Raffaele Bifulco (left) & Anna Paterlini (right) MILAN and NEW YORK, Nov. 10, 2026 (GLOBE NEWSWIRE) -- Seven years after its founding, NEWU announces the establishment of NEWU Americas Inc., a wholly owned US subsidiary of Italy\u2019s NEWU S.r.l., and th",
-      "link": "https://finance.yahoo.com/technology/ai/articles/newu-expands-internationally-launch-newu-133000047.html?.tsrc=rss",
-      "time": "2026-11-10T13:30:00+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:c47823e7-a21e-37f7-9c8a-230f2cee6efc",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "reAlpha Names Russell Sinclair Head of Product, Reuniting Prevu\u2019s Platform Architect with the Company\u2019s Product Organization",
-      "summary": "Veteran of Microsoft, StreetEasy, Prevu and House IQ to guide product strategy across reAlpha\u2019s real estate, mortgage, and title technology offeringsDUBLIN, Ohio, Nov. 10, 2026 (GLOBE NEWSWIRE) -- reAlpha Tech Corp. (Nasdaq: AIRE) (\u201creAlpha\u201d or the \u201cCompany\u201d), an AI-powered real estate technology company, today announced the recent hiring of Russell Sinclair as Head of Product. Based in New York, Mr. Sinclair will lead product strategy and management across the Company\u2019s platform. Mr. Sinclair j",
-      "link": "https://finance.yahoo.com/real-estate/articles/realpha-names-russell-sinclair-head-133000004.html?.tsrc=rss",
-      "time": "2026-11-10T13:30:00+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:2346f271-7301-35b9-b9e0-bf682c97cbde",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Rackspace and Together AI Announce Strategic Agreement to Support Enterprise AI Inference",
-      "summary": "Initial agreement to deliver Together AI inference on NVIDIA GB300 NVL72 infrastructure operated by RackspaceSAN ANTONIO, Nov. 10, 2026 (GLOBE NEWSWIRE) -- Rackspace\u00ae (NASDAQ: RXT), the operator of the full enterprise AI stack, and Together AI, the AI Native Cloud, today announced an initial multiyear strategic AI infrastructure agreement under which Rackspace expects to provide and operate dedicated NVIDIA GB300 NVL72 infrastructure connected with NVIDIA Spectrum-X Ethernet networking to suppor",
-      "link": "https://finance.yahoo.com/technology/ai/articles/rackspace-together-ai-announce-strategic-133000918.html?.tsrc=rss",
-      "time": "2026-11-10T13:30:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:c32a2f81-848a-36ad-a89d-2e59fe187f5d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Commvault to Help Enterprises Put More Data to Work Safely for AI with NVIDIA",
-      "summary": "Commvault (NASDAQ: CVLT), delivering continuous recovery for the AI era, today announced a collaboration with NVIDIA that will help enterprises make more of their data usable for AI while keeping data current, authorized, and governed as it flows into AI applications and agents.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/commvault-help-enterprises-put-more-133000893.html?.tsrc=rss",
-      "time": "2026-11-10T13:30:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:26faae03-365b-3b73-85c7-db335d4bf01d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Update: Anthropic Targeting to Raise Up to $64.40 Billion From IPO",
-      "summary": "(Updates with the official S1 filing throughout the story.) Anthropic (ANT) said Tuesday it is ta",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-targeting-raise-64-40-132633453.html?.tsrc=rss",
-      "time": "2026-11-10T13:26:33+00:00",
-      "touches": [
-        "GOOGL",
-        "MSFT",
-        "MU",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:81f6b093-f194-325c-a963-de14b137882e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Druva Expands AI Resilience to Recover AI Agents Across the Enterprise",
-      "summary": "SANTA CLARA, Calif., November 10, 2026--Druva, the resilience foundation for the AI enterprise, today announced Druva Agent Recovery, a new set of AI Resilience capabilities that keep the business running by quickly restoring AI agents when they are deleted or unexpectedly changed. Support begins with Microsoft Copilot Studio, Microsoft\u2019s platform for building custom AI agents.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/druva-expands-ai-resilience-recover-130000038.html?.tsrc=rss",
-      "time": "2026-11-10T13:00:00+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:45d29d11-7e9f-3e67-9b5f-966cb49301fe",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Bay Emerges From Stealth With $50M After Fortune 100 Companies Used Its Platform to Triple Autonomous AI Agent Use",
-      "summary": "TEL AVIV, Israel, November 10, 2026--Bay, the AI security platform building the trust layer for agentic enterprises, today emerged from stealth less than a year after its founding with dozens of enterprise customers, including Micron, Peloton, ClickUp and Wix. Bay addresses a primary barrier to AI adoption by allowing autonomous agents to perform business-critical work safely while enterprises retain control and accountability at scale.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/bay-emerges-stealth-50m-fortune-130000718.html?.tsrc=rss",
-      "time": "2026-11-10T13:00:00+00:00",
-      "touches": [
-        "MSFT",
-        "MU"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:60d9b979-88ca-3faf-8efd-31ec737cecd2",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Obsidian Security Announces Industry\u2019s First Context-Aware Runtime Decision Engine to Enforce AI Agent Actions, Across Coding Tools, Gateways and Third-Party Applications",
-      "summary": "PALO ALTO, Calif., November 10, 2026--Obsidian Security, the industry leader in third-party application and AI security, today announced its Runtime Policy Decision Engine, giving security teams centralized control over AI agent actions before they run. Building on Obsidian\u2019s extensive AI agent discovery and governance coverage, the engine uses context about who is behind an agent, its access and the third-party applications involved to allow or block actions, or require human approval where sup",
-      "link": "https://finance.yahoo.com/technology/ai/articles/obsidian-security-announces-industry-first-130000250.html?.tsrc=rss",
-      "time": "2026-11-10T13:00:00+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:6b5fce4f-a059-3ab9-9ca5-2d0dfb7b284d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Time to Buy Nvidia-Heavy ETFs as CEO Huang's Affair Turns Into a Spy Plot?",
-      "summary": "Nvidia's leadership probe raises key-man risk concerns, but diversified ETFs offer exposure to its AI growth story with added protection.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/time-buy-nvidia-heavy-etfs-124200029.html?.tsrc=rss",
-      "time": "2026-11-10T12:42:00+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [
-        "legal",
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:2ea6607b-512b-46b7-bf74-6598169ee1ab",
+      "id": "rss:c2e85d28-77b5-374c-b834-6c2c78d1c13f",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MU",
-      "title": "Wall Street's $1.6 trillion rebound may look like a bottom \u2014 history says it often isn't: Chart of the Day",
-      "summary": "Monday's rally came two sessions after the worst day in 18 months, and big bounces like it have usually been followed by one more trip below the low.",
-      "link": "https://finance.yahoo.com/markets/article/wall-streets-16-trillion-rebound-may-look-like-a-bottom--history-says-it-often-isnt-chart-of-the-day-110000299.html?.tsrc=rss",
-      "time": "2026-11-10T11:00:00+00:00",
+      "title": "Nvidia is the Only Chip Stock in the Red",
+      "summary": "Nvidia Slides on the Jensen Huang Probe. AMD, Broadcom, and Taiwan Semiconductor Move Higher",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-only-chip-stock-red-141821143.html?.tsrc=rss",
+      "time": "2026-11-10T14:18:21+00:00",
       "touches": [
-        "MU"
+        "MU",
+        "NVDA"
+      ],
+      "tags": [
+        "legal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:e45a102c-b075-3bfc-8808-f57949d47364",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Wedbush Has a Strong Message for TSMC Stock Fans",
+      "summary": "TSMC Starts December Quarter With a Bang and Wedbush Says the Bar Is Set High",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wedbush-strong-message-tsmc-stock-141543172.html?.tsrc=rss",
+      "time": "2026-11-10T14:15:43+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:7eb5b868-a04d-3c2a-8d85-c587769d7c0e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Microsoft and IBM Team Up for Governed AI Agents",
+      "summary": "IBM Microsoft move to bring order to chaotic enterprise AI agent rollouts",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-ibm-team-governed-ai-141303438.html?.tsrc=rss",
+      "time": "2026-11-10T14:13:03+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:446166a5-31d4-383a-8534-83e823e8a800",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Adobe and Google Deepen Partnership to Bring Leading AI Models and Integrated Workflows to Creatives and Enterprises",
+      "summary": "MIAMI BEACH, Fla. & SUNNYVALE, Calif., November 10, 2026--Today at Adobe MAX, the world\u2019s largest creativity conference, Adobe (Nasdaq: ADBE) and Google announced an expanded strategic partnership to bring Adobe\u2019s tools to more Google products and Google\u2019s AI models into more Adobe apps. Acrobat will be available in Google Workspace through Google Drive and Gmail. Adobe will expand its connectors in Gemini and Gemini Enterprise with Acrobat and additional creative tools, while also bringing its",
+      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-google-deepen-partnership-bring-140400160.html?.tsrc=rss",
+      "time": "2026-11-10T14:04:00+00:00",
+      "touches": [
+        "ADBE",
+        "GOOGL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:7fab4858-6840-32d7-835d-221689b5e698",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Adobe Brings Agentic AI to the Content Supply Chain with CX Enterprise Coworker",
+      "summary": "MIAMI BEACH, Fla., November 10, 2026--Today, at Adobe MAX\u2014the world\u2019s largest creativity conference\u2014Adobe (Nasdaq:ADBE)\u2014the global technology leader that unleashes creativity, productivity and customer experiences through innovative tools and platforms\u2014announced agentic AI innovations in Adobe GenStudio, an end-to-end content supply chain solution. As brands look to scale customer experiences that feel personal and relevant, Adobe is enabling teams to build the \"Studio of the Future,\" where inte",
+      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-brings-agentic-ai-content-140300776.html?.tsrc=rss",
+      "time": "2026-11-10T14:03:00+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:378056da-f6f3-3e9f-a5f5-f0f65c2da338",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Reco Delivers Continuous Visibility and Security for Databricks Genie Agents",
+      "summary": "Validated Databricks Connected Partner integration enables security teams to govern Databricks agents alongside Salesforce, ServiceNow, Microsoft and other enterprise agents ALTAMONTE SPRINGS, Fla., Nov. 10, 2026 (GLOBE NEWSWIRE) -- Reco, the leader in Agent Security, today announced it is a validated Databricks Connected Partner in the Databricks Brickbuilder Partner Network. The integration enables customers to discover and secure Databricks Genie agents alongside agents running across Salesfo",
+      "link": "https://finance.yahoo.com/technology/ai/articles/reco-delivers-continuous-visibility-security-140300224.html?.tsrc=rss",
+      "time": "2026-11-10T14:03:00+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:53700407-eefb-3e40-9d7c-5348b558d6ca",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Adobe Transforms Its Creative Cloud Tools Into Agentic Workflows Built with the Precision and Control Pros Expect, Giving Creatives More Time for Their Craft",
+      "summary": "MIAMI BEACH, Fla., November 10, 2026--Today at Adobe MAX \u2014 the world's largest creativity conference \u2014 Adobe (Nasdaq: ADBE) \u2014 the global technology leader that unleashes creativity, productivity and customer experiences through innovative tools and platforms \u2014 announced innovations that transform Creative Cloud tools into agentic workflows, built with the precision and control pros expect, giving creatives more time for their craft. The Adobe Creative Agent is expanding across Creative Cloud, or",
+      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-transforms-creative-cloud-tools-140200322.html?.tsrc=rss",
+      "time": "2026-11-10T14:02:00+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:9ecb846e-deed-3fc3-b7e4-3afdf31fec04",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Adobe Firefly Expands as the AI Creative Studio, Bringing Adobe\u2019s Trusted Creative Tools to Every Creator",
+      "summary": "MIAMI BEACH, Fla., November 10, 2026--Today at Adobe MAX \u2014 the world's largest creativity conference \u2014 Adobe (Nasdaq: ADBE) \u2014 the global technology leader that unleashes creativity, productivity and customer experiences through innovative tools and platforms \u2014 expanded Adobe Firefly as the AI creative studio, with new agentic capabilities, top industry models and AI-powered tools that give every creator one place to ideate, create and scale. Adobe is expanding the Adobe Creative Agent across Fir",
+      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-firefly-expands-ai-creative-140100956.html?.tsrc=rss",
+      "time": "2026-11-10T14:01:00+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:b4e289af-8dc4-3ee2-8ad3-c862980f7410",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Market Chatter: Microsoft Urges Trump to Scrap Expected Ban on Chinese Data Center Tech",
+      "summary": "Microsoft (MSFT) has been urging the Trump administration to abandon plans to bar Chinese imports of",
+      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-microsoft-urges-trump-140016504.html?.tsrc=rss",
+      "time": "2026-11-10T14:00:16+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:d9a02912-92eb-3cdd-8cb6-0238c7c5bbf8",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Seedless Names Briordy Meyers Head of Legal Data Intelligence and Customer Success",
+      "summary": "Former Google and Capital One executive joins as company earns spot in TLTF Summit Startup Showcase Briordy Meyers Seedless PHILADELPHIA, Nov. 10, 2026 (GLOBE NEWSWIRE) -- Seedless, which builds custom synthetic legal data for testing and adopting AI, today named Briordy Meyers head of legal data intelligence and customer success. Meyers previously served as discovery counsel at Google and, most recently, as privacy director at Capital One. He is a founding member of Legal Data Intelligence, the",
+      "link": "https://finance.yahoo.com/technology/ai/articles/seedless-names-briordy-meyers-head-140000744.html?.tsrc=rss",
+      "time": "2026-11-10T14:00:00+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:dc08484a-2783-3756-bbaf-640bcd78b91f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "After challenging Google\u2019s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/challenging-google-android-cyanogen-co-140000679.html?.tsrc=rss",
+      "time": "2026-11-10T14:00:00+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:da57daa9-16b6-3506-9279-68d9ba90d272",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Rubrik Extends Protection to Google BigQuery and Google Cloud Storage",
+      "summary": "PALO ALTO, Calif., November 10, 2026--Rubrik (NYSE: RBRK), the Security and AI Operations Company, today announced extended Google Cloud data protection to include Google Cloud Storage, and the general availability of agentless, immutable backup for Google BigQuery. As agents move from pilots to production, BigQuery is no longer just a warehouse. It\u2019s the layer agents reason over and act on, making it critical for organizations to secure.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/rubrik-extends-protection-google-bigquery-140000242.html?.tsrc=rss",
+      "time": "2026-11-10T14:00:00+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:2fdde2a5-2690-3cf2-b1da-44f161894a32",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "AvePoint Deepens Strategic Partnership with Microsoft to Advance Trusted AI Adoption",
+      "summary": "Building on a 25-year partnership, AvePoint combines AI innovation with the governance, resilience, and control required for enterprise adoption in collaboration with MicrosoftAvePoint solutions extend AI trust across data, infrastructure, and agents as adoption of Microsoft Copilot, Agent 365, Copilot Studio, and Microsoft Foundry accelerates JERSEY CITY, N.J., Nov. 10, 2026 (GLOBE NEWSWIRE) -- AvePoint (Nasdaq: AVPT, SGX: AVP), the AI Trust Company, today announced an expanded strategic partne",
+      "link": "https://finance.yahoo.com/technology/ai/articles/avepoint-deepens-strategic-partnership-microsoft-140000810.html?.tsrc=rss",
+      "time": "2026-11-10T14:00:00+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:fff5faba-b23e-3258-839e-24d1dafa2967",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Netskope Appoints Carrie Francey as Global Channel Chief",
+      "summary": "Enterprise technology and cybersecurity channel veteran to lead Netskope\u2019s global partner strategy and drive ecosystem expansion as organizations navigate the next era of cloud, AI, and securitySANTA CLARA, Calif., Nov. 10, 2026 (GLOBE NEWSWIRE) -- Netskope (NASDAQ: NTSK), a leader in modern security and networking for the cloud and AI era, today announced the appointment of Carrie Francey as Senior Vice President of Global Channel Sales. Reinforcing the company\u2019s investment in a partner-led go",
+      "link": "https://finance.yahoo.com/technology/ai/articles/netskope-appoints-carrie-francey-global-140000535.html?.tsrc=rss",
+      "time": "2026-11-10T14:00:00+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:3c5321ff-677d-3b10-b233-6e288fce0ffc",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "REGN",
+      "title": "Adaptive Biotechnologies Corporation (ADPT) Hits Fresh High: Is There Still Room to Run?",
+      "summary": "Adaptive Biotechnologies (ADPT) is at a 52-week high, but can investors hope for more gains in the future? We take a look at the company's fundamentals for clues.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adaptive-biotechnologies-corporation-adpt-hits-131502084.html?.tsrc=rss",
+      "time": "2026-11-10T13:15:02+00:00",
+      "touches": [
+        "REGN"
       ],
       "tags": [],
       "new": true
@@ -273,20 +285,20 @@
   ],
   "atencao": [
     {
-      "id": "rss:6b5fce4f-a059-3ab9-9ca5-2d0dfb7b284d",
+      "id": "rss:c2e85d28-77b5-374c-b834-6c2c78d1c13f",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Time to Buy Nvidia-Heavy ETFs as CEO Huang's Affair Turns Into a Spy Plot?",
-      "summary": "Nvidia's leadership probe raises key-man risk concerns, but diversified ETFs offer exposure to its AI growth story with added protection.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/time-buy-nvidia-heavy-etfs-124200029.html?.tsrc=rss",
-      "time": "2026-11-10T12:42:00+00:00",
+      "ticker": "MU",
+      "title": "Nvidia is the Only Chip Stock in the Red",
+      "summary": "Nvidia Slides on the Jensen Huang Probe. AMD, Broadcom, and Taiwan Semiconductor Move Higher",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-only-chip-stock-red-141821143.html?.tsrc=rss",
+      "time": "2026-11-10T14:18:21+00:00",
       "touches": [
-        "MSFT"
+        "MU",
+        "NVDA"
       ],
       "tags": [
-        "legal",
-        "people"
+        "legal"
       ],
       "new": true
     }
