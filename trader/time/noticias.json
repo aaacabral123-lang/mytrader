@@ -1,5 +1,106 @@
 {
-  "as_of": "2026-11-10T10:35:00Z",
-  "items": [],
-  "atencao": []
+  "as_of": "2026-11-10T11:05:00Z",
+  "items": [
+    {
+      "id": "rss:b820d37b-0475-467f-8a71-0e35c238b9f4",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Why Nvidia's alleged Chinese spy scandal is going to confuse markets \u2014 and the government",
+      "summary": "It's impossible to know where Beijing's intelligence scheme ends and Nvidia's genuine policy aims begin.",
+      "link": "https://finance.yahoo.com/technology/article/why-nvidias-alleged-chinese-spy-scandal-is-going-to-confuse-markets--and-the-government-110000900.html?.tsrc=rss",
+      "time": "2026-11-10T11:00:00+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:d32c660e-a8a9-3cc3-a1a6-236490f6ad15",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Nvidia CEO Huang Gets More Bad News but Cathie Wood Keeps the Faith",
+      "summary": "Nvidia stock was steadying despite further scrutiny on CEO Jensen Huang. Investors including Cathie Wood were buying the dip.",
+      "link": "https://finance.yahoo.com/m/d32c660e-a8a9-3cc3-a1a6-236490f6ad15/nvidia-ceo-huang-gets-more.html?.tsrc=rss",
+      "time": "2026-11-10T10:55:00+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:263ce50f-19c9-3d37-9964-8a8d4edf8159",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "As AI hardware sells off, is this chip designer now deeply undervalued?",
+      "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-hardware-sells-off-chip-103151585.html?.tsrc=rss",
+      "time": "2026-11-10T10:31:51+00:00",
+      "touches": [
+        "GOOGL",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:ed865207-f772-385e-aa48-d6468b52d2cd",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Why Anthropic Is Right to Push Ahead With IPO Amid AI Turmoil",
+      "summary": "It\u2019s been a wild week for the AI trade, but that won\u2019t deter the Claude developer from pushing ahead with its public listing.",
+      "link": "https://finance.yahoo.com/m/ed865207-f772-385e-aa48-d6468b52d2cd/why-anthropic-is-right-to.html?.tsrc=rss",
+      "time": "2026-11-10T10:28:00+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:a1c9ff40-3e0e-3dd0-8932-1b04193d9822",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Stock Market News for Nov 10, 2026",
+      "summary": "Wall Street ended higher on Monday as falling oil prices and upcoming inflation data lifted sentiment, while Nvidia remained in focus over an investigation involving its CEO.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-10-094800346.html?.tsrc=rss",
+      "time": "2026-11-10T09:48:00+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "legal",
+        "people"
+      ],
+      "new": true
+    }
+  ],
+  "atencao": [
+    {
+      "id": "rss:a1c9ff40-3e0e-3dd0-8932-1b04193d9822",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Stock Market News for Nov 10, 2026",
+      "summary": "Wall Street ended higher on Monday as falling oil prices and upcoming inflation data lifted sentiment, while Nvidia remained in focus over an investigation involving its CEO.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-10-094800346.html?.tsrc=rss",
+      "time": "2026-11-10T09:48:00+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "legal",
+        "people"
+      ],
+      "new": true
+    }
+  ]
 }
