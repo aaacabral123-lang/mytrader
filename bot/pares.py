@@ -122,6 +122,22 @@ def simulate(px, pre, dates, s):
     return st
 
 
+def basket(px, syms, dates):
+    """Control: hold the same stocks in equal parts, rebalanced each January (no pair signal at all)."""
+    hold = [s for s in syms if s in px]
+    curve, w = [1.0], {}
+    for k in range(len(dates) - 1):
+        d, nd = dates[k], dates[k + 1]
+        if k == 0 or dates[k][:4] != dates[k - 1][:4]:
+            live = [s for s in hold if px[s].get(d)]
+            w = {s: curve[-1] / len(live) for s in live}
+        for s in w:
+            a, b = px[s].get(d), px[s].get(nd)
+            w[s] *= 1 + ((b / a - 1) if a and b else 0.0)
+        curve.append(sum(w.values()))
+    return bt.stats(curve, dates)
+
+
 def main():
     syms = sorted({s for p in PAIRS for s in p} | {"SPY"})
     px = {}
@@ -138,6 +154,8 @@ def main():
         windows[name] = sorted(d for d in px["SPY"] if lo <= d <= hi)
         c = [px["SPY"][d] for d in windows[name]]
         spy[name] = bt.stats([v / c[0] for v in c], windows[name])
+    stocks = sorted({s for p in pairs for s in p})
+    ctrl = {name: basket(px, stocks, windows[name]) for name in windows}
     keys = list(GRID)
     rows = []
     for combo in itertools.product(*(GRID[k] for k in keys)):
@@ -174,7 +192,11 @@ def main():
                windows["train"][-1], windows["test"][0], windows["test"][-1], SLOTS), "",
            "**Para comparar, só SPY:** treino %s ao ano (pior queda %s), prova %s ao ano (pior queda %s)." % (
                pct(spy["train"]["cagr"]), pct(spy["train"]["max_drawdown"]), pct(spy["test"]["cagr"]),
-               pct(spy["test"]["max_drawdown"])), "",
+               pct(spy["test"]["max_drawdown"])),
+           "**Controle, as mesmas %d empresas compradas e seguradas em partes iguais (sem a regra dos pares):** "
+           "treino %s ao ano (pior queda %s), prova %s ao ano (pior queda %s). A regra só agrega valor se "
+           "render mais do que isso." % (len(stocks), pct(ctrl["train"]["cagr"]), pct(ctrl["train"]["max_drawdown"]),
+                                          pct(ctrl["test"]["cagr"]), pct(ctrl["test"]["max_drawdown"])), "",
            "## As 10 versões mais robustas (boas no treino e na prova)", ""] + head + [row(r) for r in robust[:10]] + [
            "", "## As 10 melhores só no treino", ""] + head + [row(r) for r in by_train[:10]] + [
            "", "_Resultado passado não garante resultado futuro. Não é recomendação de investimento._"]
