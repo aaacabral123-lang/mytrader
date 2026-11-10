@@ -1,17 +1,17 @@
 {
-  "as_of": "2026-11-10T00:05:00Z",
+  "as_of": "2026-11-10T00:35:00Z",
   "items": [
     {
-      "id": "rss:55a56da4-0822-34a8-bb06-63318c2337ab",
+      "id": "rss:af89eedc-a1f4-3a50-8e86-03842cbcd37a",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Planet Labs Stock Has The Bull Case Changed After Defense Deals And Launch Pact",
-      "summary": "Planet Labs PBC released the first light image from its Pelican-12 Gen 2 high resolution satellite, the 25th spacecraft it has brought to orbit this year and the first in its fleet designed for 30 cm class imagery with onboard NVIDIA Jetson edge compute. Pelican-12\u2019s higher resolution design, lower latency communications package and Planet\u2019s new Berlin manufacturing facility together point to a push toward faster deployment, richer data products and greater appeal for defense and...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-stock-bull-case-231927307.html?.tsrc=rss",
-      "time": "2026-11-09T23:19:27+00:00",
+      "ticker": "MSFT",
+      "title": "Joint declaration on Paris call for AI safety and security",
+      "summary": "The declaration has been signed on Monday 9 November 2026 by the following Heads of States and Governments and CEOs:",
+      "link": "https://finance.yahoo.com/technology/ai/articles/joint-declaration-paris-call-ai-002600914.html?.tsrc=rss",
+      "time": "2026-11-10T00:26:00+00:00",
       "touches": [
-        "NVDA"
+        "MSFT"
       ],
       "tags": [],
       "new": true
