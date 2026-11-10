@@ -7,8 +7,32 @@
       "pct": 5
     },
     {
+      "id": "vigia-HD",
+      "symbol": "HD",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
+      "id": "vigia-V",
+      "symbol": "V",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
       "id": "vigia-VOO",
       "symbol": "VOO",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
+      "id": "vigia-XOM",
+      "symbol": "XOM",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
+      "id": "vigia-YUM",
+      "symbol": "YUM",
       "type": "pct_move",
       "pct": 5
     }
