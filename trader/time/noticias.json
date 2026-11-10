@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-10T15:35:00Z",
-  "items": [],
+  "as_of": "2026-11-10T16:05:00Z",
+  "items": [
+    {
+      "id": "rss:eea7c07e-db58-31b4-9e06-b43cecde7da4",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Adobe Powers a New Era of Creativity, Bringing Agents and Tools to Creatives Wherever and However They Create",
+      "summary": "MIAMI BEACH, Fla., November 10, 2026--Today at Adobe MAX \u2014 the world's largest creativity conference \u2014 Adobe (Nasdaq: ADBE) \u2014 the global technology leader that unleashes creativity, productivity and customer experiences through innovative tools and platforms \u2014 announced new agents and tools in Adobe Firefly, Creative Cloud and Adobe GenStudio that deliver everything creators, creative professionals and marketers need, wherever and however they create.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-powers-era-creativity-bringing-140000660.html?.tsrc=rss",
+      "time": "2026-11-10T14:00:00+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }

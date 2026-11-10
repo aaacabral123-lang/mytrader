@@ -1,9 +1,9 @@
 {
-  "as_of": "2026-11-10T15:35:01Z",
+  "as_of": "2026-11-10T16:05:01Z",
   "source": "yahoo",
   "note": "Delayed quotes for alerts and sizing checks. Your broker's price is the one that fills.",
   "prices": {
-    "ADBE": 236.08,
+    "ADBE": 233.9,
     "BLK": 1210.11,
     "GOOGL": 290.802,
     "MSFT": 543.02,
@@ -11,16 +11,16 @@
     "ORCL": 119.385,
     "QQQ": 698.27,
     "SPY": 763.53,
-    "UNP": 297.17,
+    "UNP": 296.92,
     "XLK": 170.25,
-    "XLE": 61.875,
+    "XLE": 61.56,
     "REGN": 908.95,
-    "VOO": 689.598
+    "VOO": 687.61
   },
   "detail": {
     "ADBE": {
       "prev_close": 237.32,
-      "time": "2026-11-10T15:34:23Z",
+      "time": "2026-11-10T16:05:00Z",
       "source": "yahoo"
     },
     "BLK": {
@@ -60,7 +60,7 @@
     },
     "UNP": {
       "prev_close": 297.01,
-      "time": "2026-11-10T15:34:54Z",
+      "time": "2026-11-10T16:04:21Z",
       "source": "yahoo"
     },
     "XLK": {
@@ -70,7 +70,7 @@
     },
     "XLE": {
       "prev_close": 61.94,
-      "time": "2026-11-10T15:35:00Z",
+      "time": "2026-11-10T16:04:57Z",
       "source": "yahoo"
     },
     "REGN": {
@@ -80,7 +80,7 @@
     },
     "VOO": {
       "prev_close": 691.87,
-      "time": "2026-11-10T15:34:54Z",
+      "time": "2026-11-10T16:05:01Z",
       "source": "yahoo"
     }
   }
