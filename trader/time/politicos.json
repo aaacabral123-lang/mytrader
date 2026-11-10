@@ -1,30 +1,5 @@
 {
-  "as_of": "2026-11-10T15:35:00Z",
-  "new": [
-    {
-      "doc_id": "20035014",
-      "type": "P",
-      "type_name": "Periodic Transaction Report",
-      "last": "Suozzi",
-      "first": "Thomas",
-      "name": "Hon. Thomas Suozzi",
-      "district": "NY03",
-      "year": 2026,
-      "filed": "2026-11-09",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035014.pdf"
-    },
-    {
-      "doc_id": "20024921",
-      "type": "P",
-      "type_name": "Periodic Transaction Report",
-      "last": "Kustoff",
-      "first": "David",
-      "name": "Hon. David Kustoff",
-      "district": "TN08",
-      "year": 2026,
-      "filed": "2026-11-09",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20024921.pdf"
-    }
-  ],
+  "as_of": "2026-11-10T17:35:00Z",
+  "new": [],
   "hits": []
 }
