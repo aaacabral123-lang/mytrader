@@ -1,53 +1,19 @@
 {
-  "as_of": "2026-11-09T23:35:00Z",
+  "as_of": "2026-11-10T00:05:00Z",
   "items": [
     {
-      "id": "rss:db2f6d95-b7a5-3274-8193-c767d2b681c1",
+      "id": "rss:55a56da4-0822-34a8-bb06-63318c2337ab",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Dow Jones Soars 1,132 Points As Amazon, Tesla Rally, But Nvidia Dives; CPI Inflation Report Next",
-      "summary": "Dow Jones futures were in focus after soaring 1,132 points ahead of the CPI inflation report. Amazon and Tesla rallied, but Nvidia dived.",
-      "link": "https://finance.yahoo.com/m/db2f6d95-b7a5-3274-8193-c767d2b681c1/dow-jones-soars-1%2C132-points.html?.tsrc=rss",
-      "time": "2026-11-09T23:27:00+00:00",
+      "title": "Planet Labs Stock Has The Bull Case Changed After Defense Deals And Launch Pact",
+      "summary": "Planet Labs PBC released the first light image from its Pelican-12 Gen 2 high resolution satellite, the 25th spacecraft it has brought to orbit this year and the first in its fleet designed for 30 cm class imagery with onboard NVIDIA Jetson edge compute. Pelican-12\u2019s higher resolution design, lower latency communications package and Planet\u2019s new Berlin manufacturing facility together point to a push toward faster deployment, richer data products and greater appeal for defense and...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-stock-bull-case-231927307.html?.tsrc=rss",
+      "time": "2026-11-09T23:19:27+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:ebdb5691-7625-34c1-a45f-3eddc48b4a26",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Fervo Energy Co (FRVO) (Q3 2026) Earnings Call Highlights: First Geoblock Online, Google PPA ...",
-      "summary": "Fervo Energy Co (FRVO) delivered 33 MW at Cape Station ahead of schedule, locked in a 15-year Google PPA and grew its contracted backlog to 1,054 MW, even as it posted a $43.7 million operating loss.",
-      "link": "https://finance.yahoo.com/energy/articles/fervo-energy-co-frvo-q3-230444854.html?.tsrc=rss",
-      "time": "2026-11-09T23:04:44+00:00",
-      "touches": [
-        "GOOGL"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:f1dde474-3561-3fdf-a6d4-d8843eaf88f4",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "A short seller flagged Nvidia CEO\u2019s ties to a suspected Chinese spy six months before the scandal",
-      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-      "link": "https://finance.yahoo.com/technology/articles/short-seller-flagged-nvidia-ceo-224609300.html?.tsrc=rss",
-      "time": "2026-11-09T22:46:09+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "people"
-      ],
       "new": true
     }
   ],
