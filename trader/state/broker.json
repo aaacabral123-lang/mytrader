@@ -489,6 +489,16 @@
       "id": "8df42689-f002-44ea-a46f-31d5ebb4f7a7",
       "approved_by": "robo (automatic, paper)",
       "why": "drifted -90.0 points from its 90.0% target (band 2)"
+    },
+    {
+      "date": "2026-11-10",
+      "at": "2026-11-10T16:35:03Z",
+      "status": "placed",
+      "symbol": "VOO",
+      "side": "sell",
+      "id": "2debefd7-7d88-4218-836d-77a8d5aee315",
+      "approved_by": "robo (automatic, paper)",
+      "why": "drifted +59.4 points from its 90.0% target (band 2)"
     }
   ]
 }
