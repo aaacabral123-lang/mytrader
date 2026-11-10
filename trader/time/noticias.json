@@ -1,48 +1,32 @@
 {
-  "as_of": "2026-11-10T12:35:00Z",
+  "as_of": "2026-11-10T13:35:00Z",
   "items": [
     {
-      "id": "rss:9bcd6ba8-267b-3086-8955-bcf74911795e",
+      "id": "rss:d7c6944b-60e9-35e9-9bce-53dbd4f35808",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia and Jensen Huang face shareholder lawsuit alleging investors were misled about spy affair",
-      "summary": "A shareholder has sued Nvidia and its CEO, Jensen Huang, accusing them of deceiving investors in their responses to media reports about Huang's affair with a purported Chinese spy that threatens national security. The complaint comes after President Donald Trump said the FBI is investigating the affair, which Huang has acknowledged to and apologized for.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-jensen-huang-face-shareholder-121829790.html?.tsrc=rss",
-      "time": "2026-11-10T12:18:29+00:00",
+      "ticker": "ADBE",
+      "title": "APME FX: AI, Oil and Chips Lead Its Investment Research",
+      "summary": "LIMASSOL, Cyprus, Nov. 10, 2026 (GLOBE NEWSWIRE) -- Three years of APME FX analyses show artificial intelligence and energy dominate the investment firm\u2019s research coverage Artificial intelligence, oil, and semiconductors are the industries APME FX analysts have covered most frequently. This follows from a review of all analytical outputs by APME FX between August 2023 and October 2026. More than half of the analyses (56%) focused on a specific industry or listed company. Another 34% dealt with",
+      "link": "https://finance.yahoo.com/technology/ai/articles/apme-fx-ai-oil-chips-131800240.html?.tsrc=rss",
+      "time": "2026-11-10T13:18:00+00:00",
       "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "legal",
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:3eee99a4-d97d-4637-8bdb-e234edb3be82",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Jensen Huang's spy scandal may cost Nvidia the China chip fight it was winning",
-      "summary": "Jensen Huang's spy scandal could revive Washington's push to ban China from US chips.",
-      "link": "https://finance.yahoo.com/markets/article/jensen-huangs-spy-scandal-may-cost-nvidia-the-china-chip-fight-it-was-winning-121310306.html?.tsrc=rss",
-      "time": "2026-11-10T12:13:10+00:00",
-      "touches": [
-        "NVDA"
+        "ADBE",
+        "GOOGL",
+        "ORCL"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:cdd33f76-fb27-4f38-962e-a2878771adaf",
+      "id": "rss:6a880178-7125-3505-97af-17962d968c28",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "3 bipartisan plans could slap new controls on semiconductor exports. Elizabeth Warren wants to pass one this year.",
-      "summary": "Three bipartisan measures circulating on Capitol Hill could reshape US export controls on semiconductors. On Monday, Democratic Sen. Elizabeth Warren announced an effort to implement one in the coming weeks.",
-      "link": "https://finance.yahoo.com/markets/article/3-bipartisan-plans-could-slap-new-controls-on-semiconductor-exports-elizabeth-warren-wants-to-pass-one-this-year-121030831.html?.tsrc=rss",
-      "time": "2026-11-10T12:10:30+00:00",
+      "title": "Mercor Raises $750 Million Series D at $20 Billion Valuation to Help Enterprises Own Their Intelligence",
+      "summary": "SAN FRANCISCO, November 10, 2026--The $750 million Series D will accelerate Mercor\u2019s investment in research, evaluation, and post-training infrastructure.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/mercor-raises-750-million-series-131500640.html?.tsrc=rss",
+      "time": "2026-11-10T13:15:00+00:00",
       "touches": [
         "NVDA"
       ],
@@ -50,44 +34,14 @@
       "new": true
     },
     {
-      "id": "rss:c21a8094-18da-3cb0-9ba5-47e7c7f475cf",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Microsoft pushes Trump to halt Chinese data center component ban: Reuters",
-      "summary": "Investing.com -- Microsoft has been lobbying the Trump administration to abandon plans to bar imports of Chinese optical transceivers, a key component in AI data centers, Reuters reported on Tuesday, citing three people familiar with the matter.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-pushes-trump-halt-chinese-120408623.html?.tsrc=rss",
-      "time": "2026-11-10T12:04:08+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:65454e33-705d-3ca4-8694-21dc2e91fdc5",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Elon Musk gains a major opportunity as Nvidia faces uncertainty",
-      "summary": "Elon Musk may join President Donald Trump's delegation to the APEC summit, while Jensen Huang's attendance remains in doubt.",
-      "link": "https://finance.yahoo.com/technology/articles/elon-musk-gains-major-opportunity-120118469.html?.tsrc=rss",
-      "time": "2026-11-10T12:01:18+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:e18f691e-fe09-3163-af60-1cb37c2d8aa0",
+      "id": "rss:54fd95fb-b30b-3114-a837-8a5011edf1df",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "GOOGL",
-      "title": "Florida, Stop Negotiating Your Internet Bill: welo is Here",
-      "summary": "welo, the internet provider built to challenge conventions, has launched in Greater Miami to shake the status quo and bring fair, transparent home internet to South Florida. welo delivers a simple solution: reliable home internet, guaranteed rates for life, and a modern all digital experience 24/7 customer support.",
-      "link": "https://finance.yahoo.com/technology/articles/florida-stop-negotiating-internet-bill-120000864.html?.tsrc=rss",
-      "time": "2026-11-10T12:00:00+00:00",
+      "title": "Gix Internet: Quantum X Labs Expands AI-Powered Quantum Error Correction Program to Three IBM Quantum Processors",
+      "summary": "Quantum X Labs has expanded its AI-powered quantum error correction program across three IBM quantum processors, building on its earlier work using datasets generated by Google quantum hardware and advancing its hardware-agnostic decoding technology TEL AVIV, Israel, Nov. 10, 2026 (GLOBE NEWSWIRE) -- Gix Internet Ltd. (Nasdaq: GIXI; TASE: GIX) (\u201cGix\u201d or the \u201cCompany\u201d), a dual-listed technology company, today announced that Quantum X Labs Inc. (Nasdaq: QXL) (\u201cQuantum X Labs\u201d or \u201cQXL\u201d), in which G",
+      "link": "https://finance.yahoo.com/technology/ai/articles/gix-internet-quantum-x-labs-131200495.html?.tsrc=rss",
+      "time": "2026-11-10T13:12:00+00:00",
       "touches": [
         "GOOGL"
       ],
@@ -95,39 +49,147 @@
       "new": true
     },
     {
-      "id": "rss:f0a4f80a-a0c4-359a-824a-236cc4488d0e",
+      "id": "rss:b570a4e5-6442-354c-a08c-b5080a2171e5",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "REGN",
-      "title": "Soleo Health Selected as a Specialty Pharmacy Partner for Pasatru\u2122, a New Treatment in Adults with Fibrodysplasia Ossificans Progressiva",
-      "summary": "FRISCO, Texas, Nov. 10, 2026 (GLOBE NEWSWIRE) -- Soleo Health, an innovative leader and national provider of complex specialty pharmacy services, announced today that it was selected as a specialty pharmacy partner for Pasatru\u2122 (garetosmab-grts), Regeneron\u2019s FDA-approved product to reduce formation of new heterotopic ossification (HO) lesions and clinician-assessed flare-ups in adults with fibrodysplasia ossificans progressiva (FOP), an ultra-rare genetic disorder. Approved August 19, 2026, Pasa",
-      "link": "https://finance.yahoo.com/healthcare/articles/soleo-health-selected-specialty-pharmacy-120000910.html?.tsrc=rss",
-      "time": "2026-11-10T12:00:00+00:00",
+      "ticker": "NVDA",
+      "title": "Premarket movers: Sanmina, AAON surge; Hims & Hers, Rocket Lab fall",
+      "summary": "Investing.com - U.S. stock index futures were mixed on Tuesday, with Nasdaq 100 futures under pressure as investors assessed fresh developments surrounding Nvidia Chief Executive Jensen Huang and details of Anthropic\u2019s initial public offering.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-sanmina-aaon-surge-130416925.html?.tsrc=rss",
+      "time": "2026-11-10T13:04:16+00:00",
       "touches": [
-        "REGN"
+        "NVDA"
+      ],
+      "tags": [
+        "capital"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:78d11c06-ce19-3bb0-9628-f4afc98b1141",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "IBM and Microsoft Announce a New AI Agent Platform Designed for Industry-Specific Transformation",
+      "summary": "IBM (NYSE: IBM) and Microsoft (NASDAQ: MSFT) today announced Imagine Enterprise, an agentic platform designed to help enterprises build, run, and govern AI agents that help people execute industry-specific processes. IBM Consulting and Microsoft have combined their technologies and expertise with forward-deployed engineering support for qualifying engagements to help enterprises accelerate AI deployment.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ibm-microsoft-announce-ai-agent-130000185.html?.tsrc=rss",
+      "time": "2026-11-10T13:00:00+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:a07b8587-3f7f-370a-862c-02afd80fc7c0",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ORCL",
+      "title": "Oracle Helps Financial Institutions Make Faster, More Informed Treasury and Customer Decisions with AI-Assisted Analytics",
+      "summary": "Oracle today announced Oracle Financial Services Data Intelligence Treasury Analytics and Oracle Financial Services Data Intelligence Customer Analytics, new analytics applications that combine curated financial services data with AI-assisted exploration to help financial institutions and insurers analyze complex data and inform business decisions. Generally available globally, the solutions leverage Oracle Analytics Cloud's AI Assistant and Auto Insights, enabling business users to ask question",
+      "link": "https://finance.yahoo.com/technology/ai/articles/oracle-helps-financial-institutions-faster-130000248.html?.tsrc=rss",
+      "time": "2026-11-10T13:00:00+00:00",
+      "touches": [
+        "ORCL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:5c37d17d-9dd5-3769-87a4-f1605e090546",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "What could NVIDIA\u2019s latest risks mean for the AI chip ecosystem?",
+      "summary": "Investing.com -- Analysts at Bank of America, Mizuho and Raymond James said in research notes that while governance concerns surrounding Nvidia (NASDAQ:NVDA) add near-term uncertainty, they are sticking with bullish ratings because the long-term fundamentals remain strong.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/could-nvidia-latest-risks-mean-124641710.html?.tsrc=rss",
+      "time": "2026-11-10T12:46:41+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:34351a04-efec-3db3-a27d-cf4a9788b729",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Anthropic IPO Meets Nvidia Scandal. Hold On to Your Hats.",
+      "summary": "Anthropic sets an estimated IPO price range amid febrile time for artificial intelligence stocks as Nvidia shares and Dow futures rise.",
+      "link": "https://finance.yahoo.com/m/34351a04-efec-3db3-a27d-cf4a9788b729/anthropic-ipo-meets-nvidia.html?.tsrc=rss",
+      "time": "2026-11-10T12:42:00+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:661421b6-466d-3ef7-8a2e-d0de830edd7f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Cloud AI Today - FlowX.AI and Google Cloud Partner to Boost AI Deployments",
+      "summary": "FlowX.AI, in collaboration with Google Cloud, is advancing the deployment of mission-critical AI agents beyond pilot stages into live production, especially within regulated industries. Initially joining forces through the Google for Startups program, FlowX.AI has integrated its specialized AI solutions into Google's Gemini platform for business. This collaboration emphasizes incorporating AI into core business processes rather than existing as supplementary tools, with governance and human...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cloud-ai-today-flowx-ai-124043727.html?.tsrc=rss",
+      "time": "2026-11-10T12:40:43+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:9a37b2c1-4285-3079-a1ca-57e262925bd6",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "S&P 500: Just Three Of Nov. 5's 20 Biggest Losers Have Recovered Their Losses",
+      "summary": "Sandisk led the S&P 500's biggest Nov. 5 losers. But it's still down over 10% since Nov. 4. AMD and Applied Materials have regained their losses.",
+      "link": "https://finance.yahoo.com/m/9a37b2c1-4285-3079-a1ca-57e262925bd6/s%26p-500%3A-just-three-of-nov..html?.tsrc=rss",
+      "time": "2026-11-10T12:35:19+00:00",
+      "touches": [
+        "GOOGL",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:da97c785-0bd3-355b-bc3d-81b4cac7c3c8",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Anthropic Targets $90 Billion in IPO and Placement With Big Tech",
+      "summary": "Anthropic PBC and some of its shareholders are seeking to raise as much as $90.4 billion in an IPO and private placement, in a bid to make history as the first frontier artificial intelligence lab to go public and exceed the size of SpaceX\u2019s record-setting first-time share sale.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-targets-90-billion-ipo-115423416.html?.tsrc=rss",
+      "time": "2026-11-10T11:54:23+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT",
+        "MU"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:55b989f2-5d6a-398c-b346-62d37789e968",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "The Case for Micron Stock Leaping 140%",
+      "summary": "Micron stock is down nearly 25% in the past month. Why this analyst thinks it can surge higher from here.",
+      "link": "https://finance.yahoo.com/m/55b989f2-5d6a-398c-b346-62d37789e968/the-case-for-micron-stock.html?.tsrc=rss",
+      "time": "2026-11-10T11:49:00+00:00",
+      "touches": [
+        "GOOGL",
+        "MU"
       ],
       "tags": [],
       "new": true
     }
   ],
-  "atencao": [
-    {
-      "id": "rss:9bcd6ba8-267b-3086-8955-bcf74911795e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia and Jensen Huang face shareholder lawsuit alleging investors were misled about spy affair",
-      "summary": "A shareholder has sued Nvidia and its CEO, Jensen Huang, accusing them of deceiving investors in their responses to media reports about Huang's affair with a purported Chinese spy that threatens national security. The complaint comes after President Donald Trump said the FBI is investigating the affair, which Huang has acknowledged to and apologized for.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-jensen-huang-face-shareholder-121829790.html?.tsrc=rss",
-      "time": "2026-11-10T12:18:29+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "legal",
-        "people"
-      ],
-      "new": true
-    }
-  ]
+  "atencao": []
 }
