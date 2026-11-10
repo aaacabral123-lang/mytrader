@@ -1,19 +1,53 @@
 {
-  "as_of": "2026-11-10T06:35:00Z",
+  "as_of": "2026-11-10T07:05:00Z",
   "items": [
     {
-      "id": "rss:02ceedef-9cf0-311e-b2d0-38240d7de01e",
+      "id": "rss:57dd6353-4259-3949-8056-b9bcaba7adee",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Sandisk And 2 Cash Flow Stocks To Watch",
-      "summary": "China plans to spend about US$940b on energy transition in 2026, with heavy investment in grids and low carbon power. That much long term capital searching for reliable returns can highlight businesses that quietly generate cash yet still trade cheaply. This article looks at three such stocks identified by our cash flow based value screen and explains why patient investors are watching them closely now. The stocks below are only a small sample of what shows up when cash flow strength meets...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-2-cash-flow-stocks-061328934.html?.tsrc=rss",
-      "time": "2026-11-10T06:13:28+00:00",
+      "ticker": "MSFT",
+      "title": "Quantexa Launches Supply Chain Integrity & Fraud Solution with PwC, to Expose Hidden Risk Across Multi-Tier Supplier Networks",
+      "summary": "Built on Quantexa\u2019s Decision Intelligence Platform and Microsoft Azure, the solution delivers end-to-end supplier visibility and monitoring across compliance, financial risk and ESGLONDON and NEW YORK, Nov. 10, 2026 (GLOBE NEWSWIRE) -- Quantexa, a global data, analytics and AI leader today announced the launch of the Supply Chain Integrity & Fraud solution. Developed in collaboration with PwC\u2019s supply chain risk specialists and deployed on Microsoft Azure, the solution combines Quantexa\u2019s entity",
+      "link": "https://finance.yahoo.com/technology/ai/articles/quantexa-launches-supply-chain-integrity-063000206.html?.tsrc=rss",
+      "time": "2026-11-10T06:30:00+00:00",
       "touches": [
-        "GOOGL"
+        "MSFT"
       ],
       "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:b22b8d16-6ca7-3cba-be7b-2f4c6dc3a958",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "AP Top Extended Financial Headlines at 1:24 a.m. EST",
+      "summary": "Stunning allegations of a spy plot have prompted Nvidia to investigate whether its founder and CEO, Jensen Huang, was the target of a \u201cforeign intelligence effort.",
+      "link": "https://finance.yahoo.com/technology/articles/ap-top-extended-financial-headlines-050000992.html?.tsrc=rss",
+      "time": "2026-11-10T05:00:00+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:b8ff9c77-52f8-37dd-9fd9-b60d568b6f1e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "AP Top Financial News at 1:24 a.m. EST",
+      "summary": "What we know \u2014 and what we don't \u2014 as Nvidia investigates an alleged spy plot involving its CEO",
+      "link": "https://finance.yahoo.com/technology/articles/ap-top-financial-news-1-050000382.html?.tsrc=rss",
+      "time": "2026-11-10T05:00:00+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "people"
+      ],
       "new": true
     }
   ],
