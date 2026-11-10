@@ -30,6 +30,9 @@ jobs:
       - name: Testar pares de empresas correlacionadas
         run: python3 bot/pares.py
 
+      - name: Simular os últimos 10 anos com as carteiras do robô
+        run: python3 bot/simula10.py
+
       - name: Salvar o resultado
         run: |
           git config user.name "mytrader-robo"
