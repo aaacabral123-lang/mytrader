@@ -1,140 +1,52 @@
 {
-  "as_of": "2026-11-09T21:35:00Z",
+  "as_of": "2026-11-10T21:35:00Z",
   "report": {
     "lots": [
       {
         "ticker": "ADBE",
         "id": "ADBE-alpaca",
         "date": "2026-10-28",
-        "shares": 2.380227337,
-        "cost": 581.98,
-        "price": 237.425,
-        "value": 565.13,
-        "gain": -16.85,
+        "shares": 2.7337e-05,
+        "cost": 0.01,
+        "price": 235.255,
+        "value": 0.01,
+        "gain": -0.0,
         "term": "short",
         "long_term_on": "2027-10-29"
       },
       {
-        "ticker": "GOOGL",
-        "id": "GOOGL-alpaca",
-        "date": "2026-10-28",
-        "shares": 1.78815038,
-        "cost": 495.99,
-        "price": 289.78,
-        "value": 518.17,
-        "gain": 22.18,
+        "ticker": "VOO",
+        "id": "VOO-alpaca",
+        "date": "2026-11-10",
+        "shares": 2.97608681,
+        "cost": 2047.7,
+        "price": 688.8395,
+        "value": 2050.05,
+        "gain": 2.35,
         "term": "short",
-        "long_term_on": "2027-10-29"
-      },
-      {
-        "ticker": "MSFT",
-        "id": "MSFT-alpaca",
-        "date": "2026-10-28",
-        "shares": 0.96296023,
-        "cost": 495.99,
-        "price": 546.74,
-        "value": 526.49,
-        "gain": 30.5,
-        "term": "short",
-        "long_term_on": "2027-10-29"
-      },
-      {
-        "ticker": "ORCL",
-        "id": "ORCL-alpaca",
-        "date": "2026-10-28",
-        "shares": 4.795958226,
-        "cost": 596.98,
-        "price": 120.105,
-        "value": 576.02,
-        "gain": -20.96,
-        "term": "short",
-        "long_term_on": "2027-10-29"
-      },
-      {
-        "ticker": "REGN",
-        "id": "REGN-alpaca",
-        "date": "2026-11-05",
-        "shares": 0.62177752,
-        "cost": 582.98,
-        "price": 922.755,
-        "value": 573.75,
-        "gain": -9.23,
-        "term": "short",
-        "long_term_on": "2027-11-06"
-      },
-      {
-        "ticker": "UNP",
-        "id": "UNP-alpaca",
-        "date": "2026-10-28",
-        "shares": 1.928120523,
-        "cost": 582.98,
-        "price": 296.52,
-        "value": 571.73,
-        "gain": -11.25,
-        "term": "short",
-        "long_term_on": "2027-10-29"
+        "long_term_on": "2027-11-11"
       }
     ],
     "positions": [
       {
         "ticker": "ADBE",
-        "shares": 2.380227337,
-        "cost": 581.98,
-        "value": 565.13,
-        "short": -16.85,
+        "shares": 2.7337e-05,
+        "cost": 0.01,
+        "value": 0.01,
+        "short": -0.0,
         "long": 0.0,
-        "gain": -16.85,
-        "pct": -2.9
+        "gain": -0.0,
+        "pct": 0.0
       },
       {
-        "ticker": "GOOGL",
-        "shares": 1.78815038,
-        "cost": 495.99,
-        "value": 518.17,
-        "short": 22.18,
+        "ticker": "VOO",
+        "shares": 2.97608681,
+        "cost": 2047.7,
+        "value": 2050.05,
+        "short": 2.35,
         "long": 0.0,
-        "gain": 22.18,
-        "pct": 4.47
-      },
-      {
-        "ticker": "MSFT",
-        "shares": 0.96296023,
-        "cost": 495.99,
-        "value": 526.49,
-        "short": 30.5,
-        "long": 0.0,
-        "gain": 30.5,
-        "pct": 6.15
-      },
-      {
-        "ticker": "ORCL",
-        "shares": 4.795958226,
-        "cost": 596.98,
-        "value": 576.02,
-        "short": -20.96,
-        "long": 0.0,
-        "gain": -20.96,
-        "pct": -3.51
-      },
-      {
-        "ticker": "REGN",
-        "shares": 0.62177752,
-        "cost": 582.98,
-        "value": 573.75,
-        "short": -9.23,
-        "long": 0.0,
-        "gain": -9.23,
-        "pct": -1.58
-      },
-      {
-        "ticker": "UNP",
-        "shares": 1.928120523,
-        "cost": 582.98,
-        "value": 571.73,
-        "short": -11.25,
-        "long": 0.0,
-        "gain": -11.25,
-        "pct": -1.93
+        "gain": 2.35,
+        "pct": 0.11
       }
     ],
     "missing_prices": [],
