@@ -1,38 +1,5 @@
 {
-  "as_of": "2026-11-10T10:05:00Z",
-  "items": [
-    {
-      "id": "rss:ab5509c8-aee4-30b8-92c8-e7455dc3b2cd",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "U.S. inflation data ahead; Huang scandal fallout - what\u2019s moving markets",
-      "summary": "Investing.com - Futures linked to the main U.S. stock indices hover around both sides of the flatline, as investors await key inflation figures and assess fragile sentiment around the artificial intelligence trade. Oil falls to roughly $90 a barrel on hopes for a diplomatic resolution to the Iran war, while Nvidia shares tick higher in after-hours trading following a selloff on Monday triggered by a scandal surrounding CEO Jensen Huang.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/u-inflation-data-ahead-huang-093822541.html?.tsrc=rss",
-      "time": "2026-11-10T09:38:22+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:d40fce51-03dc-3a0e-b867-21cc1cce7ee3",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Market Chatter: Nvidia's Most Advanced Chips Accessed by China's Moonshot AI",
-      "summary": "Nvidia's (NVDA) B300 GPUs were accessed by China's Moonshot AI earlier this year, Bloomberg News rep",
-      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-apos-most-093250675.html?.tsrc=rss",
-      "time": "2026-11-10T09:32:50+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-10T10:35:00Z",
+  "items": [],
   "atencao": []
 }
