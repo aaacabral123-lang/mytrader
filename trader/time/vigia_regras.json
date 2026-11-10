@@ -7,12 +7,6 @@
       "pct": 5
     },
     {
-      "id": "vigia-UNP",
-      "symbol": "UNP",
-      "type": "pct_move",
-      "pct": 5
-    },
-    {
       "id": "vigia-VOO",
       "symbol": "VOO",
       "type": "pct_move",
