@@ -1,5 +1,53 @@
 {
-  "as_of": "2026-11-10T02:05:00Z",
-  "items": [],
+  "as_of": "2026-11-10T02:35:00Z",
+  "items": [
+    {
+      "id": "rss:7f5ece24-9042-3039-8d53-ff9e67d59051",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "What Could Walt Disney (DIS) AI Push Mean For Its Creative Future?",
+      "summary": "Adobe and Walt Disney (NYSE:DIS) announced a new multi-year alliance to deploy AI tools for Disney creatives on 9 November 2026. The partnership will bring Adobe AI software into Disney film, TV, parks, cruise development and marketing workflows. Disney creative teams are expected to use Adobe tools for script development support, visual effects workflows and content localization. The Adobe AI alliance could reshape how Disney develops stories and attractions, but it is only one piece of the...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/could-walt-disney-dis-ai-021255201.html?.tsrc=rss",
+      "time": "2026-11-10T02:12:55+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:60b8775d-46ec-330b-9f0c-1aa988ac3832",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "What Does CoreWeave (CRWV) Winning A New AI Training Deal Mean?",
+      "summary": "CoreWeave (NasdaqGS:CRWV) has agreed a multi year AI cloud infrastructure deal with autonomous driving company Wayve. The agreement will supply NVIDIA Blackwell GPUs that Wayve plans to use for training its autonomous vehicle AI models. CoreWeave is providing dedicated AI cloud capacity tailored to large scale physical AI workloads for autonomous driving development. This new CoreWeave and Wayve Blackwell GPU training deal is an extra data point to consider alongside the rest of our work. We...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/does-coreweave-crwv-winning-ai-021051690.html?.tsrc=rss",
+      "time": "2026-11-10T02:10:51+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "deal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:7e3b2b5c-9d1b-3605-b9e3-670584095571",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Review & Preview: Dip Buyers Unite",
+      "summary": "Indexes popped as investors bought the dip, fueling a rebound rally on Wall Street.",
+      "link": "https://finance.yahoo.com/m/7e3b2b5c-9d1b-3605-b9e3-670584095571/review-%26-preview%3A-dip-buyers.html?.tsrc=rss",
+      "time": "2026-11-10T00:55:00+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
