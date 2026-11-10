@@ -63,8 +63,9 @@ def watched():
         out.add(w["ticker"])
     for p in (robo.read_json(robo.path("portfolio.json"), {}) or {}).get("positions", []):
         out.add(p["ticker"])
-    st = (robo.read_json(robo.path("state", "robo.json"), {}) or {}).get("curto") or {}
-    out.update(st.get("positions", {}))
+    state = robo.read_json(robo.path("state", "robo.json"), {}) or {}
+    for sleeve in ("curto", "pares"):
+        out.update((state.get(sleeve) or {}).get("positions", {}))
     return sorted(out)
 
 
@@ -142,8 +143,9 @@ def r_politicos(ctx):
 
 def r_vigia(ctx):
     held = [p["ticker"] for p in (robo.read_json(robo.path("portfolio.json"), {}) or {}).get("positions", [])]
-    st = (robo.read_json(robo.path("state", "robo.json"), {}) or {}).get("curto") or {}
-    held += list(st.get("positions", {}))
+    state = robo.read_json(robo.path("state", "robo.json"), {}) or {}
+    for sleeve in ("curto", "pares"):
+        held += list((state.get(sleeve) or {}).get("positions", {}))
     rules = [{"id": "vigia-%s" % s, "symbol": s, "type": "pct_move", "pct": 5} for s in sorted(set(held))]
     robo.write_json(os.path.join(TIME, "vigia_regras.json"), {"rules": rules})
     if not rules:
