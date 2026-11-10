@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-10T05:35:00Z",
-  "items": [],
+  "as_of": "2026-11-10T06:05:00Z",
+  "items": [
+    {
+      "id": "rss:9aec397e-92f3-3da6-a0a9-cd3cd4539507",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Moonshot AI rents Nvidia\u2019s top chips in China, Bloomberg reports",
+      "summary": "Investing.com-- Chinese artificial intelligence startup Moonshot accessed Nvidia\u2019s most advanced chips this summer, Bloomberg reported on Tuesday, citing documents filed with Beijing regulators.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/moonshot-ai-rents-nvidia-top-054313159.html?.tsrc=rss",
+      "time": "2026-11-10T05:43:13+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
