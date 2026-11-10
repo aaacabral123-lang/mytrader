@@ -1,34 +1,17 @@
 {
-  "as_of": "2026-11-10T04:05:00Z",
+  "as_of": "2026-11-10T04:35:00Z",
   "items": [
     {
-      "id": "rss:c18a8ccf-4892-37ac-9f7a-60cc952e21a4",
+      "id": "rss:74ff74b3-5c5e-3423-a725-db6e1d3d7543",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Trump says FBI investigating Nvidia CEO Huang over Chinese scandal",
-      "summary": "Investing.com-- U.S. President Donald Trump said on Monday that the FBI was investigating Nvidia CEO Jensen Huang\u2019s affair with a Chinese businesswoman who was allegedly a spy for Beijing.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/trump-says-fbi-investigating-nvidia-035047356.html?.tsrc=rss",
-      "time": "2026-11-10T03:50:47+00:00",
+      "title": "Asia stocks rally as Korean chips surge and oil retreat lifts sentiment",
+      "summary": "Investing.com -- Asian stocks extended a sharp global technology rebound on Tuesday, with South Korea and Japan leading regional gains as investors returned to beaten-down chipmakers following Wall Street\u2019s biggest rally in about seven months.",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-rally-korean-chips-042232811.html?.tsrc=rss",
+      "time": "2026-11-10T04:22:32+00:00",
       "touches": [
         "NVDA"
-      ],
-      "tags": [
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:627957cf-c2f8-3af9-aea0-1f01f5416502",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Warby Parker\u2019s (WRBY) Prospects Are Looking Brighter \u2014 Here\u2019s Why",
-      "summary": "Warby Parker Inc. (NYSE:WRBY) is one of the 10 Stocks With Easy 15-38% Gains. Warby Parker saw its share price jump by 18.56 percent on Monday to finish at $30.21 apiece, as investor sentiment strengthened on upbeat revenue prospects and anticipation surrounding the looming launch of intelligent eyewear developed with its involvement. Technology giants Samsung [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/warby-parker-wrby-prospects-looking-033428066.html?.tsrc=rss",
-      "time": "2026-11-10T03:34:28+00:00",
-      "touches": [
-        "GOOGL"
       ],
       "tags": [],
       "new": true
