@@ -69,6 +69,16 @@
       "id": "a66f2c2d-c3c0-4814-8e47-691142a8384c",
       "approved_by": "robo (automatic, paper)",
       "why": "curto prazo, sa\u00edda: repique: $170.25 acima da m\u00e9dia de 5 dias ($170.09)"
+    },
+    {
+      "date": "2026-11-10",
+      "at": "2026-11-10T18:05:02Z",
+      "status": "placed",
+      "symbol": "XLE",
+      "side": "sell",
+      "id": "18eea306-747e-4dd1-b19b-e5878ce97df8",
+      "approved_by": "robo (automatic, paper)",
+      "why": "curto prazo, sa\u00edda: repique: $62.22 acima da m\u00e9dia de 5 dias ($62.21)"
     }
   ]
 }

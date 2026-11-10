@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "paper": true,
   "results": [
     {
       "index": 1,
-      "symbol": "XLK",
+      "symbol": "XLE",
       "side": "sell",
-      "amount": "1.423925178 shares",
-      "value_usd": 242.42,
-      "fingerprint": "45b6fa5e47451e15",
+      "amount": "3.994768547 shares",
+      "value_usd": 248.53,
+      "fingerprint": "e475c4108c27092c",
       "verdict": "PASS",
       "reasons": [],
       "warnings": []
@@ -17,8 +17,8 @@
   "pass": 1,
   "block": 0,
   "warnings": [],
-  "cash_after": 747.96,
-  "prices_as_of": "2026-11-09T16:05:09Z",
-  "checked_at": "2026-11-09T16:05:12",
+  "cash_after": 996.51,
+  "prices_as_of": "2026-11-10T18:05:02Z",
+  "checked_at": "2026-11-10T18:05:04",
   "orders_file": "trader/curto/orders.json"
 }
