@@ -1,19 +1,21 @@
 {
-  "as_of": "2026-11-10T00:35:00Z",
+  "as_of": "2026-11-10T01:05:00Z",
   "items": [
     {
-      "id": "rss:af89eedc-a1f4-3a50-8e86-03842cbcd37a",
+      "id": "rss:49d39a80-0625-3dcb-927b-c321f09e8744",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Joint declaration on Paris call for AI safety and security",
-      "summary": "The declaration has been signed on Monday 9 November 2026 by the following Heads of States and Governments and CEOs:",
-      "link": "https://finance.yahoo.com/technology/ai/articles/joint-declaration-paris-call-ai-002600914.html?.tsrc=rss",
-      "time": "2026-11-10T00:26:00+00:00",
+      "ticker": "NVDA",
+      "title": "Nvidia CEO Personal Ties Could Intensify Washington Scrutiny",
+      "summary": "Nvidia (NVDA) CEO Jensen Huang's reported relationship with a woman US intelligence agencies reporte",
+      "link": "https://finance.yahoo.com/technology/articles/nvidia-ceo-personal-ties-could-004052716.html?.tsrc=rss",
+      "time": "2026-11-10T00:40:52+00:00",
       "touches": [
-        "MSFT"
+        "NVDA"
       ],
-      "tags": [],
+      "tags": [
+        "people"
+      ],
       "new": true
     }
   ],
