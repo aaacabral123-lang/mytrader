@@ -34,6 +34,7 @@ import urllib.parse
 import urllib.request
 
 import curto
+import pares_robo
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SKILLS = os.path.join(ROOT, ".claude", "skills")
@@ -243,9 +244,10 @@ def settle(api, state, log):
             qty = float(o.get("filled_qty") or 0)
             px = float(o.get("filled_avg_price") or 0)
             amount = round(qty * px, 2)
-            book = state["curto"] if rec.get("sleeve") == "curto" else state
+            sleeve = rec.get("sleeve")
+            book = state[sleeve] if sleeve in ("curto", "pares") else state
             book["cash"] = round(book["cash"] + (amount if o["side"] == "sell" else -amount), 2)
-            label = "curto prazo" if rec.get("sleeve") == "curto" else "longo prazo"
+            label = {"curto": "curto prazo", "pares": "pares"}.get(sleeve, "longo prazo")
             log("%s %s (%s): %s, %s ações a $%.2f (caixa do %s: $%.2f)"
                 % (o["side"], o["symbol"], label, o["status"], qty, px, label, book["cash"]))
             if qty > 0:
@@ -364,8 +366,11 @@ def refresh_13f(robo, state, today, log):
 def long_positions(api, robo):
     """Alpaca positions that belong to the long-term sleeve (the short-term one only holds its ETFs)."""
     c = curto.settings(robo)
-    etfs = curto.symbols(c) if c["enabled"] else set()
-    return [p for p in api.positions() if p["symbol"] not in etfs]
+    other = curto.symbols(c) if c["enabled"] else set()
+    pc = pares_robo.settings(robo)
+    if pc["enabled"]:
+        other |= pares_robo.symbols(pc)
+    return [p for p in api.positions() if p["symbol"] not in other]
 
 
 def sync_portfolio(api, robo, state, targets):
@@ -504,7 +509,8 @@ def daily_report(api, robo, cfg, targets, positions, state, today, log):
     tickers = sorted({p["symbol"] for p in positions} | {w["ticker"] for w in targets.get("weights", [])})
     invested = sum(float(p.get("market_value") or 0) for p in positions)
     short_term = curto.summary(api, state, robo)
-    st_value = short_term["value"] if short_term else 0
+    pairs = pares_robo.summary(api, state, robo)
+    st_value = (short_term["value"] if short_term else 0) + (pairs["value"] if pairs else 0)
     reg = state.get("regime_info")
     out = ["# Relatório do robô, %s" % today, "",
            ("**Mercado:** em %s (%s a $%.2f, %+.1f%% da média de %d dias)." % (
@@ -525,6 +531,12 @@ def daily_report(api, robo, cfg, targets, positions, state, today, log):
     cool = state.get("cooldown") or {}
     if cool:
         out += ["", "Fora da carteira por stop: %s." % ", ".join("%s até %s" % kv for kv in sorted(cool.items()))]
+    if pairs:
+        out += ["", "**Pares (comprar a que ficou para trás):** $%.2f (%+.1f%% desde $%.2f), caixa $%.2f."
+                % (pairs["value"], pairs["change_pct"], pairs["start"], pairs["cash"])]
+        for p in pairs["positions"]:
+            out.append("- %s (par %s): $%.2f (%+.1f%%), desde %s" % (p["symbol"], p["pair"] or "?", p["value"],
+                                                                   p["pl_pct"], p["since"] or "?"))
     if short_term:
         out += ["", "**Curto prazo (ETFs):** $%.2f (%+.1f%% desde $%.2f), caixa $%.2f."
                 % (short_term["value"], short_term["change_pct"], short_term["start"], short_term["cash"])]
@@ -686,17 +698,20 @@ def run(dry_run=False):
         # a flip in either direction sells what the new targets no longer hold
         new_13f = new_13f or flipped
     curto.setup(state, cfg, robo, log, notify)
+    pares_robo.setup(state, cfg, robo, log, notify)
     held, positions = sync_portfolio(api, robo, state, targets)
     panel = (lambda: write_panel(api, robo, cfg, state, targets, now)) if not dry_run else None
     if robo.get("daily_report"):
         daily_report(api, robo, cfg, targets, positions, state, today, log)
     ny_time = str(clock["timestamp"])[11:16]
-    long_pending = [r for r in state["pending"] if r.get("sleeve") != "curto"]
+    long_pending = [r for r in state["pending"] if r.get("sleeve") not in ("curto", "pares")]
     if not long_term and not positions and not long_pending:
         move_to_short_term(state, log)
     curto.run(api, robo, cfg, state, today, ny_time, now, log, notify, skill_json, read_json, write_json, path,
               dry_run=dry_run)
-    long_pending = [r for r in state["pending"] if r.get("sleeve") != "curto"]
+    pares_robo.run(api, robo, cfg, state, today, ny_time, now, log, notify, skill_json, read_json, write_json, path,
+                   dry_run=dry_run)
+    long_pending = [r for r in state["pending"] if r.get("sleeve") not in ("curto", "pares")]
     if long_pending:
         log("%d ordem(ns) do longo prazo ainda abertas; espero a próxima rodada" % len(long_pending))
         return finish(state, log, panel=panel, save=not dry_run)
@@ -787,7 +802,9 @@ def write_panel(api, robo, cfg, state, targets, now):
     positions = long_positions(api, robo)
     invested = sum(float(p.get("market_value") or 0) for p in positions)
     short_term = curto.summary(api, state, robo)
-    total = round(invested + state["cash"] + (short_term["value"] if short_term else 0), 2)
+    pairs = pares_robo.summary(api, state, robo)
+    total = round(invested + state["cash"] + (short_term["value"] if short_term else 0)
+                  + (pairs["value"] if pairs else 0), 2)
     start = float(cfg.get("budget", 0)) or total
     hist = read_json(path("state", "historico.json"), []) or []
     hist.append({"t": now.strftime("%Y-%m-%dT%H:%M:%SZ"), "v": total})
@@ -820,7 +837,7 @@ def write_panel(api, robo, cfg, state, targets, now):
         "start": start, "total": total, "invested": round(invested, 2), "cash": state["cash"],
         "change": round(total - start, 2), "change_pct": round(100 * (total / start - 1), 2) if start else 0,
         "positions": pos, "targets": targets.get("weights", []), "cooldown": state.get("cooldown") or {},
-        "takeprofit": state.get("takeprofit") or {}, "curto": short_term, "benchmark": bench,
+        "takeprofit": state.get("takeprofit") or {}, "curto": short_term, "pares": pairs, "benchmark": bench,
         "long_term": robo.get("long_term", True), "regime": state.get("regime_info"),
         "long_value": round(invested + state["cash"], 2),
         "pending": len(state.get("pending", [])), "fills": list(reversed(state.get("fills", [])))[:30],

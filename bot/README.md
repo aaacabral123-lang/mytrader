@@ -42,6 +42,14 @@ O longo prazo acompanha a tendência do mercado, medida pelo SPY e pela média d
 
 A margem de 2% evita trocas a cada pequena oscilação. O robô não prevê a queda: ele reage quando a tendência já virou. Por isso protege nas quedas longas, mas pode trocar tarde ou à toa quando o mercado só balança perto da média.
 
+## Pares (30% do dinheiro)
+
+Ideia de um amigo do usuário, testada em `trader/backtest/pares.md`: em pares de empresas que andam juntas (Coca-Cola e Pepsi, Visa e Mastercard, Exxon e Chevron, 19 pares no total), quando uma fica para trás da outra (a distância entre as duas, medida em 20 dias, passa de 1,5 desvio) e elas vêm andando juntas (correlação de 120 dias acima de 0,5), o robô compra a que ficou para trás. Vende quando a distância volta ao normal, ou depois de 20 dias. São até 5 operações ao mesmo tempo, a partir das 15h de Nova York, com caixa próprio e controle de risco próprio (`trader/pares/`).
+
+No teste de 2007 a 2026, a regra rendeu +16,8% ao ano no treino e +18,6% na prova, contra +11,4% e +15,6% de só segurar as mesmas empresas e +6,9% e +14,7% do SPY. Fica sempre investida em ações, então nas crises cai como o mercado (pior queda de -45% na prova).
+
+Divisão atual do robô: 50% no índice (VOO), 30% nos pares e 20% no curto prazo.
+
 ## Curto prazo (20% do dinheiro)
 
 Uma parte do robô (`curto` em `trader/robo.json`, 20% dos US$ 5.000 = US$ 1.000) opera **ETFs** no curto prazo, com caixa próprio. Os ETFs são SPY, QQQ, IWM, DIA, os de setor XL* e o SMH. Como o longo prazo só tem ações, as duas partes nunca compram a mesma coisa.

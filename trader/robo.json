@@ -146,5 +146,9 @@
     "nytimes.com",
     "finance.yahoo.com"
   ],
-  "index_etf": "VOO"
+  "index_etf": "VOO",
+  "pares": {
+    "enabled": true,
+    "pct": 30
+  }
 }

@@ -134,6 +134,19 @@ function shortTerm(c) {
     ${rows}</div>`;
 }
 
+function pairs(c) {
+  if (!c) return "";
+  const rows = c.positions.map(p => `
+    <div class="pos">
+      <div><div class="sym">${esc(p.symbol)}</div><div class="name">par ${esc(p.pair || "?")} · desde ${p.since ? p.since.split("-").reverse().join("/") : "?"}</div></div>
+      <div><div class="val">${usd(p.value)}</div><div class="pl ${cls(p.pl)}">${sign(p.pl)}${usd(p.pl)} (${pct(p.pl_pct)})</div></div>
+      <div class="meta">${p.qty.toFixed(4)} ações · entrada ${usd(p.avg)} · agora ${usd(p.price)}</div>
+    </div>`).join("") || '<p class="empty">Sem posição agora. Compra quando, num par como Coca-Cola e Pepsi, uma das duas fica para trás da outra.</p>';
+  return `<div class="panel"><h2>Pares (a que ficou para trás)</h2>
+    <p class="muted" style="font-size:12px;margin:-6px 0 10px">${usd(c.value)} · <span class="${cls(c.change)}">${sign(c.change)}${usd(c.change)} (${pct(c.change_pct)})</span> desde ${usd(c.start)} · caixa ${usd(c.cash)}</p>
+    ${rows}</div>`;
+}
+
 function render(d) {
   $("#updated").textContent = "atualizado " + ago(d.as_of);
   const target = Object.fromEntries((d.targets || []).map(t => [t.ticker, t.weight]));
@@ -189,6 +202,7 @@ function render(d) {
     <div class="panel"><h2>Evolução</h2>${chart(d.history || [], d.start)}</div>
     ${d.long_term === false && !d.positions.length ? "" : `<div class="panel"><h2>Longo prazo${d.long_term === false ? " (desligado, vendendo)" : ""}</h2>
       <p class="muted" style="font-size:12px;margin:-6px 0 10px">Em ações ${usd(d.invested)} · caixa ${usd(d.cash)}</p>${positions}</div>`}
+    ${pairs(d.pares)}
     ${shortTerm(d.curto)}
     <div class="panel"><h2>Últimas operações</h2>${fills}</div>
     ${picks}
