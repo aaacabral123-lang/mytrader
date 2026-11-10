@@ -1,75 +1,39 @@
 {
-  "cash": 469.88,
+  "cash": 376.39,
   "positions": [
     {
       "ticker": "ADBE",
-      "shares": 2.380227337,
+      "shares": 2.7337e-05,
       "lots": [
         {
           "id": "ADBE-alpaca",
-          "shares": 2.380227337,
-          "cost": 581.980001,
+          "shares": 2.7337e-05,
+          "cost": 0.006684,
           "date": "2026-10-28"
-        }
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "shares": 1.78815038,
-      "lots": [
-        {
-          "id": "GOOGL-alpaca",
-          "shares": 1.78815038,
-          "cost": 495.99,
-          "date": "2026-10-28"
-        }
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "shares": 0.96296023,
-      "lots": [
-        {
-          "id": "MSFT-alpaca",
-          "shares": 0.96296023,
-          "cost": 495.99,
-          "date": "2026-10-28"
-        }
-      ]
-    },
-    {
-      "ticker": "ORCL",
-      "shares": 4.795958226,
-      "lots": [
-        {
-          "id": "ORCL-alpaca",
-          "shares": 4.795958226,
-          "cost": 596.979998,
-          "date": "2026-10-28"
-        }
-      ]
-    },
-    {
-      "ticker": "REGN",
-      "shares": 0.62177752,
-      "lots": [
-        {
-          "id": "REGN-alpaca",
-          "shares": 0.62177752,
-          "cost": 582.979999,
-          "date": "2026-11-05"
         }
       ]
     },
     {
       "ticker": "UNP",
-      "shares": 1.928120523,
+      "shares": 2.0523e-05,
       "lots": [
         {
           "id": "UNP-alpaca",
-          "shares": 1.928120523,
-          "cost": 582.98,
+          "shares": 2.0523e-05,
+          "cost": 0.006205,
           "date": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "ticker": "VOO",
+      "shares": 4.94148681,
+      "lots": [
+        {
+          "id": "VOO-alpaca",
+          "shares": 4.94148681,
+          "cost": 3399.99,
+          "date": "2026-11-10"
         }
       ]
     }

@@ -1,25 +1,25 @@
 {
-  "as_of": "2026-11-10T14:35:03Z",
+  "as_of": "2026-11-10T15:05:02Z",
   "source": "yahoo",
   "note": "Delayed quotes for alerts and sizing checks. Your broker's price is the one that fills.",
   "prices": {
-    "ADBE": 234.065,
+    "ADBE": 236.064,
     "BLK": 1210.11,
-    "GOOGL": 288.21,
-    "MSFT": 541.15,
+    "GOOGL": 290.802,
+    "MSFT": 543.02,
     "NVDA": 178.26,
-    "ORCL": 118.95,
+    "ORCL": 119.385,
     "QQQ": 698.27,
     "SPY": 763.53,
-    "UNP": 297.46,
+    "UNP": 296.175,
     "XLK": 170.25,
-    "XLE": 60.535,
-    "REGN": 913.18
+    "XLE": 61.83,
+    "REGN": 908.95
   },
   "detail": {
     "ADBE": {
       "prev_close": 237.32,
-      "time": "2026-11-10T14:34:59Z",
+      "time": "2026-11-10T15:04:57Z",
       "source": "yahoo"
     },
     "BLK": {
@@ -29,12 +29,12 @@
     },
     "GOOGL": {
       "prev_close": 288.15,
-      "time": "2026-11-10T14:35:03Z",
+      "time": "2026-11-10T15:05:01Z",
       "source": "yahoo"
     },
     "MSFT": {
       "prev_close": 545.18,
-      "time": "2026-11-10T14:35:02Z",
+      "time": "2026-11-10T15:05:01Z",
       "source": "yahoo"
     },
     "NVDA": {
@@ -43,8 +43,8 @@
       "source": "yahoo"
     },
     "ORCL": {
-      "prev_close": 119.78,
-      "time": "2026-11-10T14:35:03Z",
+      "prev_close": 119.79,
+      "time": "2026-11-10T15:05:02Z",
       "source": "yahoo"
     },
     "QQQ": {
@@ -58,8 +58,8 @@
       "source": "yahoo"
     },
     "UNP": {
-      "prev_close": 297.07,
-      "time": "2026-11-10T14:35:04Z",
+      "prev_close": 297.01,
+      "time": "2026-11-10T15:05:05Z",
       "source": "yahoo"
     },
     "XLK": {
@@ -68,13 +68,13 @@
       "source": "yahoo"
     },
     "XLE": {
-      "prev_close": 61.965,
-      "time": "2026-11-10T14:35:05Z",
+      "prev_close": 61.94,
+      "time": "2026-11-10T15:05:05Z",
       "source": "yahoo"
     },
     "REGN": {
       "prev_close": 919.96,
-      "time": "2026-11-10T14:34:43Z",
+      "time": "2026-11-10T15:04:32Z",
       "source": "yahoo"
     }
   }
