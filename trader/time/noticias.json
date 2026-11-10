@@ -1,36 +1,5 @@
 {
-  "as_of": "2026-11-10T05:05:00Z",
-  "items": [
-    {
-      "id": "rss:2553091e-2fac-3a01-91d1-afe48298ec3f",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "3 US AI Chip Stocks Beyond Nvidia Stock Key Person Risk",
-      "summary": "Nvidia\u2019s sudden governance storm, from Jensen Huang\u2019s admitted relationship with an alleged Chinese spy to talk of federal scrutiny, has put a harsh spotlight on what happens when too much rides on one leader. Investors are now hunting for large-cap chip stocks tied to AI demand where the story is less about a single person and more about resilient business models. This article reveals 3 US semiconductor and equipment stocks from that lens, all filtered through a screener that emphasizes...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/3-us-ai-chip-stocks-043225535.html?.tsrc=rss",
-      "time": "2026-11-10T04:32:25+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:c3103d88-d422-3112-915d-fcb59a6cdbc6",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Microsoft (MSFT) Signs Global AI Safety Declaration",
-      "summary": "Microsoft (NasdaqGS:MSFT) co-signs a new global joint declaration on AI safety and security aligned with the Paris Call framework. The group also launches an AI automation initiative with Northern Trust, introducing enterprise AI agents into the bank's operations. Bill Gates publicly warns that rapid AI-driven job automation could create significant social strain if worker transitions are not managed. Microsoft's fresh AI safety pledge and Northern Trust automation push matter, but investors...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-signs-global-ai-042734846.html?.tsrc=rss",
-      "time": "2026-11-10T04:27:34+00:00",
-      "touches": [
-        "MSFT"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-10T05:35:00Z",
+  "items": [],
   "atencao": []
 }
