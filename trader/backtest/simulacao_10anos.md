@@ -4,10 +4,10 @@ US$ 5.000 aplicados no início, rebalanceado todo janeiro, custo de 0,05% por op
 
 | Carteira | US$ 5.000 viraram | Rende por ano | Total | Pior queda | Pior ano |
 | --- | --- | --- | --- | --- | --- |
-| SPY (só o índice) | $20,206 | +15.0% | +304.1% | -33.7% | 2022 (-18.2%) |
-| Atual: 50% índice + 30% pares + 20% curto | $19,477 | +14.6% | +289.5% | -31.8% | 2022 (-7.1%) |
-| Plano: 80% pares + 20% curto | $22,999 | +16.5% | +360.0% | -37.5% | 2018 (+1.8%) |
-| 100% pares | $28,856 | +19.2% | +477.1% | -44.6% | 2018 (+4.3%) |
+| SPY (só o índice) | $20,178 | +15.0% | +303.6% | -33.7% | 2022 (-18.2%) |
+| Atual: 50% índice + 30% pares + 20% curto | $19,458 | +14.6% | +289.2% | -31.8% | 2022 (-7.1%) |
+| Plano: 80% pares + 20% curto | $22,985 | +16.5% | +359.7% | -37.5% | 2018 (+1.8%) |
+| 100% pares | $28,840 | +19.2% | +476.8% | -44.6% | 2018 (+4.3%) |
 
 Pares sozinhos: 1001 operações, 62% com lucro, média de +1.0% por operação.
 
@@ -25,6 +25,6 @@ Pares sozinhos: 1001 operações, 62% com lucro, média de +1.0% por operação.
 | 2023 | +26.2% | +16.7% | +7.8% | +8.4% |
 | 2024 | +24.9% | +18.5% | +13.1% | +14.1% |
 | 2025 | +17.7% | +17.7% | +20.8% | +23.9% |
-| 2026 | +10.6% | +17.5% | +27.9% | +31.4% |
+| 2026 | +10.5% | +17.4% | +27.8% | +31.3% |
 
 _Resultado passado não garante resultado futuro. Os pares foram escolhidos hoje, entre empresas que sobreviveram e cresceram, o que deixa o passado um pouco mais bonito do que seria em tempo real. Não é recomendação de investimento._
