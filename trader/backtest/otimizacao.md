@@ -12,30 +12,30 @@
 
 | Regras (entrada / aposta na queda / stop / prazo / média de saída) | Treino: ao ano | Treino: pior queda | Prova: ao ano | Prova: pior queda | Prova: acertos | Prova: operações |
 | --- | --- | --- | --- | --- | --- | --- |
-| RSI<20 / RSI>95 / stop 12% / 15 dias / média 5 | +5.0% | -13.4% | +6.4% | -16.0% | 68% | 1267 |
-| RSI<20 / RSI>95 / stop 12% / 10 dias / média 5 | +4.9% | -13.4% | +6.2% | -17.2% | 68% | 1283 |
+| RSI<20 / RSI>95 / stop 12% / 15 dias / média 5 | +4.9% | -13.4% | +6.4% | -16.0% | 68% | 1267 |
+| RSI<20 / RSI>95 / stop 12% / 10 dias / média 5 | +4.8% | -13.4% | +6.2% | -17.2% | 68% | 1283 |
 | RSI<20 / RSI>85 / stop sem / 15 dias / média 5 | +7.1% | -18.2% | +5.4% | -15.1% | 67% | 1328 |
 | RSI<10 / RSI>95 / stop 8% / 15 dias / média 5 | +3.6% | -10.4% | +5.8% | -16.2% | 67% | 820 |
-| RSI<20 / RSI>85 / stop 12% / 15 dias / média 5 | +7.2% | -14.9% | +5.2% | -15.2% | 67% | 1332 |
+| RSI<20 / RSI>85 / stop 12% / 15 dias / média 5 | +7.1% | -14.9% | +5.2% | -15.2% | 67% | 1332 |
 | RSI<10 / RSI>95 / stop 8% / 10 dias / média 5 | +3.6% | -10.4% | +5.9% | -15.7% | 67% | 825 |
 | RSI<20 / RSI>90 / stop 12% / 15 dias / média 5 | +6.2% | -13.6% | +5.4% | -15.7% | 67% | 1300 |
-| RSI<20 / RSI>90 / stop sem / 15 dias / média 5 | +6.2% | -18.2% | +5.5% | -15.6% | 67% | 1296 |
+| RSI<20 / RSI>90 / stop sem / 15 dias / média 5 | +6.1% | -18.2% | +5.5% | -15.6% | 67% | 1296 |
 | RSI<15 / RSI>95 / stop 12% / 15 dias / média 5 | +4.4% | -13.5% | +5.3% | -16.1% | 66% | 1038 |
-| RSI<20 / RSI>90 / stop 12% / 10 dias / média 5 | +6.3% | -13.6% | +5.4% | -16.9% | 67% | 1318 |
+| RSI<10 / RSI>85 / stop sem / 10 dias / média 5 | +5.7% | -17.0% | +5.5% | -17.0% | 65% | 888 |
 
 ## As 10 melhores só no treino (cuidado: podem ter "decorado" o passado)
 
 | Regras (entrada / aposta na queda / stop / prazo / média de saída) | Treino: ao ano | Treino: pior queda | Prova: ao ano | Prova: pior queda | Prova: acertos | Prova: operações |
 | --- | --- | --- | --- | --- | --- | --- |
-| RSI<10 / RSI>80 / stop 8% / 10 dias / média 5 | +6.1% | -10.4% | +3.8% | -20.5% | 65% | 932 |
-| RSI<20 / RSI>80 / stop 12% / 15 dias / média 5 | +7.5% | -13.2% | +4.1% | -19.0% | 66% | 1366 |
-| RSI<20 / RSI>80 / stop 12% / 10 dias / média 5 | +7.5% | -13.2% | +4.2% | -19.7% | 66% | 1386 |
-| RSI<10 / RSI>80 / stop 8% / 15 dias / média 5 | +6.0% | -10.7% | +3.5% | -21.6% | 65% | 925 |
-| RSI<15 / RSI>80 / stop 8% / 10 dias / média 5 | +6.6% | -12.0% | +2.3% | -21.9% | 63% | 1162 |
-| RSI<15 / RSI>80 / stop 8% / 15 dias / média 5 | +6.5% | -12.0% | +2.3% | -22.2% | 64% | 1154 |
-| RSI<15 / RSI>80 / stop 12% / 15 dias / média 5 | +6.9% | -13.2% | +3.0% | -22.1% | 64% | 1140 |
-| RSI<15 / RSI>80 / stop 12% / 10 dias / média 5 | +6.8% | -13.3% | +2.8% | -22.3% | 63% | 1152 |
-| RSI<20 / RSI>80 / stop 8% / 10 dias / média 5 | +6.8% | -13.4% | +3.4% | -20.9% | 66% | 1395 |
-| RSI<20 / RSI>80 / stop 8% / 15 dias / média 5 | +6.7% | -13.4% | +3.4% | -20.2% | 66% | 1380 |
+| RSI<10 / RSI>80 / stop 8% / 10 dias / média 5 | +6.1% | -10.4% | +3.8% | -20.3% | 65% | 932 |
+| RSI<20 / RSI>80 / stop 12% / 15 dias / média 5 | +7.4% | -13.2% | +4.1% | -18.9% | 66% | 1366 |
+| RSI<10 / RSI>80 / stop 8% / 15 dias / média 5 | +6.0% | -10.7% | +3.5% | -21.4% | 65% | 925 |
+| RSI<20 / RSI>80 / stop 12% / 10 dias / média 5 | +7.4% | -13.2% | +4.2% | -19.5% | 66% | 1386 |
+| RSI<15 / RSI>80 / stop 8% / 10 dias / média 5 | +6.6% | -12.0% | +2.3% | -21.7% | 64% | 1162 |
+| RSI<15 / RSI>80 / stop 8% / 15 dias / média 5 | +6.5% | -12.0% | +2.4% | -22.0% | 64% | 1154 |
+| RSI<15 / RSI>80 / stop 12% / 15 dias / média 5 | +6.8% | -13.2% | +3.0% | -21.9% | 64% | 1140 |
+| RSI<15 / RSI>80 / stop 12% / 10 dias / média 5 | +6.8% | -13.3% | +2.8% | -22.2% | 64% | 1152 |
+| RSI<20 / RSI>80 / stop 8% / 10 dias / média 5 | +6.7% | -13.4% | +3.4% | -20.7% | 66% | 1395 |
+| RSI<20 / RSI>80 / stop 8% / 15 dias / média 5 | +6.6% | -13.4% | +3.4% | -20.0% | 66% | 1380 |
 
 _Resultado passado não garante resultado futuro. Não é recomendação de investimento._
