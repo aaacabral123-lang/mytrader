@@ -116,6 +116,7 @@ def simulate(px, pre, dates, s):
             q["days"] += 1
         curve.append(cash + sum(q["value"] for q in pos.values()))
     st = bt.stats(curve, dates)
+    st["curve"] = curve
     st["trades"] = len(trades)
     st["win"] = sum(1 for t in trades if t > 0) / len(trades) if trades else 0
     st["avg"] = sum(trades) / len(trades) if trades else 0
