@@ -1,5 +1,56 @@
 {
-  "as_of": "2026-11-10T08:35:00Z",
-  "items": [],
-  "atencao": []
+  "as_of": "2026-11-10T09:05:00Z",
+  "items": [
+    {
+      "id": "rss:2c64de57-6e61-3350-835a-25af11fcc861",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Autobrains Brings NVIDIA Alpamayo Intelligence to the Road",
+      "summary": "TEL AVIV, Israel, November 10, 2026--Autobrains today announced an expansion of its work with NVIDIA, incorporating the reasoning capabilities of NVIDIA Alpamayo 2 Super into real-world autonomous driving. Using its Agentic AI architecture, Autobrains distills Alpamayo\u2019s foundation-model intelligence into specialized Driving Agents that reason and act in real time in production vehicles.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/autobrains-brings-nvidia-alpamayo-intelligence-090000945.html?.tsrc=rss",
+      "time": "2026-11-10T09:00:00+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:cfc07ebe-0562-3ca4-92d7-49a1f87eede4",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Nvidia sued by investors over \u2018Chinese spy\u2019 affair",
+      "summary": "Nvidia is facing a legal challenge from investors over claims the company lied about Jensen Huang\u2019s affair with an alleged Chinese spy.",
+      "link": "https://uk.finance.yahoo.com/news/nvidia-sued-investors-over-chinese-085523836.html?.tsrc=rss",
+      "time": "2026-11-10T08:55:23+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "legal"
+      ],
+      "new": true
+    }
+  ],
+  "atencao": [
+    {
+      "id": "rss:cfc07ebe-0562-3ca4-92d7-49a1f87eede4",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Nvidia sued by investors over \u2018Chinese spy\u2019 affair",
+      "summary": "Nvidia is facing a legal challenge from investors over claims the company lied about Jensen Huang\u2019s affair with an alleged Chinese spy.",
+      "link": "https://uk.finance.yahoo.com/news/nvidia-sued-investors-over-chinese-085523836.html?.tsrc=rss",
+      "time": "2026-11-10T08:55:23+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [
+        "legal"
+      ],
+      "new": true
+    }
+  ]
 }
