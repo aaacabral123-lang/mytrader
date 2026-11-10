@@ -1,23 +1,5 @@
 {
-  "as_of": "2026-11-10T07:35:00Z",
-  "items": [
-    {
-      "id": "rss:33c39c56-69cc-326c-b8ac-2054e5d58afc",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "UNP",
-      "title": "Zacks Industry Outlook Highlights Union Pacific, CSX and Norfolk Southern",
-      "summary": "UNP, CSX and NSC stand out in a resilient railroad industry, with dividend growth, AI adoption and efficiency efforts supporting their prospects.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-union-060100564.html?.tsrc=rss",
-      "time": "2026-11-10T06:01:00+00:00",
-      "touches": [
-        "UNP"
-      ],
-      "tags": [
-        "capital"
-      ],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-10T08:05:00Z",
+  "items": [],
   "atencao": []
 }
