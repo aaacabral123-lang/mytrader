@@ -33,6 +33,9 @@ jobs:
       - name: Simular os últimos 10 anos com as carteiras do robô
         run: python3 bot/simula10.py
 
+      - name: Testar plano B para quedas (caixa, SH, SQQQ)
+        run: python3 bot/backup.py
+
       - name: Salvar o resultado
         run: |
           git config user.name "mytrader-robo"
