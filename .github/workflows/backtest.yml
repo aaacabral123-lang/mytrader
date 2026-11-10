@@ -27,6 +27,9 @@ jobs:
       - name: Otimizar o curto prazo (treino 2007-2016, prova 2017 em diante)
         run: python3 bot/otimiza.py
 
+      - name: Testar pares de empresas correlacionadas
+        run: python3 bot/pares.py
+
       - name: Salvar o resultado
         run: |
           git config user.name "mytrader-robo"
