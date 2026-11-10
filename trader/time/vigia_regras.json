@@ -11,12 +11,6 @@
       "symbol": "VOO",
       "type": "pct_move",
       "pct": 5
-    },
-    {
-      "id": "vigia-XLE",
-      "symbol": "XLE",
-      "type": "pct_move",
-      "pct": 5
     }
   ]
 }
