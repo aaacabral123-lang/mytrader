@@ -1,45 +1,32 @@
 {
-  "as_of": "2026-11-10T09:35:00Z",
+  "as_of": "2026-11-10T10:05:00Z",
   "items": [
     {
-      "id": "rss:b2c913da-3ef2-3823-af51-c74eee4103f0",
+      "id": "rss:ab5509c8-aee4-30b8-92c8-e7455dc3b2cd",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Beyond Nvidia: 6 stocks winning the AI infrastructure buildout",
-      "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/beyond-nvidia-6-stocks-winning-090950680.html?.tsrc=rss",
-      "time": "2026-11-10T09:09:50+00:00",
+      "title": "U.S. inflation data ahead; Huang scandal fallout - what\u2019s moving markets",
+      "summary": "Investing.com - Futures linked to the main U.S. stock indices hover around both sides of the flatline, as investors await key inflation figures and assess fragile sentiment around the artificial intelligence trade. Oil falls to roughly $90 a barrel on hopes for a diplomatic resolution to the Iran war, while Nvidia shares tick higher in after-hours trading following a selloff on Monday triggered by a scandal surrounding CEO Jensen Huang.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/u-inflation-data-ahead-huang-093822541.html?.tsrc=rss",
+      "time": "2026-11-10T09:38:22+00:00",
       "touches": [
         "NVDA"
       ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:f8e25dda-f3a7-4ccc-9389-67a9a2419f26",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Stock market today: Dow, S&P 500, Nasdaq trade mixed ahead of key inflation data",
-      "summary": "Investors awaited a key inflation report that could sway the Federal Reserve's interest rate decision next month.",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html?.tsrc=rss",
-      "time": "2026-11-10T09:06:27+00:00",
-      "touches": [
-        "NVDA"
+      "tags": [
+        "people"
       ],
-      "tags": [],
       "new": true
     },
     {
-      "id": "rss:4e066725-65b7-343e-9b2d-21e79c8411b6",
+      "id": "rss:d40fce51-03dc-3a0e-b867-21cc1cce7ee3",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "ControlUp Helps SimpsonHaugh Protect Up to \u00a32.56 Million in Productive Capacity Annually",
-      "summary": "New productivity analysis shows ROI has grown significantly while also freeing IT capacity, consolidating tools and supporting staff wellbeingLONDON, Nov. 10, 2026 (GLOBE NEWSWIRE) -- ControlUp, a company reinventing IT operations with its AI platform, today announced that SimpsonHaugh, the UK-based, award-winning architecture practice, is now protecting up to \u00a32.56 million of productive capacity annually through the combination of its VDI environment and ControlUp's Digital Employee Experience",
-      "link": "https://finance.yahoo.com/technology/ai/articles/controlup-helps-simpsonhaugh-protect-2-090000398.html?.tsrc=rss",
-      "time": "2026-11-10T09:00:00+00:00",
+      "title": "Market Chatter: Nvidia's Most Advanced Chips Accessed by China's Moonshot AI",
+      "summary": "Nvidia's (NVDA) B300 GPUs were accessed by China's Moonshot AI earlier this year, Bloomberg News rep",
+      "link": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-apos-most-093250675.html?.tsrc=rss",
+      "time": "2026-11-10T09:32:50+00:00",
       "touches": [
         "NVDA"
       ],
