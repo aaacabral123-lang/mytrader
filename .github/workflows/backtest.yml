@@ -36,6 +36,9 @@ jobs:
       - name: Testar plano B para quedas (caixa, SH, SQQQ)
         run: python3 bot/backup.py
 
+      - name: Testar proteção só na queda (pares + DBMF/KMLM/GLD/TLT/SH/caixa)
+        run: python3 bot/protecao.py
+
       - name: Salvar o resultado
         run: |
           git config user.name "mytrader-robo"
