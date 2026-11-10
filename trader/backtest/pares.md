@@ -9,7 +9,7 @@
 
 | Regra | Treino: ao ano | Treino: pior queda | Prova: ao ano | Prova: pior queda | Prova: acertos | Prova: operações | Prova: média por operação |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| z 1.5→0.0 / 20 dias de base / correlação ≥ 0.5 / até 20 dias / stop sem | +16.8% | -35.6% | +18.5% | -44.6% | 62% | 986 | +1.0% |
+| z 1.5→0.0 / 20 dias de base / correlação ≥ 0.5 / até 20 dias / stop sem | +16.8% | -35.6% | +18.6% | -44.6% | 62% | 986 | +1.0% |
 | z 2.0→0.0 / 20 dias de base / correlação ≥ 0.5 / até 10 dias / stop sem | +14.1% | -37.6% | +15.9% | -40.1% | 57% | 1292 | +0.6% |
 | z 1.5→0.5 / 20 dias de base / correlação ≥ 0.5 / até 10 dias / stop sem | +14.1% | -39.4% | +16.9% | -33.4% | 58% | 1700 | +0.5% |
 | z 1.5→0.5 / 20 dias de base / correlação ≥ 0.7 / até 20 dias / stop 10% | +14.0% | -39.3% | +14.7% | -38.1% | 59% | 1240 | +0.6% |
@@ -24,8 +24,8 @@
 
 | Regra | Treino: ao ano | Treino: pior queda | Prova: ao ano | Prova: pior queda | Prova: acertos | Prova: operações | Prova: média por operação |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| z 1.5→0.0 / 20 dias de base / correlação ≥ 0.5 / até 20 dias / stop sem | +16.8% | -35.6% | +18.5% | -44.6% | 62% | 986 | +1.0% |
-| z 2.5→0.0 / 60 dias de base / correlação ≥ 0.5 / até 20 dias / stop sem | +12.3% | -30.4% | +11.2% | -40.7% | 59% | 442 | +1.3% |
+| z 1.5→0.0 / 20 dias de base / correlação ≥ 0.5 / até 20 dias / stop sem | +16.8% | -35.6% | +18.6% | -44.6% | 62% | 986 | +1.0% |
+| z 2.5→0.0 / 60 dias de base / correlação ≥ 0.5 / até 20 dias / stop sem | +12.3% | -30.4% | +11.3% | -40.7% | 59% | 442 | +1.3% |
 | z 2.0→0.0 / 20 dias de base / correlação ≥ 0.5 / até 20 dias / stop sem | +13.4% | -34.9% | +15.3% | -43.1% | 59% | 908 | +0.9% |
 | z 2.0→0.0 / 20 dias de base / correlação ≥ 0.5 / até 10 dias / stop sem | +14.1% | -37.6% | +15.9% | -40.1% | 57% | 1292 | +0.6% |
 | z 1.5→0.5 / 20 dias de base / correlação ≥ 0.5 / até 10 dias / stop sem | +14.1% | -39.4% | +16.9% | -33.4% | 58% | 1700 | +0.5% |
