@@ -1,0 +1,44 @@
+{
+  "orders": [
+    {
+      "date": "2026-11-10",
+      "at": "2026-11-10T20:05:02Z",
+      "status": "placed",
+      "symbol": "YUM",
+      "side": "buy",
+      "id": "92637397-2798-4317-9769-34ded000f5f7",
+      "approved_by": "robo (automatic, paper)",
+      "why": "pares, entrada: YUM ficou para tr\u00e1s de MCD (z 2.27, correla\u00e7\u00e3o 0.59)"
+    },
+    {
+      "date": "2026-11-10",
+      "at": "2026-11-10T20:05:02Z",
+      "status": "placed",
+      "symbol": "HD",
+      "side": "buy",
+      "id": "b6a22f7a-7cde-4833-b74a-1cd97f10d658",
+      "approved_by": "robo (automatic, paper)",
+      "why": "pares, entrada: HD ficou para tr\u00e1s de LOW (z -2.06, correla\u00e7\u00e3o 0.93)"
+    },
+    {
+      "date": "2026-11-10",
+      "at": "2026-11-10T20:05:02Z",
+      "status": "placed",
+      "symbol": "V",
+      "side": "buy",
+      "id": "49bad0d4-74b1-4348-a069-d7874fcdaca6",
+      "approved_by": "robo (automatic, paper)",
+      "why": "pares, entrada: V ficou para tr\u00e1s de MA (z -1.57, correla\u00e7\u00e3o 0.90)"
+    },
+    {
+      "date": "2026-11-10",
+      "at": "2026-11-10T20:05:02Z",
+      "status": "placed",
+      "symbol": "XOM",
+      "side": "buy",
+      "id": "dd2cb5d6-66aa-4cc1-a84b-bc008fd2fb2f",
+      "approved_by": "robo (automatic, paper)",
+      "why": "pares, entrada: XOM ficou para tr\u00e1s de CVX (z -1.53, correla\u00e7\u00e3o 0.89)"
+    }
+  ]
+}

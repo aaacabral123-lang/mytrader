@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-10",
+  "paper": true,
+  "results": [
+    {
+      "index": 1,
+      "symbol": "YUM",
+      "side": "buy",
+      "amount": "$300",
+      "value_usd": 300.0,
+      "fingerprint": "a4d551dca7d0a30b",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 2,
+      "symbol": "HD",
+      "side": "buy",
+      "amount": "$300",
+      "value_usd": 300.0,
+      "fingerprint": "ef934eac6b411bf1",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 3,
+      "symbol": "V",
+      "side": "buy",
+      "amount": "$300",
+      "value_usd": 300.0,
+      "fingerprint": "b9966edca5f20ece",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 4,
+      "symbol": "XOM",
+      "side": "buy",
+      "amount": "$300",
+      "value_usd": 300.0,
+      "fingerprint": "0c536b23bf091a17",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    }
+  ],
+  "pass": 4,
+  "block": 0,
+  "warnings": [],
+  "cash_after": 300.0,
+  "prices_as_of": "2026-11-10T20:05:02Z",
+  "checked_at": "2026-11-10T20:05:05",
+  "orders_file": "trader/pares/orders.json"
+}
