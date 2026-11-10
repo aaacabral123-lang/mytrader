@@ -1,15 +1,15 @@
 {
-  "as_of": "2026-11-10T09:05:00Z",
+  "as_of": "2026-11-10T09:35:00Z",
   "items": [
     {
-      "id": "rss:2c64de57-6e61-3350-835a-25af11fcc861",
+      "id": "rss:b2c913da-3ef2-3823-af51-c74eee4103f0",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Autobrains Brings NVIDIA Alpamayo Intelligence to the Road",
-      "summary": "TEL AVIV, Israel, November 10, 2026--Autobrains today announced an expansion of its work with NVIDIA, incorporating the reasoning capabilities of NVIDIA Alpamayo 2 Super into real-world autonomous driving. Using its Agentic AI architecture, Autobrains distills Alpamayo\u2019s foundation-model intelligence into specialized Driving Agents that reason and act in real time in production vehicles.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/autobrains-brings-nvidia-alpamayo-intelligence-090000945.html?.tsrc=rss",
-      "time": "2026-11-10T09:00:00+00:00",
+      "title": "Beyond Nvidia: 6 stocks winning the AI infrastructure buildout",
+      "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/beyond-nvidia-6-stocks-winning-090950680.html?.tsrc=rss",
+      "time": "2026-11-10T09:09:50+00:00",
       "touches": [
         "NVDA"
       ],
@@ -17,40 +17,35 @@
       "new": true
     },
     {
-      "id": "rss:cfc07ebe-0562-3ca4-92d7-49a1f87eede4",
+      "id": "rss:f8e25dda-f3a7-4ccc-9389-67a9a2419f26",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia sued by investors over \u2018Chinese spy\u2019 affair",
-      "summary": "Nvidia is facing a legal challenge from investors over claims the company lied about Jensen Huang\u2019s affair with an alleged Chinese spy.",
-      "link": "https://uk.finance.yahoo.com/news/nvidia-sued-investors-over-chinese-085523836.html?.tsrc=rss",
-      "time": "2026-11-10T08:55:23+00:00",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq trade mixed ahead of key inflation data",
+      "summary": "Investors awaited a key inflation report that could sway the Federal Reserve's interest rate decision next month.",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html?.tsrc=rss",
+      "time": "2026-11-10T09:06:27+00:00",
       "touches": [
         "NVDA"
       ],
-      "tags": [
-        "legal"
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:4e066725-65b7-343e-9b2d-21e79c8411b6",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "ControlUp Helps SimpsonHaugh Protect Up to \u00a32.56 Million in Productive Capacity Annually",
+      "summary": "New productivity analysis shows ROI has grown significantly while also freeing IT capacity, consolidating tools and supporting staff wellbeingLONDON, Nov. 10, 2026 (GLOBE NEWSWIRE) -- ControlUp, a company reinventing IT operations with its AI platform, today announced that SimpsonHaugh, the UK-based, award-winning architecture practice, is now protecting up to \u00a32.56 million of productive capacity annually through the combination of its VDI environment and ControlUp's Digital Employee Experience",
+      "link": "https://finance.yahoo.com/technology/ai/articles/controlup-helps-simpsonhaugh-protect-2-090000398.html?.tsrc=rss",
+      "time": "2026-11-10T09:00:00+00:00",
+      "touches": [
+        "NVDA"
       ],
+      "tags": [],
       "new": true
     }
   ],
-  "atencao": [
-    {
-      "id": "rss:cfc07ebe-0562-3ca4-92d7-49a1f87eede4",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia sued by investors over \u2018Chinese spy\u2019 affair",
-      "summary": "Nvidia is facing a legal challenge from investors over claims the company lied about Jensen Huang\u2019s affair with an alleged Chinese spy.",
-      "link": "https://uk.finance.yahoo.com/news/nvidia-sued-investors-over-chinese-085523836.html?.tsrc=rss",
-      "time": "2026-11-10T08:55:23+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
-        "legal"
-      ],
-      "new": true
-    }
-  ]
+  "atencao": []
 }
