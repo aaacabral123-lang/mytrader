@@ -3,6 +3,7 @@
 19 pares: KO/PEP, V/MA, HD/LOW, XOM/CVX, JPM/BAC, GS/MS, UPS/FDX, MCD/YUM, WMT/TGT, PG/CL, CAT/DE, T/VZ, UNP/CSX, LMT/NOC, PFE/MRK, COST/WMT, MSFT/AAPL, C/WFC, COP/XOM. 96 versões da regra. **Treino** 2007-01-03 a 2016-12-30, **prova** 2017-01-03 a 2026-11-10. Até 5 operações ao mesmo tempo, mesmo tamanho; custo de 0,05% por compra ou venda.
 
 **Para comparar, só SPY:** treino +6.9% ao ano (pior queda -55.2%), prova +14.7% ao ano (pior queda -33.7%).
+**Controle, as mesmas 36 empresas compradas e seguradas em partes iguais (sem a regra dos pares):** treino +11.4% ao ano (pior queda -49.4%), prova +15.6% ao ano (pior queda -33.8%). A regra só agrega valor se render mais do que isso.
 
 ## As 10 versões mais robustas (boas no treino e na prova)
 
