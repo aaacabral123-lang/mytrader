@@ -1,53 +1,5 @@
 {
-  "as_of": "2026-11-10T03:05:00Z",
-  "items": [
-    {
-      "id": "rss:6e3002a8-0cca-3209-b500-26d1feffcaec",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MU",
-      "title": "Micron, FormFactor, Amkor, Teradyne, and Nvidia shares skyrocket, what you need to know",
-      "summary": "A number of stocks jumped in the morning session after dip-buyers moved into beaten-down semiconductor and hardware names following the sector's steepest one-day rout in 19 months.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/micron-formfactor-amkor-teradyne-nvidia-024536276.html?.tsrc=rss",
-      "time": "2026-11-10T02:45:36+00:00",
-      "touches": [
-        "MU",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:e14492dd-5a72-3439-a3ac-f7500de3a0f2",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MSFT",
-      "title": "Tech leads Asian stock rally as traders track Wall St rebound",
-      "summary": "Asian stocks rallied Tuesday to extend a Wall Street surge led by technology firms as investors took advantage of lower prices following last week's rout, while another plunge in oil prices added to the upbeat mood.The Nasdaq's 2.7 percent spike led a strong day on Wall Street, and Asian investors took up the baton.",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/tech-leads-asian-stock-rally-023930562.html?.tsrc=rss",
-      "time": "2026-11-10T02:39:30+00:00",
-      "touches": [
-        "MSFT",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:6bace06f-5128-377c-a6c1-defc1bc97611",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "U.S. stock futures steady after tech-led rebound; CPI in focus",
-      "summary": "Investing.com-- U.S. stock futures were little changed on Monday evening after Wall Street closed sharply higher, with technology shares rebounding from last week's steep selloff, as investors awaited a key consumer inflation report due on Tuesday.",
-      "link": "https://finance.yahoo.com/news/u-stock-futures-steady-tech-004342905.html?.tsrc=rss",
-      "time": "2026-11-10T00:43:42+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-10T03:35:00Z",
+  "items": [],
   "atencao": []
 }
