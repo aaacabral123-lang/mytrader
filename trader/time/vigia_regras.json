@@ -7,32 +7,14 @@
       "pct": 5
     },
     {
-      "id": "vigia-GOOGL",
-      "symbol": "GOOGL",
-      "type": "pct_move",
-      "pct": 5
-    },
-    {
-      "id": "vigia-MSFT",
-      "symbol": "MSFT",
-      "type": "pct_move",
-      "pct": 5
-    },
-    {
-      "id": "vigia-ORCL",
-      "symbol": "ORCL",
-      "type": "pct_move",
-      "pct": 5
-    },
-    {
-      "id": "vigia-REGN",
-      "symbol": "REGN",
-      "type": "pct_move",
-      "pct": 5
-    },
-    {
       "id": "vigia-UNP",
       "symbol": "UNP",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
+      "id": "vigia-VOO",
+      "symbol": "VOO",
       "type": "pct_move",
       "pct": 5
     },
