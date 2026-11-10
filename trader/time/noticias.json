@@ -1,17 +1,17 @@
 {
-  "as_of": "2026-11-10T06:05:00Z",
+  "as_of": "2026-11-10T06:35:00Z",
   "items": [
     {
-      "id": "rss:9aec397e-92f3-3da6-a0a9-cd3cd4539507",
+      "id": "rss:02ceedef-9cf0-311e-b2d0-38240d7de01e",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Moonshot AI rents Nvidia\u2019s top chips in China, Bloomberg reports",
-      "summary": "Investing.com-- Chinese artificial intelligence startup Moonshot accessed Nvidia\u2019s most advanced chips this summer, Bloomberg reported on Tuesday, citing documents filed with Beijing regulators.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/moonshot-ai-rents-nvidia-top-054313159.html?.tsrc=rss",
-      "time": "2026-11-10T05:43:13+00:00",
+      "ticker": "GOOGL",
+      "title": "Sandisk And 2 Cash Flow Stocks To Watch",
+      "summary": "China plans to spend about US$940b on energy transition in 2026, with heavy investment in grids and low carbon power. That much long term capital searching for reliable returns can highlight businesses that quietly generate cash yet still trade cheaply. This article looks at three such stocks identified by our cash flow based value screen and explains why patient investors are watching them closely now. The stocks below are only a small sample of what shows up when cash flow strength meets...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-2-cash-flow-stocks-061328934.html?.tsrc=rss",
+      "time": "2026-11-10T06:13:28+00:00",
       "touches": [
-        "NVDA"
+        "GOOGL"
       ],
       "tags": [],
       "new": true
