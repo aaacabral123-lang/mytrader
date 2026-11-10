@@ -1,30 +1,15 @@
 {
-  "as_of": "2026-11-10T11:05:00Z",
+  "as_of": "2026-11-10T11:35:00Z",
   "items": [
     {
-      "id": "rss:b820d37b-0475-467f-8a71-0e35c238b9f4",
+      "id": "rss:f28aacfa-54f1-4722-b751-b0e50a0674cd",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Why Nvidia's alleged Chinese spy scandal is going to confuse markets \u2014 and the government",
-      "summary": "It's impossible to know where Beijing's intelligence scheme ends and Nvidia's genuine policy aims begin.",
-      "link": "https://finance.yahoo.com/technology/article/why-nvidias-alleged-chinese-spy-scandal-is-going-to-confuse-markets--and-the-government-110000900.html?.tsrc=rss",
-      "time": "2026-11-10T11:00:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:d32c660e-a8a9-3cc3-a1a6-236490f6ad15",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia CEO Huang Gets More Bad News but Cathie Wood Keeps the Faith",
-      "summary": "Nvidia stock was steadying despite further scrutiny on CEO Jensen Huang. Investors including Cathie Wood were buying the dip.",
-      "link": "https://finance.yahoo.com/m/d32c660e-a8a9-3cc3-a1a6-236490f6ad15/nvidia-ceo-huang-gets-more.html?.tsrc=rss",
-      "time": "2026-11-10T10:55:00+00:00",
+      "title": "Nvidia CEO Jensen Huang's affair appears to have short-circuited Wall Street analysts",
+      "summary": "Analysts take a wait and see approach on Jensen Huang.",
+      "link": "https://finance.yahoo.com/markets/stocks/article/nvidia-ceo-jensen-huangs-affair-appears-to-have-short-circuited-wall-street-analysts-112726933.html?.tsrc=rss",
+      "time": "2026-11-10T11:27:26+00:00",
       "touches": [
         "NVDA"
       ],
@@ -34,45 +19,14 @@
       "new": true
     },
     {
-      "id": "rss:263ce50f-19c9-3d37-9964-8a8d4edf8159",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "As AI hardware sells off, is this chip designer now deeply undervalued?",
-      "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/ai-hardware-sells-off-chip-103151585.html?.tsrc=rss",
-      "time": "2026-11-10T10:31:51+00:00",
-      "touches": [
-        "GOOGL",
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:ed865207-f772-385e-aa48-d6468b52d2cd",
+      "id": "rss:8f13a6ac-2d3e-39bb-8f03-707e29d57bc5",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Why Anthropic Is Right to Push Ahead With IPO Amid AI Turmoil",
-      "summary": "It\u2019s been a wild week for the AI trade, but that won\u2019t deter the Claude developer from pushing ahead with its public listing.",
-      "link": "https://finance.yahoo.com/m/ed865207-f772-385e-aa48-d6468b52d2cd/why-anthropic-is-right-to.html?.tsrc=rss",
-      "time": "2026-11-10T10:28:00+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:a1c9ff40-3e0e-3dd0-8932-1b04193d9822",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Stock Market News for Nov 10, 2026",
-      "summary": "Wall Street ended higher on Monday as falling oil prices and upcoming inflation data lifted sentiment, while Nvidia remained in focus over an investigation involving its CEO.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-10-094800346.html?.tsrc=rss",
-      "time": "2026-11-10T09:48:00+00:00",
+      "title": "Nvidia loses $190 billion as Trump reveals new FBI probe",
+      "summary": "President Donald Trump confirmed federal scrutiny involving the chipmaker's CEO, while Nvidia's board expressed confidence in his leadership.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-loses-190-billion-trump-112622669.html?.tsrc=rss",
+      "time": "2026-11-10T11:26:22+00:00",
       "touches": [
         "NVDA"
       ],
@@ -81,18 +35,399 @@
         "people"
       ],
       "new": true
+    },
+    {
+      "id": "rss:841474ee-6e42-3191-99d8-1c00cf01b73e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Michael Burry refuses to chase AMD's 13% stock surge",
+      "summary": "The chipmaker posted its strongest daily gain in six months as analysts pointed to opportunities from Nvidia's regulatory uncertainty.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-refuses-chase-amds-112521766.html?.tsrc=rss",
+      "time": "2026-11-10T11:25:21+00:00",
+      "touches": [
+        "GOOGL",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:8c64a8d9-d9af-3844-b5db-60c428b1db73",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Broadcom Heads These 3 Top Undervalued Stocks",
+      "summary": "With the Federal Reserve openly weighing a larger interest rate hike if inflation stays sticky, investors are again reminded that borrowing is never guaranteed to stay cheap. Higher rates can punish companies that rely heavily on debt, yet they can also leave some cash generative businesses overlooked and mispriced. This article walks through three stocks where strong cash flow potential meets a discounted valuation, based on Simply Wall St\u2019s intrinsic value work. The three stocks covered...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-heads-3-top-undervalued-111019939.html?.tsrc=rss",
+      "time": "2026-11-10T11:10:19+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:f23b9ab3-fd3c-32bd-8434-739182f1d40f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "TSMC Sales Jump Again -- Nvidia and Apple Orders Keep the AI Chip Boom Going",
+      "summary": "TSMC Monthly Sales Point to a Solid Quarter for the World's Top Contract Chipmaker",
+      "link": "https://finance.yahoo.com/technology/ai/articles/tsmc-sales-jump-again-nvidia-111006983.html?.tsrc=rss",
+      "time": "2026-11-10T11:10:06+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:5af379c5-8552-39c5-a4d3-7e26985162d8",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Direxion Daily S&P 500 Bull 3X (SPXL) Adds Apple and Nvidia on Friday",
+      "summary": "The fund bought $136.7 million of stock and increased 381 positions, with no decreases.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/direxion-daily-p-500-bull-110628696.html?.tsrc=rss",
+      "time": "2026-11-10T11:06:28+00:00",
+      "touches": [
+        "MSFT",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:f7ef445e-777a-3087-aa69-2ef711276a37",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "iShares Global Tech ETF (IXN) Sells $26.8 Million of Apple on Nov. 6",
+      "summary": "The fund sold $143.7 million of stock and bought nothing on Friday, cutting 77 positions.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-global-tech-etf-ixn-110623167.html?.tsrc=rss",
+      "time": "2026-11-10T11:06:23+00:00",
+      "touches": [
+        "MSFT",
+        "MU",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:341cbfdf-a685-3668-8bad-fee51f39afd5",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Proshares Trust (TQQQ) Sells Apple and Nvidia on Friday",
+      "summary": "The $32.08 billion fund sold $168.0 million of stock and bought nothing, cutting 71 positions.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/proshares-trust-tqqq-sells-apple-110610717.html?.tsrc=rss",
+      "time": "2026-11-10T11:06:10+00:00",
+      "touches": [
+        "MSFT",
+        "MU",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:f7f55a82-9b96-3977-a6fd-fa62bedd991b",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "iShares MSCI USA Momentum Factor ETF (MTUM) Adds AMD and Micron on Nov. 6",
+      "summary": "The fund bought $178.4 million more than it sold, lifting 123 positions and trimming one.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-msci-usa-momentum-factor-110606011.html?.tsrc=rss",
+      "time": "2026-11-10T11:06:06+00:00",
+      "touches": [
+        "MU"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:2d730e36-8f46-383b-93b9-979fad4af69f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "What iShares Russell 3000 ETF (IWV) Bought: Apple Leads on Nov. 6",
+      "summary": "The fund bought $206.8 million more than it sold, with Apple's $14.6 million purchase the largest of its buys.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-russell-3000-etf-iwv-110601335.html?.tsrc=rss",
+      "time": "2026-11-10T11:06:01+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:ecc60109-a56b-3f3c-b2e9-17905f956dd7",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "State Street SPDR Portfolio S&P 500 ETF (SPYM) Adds Apple and Nvidia on Nov. 6",
+      "summary": "The fund bought $246.5 million of stock on Friday, Nov. 6, lifting 502 positions and selling none.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-spdr-portfolio-p-110545295.html?.tsrc=rss",
+      "time": "2026-11-10T11:05:45+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:17ef5b76-5b33-3ff1-a52c-14fe85aa823a",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "iShares Russell 1000 Growth (IWF) Adds Fox and NVIDIA on Friday",
+      "summary": "The fund bought $186.0 million of stock and sold nothing, lifting 354 positions, led by a new $30.1 million stake in Fox Class A.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-russell-1000-growth-iwf-110540866.html?.tsrc=rss",
+      "time": "2026-11-10T11:05:40+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:88171a4c-4b92-33ff-9117-43355e341e54",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Spdr Dow Jones Industrial Average ETF (DIA) Buys $36 Million More GS on Friday",
+      "summary": "The fund added $358.4 million across all 30 holdings, with Goldman Sachs its largest purchase at $36.0 million.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spdr-dow-jones-industrial-average-110530396.html?.tsrc=rss",
+      "time": "2026-11-10T11:05:30+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:e6662cab-5c02-32b0-91b1-bd720613c38e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "Capital Group Div Value (CGDV) Buys $69.5 Million More FTAI Aviation on Nov. 6",
+      "summary": "The fund bought $69.5 million of FTAI Aviation and $65.7 million of Meta Platforms, while selling $18.5 million of Exxon Mobil.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/capital-group-div-value-cgdv-110522934.html?.tsrc=rss",
+      "time": "2026-11-10T11:05:22+00:00",
+      "touches": [
+        "MU"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:560d7338-5c3b-34be-be02-d19094dbc223",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "What Direxion Daily Technology Bull 3X ETF (TECL) Bought: AAPL Leads on Nov. 6",
+      "summary": "The fund sold $482.3 million of stock and bought nothing, cutting all 76 positions while holding $3.74 billion in assets.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/direxion-daily-technology-bull-3x-110515219.html?.tsrc=rss",
+      "time": "2026-11-10T11:05:15+00:00",
+      "touches": [
+        "MSFT",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:4de32328-35a5-3306-8efe-76c1e20a2252",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "State Street Tech Select SPDR (XLK) Adds Apple and Nvidia on Nov. 6",
+      "summary": "The fund bought $626.4 million of stock on Friday, led by $103.6 million of Apple and $93.6 million of Nvidia.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-tech-select-spdr-110445538.html?.tsrc=rss",
+      "time": "2026-11-10T11:04:45+00:00",
+      "touches": [
+        "MSFT",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:f1440a6c-9d27-3421-ac15-87e111454f17",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "What Invesco NASDAQ 100 ETF (QQQM) Bought: Apple Leads on Nov. 6",
+      "summary": "The fund added $1.04 billion in net buys, increasing all 101 positions and selling nothing.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-nasdaq-100-etf-qqqm-110436999.html?.tsrc=rss",
+      "time": "2026-11-10T11:04:36+00:00",
+      "touches": [
+        "MSFT",
+        "MU",
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:dc503537-f0b4-35b3-a375-ab28b47daef4",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "iShares Core S&P 500 (IVV) Adds Apple and Nvidia on Nov. 6",
+      "summary": "The fund bought $2.21 billion of stock and sold nothing, lifting 498 positions across its $875.23 billion portfolio.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-p-500-ivv-110429524.html?.tsrc=rss",
+      "time": "2026-11-10T11:04:29+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:b0bea848-fb4e-3d23-8160-51e4801e28b0",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "What INVESCO QQQ Trust (QQQ) Bought: Apple Leads on Nov. 6",
+      "summary": "The $446.09 billion fund bought $2.82 billion of stock and sold nothing, lifting all 101 positions.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-trust-qqq-bought-110424504.html?.tsrc=rss",
+      "time": "2026-11-10T11:04:24+00:00",
+      "touches": [
+        "MSFT",
+        "MU"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:18682fa4-aa1f-3ffa-8b37-7da1dee0bfe5",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "What iShares PHLX SOX Semiconductor (SOXX) Sold: AMD Leads on Nov. 6",
+      "summary": "The fund sold $3.95 billion of stock and bought nothing, cutting 29 positions while increasing none.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semiconductor-soxx-110416469.html?.tsrc=rss",
+      "time": "2026-11-10T11:04:16+00:00",
+      "touches": [
+        "MU"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:6622772a-3659-30f4-9b74-b29981318e24",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "SPDR S&P 500 ETF (SPY) Sells Apple and Nvidia on Nov. 6",
+      "summary": "The $791.88 billion fund sold $4.19 billion of stock and bought nothing, cutting all 503 positions.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spdr-p-500-etf-spy-110412540.html?.tsrc=rss",
+      "time": "2026-11-10T11:04:12+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:9ffc667a-142f-3198-80ee-ce8676c0442e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MU",
+      "title": "ETFs Are Net Sellers of Micron (MU) on Friday",
+      "summary": "ETFs sold $139.8 million of Micron stock on Friday, with 26 sellers against 67 buyers.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-micron-mu-110321838.html?.tsrc=rss",
+      "time": "2026-11-10T11:03:21+00:00",
+      "touches": [
+        "MU"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:85aef3cc-7da6-3197-9af2-fb201ae43342",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Alphabet (GOOGL) Sees $100.7 Million in Net ETF Buying on Friday",
+      "summary": "ETFs bought $100.7 million of Alphabet (GOOGL) shares on Friday, with 56 funds buying and 21 selling.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-googl-sees-100-7-110109170.html?.tsrc=rss",
+      "time": "2026-11-10T11:01:09+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:066b7231-0ec3-3e8a-938f-a4ed29c3396a",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "ETFs Bought $105.9 Million of Alphabet (GOOG) on Friday",
+      "summary": "ETFs bought $105.9 million of Alphabet (GOOG) on Friday, with 52 funds buying and 19 selling.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-105-9-million-110105170.html?.tsrc=rss",
+      "time": "2026-11-10T11:01:05+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:c3d2ec53-57af-3e84-9981-7c55ca589e08",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "ETFs Are Buying Microsoft (MSFT) on Nov. 6",
+      "summary": "ETFs bought $249.5 million of Microsoft stock, with 68 funds buying and 25 selling.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-microsoft-msft-nov-110046752.html?.tsrc=rss",
+      "time": "2026-11-10T11:00:46+00:00",
+      "touches": [
+        "MSFT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:47730d32-403d-3850-ba56-b80e46478540",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "2 Things That Could Hit the Brakes on the AI Boom. Why Hyperscalers Could Benefit.",
+      "summary": "Investors are looking beyond the supply of energy and equipment toward a new set of obstacles for the AI buildout.",
+      "link": "https://finance.yahoo.com/m/47730d32-403d-3850-ba56-b80e46478540/2-things-that-could-hit-the.html?.tsrc=rss",
+      "time": "2026-11-10T10:00:00+00:00",
+      "touches": [
+        "GOOGL",
+        "MSFT",
+        "ORCL"
+      ],
+      "tags": [],
+      "new": true
     }
   ],
   "atencao": [
     {
-      "id": "rss:a1c9ff40-3e0e-3dd0-8932-1b04193d9822",
+      "id": "rss:8f13a6ac-2d3e-39bb-8f03-707e29d57bc5",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Stock Market News for Nov 10, 2026",
-      "summary": "Wall Street ended higher on Monday as falling oil prices and upcoming inflation data lifted sentiment, while Nvidia remained in focus over an investigation involving its CEO.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-10-094800346.html?.tsrc=rss",
-      "time": "2026-11-10T09:48:00+00:00",
+      "title": "Nvidia loses $190 billion as Trump reveals new FBI probe",
+      "summary": "President Donald Trump confirmed federal scrutiny involving the chipmaker's CEO, while Nvidia's board expressed confidence in his leadership.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-loses-190-billion-trump-112622669.html?.tsrc=rss",
+      "time": "2026-11-10T11:26:22+00:00",
       "touches": [
         "NVDA"
       ],
