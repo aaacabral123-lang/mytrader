@@ -1,90 +1,131 @@
 {
-  "as_of": "2026-11-10T12:05:00Z",
+  "as_of": "2026-11-10T12:35:00Z",
   "items": [
     {
-      "id": "rss:ab657a7b-c101-3b82-a6ca-b1d426c35657",
+      "id": "rss:9bcd6ba8-267b-3086-8955-bcf74911795e",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia Stock Rises as President Trump Backs Huang in China Spy Storm",
-      "summary": "Trump Defends Jensen Huang as Nvidia Espionage Probe Rattles Investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-rises-president-trump-114938423.html?.tsrc=rss",
-      "time": "2026-11-10T11:49:38+00:00",
+      "title": "Nvidia and Jensen Huang face shareholder lawsuit alleging investors were misled about spy affair",
+      "summary": "A shareholder has sued Nvidia and its CEO, Jensen Huang, accusing them of deceiving investors in their responses to media reports about Huang's affair with a purported Chinese spy that threatens national security. The complaint comes after President Donald Trump said the FBI is investigating the affair, which Huang has acknowledged to and apologized for.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-jensen-huang-face-shareholder-121829790.html?.tsrc=rss",
+      "time": "2026-11-10T12:18:29+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
-        "legal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:06cb87d3-cd51-45c9-8522-5e2f2852bd45",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia is worth nearly 30% less if Jensen Huang is no longer CEO: tech analyst",
-      "summary": "Nvidia's future hangs in the balance.",
-      "link": "https://finance.yahoo.com/markets/stocks/article/nvidia-is-worth-nearly-30-less-if-jensen-huang-is-no-longer-ceo-tech-analyst-114242269.html?.tsrc=rss",
-      "time": "2026-11-10T11:42:42+00:00",
-      "touches": [
-        "NVDA"
-      ],
-      "tags": [
+        "legal",
         "people"
       ],
       "new": true
     },
     {
-      "id": "rss:dd2d1e80-a497-3f13-9601-4dd1275754c6",
+      "id": "rss:3eee99a4-d97d-4637-8bdb-e234edb3be82",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "GOOGL",
-      "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Tuesday; Rocket Lab, AMD to Open Lower",
-      "summary": "The most-talked-about stocks in the Reddit subforum Wallstreetbets were mixed hours before Tuesday's",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/social-buzz-wallstreetbets-stocks-mixed-113659846.html?.tsrc=rss",
-      "time": "2026-11-10T11:36:59+00:00",
+      "ticker": "NVDA",
+      "title": "Jensen Huang's spy scandal may cost Nvidia the China chip fight it was winning",
+      "summary": "Jensen Huang's spy scandal could revive Washington's push to ban China from US chips.",
+      "link": "https://finance.yahoo.com/markets/article/jensen-huangs-spy-scandal-may-cost-nvidia-the-china-chip-fight-it-was-winning-121310306.html?.tsrc=rss",
+      "time": "2026-11-10T12:13:10+00:00",
       "touches": [
-        "GOOGL",
-        "MU",
         "NVDA"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:a7a32330-f317-3053-9c85-dd2e73d7c5e2",
+      "id": "rss:cdd33f76-fb27-4f38-962e-a2878771adaf",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MU",
-      "title": "Anthropic seeks up to $64.4b in IPO, targets over $1 trillion valuation",
-      "summary": "Investing.com -- Anthropic plans to raise up to $64.4 billion through its initial public offering, according to a regulatory filing released Tuesday. The company is targeting a valuation of up to $1.02 trillion.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-retracts-ipo-details-sending-030830834.html?.tsrc=rss",
-      "time": "2026-11-10T03:08:30+00:00",
+      "ticker": "NVDA",
+      "title": "3 bipartisan plans could slap new controls on semiconductor exports. Elizabeth Warren wants to pass one this year.",
+      "summary": "Three bipartisan measures circulating on Capitol Hill could reshape US export controls on semiconductors. On Monday, Democratic Sen. Elizabeth Warren announced an effort to implement one in the coming weeks.",
+      "link": "https://finance.yahoo.com/markets/article/3-bipartisan-plans-could-slap-new-controls-on-semiconductor-exports-elizabeth-warren-wants-to-pass-one-this-year-121030831.html?.tsrc=rss",
+      "time": "2026-11-10T12:10:30+00:00",
       "touches": [
-        "MU"
+        "NVDA"
       ],
-      "tags": [
-        "capital"
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:c21a8094-18da-3cb0-9ba5-47e7c7f475cf",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MSFT",
+      "title": "Microsoft pushes Trump to halt Chinese data center component ban: Reuters",
+      "summary": "Investing.com -- Microsoft has been lobbying the Trump administration to abandon plans to bar imports of Chinese optical transceivers, a key component in AI data centers, Reuters reported on Tuesday, citing three people familiar with the matter.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-pushes-trump-halt-chinese-120408623.html?.tsrc=rss",
+      "time": "2026-11-10T12:04:08+00:00",
+      "touches": [
+        "MSFT"
       ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:65454e33-705d-3ca4-8694-21dc2e91fdc5",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "NVDA",
+      "title": "Elon Musk gains a major opportunity as Nvidia faces uncertainty",
+      "summary": "Elon Musk may join President Donald Trump's delegation to the APEC summit, while Jensen Huang's attendance remains in doubt.",
+      "link": "https://finance.yahoo.com/technology/articles/elon-musk-gains-major-opportunity-120118469.html?.tsrc=rss",
+      "time": "2026-11-10T12:01:18+00:00",
+      "touches": [
+        "NVDA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:e18f691e-fe09-3163-af60-1cb37c2d8aa0",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "Florida, Stop Negotiating Your Internet Bill: welo is Here",
+      "summary": "welo, the internet provider built to challenge conventions, has launched in Greater Miami to shake the status quo and bring fair, transparent home internet to South Florida. welo delivers a simple solution: reliable home internet, guaranteed rates for life, and a modern all digital experience 24/7 customer support.",
+      "link": "https://finance.yahoo.com/technology/articles/florida-stop-negotiating-internet-bill-120000864.html?.tsrc=rss",
+      "time": "2026-11-10T12:00:00+00:00",
+      "touches": [
+        "GOOGL"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:f0a4f80a-a0c4-359a-824a-236cc4488d0e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "REGN",
+      "title": "Soleo Health Selected as a Specialty Pharmacy Partner for Pasatru\u2122, a New Treatment in Adults with Fibrodysplasia Ossificans Progressiva",
+      "summary": "FRISCO, Texas, Nov. 10, 2026 (GLOBE NEWSWIRE) -- Soleo Health, an innovative leader and national provider of complex specialty pharmacy services, announced today that it was selected as a specialty pharmacy partner for Pasatru\u2122 (garetosmab-grts), Regeneron\u2019s FDA-approved product to reduce formation of new heterotopic ossification (HO) lesions and clinician-assessed flare-ups in adults with fibrodysplasia ossificans progressiva (FOP), an ultra-rare genetic disorder. Approved August 19, 2026, Pasa",
+      "link": "https://finance.yahoo.com/healthcare/articles/soleo-health-selected-specialty-pharmacy-120000910.html?.tsrc=rss",
+      "time": "2026-11-10T12:00:00+00:00",
+      "touches": [
+        "REGN"
+      ],
+      "tags": [],
       "new": true
     }
   ],
   "atencao": [
     {
-      "id": "rss:ab657a7b-c101-3b82-a6ca-b1d426c35657",
+      "id": "rss:9bcd6ba8-267b-3086-8955-bcf74911795e",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "NVDA",
-      "title": "Nvidia Stock Rises as President Trump Backs Huang in China Spy Storm",
-      "summary": "Trump Defends Jensen Huang as Nvidia Espionage Probe Rattles Investors",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-rises-president-trump-114938423.html?.tsrc=rss",
-      "time": "2026-11-10T11:49:38+00:00",
+      "title": "Nvidia and Jensen Huang face shareholder lawsuit alleging investors were misled about spy affair",
+      "summary": "A shareholder has sued Nvidia and its CEO, Jensen Huang, accusing them of deceiving investors in their responses to media reports about Huang's affair with a purported Chinese spy that threatens national security. The complaint comes after President Donald Trump said the FBI is investigating the affair, which Huang has acknowledged to and apologized for.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-jensen-huang-face-shareholder-121829790.html?.tsrc=rss",
+      "time": "2026-11-10T12:18:29+00:00",
       "touches": [
         "NVDA"
       ],
       "tags": [
-        "legal"
+        "legal",
+        "people"
       ],
       "new": true
     }
