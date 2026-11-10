@@ -1,23 +1,45 @@
 {
-  "as_of": "2026-11-10T01:05:00Z",
+  "as_of": "2026-11-10T01:34:17Z",
   "items": [
     {
-      "id": "rss:49d39a80-0625-3dcb-927b-c321f09e8744",
+      "id": "rss:5f1c7592-baf0-32f1-b4a2-dd91de43a7a4",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "NVDA",
-      "title": "Nvidia CEO Personal Ties Could Intensify Washington Scrutiny",
-      "summary": "Nvidia (NVDA) CEO Jensen Huang's reported relationship with a woman US intelligence agencies reporte",
-      "link": "https://finance.yahoo.com/technology/articles/nvidia-ceo-personal-ties-could-004052716.html?.tsrc=rss",
-      "time": "2026-11-10T00:40:52+00:00",
+      "ticker": "GOOGL",
+      "title": "What Does Nvidia (NVDA) Need To Prove As AI Rivalry And CEO Scrutiny Build?",
+      "summary": "Nvidia (NasdaqGS:NVDA) faces fresh rivalry as Google announces new advanced tensor processing units for AI workloads in early November 2026. Google's latest TPUs are described as tailored for generative AI and large language models that previously leaned heavily on Nvidia GPUs. At the same time, Nvidia CEO Jensen Huang is the subject of a high profile probe into alleged links to a Chinese spy, according to investigators. Google's AI chip push and the Jensen Huang investigation are important...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/does-nvidia-nvda-prove-ai-011637196.html?.tsrc=rss",
+      "time": "2026-11-10T01:16:37+00:00",
       "touches": [
+        "GOOGL",
         "NVDA"
       ],
       "tags": [
+        "legal",
         "people"
       ],
       "new": true
     }
   ],
-  "atencao": []
+  "atencao": [
+    {
+      "id": "rss:5f1c7592-baf0-32f1-b4a2-dd91de43a7a4",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "GOOGL",
+      "title": "What Does Nvidia (NVDA) Need To Prove As AI Rivalry And CEO Scrutiny Build?",
+      "summary": "Nvidia (NasdaqGS:NVDA) faces fresh rivalry as Google announces new advanced tensor processing units for AI workloads in early November 2026. Google's latest TPUs are described as tailored for generative AI and large language models that previously leaned heavily on Nvidia GPUs. At the same time, Nvidia CEO Jensen Huang is the subject of a high profile probe into alleged links to a Chinese spy, according to investigators. Google's AI chip push and the Jensen Huang investigation are important...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/does-nvidia-nvda-prove-ai-011637196.html?.tsrc=rss",
+      "time": "2026-11-10T01:16:37+00:00",
+      "touches": [
+        "GOOGL",
+        "NVDA"
+      ],
+      "tags": [
+        "legal",
+        "people"
+      ],
+      "new": true
+    }
+  ]
 }
