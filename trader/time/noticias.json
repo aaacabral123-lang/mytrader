@@ -1,19 +1,70 @@
 {
-  "as_of": "2026-11-11T18:05:00Z",
+  "as_of": "2026-11-11T18:35:00Z",
   "items": [
     {
-      "id": "rss:6a8c3112-0197-4934-a3cc-8f23e67bc67d",
+      "id": "rss:cc5ceebd-efc9-3744-bbfc-99d50dcc2f8f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "ExxonMobil (XOM) Stock May Be 24% Undervalued Despite Venezuela Oil Deal",
+      "summary": "ExxonMobil Holdings has delivered a powerful share price run over the past few years, yet the recent pullback and busy deal slate raise a sharper question about whether the current market value lines up with the cash the business can generate. With investors weighing Venezuela, Mozambique, Guyana and even Arkansas lithium against a softer oil price backdrop, the focus turns squarely to what the company\u2019s cash flows can justify. Over the past 5 years the stock has gained 197.4%, which puts a...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-xom-stock-may-24-181015023.html?.tsrc=rss",
+      "time": "2026-11-11T18:10:15+00:00",
+      "touches": [
+        "XOM"
+      ],
+      "tags": [
+        "deal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:2bbf6a18-40d2-3b2e-b0b8-af146f091bd0",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Adobe (ADBE) Is Down About 31% This Year. Here\u2019s What Citi\u2019s Tyler Radke Sees Next",
+      "summary": "We just published a list of the Analysts Just Slashed Their Price Targets on These 10 Stocks and Adobe (NASDAQ:ADBE) ranked 9th on this list. Wall Street had its worst day in 19 months last Thursday, with chip stocks leading the selloff. The Nasdaq Composite fell 5.52% to 24,315.00, its biggest one-day drop since the [\u2026]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-down-31-citi-180326888.html?.tsrc=rss",
+      "time": "2026-11-11T18:03:26+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [
+        "analyst"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:2fb24285-443e-3d32-9623-2d29473c822a",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "V",
-      "title": "Goldman Sachs, Citi commit millions to stablecoin venture: What to know",
-      "summary": "Goldman Sachs, Citi, and other banks are committing $270 million to a stablecoin venture called \"Project Faro.\" Scott Melker outlines what you need to know.",
-      "link": "https://finance.yahoo.com/video/goldman-sachs-citi-commit-millions-to-stablecoin-venture-what-to-know-175849941.html?.tsrc=rss",
-      "time": "2026-11-11T17:58:49+00:00",
+      "title": "Can Visa's Monad Integration Boost Its Stablecoin Strategy?",
+      "summary": "V expands its stablecoin settlement network with Monad, enhancing blockchain flexibility as settlement volumes surge and institutional adoption gains momentum.",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/visas-monad-integration-boost-stablecoin-171700114.html?.tsrc=rss",
+      "time": "2026-11-11T17:17:00+00:00",
       "touches": [
         "V"
       ],
       "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:2d305cd7-5415-30cb-839b-f76f3a6e3895",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "What's Lowe's Probability of an Earnings Beat This Season?",
+      "summary": "Lowe's heads into Q3 earnings with an Earnings ESP of +0.59%, fueled by Pro demand and digital growth, but housing weakness and cost pressures pose risks.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/whats-lowes-probability-earnings-beat-170900893.html?.tsrc=rss",
+      "time": "2026-11-11T17:09:00+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [
+        "earnings"
+      ],
       "new": true
     }
   ],
