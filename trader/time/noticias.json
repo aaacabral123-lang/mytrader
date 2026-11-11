@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-11T19:05:00Z",
-  "items": [
-    {
-      "id": "rss:9a18f656-13c7-4124-9f99-3784292af0d6",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "V",
-      "title": "Visa adds Monad to stablecoin settlement options",
-      "summary": "Scott Melker discusses Visa (V) adding Monad as yet another option for settlecoin settlements. Visa already allows settlements on ethereum (ETH-USD), Solana (SOL-USD), and Avalanche (AVAX-USD). \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.",
-      "link": "https://finance.yahoo.com/video/visa-adds-monad-stablecoin-settlement-190000310.html?.tsrc=rss",
-      "time": "2026-11-11T19:00:00+00:00",
-      "touches": [
-        "V"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-11T19:35:00Z",
+  "items": [],
   "atencao": []
 }
