@@ -1,5 +1,70 @@
 {
-  "as_of": "2026-11-11T21:05:00Z",
-  "items": [],
+  "as_of": "2026-11-11T21:35:00Z",
+  "items": [
+    {
+      "id": "rss:62a759cf-6e59-34aa-8387-0b76d8f29233",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "V",
+      "title": "Visa (V) Ties Monad Stablecoin Settlement Move To New Fraud API Rollout",
+      "summary": "Visa (NYSE: V) has added the Monad blockchain to its stablecoin settlement program as a new multi-chain option. Global Payments is integrating Visa's IDX API into its Adaptive Authentication service to support identity and fraud checks for clients. Both moves signal Visa's push to expand blockchain-based settlement tools and strengthen digital transaction security for payment partners. Visa's Monad stablecoin expansion and IDX integration with Global Payments matter, but they are only part...",
+      "link": "https://finance.yahoo.com/markets/crypto/articles/visa-v-ties-monad-stablecoin-211600627.html?.tsrc=rss",
+      "time": "2026-11-11T21:16:00+00:00",
+      "touches": [
+        "V"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:0176d112-6097-3a02-b623-ffd8d4ebfc72",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "Williams-Sonoma (WSM) Earnings Expected to Grow: Should You Buy?",
+      "summary": "Williams-Sonoma (WSM) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/williams-sonoma-wsm-earnings-expected-200901354.html?.tsrc=rss",
+      "time": "2026-11-11T20:09:01+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:ec63c30c-8622-3f48-bed9-c7ac2481b187",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Should Value Investors Buy Adobe (ADBE) Stock?",
+      "summary": "Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/value-investors-buy-adobe-adbe-200801175.html?.tsrc=rss",
+      "time": "2026-11-11T20:08:01+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:19472892-1892-3ee1-a80b-1154b5cebf09",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Top Analyst Reports for NVIDIA, Walmart & AbbVie",
+      "summary": "Today's Research Daily features new research reports on 16 major stocks, including NVIDIA Corp. (NVDA), Walmart Inc. (WMT), AbbVie Inc. (ABBV) as well as two micro-cap stocks, Pioneer Bancorp, Inc. (PBFS) and Aspira Women's Health Inc. (AWHL).",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-nvidia-walmart-200800641.html?.tsrc=rss",
+      "time": "2026-11-11T20:08:00+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
