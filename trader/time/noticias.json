@@ -1,36 +1,5 @@
 {
-  "as_of": "2026-11-11T11:35:00Z",
-  "items": [
-    {
-      "id": "rss:ffa3f855-e16b-3e8c-9c7f-4a01e38740f0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "V",
-      "title": "Financial Select Sector SPDR (XLF) Buys $26.7 Million More Berkshire on Nov. 9",
-      "summary": "The fund added $202.9 million across all 76 of its positions on Monday, with Berkshire Hathaway and JPMorgan leading the buys.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/financial-select-sector-spdr-xlf-110424944.html?.tsrc=rss",
-      "time": "2026-11-11T11:04:24+00:00",
-      "touches": [
-        "V"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:71242714-34ae-3120-801f-66197c5fa5dd",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "V",
-      "title": "Spdr Dow Jones Industrial Average ETF (DIA) Buys $40.3 Million More GS on Nov. 9",
-      "summary": "The fund added $392.3 million across all 30 of its positions, with Goldman Sachs its largest buy at $40.3 million.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spdr-dow-jones-industrial-average-110359101.html?.tsrc=rss",
-      "time": "2026-11-11T11:03:59+00:00",
-      "touches": [
-        "V"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-11T12:05:00Z",
+  "items": [],
   "atencao": []
 }
