@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-11T06:35:00Z",
-  "items": [
-    {
-      "id": "rss:90564114-32c0-3242-9420-a23e2065ed94",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Adobe (ADBE) Expands Its AI Partnership and Workspace Reach",
-      "summary": "Adobe (NasdaqGS: ADBE) and Google announced an expanded partnership that more deeply links their creative and productivity platforms. Acrobat is set to be embedded inside Google Workspace tools such as Google Drive and Gmail for document viewing and editing. Google's AI models will be integrated into Adobe Firefly, Photoshop, Premiere and Adobe Express, with joint work between Adobe and Google DeepMind on new AI image editing features. The deeper integration of Adobe tools into Google...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-expands-ai-partnership-061347460.html?.tsrc=rss",
-      "time": "2026-11-11T06:13:47+00:00",
-      "touches": [
-        "ADBE"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-11T07:05:00Z",
+  "items": [],
   "atencao": []
 }
