@@ -1,5 +1,38 @@
 {
-  "as_of": "2026-11-11T16:05:00Z",
-  "items": [],
+  "as_of": "2026-11-11T16:35:00Z",
+  "items": [
+    {
+      "id": "rss:7a2ee0f0-8f05-3708-8ed4-c6920f6b186b",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Adobe Poised to Outperform Peers Over the Next 12 Months, RBC Says",
+      "summary": "Adobe (ADBE) is positioned to outperform peers over the next 12 months as growing synergies between",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-poised-outperform-peers-over-161410699.html?.tsrc=rss",
+      "time": "2026-11-11T16:14:10+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [
+        "analyst"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:821338e0-8b56-3637-b630-b09bc2e3220c",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Michael Burry Makes Surprising Call on Nvidia Stock",
+      "summary": "A famous market bear sees opportunity beyond Wall Street's favorite trade.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-makes-surprising-call-160613836.html?.tsrc=rss",
+      "time": "2026-11-11T16:06:13+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
