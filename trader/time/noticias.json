@@ -1,66 +1,17 @@
 {
-  "as_of": "2026-11-11T17:35:00Z",
+  "as_of": "2026-11-11T18:05:00Z",
   "items": [
     {
-      "id": "rss:80603be8-cdd9-3659-8642-c1902666b602",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "Jim Cramer\u2019s Top 5 Dividend Stocks for Safe, Consistent Returns",
-      "summary": "From 2000 through 2009, dividends earned S&P 500 investors an annualized 1.8%, according to Hartford Funds. Even with those payments, the index posted a negative total return for the decade. Over the longer stretch from 1940 through 2025, Hartford found that dividend income accounted for an average of 33% of the index\u2019s total return. For [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-top-5-dividend-170610506.html?.tsrc=rss",
-      "time": "2026-11-11T17:06:10+00:00",
-      "touches": [
-        "HD"
-      ],
-      "tags": [
-        "capital"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:c548916b-b363-4c86-a665-4e2e39757e16",
+      "id": "rss:6a8c3112-0197-4934-a3cc-8f23e67bc67d",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "V",
-      "title": "Wall Street hits the night shift thanks to Okxice, and Kraken puts daq in your wallet",
-      "summary": "Scott Melker discusses Okxice's plans for a Nov. 23 launch under an SEC innovation exemption; Kraken (KRAK.PVT) to launch Nasdaq-backed tokenized versions of European stocks; and Goldman Sachs (GS) and Citi (C) among the banks\u00a0committing to stablecoin ventures. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.",
-      "link": "https://finance.yahoo.com/video/wall-street-hits-night-shift-170000622.html?.tsrc=rss",
-      "time": "2026-11-11T17:00:00+00:00",
+      "title": "Goldman Sachs, Citi commit millions to stablecoin venture: What to know",
+      "summary": "Goldman Sachs, Citi, and other banks are committing $270 million to a stablecoin venture called \"Project Faro.\" Scott Melker outlines what you need to know.",
+      "link": "https://finance.yahoo.com/video/goldman-sachs-citi-commit-millions-to-stablecoin-venture-what-to-know-175849941.html?.tsrc=rss",
+      "time": "2026-11-11T17:58:49+00:00",
       "touches": [
         "V"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:a0e7a7f9-952b-3189-9bd6-49c8ae77f341",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XOM",
-      "title": "TRGP Q3 Earnings Beat on Permian Growth and Higher Fees",
-      "summary": "Targa Resources' Q3 2026 earnings beat estimates as record Permian volumes and higher fees fueled growth, prompting a raised full-year EBITDA outlook.",
-      "link": "https://finance.yahoo.com/energy/articles/trgp-q3-earnings-beat-permian-161100033.html?.tsrc=rss",
-      "time": "2026-11-11T16:11:00+00:00",
-      "touches": [
-        "XOM"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:cb189d32-6e38-3457-a9ee-7f729dfe2a95",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XOM",
-      "title": "Imperial Oil Stock Rises 43% YTD: Time to Buy or Lock in Profits?",
-      "summary": "IMO stock rallies 42.8% YTD. With rising production, favorable refining margins and strong cash flow, is the stock still worth buying?",
-      "link": "https://finance.yahoo.com/energy/articles/imperial-oil-stock-rises-43-160600909.html?.tsrc=rss",
-      "time": "2026-11-11T16:06:00+00:00",
-      "touches": [
-        "XOM"
       ],
       "tags": [],
       "new": true
