@@ -1,5 +1,44 @@
 {
-  "as_of": "2026-11-11T21:35:00Z",
-  "new": [],
-  "hits": []
+  "as_of": "2026-11-11T23:35:00Z",
+  "new": [
+    {
+      "doc_id": "9116403",
+      "type": "P",
+      "type_name": "Periodic Transaction Report",
+      "last": "Fleischmann",
+      "first": "Charles J. \"Chuck\"",
+      "name": "Hon. Charles J. \"Chuck\" Fleischmann",
+      "district": "TN03",
+      "year": 2026,
+      "filed": "2026-11-10",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/9116403.pdf"
+    },
+    {
+      "doc_id": "20035806",
+      "type": "P",
+      "type_name": "Periodic Transaction Report",
+      "last": "Johnson",
+      "first": "Julie",
+      "name": "Hon. Julie Johnson",
+      "district": "TX32",
+      "year": 2026,
+      "filed": "2026-11-10",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035806.pdf"
+    },
+    {
+      "doc_id": "20035788",
+      "type": "P",
+      "type_name": "Periodic Transaction Report",
+      "last": "Cisneros",
+      "first": "Gilbert",
+      "name": "Hon. Gilbert Cisneros",
+      "district": "CA31",
+      "year": 2026,
+      "filed": "2026-11-10",
+      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035788.pdf"
+    }
+  ],
+  "hits": [
+    "Gilbert Cisneros: venda parcial HD, $1,001 - $15,000"
+  ]
 }
