@@ -1,5 +1,22 @@
 {
-  "cash": 1500.0,
+  "cash": 300.04,
   "source": "pares: a\u00e7\u00f5es dos pares + caixa dos pares",
-  "positions": []
+  "positions": [
+    {
+      "ticker": "HD",
+      "shares": 0.855091383
+    },
+    {
+      "ticker": "V",
+      "shares": 0.708094736
+    },
+    {
+      "ticker": "XOM",
+      "shares": 1.820128869
+    },
+    {
+      "ticker": "YUM",
+      "shares": 1.867304891
+    }
+  ]
 }

@@ -3,36 +3,12 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "YUM",
+      "symbol": "WMT",
       "side": "buy",
       "notional": "300",
       "type": "market",
       "time_in_force": "day",
-      "why": "pares, entrada: YUM ficou para tr\u00e1s de MCD (z 2.27, correla\u00e7\u00e3o 0.59)"
-    },
-    {
-      "symbol": "HD",
-      "side": "buy",
-      "notional": "300",
-      "type": "market",
-      "time_in_force": "day",
-      "why": "pares, entrada: HD ficou para tr\u00e1s de LOW (z -2.06, correla\u00e7\u00e3o 0.93)"
-    },
-    {
-      "symbol": "V",
-      "side": "buy",
-      "notional": "300",
-      "type": "market",
-      "time_in_force": "day",
-      "why": "pares, entrada: V ficou para tr\u00e1s de MA (z -1.57, correla\u00e7\u00e3o 0.90)"
-    },
-    {
-      "symbol": "XOM",
-      "side": "buy",
-      "notional": "300",
-      "type": "market",
-      "time_in_force": "day",
-      "why": "pares, entrada: XOM ficou para tr\u00e1s de CVX (z -1.53, correla\u00e7\u00e3o 0.89)"
+      "why": "pares, entrada: WMT ficou para tr\u00e1s de COST (z 2.28, correla\u00e7\u00e3o 0.68)"
     }
   ]
 }

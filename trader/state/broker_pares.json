@@ -39,6 +39,16 @@
       "id": "dd2cb5d6-66aa-4cc1-a84b-bc008fd2fb2f",
       "approved_by": "robo (automatic, paper)",
       "why": "pares, entrada: XOM ficou para tr\u00e1s de CVX (z -1.53, correla\u00e7\u00e3o 0.89)"
+    },
+    {
+      "date": "2026-11-11",
+      "at": "2026-11-11T20:05:05Z",
+      "status": "placed",
+      "symbol": "WMT",
+      "side": "buy",
+      "id": "bd5cb880-d8cc-4185-a611-ea967b0e7a46",
+      "approved_by": "robo (automatic, paper)",
+      "why": "pares, entrada: WMT ficou para tr\u00e1s de COST (z 2.28, correla\u00e7\u00e3o 0.68)"
     }
   ]
 }

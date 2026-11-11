@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-11T19:35:00Z",
-  "items": [],
+  "as_of": "2026-11-11T20:05:00Z",
+  "items": [
+    {
+      "id": "rss:cbb5166b-9a1a-3de0-8986-212db38dbc5e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Michael Burry buys back into Lululemon, adds to other positions",
+      "summary": "Investing.com -- Michael Burry disclosed that he purchased shares of Lululemon on Wednesday after previously exiting his position in the athletic apparel company in October.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-buys-back-lululemon-192455774.html?.tsrc=rss",
+      "time": "2026-11-11T19:24:55+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
