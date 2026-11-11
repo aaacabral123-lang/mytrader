@@ -25,6 +25,12 @@
       "pct": 5
     },
     {
+      "id": "vigia-WMT",
+      "symbol": "WMT",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
       "id": "vigia-XOM",
       "symbol": "XOM",
       "type": "pct_move",
