@@ -1,24 +1,24 @@
 {
-  "as_of": "2026-11-11T15:05:06Z",
+  "as_of": "2026-11-11T15:35:06Z",
   "paper": true,
   "strategy": "indice",
   "rules": "Growing, profitable, not priced for perfection",
   "start": 5000.0,
-  "total": 4784.6,
-  "invested": 2069.13,
+  "total": 4786.12,
+  "invested": 2069.99,
   "cash": 227.37,
-  "change": -215.4,
-  "change_pct": -4.31,
+  "change": -213.88,
+  "change_pct": -4.28,
   "positions": [
     {
       "symbol": "VOO",
       "name": "ETF do \u00edndice S&P 500 (as 500 maiores empresas dos EUA)",
       "qty": 2.97608681,
       "avg": 688.05,
-      "price": 695.25,
-      "value": 2069.12,
-      "pl": 21.43,
-      "pl_pct": 1.05,
+      "price": 695.54,
+      "value": 2069.99,
+      "pl": 22.29,
+      "pl_pct": 1.09,
       "weight": 43.25
     },
     {
@@ -26,10 +26,10 @@
       "name": "",
       "qty": 2.7337e-05,
       "avg": 238.436,
-      "price": 235.92,
+      "price": 237.21,
       "value": 0.01,
       "pl": -0.0,
-      "pl_pct": -1.06,
+      "pl_pct": -0.51,
       "weight": 0.0
     }
   ],
@@ -54,106 +54,106 @@
     "positions": [],
     "signals": {
       "SPY": {
-        "price": 756.4,
-        "rsi2": 76.3,
-        "sma_exit": 745.58,
+        "price": 756.58,
+        "rsi2": 76.58,
+        "sma_exit": 745.61,
         "sma_trend": 728.6
       },
       "QQQ": {
-        "price": 686.37,
-        "rsi2": 79.06,
-        "sma_exit": 668.86,
+        "price": 687.71,
+        "rsi2": 80.19,
+        "sma_exit": 669.13,
         "sma_trend": 680.6
       },
       "IWM": {
-        "price": 281.85,
-        "rsi2": 68.98,
-        "sma_exit": 277.9,
+        "price": 282.05,
+        "rsi2": 70.0,
+        "sma_exit": 277.94,
         "sma_trend": 278.29
       },
       "DIA": {
-        "price": 521.1,
-        "rsi2": 52.61,
-        "sma_exit": 518.59,
+        "price": 520.54,
+        "rsi2": 48.33,
+        "sma_exit": 518.48,
         "sma_trend": 504.64
       },
       "XLK": {
-        "price": 173.66,
-        "rsi2": 77.47,
-        "sma_exit": 168.14,
+        "price": 173.88,
+        "rsi2": 78.02,
+        "sma_exit": 168.18,
         "sma_trend": 170.29
       },
       "XLF": {
-        "price": 58.23,
-        "rsi2": 67.44,
-        "sma_exit": 57.84,
+        "price": 58.16,
+        "rsi2": 60.73,
+        "sma_exit": 57.82,
         "sma_trend": 53.6
       },
       "XLE": {
-        "price": 62.93,
-        "rsi2": 78.55,
-        "sma_exit": 62.09,
+        "price": 63.23,
+        "rsi2": 82.98,
+        "sma_exit": 62.15,
         "sma_trend": 58.79
       },
       "XLV": {
-        "price": 187.16,
-        "rsi2": 39.34,
-        "sma_exit": 186.85,
+        "price": 187.62,
+        "rsi2": 45.5,
+        "sma_exit": 186.94,
         "sma_trend": 158.93
       },
       "XLY": {
-        "price": 120.71,
-        "rsi2": 61.71,
-        "sma_exit": 119.59,
-        "sma_trend": 115.09
+        "price": 120.55,
+        "rsi2": 56.52,
+        "sma_exit": 119.56,
+        "sma_trend": 115.08
       },
       "XLP": {
-        "price": 90.38,
-        "rsi2": 30.4,
-        "sma_exit": 90.74,
+        "price": 90.55,
+        "rsi2": 35.23,
+        "sma_exit": 90.77,
         "sma_trend": 83.96
       },
       "XLI": {
-        "price": 169.85,
-        "rsi2": 83.11,
-        "sma_exit": 166.53,
-        "sma_trend": 172.73
+        "price": 170.19,
+        "rsi2": 84.71,
+        "sma_exit": 166.59,
+        "sma_trend": 172.74
       },
       "XLU": {
-        "price": 43.71,
-        "rsi2": 62.67,
+        "price": 43.67,
+        "rsi2": 55.8,
         "sma_exit": 43.54,
         "sma_trend": 43.86
       },
       "XLB": {
-        "price": 52.82,
-        "rsi2": 56.16,
-        "sma_exit": 52.58,
+        "price": 52.91,
+        "rsi2": 62.58,
+        "sma_exit": 52.6,
         "sma_trend": 50.89
       },
       "SMH": {
-        "price": 502.04,
-        "rsi2": 81.25,
-        "sma_exit": 476.63,
-        "sma_trend": 523.02
+        "price": 504.21,
+        "rsi2": 82.42,
+        "sma_exit": 477.06,
+        "sma_trend": 523.03
       }
     }
   },
   "pares": {
     "start": 1500.0,
     "cash": 300.04,
-    "value": 1491.61,
-    "change": -8.39,
-    "change_pct": -0.56,
+    "value": 1492.27,
+    "change": -7.73,
+    "change_pct": -0.52,
     "positions": [
       {
         "symbol": "HD",
         "qty": 0.855091383,
         "avg": 350.828,
-        "price": 346.66,
-        "value": 296.43,
-        "pl": -3.56,
-        "pl_pct": -1.19,
+        "price": 345.735,
+        "value": 295.64,
+        "pl": -4.35,
+        "pl_pct": -1.45,
         "since": "2026-11-10",
         "pair": "HD/LOW"
       },
@@ -161,10 +161,10 @@
         "symbol": "V",
         "qty": 0.708094736,
         "avg": 423.658,
-        "price": 421.31,
-        "value": 298.33,
-        "pl": -1.66,
-        "pl_pct": -0.55,
+        "price": 421.54,
+        "value": 298.49,
+        "pl": -1.5,
+        "pl_pct": -0.5,
         "since": "2026-11-10",
         "pair": "V/MA"
       },
@@ -172,10 +172,10 @@
         "symbol": "XOM",
         "qty": 1.820128869,
         "avg": 164.818,
-        "price": 165.96,
-        "value": 302.07,
-        "pl": 2.08,
-        "pl_pct": 0.69,
+        "price": 166.61,
+        "value": 303.25,
+        "pl": 3.26,
+        "pl_pct": 1.09,
         "since": "2026-11-10",
         "pair": "XOM/CVX"
       },
@@ -183,10 +183,10 @@
         "symbol": "YUM",
         "qty": 1.867304891,
         "avg": 160.654,
-        "price": 157.845,
-        "value": 294.74,
-        "pl": -5.25,
-        "pl_pct": -1.75,
+        "price": 157.9,
+        "value": 294.85,
+        "pl": -5.14,
+        "pl_pct": -1.71,
         "since": "2026-11-10",
         "pair": "MCD/YUM"
       }
@@ -195,8 +195,8 @@
   "benchmark": {
     "symbol": "SPY",
     "since": "2026-10-28",
-    "value": 4902.93,
-    "change_pct": -1.94
+    "value": 4904.52,
+    "change_pct": -1.91
   },
   "long_term": true,
   "regime": {
@@ -208,7 +208,7 @@
     "inverse": "SH",
     "distance_pct": 4.06
   },
-  "long_value": 2296.5,
+  "long_value": 2297.36,
   "pending": 0,
   "fills": [
     {
@@ -1058,6 +1058,11 @@
       "t": "2026-11-11T15:05:06Z",
       "v": 4784.6,
       "b": 4902.93
+    },
+    {
+      "t": "2026-11-11T15:35:06Z",
+      "v": 4786.12,
+      "b": 4904.52
     }
   ],
   "report": "trader/relatorios/2026-11-11.md",
