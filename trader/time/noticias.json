@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-11T08:35:00Z",
-  "items": [],
+  "as_of": "2026-11-11T09:05:00Z",
+  "items": [
+    {
+      "id": "rss:bf23fdd2-6c1c-3003-8ab9-7b6d8497cd2a",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "Oil giant Exxon plots Venezuela return ahead of Democrat crackdown",
+      "summary": "ExxonMobil has joined the rush of energy companies doing deals in Venezuela despite sweeping gains by the Democrats threatening to undermine the scramble.",
+      "link": "https://uk.finance.yahoo.com/news/oil-giant-exxon-plots-venezuela-083000426.html?.tsrc=rss",
+      "time": "2026-11-11T08:30:00+00:00",
+      "touches": [
+        "XOM"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
