@@ -14,7 +14,7 @@
   "vigia": {
     "result": "6 a\u00e7\u00f5es vigiadas, 0 alertas",
     "ok": true,
-    "last_run": "2026-11-11T17:05:00Z",
+    "last_run": "2026-11-11T17:17:16Z",
     "last_day": "2026-11-11"
   },
   "analista": {
@@ -48,7 +48,7 @@
   "gestor": {
     "result": "rodada feita",
     "ok": true,
-    "last_run": "2026-11-11T17:05:00Z",
+    "last_run": "2026-11-11T17:17:16Z",
     "last_day": "2026-11-11"
   },
   "contador": {
