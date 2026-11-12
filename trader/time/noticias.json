@@ -1,51 +1,49 @@
 {
-  "as_of": "2026-11-12T13:35:00Z",
+  "as_of": "2026-11-12T14:05:00Z",
   "items": [
     {
-      "id": "rss:a02c5413-c632-3651-bab1-9dc103bac96e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Adobe (ADBE) Stock May Look Reasonable On Fresh AI Partnership News",
-      "summary": "Adobe has seen its share price fall sharply in recent years, which puts fresh focus on whether the current valuation still lines up with what its earnings can support. After a long run as a core software holding for many portfolios, the question now is how much of its earnings power the present price actually reflects. The stock has declined 64.6% over the past 5 years. Any view on Adobe today really hinges on how you think its earnings profile stacks up against that drop. New AI...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-stock-may-look-130702558.html?.tsrc=rss",
-      "time": "2026-11-12T13:07:02+00:00",
-      "touches": [
-        "ADBE"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:3f966046-87c4-3f35-b7bb-83d76f67399c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "HubSpot Announces Leadership Transition: Co-Founder Brian Halligan Returns as Chief Executive Officer to Lead a Refounding of the Company; Karen Burgess Named Next Chief Financial Officer",
-      "summary": "CAMBRIDGE, Mass., November 12, 2026--HubSpot, Inc. (NYSE: HUBS), the agentic customer platform for scaling companies, today announced that Yamini Rangan will step down as Chief Executive Officer and from the Board, effective November 12, 2026. The company\u2019s Board of Directors has appointed co-founder Brian Halligan as Chief Executive Officer, effective the same day. Rangan will remain with the company through December 1, 2026, to ensure a smooth transition.",
-      "link": "https://finance.yahoo.com/technology/articles/hubspot-announces-leadership-transition-co-130000484.html?.tsrc=rss",
-      "time": "2026-11-12T13:00:00+00:00",
-      "touches": [
-        "ADBE"
-      ],
-      "tags": [
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:f1644faf-d594-3737-a9ef-2bf7a4463795",
+      "id": "rss:648e3261-af59-3eb6-bdbc-ada6e5c45326",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "WMT",
-      "title": "Walmart To Host Third Quarter Earnings Conference Call November 19, 2026",
-      "summary": "BENTONVILLE, Ark., November 12, 2026--Walmart Inc. (NASDAQ: WMT) announced it will release its third quarter earnings results at 6 a.m. CST and hold a live conference call with the investment community at 7 a.m. CST on Thursday, November 19, 2026. John Furner, president and chief executive officer, and John David Rainey, executive vice president and chief financial officer, will host the call to discuss the results and answer questions.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-host-third-quarter-earnings-130000237.html?.tsrc=rss",
-      "time": "2026-11-12T13:00:00+00:00",
+      "title": "RJ Brunelli Brokers Sale of The Gardens Shopping Center in Morris County, N.J.",
+      "summary": "RJ Brunelli & Co. today announced that it has brokered the sale of the 100% fee simple interest in The Gardens, a 210,845-square-foot shopping center in the Flanders section of Mt. Olive Township. Located at the intersection of Routes 46 and 80, the Morris County power center was acquired for $41 million by Bronstein Properties, LLC from Rivani.",
+      "link": "https://finance.yahoo.com/real-estate/articles/rj-brunelli-brokers-sale-gardens-134800774.html?.tsrc=rss",
+      "time": "2026-11-12T13:48:00+00:00",
       "touches": [
         "WMT"
+      ],
+      "tags": [
+        "deal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:f707cef3-6950-3b5b-9272-ee3d278e095a",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Here's How Much a $1000 Investment in Walmart Made 10 Years Ago Would Be Worth Today",
+      "summary": "Why investing for the long run, especially if you buy certain popular stocks, could reap huge rewards.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-much-1000-investment-walmart-123002082.html?.tsrc=rss",
+      "time": "2026-11-12T12:30:02+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:d2710063-d5bd-3d00-a83c-d588372e926e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "Chevron Q3 Earnings Surge on Strong Refining: Is the Stock a Buy Now?",
+      "summary": "CVX's surging Q3 earnings, record U.S. refinery throughput, rising estimates and strong cash flow bolster its appeal. It also outpaces energy rivals in 2026.",
+      "link": "https://finance.yahoo.com/energy/articles/chevron-q3-earnings-surge-strong-123000894.html?.tsrc=rss",
+      "time": "2026-11-12T12:30:00+00:00",
+      "touches": [
+        "XOM"
       ],
       "tags": [
         "earnings"
