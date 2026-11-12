@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "companies": [
     {
       "ticker": "ADBE",
@@ -47,6 +47,22 @@
       "gross_margin": null,
       "operating_margin": 59.8,
       "net_margin": 49.4,
+      "source": "SEC XBRL company facts"
+    },
+    {
+      "ticker": "WMT",
+      "name": "Walmart Inc.",
+      "cik": "0000104169",
+      "period_end": "2026-07-31",
+      "revenue_ttm": 728466000000,
+      "net_income_ttm": 22076000000,
+      "eps_ttm": 2.76,
+      "revenue_growth_yoy": 5.9,
+      "eps_growth_yoy": -9.1,
+      "net_income_growth_yoy": -9.4,
+      "gross_margin": 25.4,
+      "operating_margin": 5.0,
+      "net_margin": 3.4,
       "source": "SEC XBRL company facts"
     },
     {
