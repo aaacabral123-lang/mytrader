@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-12T02:05:00Z",
-  "items": [
-    {
-      "id": "rss:a695990a-fa13-3c0e-8d8b-7d7c28b1c286",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XOM",
-      "title": "Who Will Buy Sable\u2019s Oil if California Keeps Closing Refineries?",
-      "summary": "Sable Offshore\u2019s Trump-backed Santa Ynez restart now faces a going-concern warning, a crowded refinery market and a Democratic Congress.",
-      "link": "https://finance.yahoo.com/energy/articles/buy-sable-oil-california-keeps-010000630.html?.tsrc=rss",
-      "time": "2026-11-12T01:00:00+00:00",
-      "touches": [
-        "XOM"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-12T02:35:00Z",
+  "items": [],
   "atencao": []
 }
