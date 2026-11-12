@@ -1,32 +1,17 @@
 {
-  "as_of": "2026-11-12T21:35:00Z",
+  "as_of": "2026-11-12T22:05:00Z",
   "items": [
     {
-      "id": "rss:01450a56-e854-3fe2-b546-f78438105a72",
+      "id": "rss:782bb7dc-6eda-3fca-8b6b-87bedae338fb",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "V",
-      "title": "5 Best Stocks to Buy After Democrats\u2019 Election Sweep, According to CIBC",
-      "summary": "CIBC Capital Markets recommended a list of top stock picks after the Democratic sweep of Congress, according to CNBC, citing a potentially tougher regulatory environment for corporate America. In a report published the day after the midterm vote, the Canadian bank said its Democratic basket was designed to hold up in a more defensive market, [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-stocks-buy-democrats-211009002.html?.tsrc=rss",
-      "time": "2026-11-12T21:10:09+00:00",
+      "ticker": "XOM",
+      "title": "ExxonMobil Advances Next Phase of Guyana Development with Longtail",
+      "summary": "SPRING, Texas, November 12, 2026--ExxonMobil advances the Longtail development offshore Guyana, adding future production capacity and supporting economic growth.",
+      "link": "https://finance.yahoo.com/energy/articles/exxonmobil-advances-next-phase-guyana-213000547.html?.tsrc=rss",
+      "time": "2026-11-12T21:30:00+00:00",
       "touches": [
-        "V"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:e1857f65-c1b1-3b79-9b7f-4fab8f47e8e8",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "Top Research Reports for Home Depot, Gilead & TotalEnergies",
-      "summary": "Today's Research Daily features new research reports on 16 major stocks, including The Home Depot, Inc. (HD), Gilead Sciences, Inc. (GILD), TotalEnergies SE (TTE) as well as two micro-cap stocks, Key Tronic Corporation (KTCC) and iPower Inc. (IPW).",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-home-depot-200700776.html?.tsrc=rss",
-      "time": "2026-11-12T20:07:00+00:00",
-      "touches": [
-        "HD"
+        "XOM"
       ],
       "tags": [],
       "new": true
