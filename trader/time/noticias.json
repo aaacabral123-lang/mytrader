@@ -1,47 +1,32 @@
 {
-  "as_of": "2026-11-12T16:35:00Z",
+  "as_of": "2026-11-12T17:05:00Z",
   "items": [
     {
-      "id": "rss:937814fc-f658-3834-926b-72c4a26eb1f9",
+      "id": "rss:f8e29a64-3884-3cf3-8f18-5ba77cdaa6f4",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "XOM",
-      "title": "Eni Outperforms the Industry YTD: Should Investors Bet on the Stock?",
-      "summary": "E rises 47.3% YTD, beating its industry. Strong production, rising oil prices and higher shareholder payouts bolster its investment appeal despite risks.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/eni-outperforms-industry-ytd-investors-152100297.html?.tsrc=rss",
-      "time": "2026-11-12T15:21:00+00:00",
+      "ticker": "HD",
+      "title": "TD Cowen Names Top Hardlines Specialty Retail Stocks Amid Inflation",
+      "summary": "Investing.com -- TD Cowen has identified its top picks in the hardlines specialty retail sector as October Consumer Price Index data shows renewed inflation pressures across multiple categories. The firm maintains buy ratings on three retailers positioned to navigate the current pricing environment in auto aftermarket, home improvement, and furniture segments.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-names-top-hardlines-163101436.html?.tsrc=rss",
+      "time": "2026-11-12T16:31:01+00:00",
       "touches": [
-        "XOM"
+        "HD"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:86bc527e-0c2b-3864-8491-dbc0f8217ddd",
+      "id": "rss:67aad4ec-15b0-3312-8e32-fe5c3fc4ea82",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Is ZETA a Buy as Growth Surges While Its Valuation Stays Expensive?",
-      "summary": "Zeta Global's accelerating revenue growth, rising Athena AI adoption and strong cash flow bolster its growth case, but a premium valuation raises the stakes.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zeta-buy-growth-surges-while-143600621.html?.tsrc=rss",
-      "time": "2026-11-12T14:36:00+00:00",
+      "ticker": "HD",
+      "title": "Home Depot Stock Rallies 20% in a Month: Is It Still a Buy?",
+      "summary": "HD's expanding Pro business, digital sales growth and investments support growth, while housing challenges and rising costs remain key concerns.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-stock-rallies-20-154000818.html?.tsrc=rss",
+      "time": "2026-11-12T15:40:00+00:00",
       "touches": [
-        "ADBE"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:ef63a678-545a-3dc0-b02e-7adafcacffae",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "ZETA Gains 17% in the Past Month as AI Growth & Margins Accelerate",
-      "summary": "Zeta Global shares jumped 17% in four weeks as organic growth, Athena AI adoption and cash flow surged, but its premium valuation raises execution risks.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/zeta-gains-17-past-month-143300606.html?.tsrc=rss",
-      "time": "2026-11-12T14:33:00+00:00",
-      "touches": [
-        "ADBE"
+        "HD"
       ],
       "tags": [],
       "new": true
