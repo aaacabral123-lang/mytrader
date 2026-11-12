@@ -1,32 +1,32 @@
 {
-  "as_of": "2026-11-12T17:05:00Z",
+  "as_of": "2026-11-12T17:35:00Z",
   "items": [
     {
-      "id": "rss:f8e29a64-3884-3cf3-8f18-5ba77cdaa6f4",
+      "id": "rss:659be130-0ef7-37cc-bf50-a2fe66533ef5",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "HD",
-      "title": "TD Cowen Names Top Hardlines Specialty Retail Stocks Amid Inflation",
-      "summary": "Investing.com -- TD Cowen has identified its top picks in the hardlines specialty retail sector as October Consumer Price Index data shows renewed inflation pressures across multiple categories. The firm maintains buy ratings on three retailers positioned to navigate the current pricing environment in auto aftermarket, home improvement, and furniture segments.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-names-top-hardlines-163101436.html?.tsrc=rss",
-      "time": "2026-11-12T16:31:01+00:00",
+      "ticker": "V",
+      "title": "Avia Collaborates with Visa and Global Payments for Direct Player Payouts to Eligible Visa Cards",
+      "summary": "SAN FRANCISCO, November 12, 2026--AviaGames, a leader in casual, skill-based mobile games, is collaborating with Visa, a world leader in digital payments, and Global Payments\u00ae, a leading payment technology and software company, to give eligible U.S. players the ability to receive payouts from Avia\u2019s mobile games directly to their eligible Visa cards. The integration is now available for players.",
+      "link": "https://finance.yahoo.com/media-advertising/articles/avia-collaborates-visa-global-payments-170000773.html?.tsrc=rss",
+      "time": "2026-11-12T17:00:00+00:00",
       "touches": [
-        "HD"
+        "V"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:67aad4ec-15b0-3312-8e32-fe5c3fc4ea82",
+      "id": "rss:3185c74a-e7a7-39fb-9eba-9b77d7923a68",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "HD",
-      "title": "Home Depot Stock Rallies 20% in a Month: Is It Still a Buy?",
-      "summary": "HD's expanding Pro business, digital sales growth and investments support growth, while housing challenges and rising costs remain key concerns.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-stock-rallies-20-154000818.html?.tsrc=rss",
-      "time": "2026-11-12T15:40:00+00:00",
+      "ticker": "WMT",
+      "title": "Pacvue Earns Walmart Data Ventures Verified Service Provider Certification",
+      "summary": "As a Walmart Data Ventures Verified Service Provider, Pacvue gives brands a secure path to connect their Walmart data with their advertising decisions and manage campaigns alongside 100+ other commerce media channels.LOS ANGELES, Nov. 12, 2026 (GLOBE NEWSWIRE) -- Pacvue today announced that it has been recognized as a Verified Service Provider in the Walmart Data Ventures Verified Service Provider Program. The designation confirms that Pacvue has met strict requirements for handling data from Wa",
+      "link": "https://finance.yahoo.com/media-advertising/articles/pacvue-earns-walmart-data-ventures-170000712.html?.tsrc=rss",
+      "time": "2026-11-12T17:00:00+00:00",
       "touches": [
-        "HD"
+        "WMT"
       ],
       "tags": [],
       "new": true
