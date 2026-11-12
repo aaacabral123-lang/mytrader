@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-12T09:05:00Z",
-  "items": [],
+  "as_of": "2026-11-12T09:35:00Z",
+  "items": [
+    {
+      "id": "rss:9d226e43-b1bd-38f1-80e4-72fbe55ba3df",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "Market Chatter: Exxon Mobil to Evaluate Seven Areas in Venezuela for Potential Oil and Gas Projects",
+      "summary": "Exxon Mobil (XOM) will be able to assess seven areas in Venezuela for potential oil and gas project",
+      "link": "https://finance.yahoo.com/energy/articles/market-chatter-exxon-mobil-evaluate-092216903.html?.tsrc=rss",
+      "time": "2026-11-12T09:22:16+00:00",
+      "touches": [
+        "XOM"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
