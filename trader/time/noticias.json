@@ -1,36 +1,5 @@
 {
-  "as_of": "2026-11-12T10:05:00Z",
-  "items": [
-    {
-      "id": "rss:0c5e2d61-cba0-3e0d-8e5a-c60935c15b2f",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "V",
-      "title": "The Countdown Is On! TME live Teams Up with BIGBANG to Bring the COSMOS Universe to Life Across Hong Kong",
-      "summary": "Presented by TME live and ELF ASIA, with FWD Insurance, Visa, Trip.com Group, Klook and Samsung as joint sponsors, BIGBANG 2026-2027 WORLD TOUR < XX : COSMOS > IN HONG KONG will take the stage at Kai Tak Stadium, Hong Kong, China, on November 13, 14, 15 and 17. Tickets sold out almost immediately after going on sale, with the exclusive priority pre-sale for SVIP users on TME's QQ Music, JOOX and Kugou Music.",
-      "link": "https://finance.yahoo.com/media-advertising/articles/countdown-tme-live-teams-bigbang-100100439.html?.tsrc=rss",
-      "time": "2026-11-12T10:01:00+00:00",
-      "touches": [
-        "V"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:f0c5b6b2-587f-3d7c-a233-37ce3a169384",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "V",
-      "title": "Visa and Octopus Expand QR Payment Acceptance in Hong Kong, Enabling Tourists to Pay Like They Do at Home",
-      "summary": "Visa, a global leader in digital payments, today announced the expansion of Visa Scan to Pay acceptance in Hong Kong through a partnership with Octopus Cards Limited (Octopus), one of Hong Kong's leading everyday payment platforms, enabling Visa-powered QR payments at Octopus QR merchants across the city[1].",
-      "link": "https://finance.yahoo.com/news/visa-octopus-expand-qr-payment-093200820.html?.tsrc=rss",
-      "time": "2026-11-12T09:32:00+00:00",
-      "touches": [
-        "V"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-12T10:35:00Z",
+  "items": [],
   "atencao": []
 }
