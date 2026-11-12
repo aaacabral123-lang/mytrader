@@ -1,47 +1,15 @@
 {
-  "as_of": "2026-11-12T15:05:00Z",
+  "as_of": "2026-11-12T15:35:00Z",
   "items": [
     {
-      "id": "rss:d7cab01a-85c0-3bb8-ac28-559af2e0cf75",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "HubSpot stock rises 6% on sweeping CEO and CFO leadership overhaul",
-      "summary": "Investing.com -- HubSpot Inc (NYSE:HUBS) shares rose 6.1% in premarket trading Thursday after the software provider announced a sweeping leadership overhaul, bringing back co-founder Brian Halligan as chief executive officer to spearhead an artificial intelligence-focused \"refounding.\" Halligan replaces Yamini Rangan, who stepped down as CEO and exited the board of directors effective immediately, though she will remain with the company through Dec. 1 to assist with the transition.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/hubspot-stock-rises-6-sweeping-145738653.html?.tsrc=rss",
-      "time": "2026-11-12T14:57:38+00:00",
-      "touches": [
-        "ADBE"
-      ],
-      "tags": [
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:105e8e5c-a2d9-39fd-a092-71ac2a1ba4cc",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XOM",
-      "title": "Sector Update: Energy Stocks Rise Pre-Bell Thursday",
-      "summary": "Energy stocks were rising pre-bell Thursday, with the State Street Energy Select Sector SPDR ETF (XL",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-pre-142639076.html?.tsrc=rss",
-      "time": "2026-11-12T14:26:39+00:00",
-      "touches": [
-        "XOM"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:45f3a2db-3d49-39f1-8aac-e0b98dc45175",
+      "id": "rss:f952fe51-ab64-3249-b819-7ce075eb9d30",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "WMT",
-      "title": "The Zacks Analyst Blog Highlights NVIDIA, Walmart, AbbVie, Pioneer Bancorp and Aspira",
-      "summary": "NVDA, WMT and ABBV headline Zacks' latest research, with growth drivers and business risks shaping their investment outlooks.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-nvidia-134600589.html?.tsrc=rss",
-      "time": "2026-11-12T13:46:00+00:00",
+      "title": "Walmart (WMT) Agrees To $7.8 Million Pennsylvania Child Labor Settlement",
+      "summary": "Walmart (NasdaqGS:WMT) agreed to pay a record $7.8 million child labor settlement in Pennsylvania following state investigations. Pennsylvania authorities found widespread violations of the state's Child Labor Act across Walmart locations, according to the settlement announcement. The agreement requires Walmart to adopt enhanced child labor compliance measures and includes higher future penalty provisions for any new violations. The record child labor settlement reshapes the compliance...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-agrees-7-8-151236144.html?.tsrc=rss",
+      "time": "2026-11-12T15:12:36+00:00",
       "touches": [
         "WMT"
       ],
@@ -49,18 +17,65 @@
       "new": true
     },
     {
-      "id": "rss:cd002e64-8028-31c8-98d1-83e1b0912fc5",
+      "id": "rss:98e4b968-aeea-389b-ba13-b019faf5c4ad",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Walt Disney (DIS) Just Gave Investors Something To Think About",
+      "summary": "Walt Disney (DIS) just deepened its ties with Adobe through a multi year AI partnership that reaches from theme parks to ESPN. For investors, the agreement highlights how Disney is organizing its content operations for efficiency. The Walt Disney share price has climbed 10.3% over the past month and 14.2% across 90 days. However, the 1 year total shareholder return of 4.1% and the 5 year total shareholder return, which is down 21.6%, show that longer term investors are still waiting for a...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walt-disney-dis-just-gave-150945933.html?.tsrc=rss",
+      "time": "2026-11-12T15:09:45+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:490d0bd4-644f-3182-81ba-4466bbd207d2",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Americans Are Turning To AI Before Buying Online. Could It Change Who Wins The $275B Holiday Shopping Season?",
+      "summary": "People are increasingly using artificial intelligence to find holiday deals, compare products and decide what to buy. And with Adobe (NASDAQ:ADBE) forecasting a record $275.1 billion in U.S. online holiday spending this year, AI could play a bigger role in...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/americans-turning-ai-buying-online-141613066.html?.tsrc=rss",
+      "time": "2026-11-12T14:16:13+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:97aecbd7-e68a-326c-bdb0-2617b415472c",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "XOM",
-      "title": "Oil Still Above $85, EOG Up 41% in a Year: Is the Stock Still a Buy?",
-      "summary": "EOG Resources has surged 40.8% in a year. High oil prices, low debt, steady dividends and attractive valuation support its appeal.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/oil-still-above-85-eog-134100525.html?.tsrc=rss",
-      "time": "2026-11-12T13:41:00+00:00",
+      "title": "Oil Price is Still High: Boon for ExxonMobil's Upstream Business?",
+      "summary": "Oil above $85 per barrel boosts XOM's upstream outlook, backed by low-cost Permian and Guyana assets.",
+      "link": "https://finance.yahoo.com/energy/articles/oil-price-still-high-boon-140900676.html?.tsrc=rss",
+      "time": "2026-11-12T14:09:00+00:00",
       "touches": [
         "XOM"
       ],
       "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:a624deed-f17b-3e7b-b398-b0fac8eb6189",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Walmart (WMT) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+      "summary": "Walmart (WMT) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-earnings-expected-grow-140003281.html?.tsrc=rss",
+      "time": "2026-11-12T14:00:03+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [
+        "earnings"
+      ],
       "new": true
     }
   ],
