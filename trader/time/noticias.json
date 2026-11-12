@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-12T19:05:00Z",
-  "items": [],
+  "as_of": "2026-11-12T19:35:00Z",
+  "items": [
+    {
+      "id": "rss:32a919d2-b2e7-3510-9a3b-cb17064fdde8",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "ExxonMobil Holdings (XOM) Moves Into Arkansas Lithium With A New Smackover Bet",
+      "summary": "ExxonMobil Holdings (NYSE:XOM) is moving into lithium extraction in Arkansas' Smackover Formation as part of a new U.S. project. The Arkansas lithium effort targets brine resources that feed into battery-grade material for electric vehicles and grid storage supply chains. The company is using its drilling and subsurface expertise from hydrocarbons to develop lithium production techniques tailored to the Smackover reservoir. ExxonMobil's Arkansas lithium push is important, but investors still...",
+      "link": "https://finance.yahoo.com/energy/articles/exxonmobil-holdings-xom-moves-arkansas-191043984.html?.tsrc=rss",
+      "time": "2026-11-12T19:10:43+00:00",
+      "touches": [
+        "XOM"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
