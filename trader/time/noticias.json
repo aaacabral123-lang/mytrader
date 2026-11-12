@@ -1,5 +1,24 @@
 {
-  "as_of": "2026-11-12T12:35:00Z",
-  "items": [],
+  "as_of": "2026-11-12T13:05:00Z",
+  "items": [
+    {
+      "id": "rss:28d7efec-917d-3372-b61b-bd1196c94d40",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "Walmart & 3 Retail Stocks With High Probability of an Earnings Beat",
+      "summary": "Walmart, Dollar General, Costco and Home Depot show strong earnings beat potential as value pricing, digital expansion and resilient demand fuel optimism.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-3-retail-stocks-high-112700312.html?.tsrc=rss",
+      "time": "2026-11-12T11:27:00+00:00",
+      "touches": [
+        "HD",
+        "WMT"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    }
+  ],
   "atencao": []
 }
