@@ -1,5 +1,23 @@
 {
-  "as_of": "2026-11-12T20:35:00Z",
-  "items": [],
+  "as_of": "2026-11-12T21:05:00Z",
+  "items": [
+    {
+      "id": "rss:81513c4d-22c8-49d3-ad23-52423a5037c5",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "V",
+      "title": "Why Anthropic is a more speculative bet than Visa: Bill Ackman",
+      "summary": "Pershing Square Capital Management CEO Bill Ackman joins Yahoo Finance Executive Editor Brian Sozzi at Yahoo Finance's 2026 Invest conference to discuss why he feels Anthropic (ANTH.PVT) is a more speculative bet than Visa (V). While sharing his favorite risk/reward stocks.",
+      "link": "https://finance.yahoo.com/video/why-anthropic-is-a-more-speculative-bet-than-visa-bill-ackman-210302541.html?.tsrc=rss",
+      "time": "2026-11-12T21:03:02+00:00",
+      "touches": [
+        "V"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
+    }
+  ],
   "atencao": []
 }
