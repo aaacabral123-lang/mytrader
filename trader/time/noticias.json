@@ -1,17 +1,50 @@
 {
-  "as_of": "2026-11-12T13:05:00Z",
+  "as_of": "2026-11-12T13:35:00Z",
   "items": [
     {
-      "id": "rss:28d7efec-917d-3372-b61b-bd1196c94d40",
+      "id": "rss:a02c5413-c632-3651-bab1-9dc103bac96e",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "HD",
-      "title": "Walmart & 3 Retail Stocks With High Probability of an Earnings Beat",
-      "summary": "Walmart, Dollar General, Costco and Home Depot show strong earnings beat potential as value pricing, digital expansion and resilient demand fuel optimism.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-3-retail-stocks-high-112700312.html?.tsrc=rss",
-      "time": "2026-11-12T11:27:00+00:00",
+      "ticker": "ADBE",
+      "title": "Adobe (ADBE) Stock May Look Reasonable On Fresh AI Partnership News",
+      "summary": "Adobe has seen its share price fall sharply in recent years, which puts fresh focus on whether the current valuation still lines up with what its earnings can support. After a long run as a core software holding for many portfolios, the question now is how much of its earnings power the present price actually reflects. The stock has declined 64.6% over the past 5 years. Any view on Adobe today really hinges on how you think its earnings profile stacks up against that drop. New AI...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-stock-may-look-130702558.html?.tsrc=rss",
+      "time": "2026-11-12T13:07:02+00:00",
       "touches": [
-        "HD",
+        "ADBE"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:3f966046-87c4-3f35-b7bb-83d76f67399c",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "HubSpot Announces Leadership Transition: Co-Founder Brian Halligan Returns as Chief Executive Officer to Lead a Refounding of the Company; Karen Burgess Named Next Chief Financial Officer",
+      "summary": "CAMBRIDGE, Mass., November 12, 2026--HubSpot, Inc. (NYSE: HUBS), the agentic customer platform for scaling companies, today announced that Yamini Rangan will step down as Chief Executive Officer and from the Board, effective November 12, 2026. The company\u2019s Board of Directors has appointed co-founder Brian Halligan as Chief Executive Officer, effective the same day. Rangan will remain with the company through December 1, 2026, to ensure a smooth transition.",
+      "link": "https://finance.yahoo.com/technology/articles/hubspot-announces-leadership-transition-co-130000484.html?.tsrc=rss",
+      "time": "2026-11-12T13:00:00+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:f1644faf-d594-3737-a9ef-2bf7a4463795",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Walmart To Host Third Quarter Earnings Conference Call November 19, 2026",
+      "summary": "BENTONVILLE, Ark., November 12, 2026--Walmart Inc. (NASDAQ: WMT) announced it will release its third quarter earnings results at 6 a.m. CST and hold a live conference call with the investment community at 7 a.m. CST on Thursday, November 19, 2026. John Furner, president and chief executive officer, and John David Rainey, executive vice president and chief financial officer, will host the call to discuss the results and answer questions.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-host-third-quarter-earnings-130000237.html?.tsrc=rss",
+      "time": "2026-11-12T13:00:00+00:00",
+      "touches": [
         "WMT"
       ],
       "tags": [
