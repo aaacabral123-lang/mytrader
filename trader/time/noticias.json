@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-12T22:05:00Z",
-  "items": [
-    {
-      "id": "rss:782bb7dc-6eda-3fca-8b6b-87bedae338fb",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XOM",
-      "title": "ExxonMobil Advances Next Phase of Guyana Development with Longtail",
-      "summary": "SPRING, Texas, November 12, 2026--ExxonMobil advances the Longtail development offshore Guyana, adding future production capacity and supporting economic growth.",
-      "link": "https://finance.yahoo.com/energy/articles/exxonmobil-advances-next-phase-guyana-213000547.html?.tsrc=rss",
-      "time": "2026-11-12T21:30:00+00:00",
-      "touches": [
-        "XOM"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-12T22:35:00Z",
+  "items": [],
   "atencao": []
 }
