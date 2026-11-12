@@ -1,60 +1,15 @@
 {
-  "as_of": "2026-11-12T15:35:00Z",
+  "as_of": "2026-11-12T16:35:00Z",
   "items": [
     {
-      "id": "rss:f952fe51-ab64-3249-b819-7ce075eb9d30",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Walmart (WMT) Agrees To $7.8 Million Pennsylvania Child Labor Settlement",
-      "summary": "Walmart (NasdaqGS:WMT) agreed to pay a record $7.8 million child labor settlement in Pennsylvania following state investigations. Pennsylvania authorities found widespread violations of the state's Child Labor Act across Walmart locations, according to the settlement announcement. The agreement requires Walmart to adopt enhanced child labor compliance measures and includes higher future penalty provisions for any new violations. The record child labor settlement reshapes the compliance...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-agrees-7-8-151236144.html?.tsrc=rss",
-      "time": "2026-11-12T15:12:36+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:98e4b968-aeea-389b-ba13-b019faf5c4ad",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Walt Disney (DIS) Just Gave Investors Something To Think About",
-      "summary": "Walt Disney (DIS) just deepened its ties with Adobe through a multi year AI partnership that reaches from theme parks to ESPN. For investors, the agreement highlights how Disney is organizing its content operations for efficiency. The Walt Disney share price has climbed 10.3% over the past month and 14.2% across 90 days. However, the 1 year total shareholder return of 4.1% and the 5 year total shareholder return, which is down 21.6%, show that longer term investors are still waiting for a...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walt-disney-dis-just-gave-150945933.html?.tsrc=rss",
-      "time": "2026-11-12T15:09:45+00:00",
-      "touches": [
-        "ADBE"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:490d0bd4-644f-3182-81ba-4466bbd207d2",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Americans Are Turning To AI Before Buying Online. Could It Change Who Wins The $275B Holiday Shopping Season?",
-      "summary": "People are increasingly using artificial intelligence to find holiday deals, compare products and decide what to buy. And with Adobe (NASDAQ:ADBE) forecasting a record $275.1 billion in U.S. online holiday spending this year, AI could play a bigger role in...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/americans-turning-ai-buying-online-141613066.html?.tsrc=rss",
-      "time": "2026-11-12T14:16:13+00:00",
-      "touches": [
-        "ADBE"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:97aecbd7-e68a-326c-bdb0-2617b415472c",
+      "id": "rss:937814fc-f658-3834-926b-72c4a26eb1f9",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "XOM",
-      "title": "Oil Price is Still High: Boon for ExxonMobil's Upstream Business?",
-      "summary": "Oil above $85 per barrel boosts XOM's upstream outlook, backed by low-cost Permian and Guyana assets.",
-      "link": "https://finance.yahoo.com/energy/articles/oil-price-still-high-boon-140900676.html?.tsrc=rss",
-      "time": "2026-11-12T14:09:00+00:00",
+      "title": "Eni Outperforms the Industry YTD: Should Investors Bet on the Stock?",
+      "summary": "E rises 47.3% YTD, beating its industry. Strong production, rising oil prices and higher shareholder payouts bolster its investment appeal despite risks.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/eni-outperforms-industry-ytd-investors-152100297.html?.tsrc=rss",
+      "time": "2026-11-12T15:21:00+00:00",
       "touches": [
         "XOM"
       ],
@@ -62,20 +17,33 @@
       "new": true
     },
     {
-      "id": "rss:a624deed-f17b-3e7b-b398-b0fac8eb6189",
+      "id": "rss:86bc527e-0c2b-3864-8491-dbc0f8217ddd",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "WMT",
-      "title": "Walmart (WMT) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
-      "summary": "Walmart (WMT) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-earnings-expected-grow-140003281.html?.tsrc=rss",
-      "time": "2026-11-12T14:00:03+00:00",
+      "ticker": "ADBE",
+      "title": "Is ZETA a Buy as Growth Surges While Its Valuation Stays Expensive?",
+      "summary": "Zeta Global's accelerating revenue growth, rising Athena AI adoption and strong cash flow bolster its growth case, but a premium valuation raises the stakes.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zeta-buy-growth-surges-while-143600621.html?.tsrc=rss",
+      "time": "2026-11-12T14:36:00+00:00",
       "touches": [
-        "WMT"
+        "ADBE"
       ],
-      "tags": [
-        "earnings"
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:ef63a678-545a-3dc0-b02e-7adafcacffae",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "ZETA Gains 17% in the Past Month as AI Growth & Margins Accelerate",
+      "summary": "Zeta Global shares jumped 17% in four weeks as organic growth, Athena AI adoption and cash flow surged, but its premium valuation raises execution risks.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/zeta-gains-17-past-month-143300606.html?.tsrc=rss",
+      "time": "2026-11-12T14:33:00+00:00",
+      "touches": [
+        "ADBE"
       ],
+      "tags": [],
       "new": true
     }
   ],
