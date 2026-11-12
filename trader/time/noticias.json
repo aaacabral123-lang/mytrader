@@ -1,49 +1,17 @@
 {
-  "as_of": "2026-11-12T14:05:00Z",
+  "as_of": "2026-11-12T14:35:00Z",
   "items": [
     {
-      "id": "rss:648e3261-af59-3eb6-bdbc-ada6e5c45326",
+      "id": "rss:50c60c39-3a30-3ec9-b852-67f03eb18abf",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "WMT",
-      "title": "RJ Brunelli Brokers Sale of The Gardens Shopping Center in Morris County, N.J.",
-      "summary": "RJ Brunelli & Co. today announced that it has brokered the sale of the 100% fee simple interest in The Gardens, a 210,845-square-foot shopping center in the Flanders section of Mt. Olive Township. Located at the intersection of Routes 46 and 80, the Morris County power center was acquired for $41 million by Bronstein Properties, LLC from Rivani.",
-      "link": "https://finance.yahoo.com/real-estate/articles/rj-brunelli-brokers-sale-gardens-134800774.html?.tsrc=rss",
-      "time": "2026-11-12T13:48:00+00:00",
+      "ticker": "HD",
+      "title": "What Analyst Projections for Key Metrics Reveal About Home Depot (HD) Q3 Earnings",
+      "summary": "Besides Wall Street's top-and-bottom-line estimates for Home Depot (HD), review projections for some of its key metrics to gain a deeper understanding of how the company might have fared during the quarter ended October 2026.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-projections-key-metrics-reveal-131502863.html?.tsrc=rss",
+      "time": "2026-11-12T13:15:02+00:00",
       "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "deal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:f707cef3-6950-3b5b-9272-ee3d278e095a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Here's How Much a $1000 Investment in Walmart Made 10 Years Ago Would Be Worth Today",
-      "summary": "Why investing for the long run, especially if you buy certain popular stocks, could reap huge rewards.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/heres-much-1000-investment-walmart-123002082.html?.tsrc=rss",
-      "time": "2026-11-12T12:30:02+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:d2710063-d5bd-3d00-a83c-d588372e926e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XOM",
-      "title": "Chevron Q3 Earnings Surge on Strong Refining: Is the Stock a Buy Now?",
-      "summary": "CVX's surging Q3 earnings, record U.S. refinery throughput, rising estimates and strong cash flow bolster its appeal. It also outpaces energy rivals in 2026.",
-      "link": "https://finance.yahoo.com/energy/articles/chevron-q3-earnings-surge-strong-123000894.html?.tsrc=rss",
-      "time": "2026-11-12T12:30:00+00:00",
-      "touches": [
-        "XOM"
+        "HD"
       ],
       "tags": [
         "earnings"

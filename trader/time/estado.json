@@ -1,8 +1,8 @@
 {
   "noticias": {
-    "result": "3 novas de fontes confi\u00e1veis (1 descartadas), 0 comunicados graves, 0 manchetes de aten\u00e7\u00e3o",
+    "result": "1 novas de fontes confi\u00e1veis (1 descartadas), 0 comunicados graves, 0 manchetes de aten\u00e7\u00e3o",
     "ok": true,
-    "last_run": "2026-11-12T14:05:00Z",
+    "last_run": "2026-11-12T14:35:00Z",
     "last_day": "2026-11-12"
   },
   "politicos": {
@@ -14,8 +14,8 @@
   "vigia": {
     "result": "7 a\u00e7\u00f5es vigiadas, 0 alertas",
     "ok": true,
-    "last_run": "2026-11-11T20:35:00Z",
-    "last_day": "2026-11-11"
+    "last_run": "2026-11-12T14:35:00Z",
+    "last_day": "2026-11-12"
   },
   "analista": {
     "periods": {
@@ -49,8 +49,8 @@
   "gestor": {
     "result": "rodada feita",
     "ok": true,
-    "last_run": "2026-11-11T20:35:00Z",
-    "last_day": "2026-11-11"
+    "last_run": "2026-11-12T14:35:00Z",
+    "last_day": "2026-11-12"
   },
   "contador": {
     "result": "2 lotes, resultado n\u00e3o realizado $32.20",
