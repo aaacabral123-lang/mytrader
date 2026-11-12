@@ -1,9 +1,9 @@
 {
-  "as_of": "2026-11-12T18:35:35Z",
+  "as_of": "2026-11-12T19:05:06Z",
   "source": "yahoo",
   "note": "Delayed quotes for alerts and sizing checks. Your broker's price is the one that fills.",
   "prices": {
-    "ADBE": 239.95,
+    "ADBE": 240.25,
     "BLK": 1210.11,
     "GOOGL": 290.802,
     "MSFT": 543.02,
@@ -15,17 +15,17 @@
     "XLK": 170.25,
     "XLE": 62.21,
     "REGN": 908.95,
-    "VOO": 699.5,
-    "HD": 349.4,
-    "V": 424.165,
-    "XOM": 170.505,
-    "YUM": 160.28,
-    "WMT": 125.955
+    "VOO": 696.918,
+    "HD": 348.295,
+    "V": 423.27,
+    "XOM": 170.63,
+    "YUM": 159.93,
+    "WMT": 125.83
   },
   "detail": {
     "ADBE": {
       "prev_close": 237.6,
-      "time": "2026-11-12T18:35:28Z",
+      "time": "2026-11-12T19:05:04Z",
       "source": "yahoo"
     },
     "BLK": {
@@ -85,32 +85,32 @@
     },
     "VOO": {
       "prev_close": 698.35,
-      "time": "2026-11-12T18:35:31Z",
+      "time": "2026-11-12T19:05:04Z",
       "source": "yahoo"
     },
     "HD": {
       "prev_close": 351.31,
-      "time": "2026-11-12T18:35:29Z",
+      "time": "2026-11-12T19:04:57Z",
       "source": "yahoo"
     },
     "V": {
       "prev_close": 425.55,
-      "time": "2026-11-12T18:35:29Z",
+      "time": "2026-11-12T19:05:02Z",
       "source": "yahoo"
     },
     "XOM": {
       "prev_close": 166.71,
-      "time": "2026-11-12T18:35:35Z",
+      "time": "2026-11-12T19:05:06Z",
       "source": "yahoo"
     },
     "YUM": {
       "prev_close": 160.21,
-      "time": "2026-11-12T18:33:29Z",
+      "time": "2026-11-12T19:04:53Z",
       "source": "yahoo"
     },
     "WMT": {
       "prev_close": 125.67,
-      "time": "2026-11-12T18:35:32Z",
+      "time": "2026-11-12T19:05:06Z",
       "source": "yahoo"
     }
   }
