@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-12T08:35:00Z",
-  "items": [
-    {
-      "id": "rss:8757773b-7adb-3f88-a50e-c30df7d1ea09",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "V",
-      "title": "Bernstein names its top payments stock picks",
-      "summary": "Investing.com -- Bernstein has named its preferred stocks in the payments sector, citing attractive valuations, expanding growth opportunities and the potential for stronger shareholder returns, while downgrading Toast to Market-Perform.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bernstein-names-top-payments-stock-081430921.html?.tsrc=rss",
-      "time": "2026-11-12T08:14:30+00:00",
-      "touches": [
-        "V"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-12T09:05:00Z",
+  "items": [],
   "atencao": []
 }
