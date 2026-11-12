@@ -1,36 +1,5 @@
 {
-  "as_of": "2026-11-12T17:35:00Z",
-  "items": [
-    {
-      "id": "rss:659be130-0ef7-37cc-bf50-a2fe66533ef5",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "V",
-      "title": "Avia Collaborates with Visa and Global Payments for Direct Player Payouts to Eligible Visa Cards",
-      "summary": "SAN FRANCISCO, November 12, 2026--AviaGames, a leader in casual, skill-based mobile games, is collaborating with Visa, a world leader in digital payments, and Global Payments\u00ae, a leading payment technology and software company, to give eligible U.S. players the ability to receive payouts from Avia\u2019s mobile games directly to their eligible Visa cards. The integration is now available for players.",
-      "link": "https://finance.yahoo.com/media-advertising/articles/avia-collaborates-visa-global-payments-170000773.html?.tsrc=rss",
-      "time": "2026-11-12T17:00:00+00:00",
-      "touches": [
-        "V"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:3185c74a-e7a7-39fb-9eba-9b77d7923a68",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Pacvue Earns Walmart Data Ventures Verified Service Provider Certification",
-      "summary": "As a Walmart Data Ventures Verified Service Provider, Pacvue gives brands a secure path to connect their Walmart data with their advertising decisions and manage campaigns alongside 100+ other commerce media channels.LOS ANGELES, Nov. 12, 2026 (GLOBE NEWSWIRE) -- Pacvue today announced that it has been recognized as a Verified Service Provider in the Walmart Data Ventures Verified Service Provider Program. The designation confirms that Pacvue has met strict requirements for handling data from Wa",
-      "link": "https://finance.yahoo.com/media-advertising/articles/pacvue-earns-walmart-data-ventures-170000712.html?.tsrc=rss",
-      "time": "2026-11-12T17:00:00+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-12T18:05:00Z",
+  "items": [],
   "atencao": []
 }
