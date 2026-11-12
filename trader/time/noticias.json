@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-12T23:05:00Z",
-  "items": [
-    {
-      "id": "rss:61e01486-364c-3bfa-b9b4-152d3a96bace",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "V",
-      "title": "Bryan Bergin Calls Fiscal 2026 a Banner Year for Visa (V). Here\u2019s What He Expects Next",
-      "summary": "We just published a list of the 10 Unrivaled Stocks to Buy for the Next Decade and Visa (NYSE:V) ranked 8th on this list. Wall Street had its worst day since April 2025 last Thursday. The Nasdaq Composite fell 5.5%, the S&P 500 dropped 4.4%, and the Philadelphia Semiconductor Index plunged 12.2%. Two worries drove [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bryan-bergin-calls-fiscal-2026-223420790.html?.tsrc=rss",
-      "time": "2026-11-12T22:34:20+00:00",
-      "touches": [
-        "V"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-12T23:35:00Z",
+  "items": [],
   "atencao": []
 }

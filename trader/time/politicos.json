@@ -1,30 +1,5 @@
 {
-  "as_of": "2026-11-12T21:35:00Z",
-  "new": [
-    {
-      "doc_id": "20035826",
-      "type": "P",
-      "type_name": "Periodic Transaction Report",
-      "last": "Doggett",
-      "first": "Lloyd",
-      "name": "Hon. Lloyd Doggett",
-      "district": "TX37",
-      "year": 2026,
-      "filed": "2026-11-11",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035826.pdf"
-    },
-    {
-      "doc_id": "20035821",
-      "type": "P",
-      "type_name": "Periodic Transaction Report",
-      "last": "Allen",
-      "first": "Richard W.",
-      "name": "Hon. Richard W. Allen",
-      "district": "GA12",
-      "year": 2026,
-      "filed": "2026-11-11",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf"
-    }
-  ],
+  "as_of": "2026-11-12T23:35:00Z",
+  "new": [],
   "hits": []
 }
