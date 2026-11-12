@@ -1,39 +1,5 @@
 {
-  "as_of": "2026-11-12T20:05:00Z",
-  "items": [
-    {
-      "id": "rss:d5970079-d833-3e51-9e4f-aeea149aa6a1",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Marvell makes major board move ahead of $115 billion AI deal",
-      "summary": "The chipmaker expands its board to 10 members as it prepares for a major deal in optical networking.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/marvell-makes-major-board-move-194450481.html?.tsrc=rss",
-      "time": "2026-11-12T19:44:50+00:00",
-      "touches": [
-        "ADBE",
-        "WMT"
-      ],
-      "tags": [
-        "deal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:140ae0dc-a0e3-31ec-ad81-43928a4650b8",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Intellectual Property: Valuing, Protecting and Securitizing, 6th Palm Beach CorpGov Forum",
-      "summary": "CorpGov hosted the sixth annual Palm Beach CorpGov Forum on Nov. 4-5, 2026, at the Palm Beach Lake Pavilion and The Cove Club, both located waterfront with sweeping views of Palm Beach Island, along with a reception at Cucina Palm Beach. The panel called \u201cIntellectual Property: Valuing, Protecting and Securitizing\u201d took place on Thursday afternoon. [\u2026] The post Intellectual Property: Valuing, Protecting and Securitizing, 6th Palm Beach CorpGov Forum appeared first on CorpGov.",
-      "link": "https://finance.yahoo.com/small-business/articles/intellectual-property-valuing-protecting-securitizing-163915128.html?.tsrc=rss",
-      "time": "2026-11-12T16:39:15+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-12T20:35:00Z",
+  "items": [],
   "atencao": []
 }
