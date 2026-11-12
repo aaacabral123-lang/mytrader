@@ -1,5 +1,36 @@
 {
-  "as_of": "2026-11-12T01:05:00Z",
-  "items": [],
+  "as_of": "2026-11-12T01:35:00Z",
+  "items": [
+    {
+      "id": "rss:d30c54b1-c0b3-35c1-bf9d-56b7d369b297",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "Home Depot (HD) Stock Looks Overvalued On Its 23% Run",
+      "summary": "Home Depot has packed a lot of movement into the past few years, and the share price now asks a simple question of investors. Do the cash flows from this retailer support where the stock currently trades, or has sentiment run ahead of what the business is likely to generate? Over the past 3 years the stock has returned 23.1%, which makes the link between Home Depot's cash generation and today\u2019s valuation especially important for anyone buying in now. Recent political momentum around housing...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-stock-looks-010906783.html?.tsrc=rss",
+      "time": "2026-11-12T01:09:06+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:9ef2a7b2-0a18-394e-8eff-388106d76e33",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "V",
+      "title": "Scalare Partners Provides Corporate Update on Portfolio Company 10XU",
+      "summary": "Sydney, Australia--(Newsfile Corp. - November 11, 2026) - Scalare Partners Holdings Limited (ASX: SCP) (\"Scalare\" or \"the Company\") today provides a corporate update on 10XU, a Scalare Partners portfolio company, covering key 2026 milestones across its FitTech platform.Formerly the WithU Group, 10XU builds and scales technology-first wellbeing brands spanning movement, training, recovery, travel and social sport, including WithU, Mvmnt, URUNN and TrvlWell. Ranked the fastest-growing company in..",
+      "link": "https://finance.yahoo.com/technology/articles/scalare-partners-provides-corporate-portfolio-005800803.html?.tsrc=rss",
+      "time": "2026-11-12T00:58:00+00:00",
+      "touches": [
+        "V"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
