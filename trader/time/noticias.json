@@ -1,5 +1,22 @@
 {
-  "as_of": "2026-11-13T15:35:00Z",
-  "items": [],
+  "as_of": "2026-11-13T16:05:00Z",
+  "items": [
+    {
+      "id": "rss:7cf244bb-2a5f-36d5-b9e6-977227cd201a",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "Lowe\u2019s Stock Cut to Sell as It Struggles to Catch Up to Home Depot",
+      "summary": "Stifel warns of margin pressure and costly investments as Lowe\u2019s tries to catch up to Home Depot\u2019s contractor business.",
+      "link": "https://finance.yahoo.com/m/7cf244bb-2a5f-36d5-b9e6-977227cd201a/lowe%E2%80%99s-stock-cut-to-sell-as.html?.tsrc=rss",
+      "time": "2026-11-13T15:57:00+00:00",
+      "touches": [
+        "HD",
+        "WMT"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
