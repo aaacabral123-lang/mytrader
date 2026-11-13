@@ -1,18 +1,49 @@
 {
-  "as_of": "2026-11-13T16:05:00Z",
+  "as_of": "2026-11-13T16:35:00Z",
   "items": [
     {
-      "id": "rss:7cf244bb-2a5f-36d5-b9e6-977227cd201a",
+      "id": "rss:e5389b0e-6f6b-3dca-9993-3f1c9d06ae91",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "HD",
-      "title": "Lowe\u2019s Stock Cut to Sell as It Struggles to Catch Up to Home Depot",
-      "summary": "Stifel warns of margin pressure and costly investments as Lowe\u2019s tries to catch up to Home Depot\u2019s contractor business.",
-      "link": "https://finance.yahoo.com/m/7cf244bb-2a5f-36d5-b9e6-977227cd201a/lowe%E2%80%99s-stock-cut-to-sell-as.html?.tsrc=rss",
-      "time": "2026-11-13T15:57:00+00:00",
+      "ticker": "V",
+      "title": "4 Stocks Bill Ackman and Jim Cramer Are Bullish On",
+      "summary": "Bill Ackman and Jim Cramer are two of the most closely followed names on Wall Street. Cramer\u2019s stock picks already get plenty of coverage, and we just looked at five stocks he is bullish on. See the five picks here. Ackman founded Pershing Square Capital Management in 2004. From 2004 through early 2026, the firm [\u2026]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/4-stocks-bill-ackman-jim-162540033.html?.tsrc=rss",
+      "time": "2026-11-13T16:25:40+00:00",
       "touches": [
-        "HD",
-        "WMT"
+        "V"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:84f82879-8c7c-434a-a747-680bbc858c43",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "V",
+      "title": "Why Billionaire investor Bill Ackman isn't touching Anthropic",
+      "summary": "Pershing Square CEO Bill Ackman joins Yahoo Finance Executive Editor Brian Sozzi at the Invest 2026 Conference.",
+      "link": "https://finance.yahoo.com/video/why-billionaire-investor-bill-ackman-isnt-touching-anthropic-160942568.html?.tsrc=rss",
+      "time": "2026-11-13T16:09:10+00:00",
+      "touches": [
+        "V"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:0eed0405-c11e-3f29-b884-eb5cc31ffe55",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "Can APA's High-Quality Portfolio Fuel Cash Flow and Future Growth?",
+      "summary": "APA's Permian and Egypt production supports cash flow, while Suriname's on-track GranMorgu project and exploration prospects offer long-term growth potential.",
+      "link": "https://finance.yahoo.com/energy/articles/apas-high-quality-portfolio-fuel-151700005.html?.tsrc=rss",
+      "time": "2026-11-13T15:17:00+00:00",
+      "touches": [
+        "XOM"
       ],
       "tags": [],
       "new": true
