@@ -1,22 +1,5 @@
 {
-  "as_of": "2026-11-13T19:35:00Z",
-  "new": [
-    {
-      "doc_id": "20035831",
-      "type": "P",
-      "type_name": "Periodic Transaction Report",
-      "last": "Taylor",
-      "first": "David J.",
-      "name": "Hon. David J. Taylor",
-      "district": "OH02",
-      "year": 2026,
-      "filed": "2026-11-12",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035831.pdf"
-    }
-  ],
-  "hits": [
-    "David J. Taylor: venda HD, $1,001 - $15,000",
-    "David J. Taylor: venda V, $1,001 - $15,000",
-    "David J. Taylor: venda V, $1,001 - $15,000"
-  ]
+  "as_of": "2026-11-13T21:35:00Z",
+  "new": [],
+  "hits": []
 }

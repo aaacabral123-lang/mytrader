@@ -1,21 +1,37 @@
 {
-  "as_of": "2026-11-13T21:05:00Z",
+  "as_of": "2026-11-13T21:35:00Z",
   "items": [
     {
-      "id": "rss:0b395397-e5d1-314a-948f-15a6ae900b31",
+      "id": "rss:9546104e-d989-381a-ab16-3923f84e3dcc",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "HD",
-      "title": "Buy Home Depot or Lowe's Stock Ahead of Much-Anticipated Q3 Results?",
-      "summary": "With Home Depot and Lowe's set to report Q3 results next week, here's how the home improvement giants stack up on growth expectations, valuation, and dividends.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-home-depot-lowes-stock-192700569.html?.tsrc=rss",
-      "time": "2026-11-13T19:27:00+00:00",
+      "ticker": "XOM",
+      "title": "The Price Tag on Jensen Huang\u2019s Resignation: $639 Billion and Counting",
+      "summary": "Nvidia\u2019s market cap tumbled $639.1 billion this week, its worst weekly decline ever. The debate now is whether or not investors want to take advantage of the fall.",
+      "link": "https://finance.yahoo.com/m/9546104e-d989-381a-ab16-3923f84e3dcc/the-price-tag-on-jensen.html?.tsrc=rss",
+      "time": "2026-11-13T20:32:00+00:00",
       "touches": [
-        "HD"
+        "XOM"
       ],
       "tags": [
-        "earnings"
+        "people"
       ],
+      "new": true
+    },
+    {
+      "id": "rss:3bce1c07-8408-3726-834a-bd5323f46055",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "V",
+      "title": "Top Stock Reports for Visa, ExxonMobil & Pfizer",
+      "summary": "Today's Research Daily features new research reports on 16 major stocks, including Visa Inc. (V), ExxonMobil Holdings Corporation (XOM) and Pfizer Inc. (PFE).",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-visa-exxonmobil-201900445.html?.tsrc=rss",
+      "time": "2026-11-13T20:19:00+00:00",
+      "touches": [
+        "V",
+        "XOM"
+      ],
+      "tags": [],
       "new": true
     }
   ],
