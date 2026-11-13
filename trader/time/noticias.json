@@ -1,32 +1,32 @@
 {
-  "as_of": "2026-11-13T13:35:00Z",
+  "as_of": "2026-11-13T14:05:00Z",
   "items": [
     {
-      "id": "rss:12346892-e27a-3292-a69f-d60d665b39a4",
+      "id": "rss:4f2a6dbc-6c1a-3ebc-bc8c-5db070fc01e0",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "YUM",
-      "title": "Yum! Brands, Inc. Declares Quarterly Dividend of $0.75 Per Share",
-      "summary": "LOUISVILLE, Ky., November 13, 2026--Yum! Brands, Inc. Declares Quarterly Dividend of $0.75 Per Share",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/yum-brands-inc-declares-quarterly-133000100.html?.tsrc=rss",
-      "time": "2026-11-13T13:30:00+00:00",
+      "ticker": "WMT",
+      "title": "Store Recalls Report Finds Walmart Named in 81 Official U.S. Recalls in 2026, More Than Any Other Physical Retailer",
+      "summary": "Store Recalls, a free website that sorts official U.S. recalls by the store named in each notice, found that Walmart was named in 81 recalls between January 1 and November 10, 2026, more than any other physical retailer. Target followed with 25 notices and Costco with 19, according to the Store Recalls retailer recall report.",
+      "link": "https://finance.yahoo.com/healthcare/articles/store-recalls-report-finds-walmart-134200848.html?.tsrc=rss",
+      "time": "2026-11-13T13:42:00+00:00",
       "touches": [
-        "YUM"
+        "WMT"
       ],
       "tags": [
-        "capital"
+        "risk"
       ],
       "new": true
     },
     {
-      "id": "rss:38e02132-153b-375d-bac0-85b686afa877",
+      "id": "rss:801289be-1e1d-37da-a897-ec9a0fa50068",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "XOM",
-      "title": "5 Best Stocks to Buy for a Rising Interest Rate Environment",
-      "summary": "After a prolonged run of easing speculation, the interest rate outlook has taken a shift. Back in September, the Federal Reserve increased rates by 25 basis points, and economists are now anticipating another rate hike in December, according to a recent Reuters poll. Bond markets have already reacted to yield curve changes, as the 10-year [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-stocks-buy-rising-130523215.html?.tsrc=rss",
-      "time": "2026-11-13T13:05:23+00:00",
+      "title": "Oil Staying Above $85: A Growth Catalyst for EOG Resources?",
+      "summary": "Oil above $85 boosts EOG Resources' growth prospects, backed by vast reserves, strong cash flow potential and an attractive valuation.",
+      "link": "https://finance.yahoo.com/energy/articles/oil-staying-above-85-growth-125100648.html?.tsrc=rss",
+      "time": "2026-11-13T12:51:00+00:00",
       "touches": [
         "XOM"
       ],
@@ -34,5 +34,23 @@
       "new": true
     }
   ],
-  "atencao": []
+  "atencao": [
+    {
+      "id": "rss:4f2a6dbc-6c1a-3ebc-bc8c-5db070fc01e0",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Store Recalls Report Finds Walmart Named in 81 Official U.S. Recalls in 2026, More Than Any Other Physical Retailer",
+      "summary": "Store Recalls, a free website that sorts official U.S. recalls by the store named in each notice, found that Walmart was named in 81 recalls between January 1 and November 10, 2026, more than any other physical retailer. Target followed with 25 notices and Costco with 19, according to the Store Recalls retailer recall report.",
+      "link": "https://finance.yahoo.com/healthcare/articles/store-recalls-report-finds-walmart-134200848.html?.tsrc=rss",
+      "time": "2026-11-13T13:42:00+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [
+        "risk"
+      ],
+      "new": true
+    }
+  ]
 }
