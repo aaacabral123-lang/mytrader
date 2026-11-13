@@ -1,64 +1,21 @@
 {
-  "as_of": "2026-11-13T11:35:00Z",
+  "as_of": "2026-11-13T12:05:00Z",
   "items": [
     {
-      "id": "rss:23b87fe1-a81d-39c3-8a8e-af19eb0745dd",
+      "id": "rss:151057a2-86d8-343d-9821-36edb41c7ebe",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "YUM",
-      "title": "What JPMorgan Active Value ETF (JAVA) Bought: HCA Leads on Nov. 11",
-      "summary": "The fund bought $20.0 million of HCA and $15.8 million of Becton Dickinson while selling $22.4 million of Wells Fargo.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-active-value-etf-java-110355677.html?.tsrc=rss",
-      "time": "2026-11-13T11:03:55+00:00",
+      "ticker": "WMT",
+      "title": "Walmart stock faces 6% earnings test as big holders watch",
+      "summary": "Analysts expect third-quarter earnings of 64 cents per share, up from 62 cents a year earlier.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-stock-faces-6-earnings-111128054.html?.tsrc=rss",
+      "time": "2026-11-13T11:11:28+00:00",
       "touches": [
-        "YUM"
+        "WMT"
       ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:2cd542d5-d7c8-329b-b59b-482f8e86e950",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "V",
-      "title": "State Street Fin Sel Sector SPDR (XLF) Buys $49.1 Million More BRK.B on Wednesday",
-      "summary": "The fund added $369.2 million across all 76 of its positions, led by a $49.1 million increase in Berkshire Hathaway Class B.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-fin-sel-sector-110345040.html?.tsrc=rss",
-      "time": "2026-11-13T11:03:45+00:00",
-      "touches": [
-        "V"
+      "tags": [
+        "earnings"
       ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:a02a5032-bd42-3303-8091-3a519a594643",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "V",
-      "title": "Spdr Dow Jones Industrial Avg ETF Trust (DIA) Buys $41.2 Million More GS on Nov. 11",
-      "summary": "The fund added $393.0 million of stock across all 30 holdings, with Goldman Sachs its largest purchase.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spdr-dow-jones-industrial-avg-110333683.html?.tsrc=rss",
-      "time": "2026-11-13T11:03:33+00:00",
-      "touches": [
-        "V"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:6dd407cb-9d14-3252-8818-eaf21081136d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "V",
-      "title": "ETFs Bought $107.9 Million of Visa (V) on Nov. 11",
-      "summary": "ETFs bought $107.9 million of Visa (V) on Wednesday, Nov. 11.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-107-9-million-110141909.html?.tsrc=rss",
-      "time": "2026-11-13T11:01:41+00:00",
-      "touches": [
-        "V"
-      ],
-      "tags": [],
       "new": true
     }
   ],
