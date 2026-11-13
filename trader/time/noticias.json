@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-13T19:05:00Z",
-  "items": [],
+  "as_of": "2026-11-13T20:05:00Z",
+  "items": [
+    {
+      "id": "rss:8349f07d-3e93-3c77-a632-46d8d8a71077",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "V",
+      "title": "OpenAI Wants to Spend Your Money\u2014With Your Permission, of Course",
+      "summary": "OpenAI\u2019s ChatGPT Wallet enables AI agents to make transactions without accessing credit-card details, but gaining users\u2019 trust will be a challenge.",
+      "link": "https://finance.yahoo.com/m/8349f07d-3e93-3c77-a632-46d8d8a71077/openai-wants-to-spend-your.html?.tsrc=rss",
+      "time": "2026-11-13T18:04:00+00:00",
+      "touches": [
+        "V"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
