@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-13T17:35:00Z",
-  "items": [
-    {
-      "id": "rss:9ffa5069-fe10-3cce-be70-54c624d42866",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "V",
-      "title": "Can Mastercard's Singapore Innovation Hub Accelerate AI-Led Growth?",
-      "summary": "MA's Singapore innovation hub aims to accelerate AI-driven payments, cybersecurity and agentic commerce, unlocking growth opportunities across Asia-Pacific.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/mastercards-singapore-innovation-hub-accelerate-160800694.html?.tsrc=rss",
-      "time": "2026-11-13T16:08:00+00:00",
-      "touches": [
-        "V"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-13T18:05:00Z",
+  "items": [],
   "atencao": []
 }
