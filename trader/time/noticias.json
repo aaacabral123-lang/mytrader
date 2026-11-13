@@ -1,5 +1,51 @@
 {
-  "as_of": "2026-11-13T18:05:00Z",
-  "items": [],
+  "as_of": "2026-11-13T18:35:00Z",
+  "items": [
+    {
+      "id": "rss:76aad809-0d62-3fd7-80e4-1a457124fc74",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "V",
+      "title": "Sector Update: Tech Stocks Fall Friday Afternoon",
+      "summary": "Tech stocks fell Friday afternoon, with the State Street Technology Select Sector SPDR ETF (XLK) dec",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-friday-182755340.html?.tsrc=rss",
+      "time": "2026-11-13T18:27:55+00:00",
+      "touches": [
+        "V"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:3d832d61-4ebb-3ea0-a8a0-88e2e2ae08f1",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "ConocoPhillips' Lower 48 and Willow Assets: Key to Long-Term Growth?",
+      "summary": "COP's deep Lower 48 inventory, Willow project and LNG expansion underpin its long-term growth strategy and $7 billion cash flow inflection target by 2029.",
+      "link": "https://finance.yahoo.com/energy/articles/conocophillips-lower-48-willow-assets-171100025.html?.tsrc=rss",
+      "time": "2026-11-13T17:11:00+00:00",
+      "touches": [
+        "XOM"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:c25d2b29-744f-34f4-a1d1-7bf6230be0ef",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "V",
+      "title": "OpenAI Debuts New ChatGPT Payment Method With Card Networks",
+      "summary": "OpenAI introduced ChatGPT Wallet, a new secure payment method that its artificial intelligence tool can use to make purchases on consumers\u2019 behalf, renewing its push into AI shopping after winding down an Instant Checkout feature earlier this year.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/openai-debuts-chatgpt-payment-method-170611135.html?.tsrc=rss",
+      "time": "2026-11-13T17:06:11+00:00",
+      "touches": [
+        "V"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
