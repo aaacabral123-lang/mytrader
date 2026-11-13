@@ -1,5 +1,38 @@
 {
-  "as_of": "2026-11-13T07:35:00Z",
-  "items": [],
+  "as_of": "2026-11-13T08:05:00Z",
+  "items": [
+    {
+      "id": "rss:0df18bf1-8e37-3041-bd41-eba4f69dd3f1",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "At 21x earnings, Amazon is cheaper than Walmart and surging",
+      "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/21x-earnings-amazon-cheaper-walmart-073033897.html?.tsrc=rss",
+      "time": "2026-11-13T07:30:33+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:93b32b3f-d5f0-351d-b609-97ac8cff90ec",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "The Zacks Analyst Blog Highlights Home Depot, Gilead Sciences, TotalEnergies, Key Tronic and iPower",
+      "summary": "HD, GILD and TTE headline Zacks' latest research picks, with strong business drivers offset by industry pressures, while KTCC and IPW face financial and execution challenges.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-home-065100996.html?.tsrc=rss",
+      "time": "2026-11-13T06:51:00+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
