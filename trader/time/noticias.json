@@ -1,15 +1,15 @@
 {
-  "as_of": "2026-11-13T12:05:00Z",
+  "as_of": "2026-11-13T12:35:00Z",
   "items": [
     {
-      "id": "rss:151057a2-86d8-343d-9821-36edb41c7ebe",
+      "id": "rss:c6616d2b-0c45-3f11-b5d9-0ea98f6c6d81",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "WMT",
-      "title": "Walmart stock faces 6% earnings test as big holders watch",
-      "summary": "Analysts expect third-quarter earnings of 64 cents per share, up from 62 cents a year earlier.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-stock-faces-6-earnings-111128054.html?.tsrc=rss",
-      "time": "2026-11-13T11:11:28+00:00",
+      "title": "Walmart (WMT) Faces Child Labor Settlement As Valuation Questions Return",
+      "summary": "Walmart (WMT) is back in focus after agreeing to a record US$7.8 million child labor settlement in Pennsylvania, raising fresh questions for investors about compliance risk and long term oversight. Despite the regulatory headlines, Walmart\u2019s recent price action has stayed resilient. At a share price of US$126.19, the stock has a 30 day share price return of 12.39% and a 1 year total shareholder return of 24.1%. This points to firm momentum that ETF buying, earnings optimism and new energy and...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-faces-child-labor-121126153.html?.tsrc=rss",
+      "time": "2026-11-13T12:11:26+00:00",
       "touches": [
         "WMT"
       ],
