@@ -1,5 +1,23 @@
 {
-  "as_of": "2026-11-13T20:35:00Z",
-  "items": [],
+  "as_of": "2026-11-13T21:05:00Z",
+  "items": [
+    {
+      "id": "rss:0b395397-e5d1-314a-948f-15a6ae900b31",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "Buy Home Depot or Lowe's Stock Ahead of Much-Anticipated Q3 Results?",
+      "summary": "With Home Depot and Lowe's set to report Q3 results next week, here's how the home improvement giants stack up on growth expectations, valuation, and dividends.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-home-depot-lowes-stock-192700569.html?.tsrc=rss",
+      "time": "2026-11-13T19:27:00+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    }
+  ],
   "atencao": []
 }
