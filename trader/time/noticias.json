@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-13T09:35:00Z",
-  "items": [
-    {
-      "id": "rss:cea2c179-e2ae-3e70-bb32-4a23aa785331",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "V",
-      "title": "UQPAY Secures Visa Associate Membership in Australia",
-      "summary": "UQPAY has secured Visa Associate Membership in Australia, marking an important milestone in its collaboration with Visa and expansion across Asia-Pacific. The approval provides a foundation for extending its card-issuing capabilities in Australia, complementing existing financial services and supporting the evolving needs of businesses operating across borders.",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/uqpay-secures-visa-associate-membership-090300329.html?.tsrc=rss",
-      "time": "2026-11-13T09:03:00+00:00",
-      "touches": [
-        "V"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-13T10:05:00Z",
+  "items": [],
   "atencao": []
 }
