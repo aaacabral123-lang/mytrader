@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-13T02:35:00Z",
-  "items": [],
+  "as_of": "2026-11-13T03:05:00Z",
+  "items": [
+    {
+      "id": "rss:1b3433b8-1aa3-3dcf-b1f0-5c7accff81b5",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Adobe And 2 More Undervalued Tech Stocks To Watch",
+      "summary": "The bond market is flashing a clear message. Higher yields tied to stubborn inflation and heavy spending on artificial intelligence are forcing investors to rethink what they are willing to pay for growth stories. That reset can leave solid technology stocks trading on the clearance rack. This article highlights three undervalued tech opportunities from our screener that could appeal to investors hunting for mispriced growth. The three stocks below are only a small sample from our undervalued...",
+      "link": "https://finance.yahoo.com/technology/articles/adobe-2-more-undervalued-tech-021250861.html?.tsrc=rss",
+      "time": "2026-11-13T02:12:50+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
