@@ -1,23 +1,5 @@
 {
-  "as_of": "2026-11-13T22:05:00Z",
-  "items": [
-    {
-      "id": "rss:53e50dc8-f137-3f6c-bfd6-912334fef9f1",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Dow Jones Futures: Market Rally Shaky As Nvidia Earnings, Anthropic IPO Loom; SpaceX Starship Flight 15 Soon.",
-      "summary": "The new market rally is isn't giving clear directions. A SpaceX Starship launch is imminent. Nvidia earnings and Anthropic IPO loom.",
-      "link": "https://finance.yahoo.com/m/53e50dc8-f137-3f6c-bfd6-912334fef9f1/dow-jones-futures%3A-market.html?.tsrc=rss",
-      "time": "2026-11-13T21:39:48+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-13T22:35:00Z",
+  "items": [],
   "atencao": []
 }
