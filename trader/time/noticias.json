@@ -1,37 +1,21 @@
 {
-  "as_of": "2026-11-13T21:35:00Z",
+  "as_of": "2026-11-13T22:05:00Z",
   "items": [
     {
-      "id": "rss:9546104e-d989-381a-ab16-3923f84e3dcc",
+      "id": "rss:53e50dc8-f137-3f6c-bfd6-912334fef9f1",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "XOM",
-      "title": "The Price Tag on Jensen Huang\u2019s Resignation: $639 Billion and Counting",
-      "summary": "Nvidia\u2019s market cap tumbled $639.1 billion this week, its worst weekly decline ever. The debate now is whether or not investors want to take advantage of the fall.",
-      "link": "https://finance.yahoo.com/m/9546104e-d989-381a-ab16-3923f84e3dcc/the-price-tag-on-jensen.html?.tsrc=rss",
-      "time": "2026-11-13T20:32:00+00:00",
+      "ticker": "WMT",
+      "title": "Dow Jones Futures: Market Rally Shaky As Nvidia Earnings, Anthropic IPO Loom; SpaceX Starship Flight 15 Soon.",
+      "summary": "The new market rally is isn't giving clear directions. A SpaceX Starship launch is imminent. Nvidia earnings and Anthropic IPO loom.",
+      "link": "https://finance.yahoo.com/m/53e50dc8-f137-3f6c-bfd6-912334fef9f1/dow-jones-futures%3A-market.html?.tsrc=rss",
+      "time": "2026-11-13T21:39:48+00:00",
       "touches": [
-        "XOM"
+        "WMT"
       ],
       "tags": [
-        "people"
+        "earnings"
       ],
-      "new": true
-    },
-    {
-      "id": "rss:3bce1c07-8408-3726-834a-bd5323f46055",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "V",
-      "title": "Top Stock Reports for Visa, ExxonMobil & Pfizer",
-      "summary": "Today's Research Daily features new research reports on 16 major stocks, including Visa Inc. (V), ExxonMobil Holdings Corporation (XOM) and Pfizer Inc. (PFE).",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-visa-exxonmobil-201900445.html?.tsrc=rss",
-      "time": "2026-11-13T20:19:00+00:00",
-      "touches": [
-        "V",
-        "XOM"
-      ],
-      "tags": [],
       "new": true
     }
   ],
