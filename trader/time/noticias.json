@@ -1,30 +1,15 @@
 {
-  "as_of": "2026-11-13T17:05:00Z",
+  "as_of": "2026-11-13T17:35:00Z",
   "items": [
     {
-      "id": "rss:af34a0e3-af1e-3f4b-9533-ba33afb2ed40",
+      "id": "rss:9ffa5069-fe10-3cce-be70-54c624d42866",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "V",
-      "title": "Liberty All-Star\u00ae Equity Fund October 2026 Monthly Update",
-      "summary": "BOSTON, November 13, 2026--Liberty All-Star\u00ae Equity Fund October 2026 Monthly Update",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/liberty-star-equity-fund-october-164100048.html?.tsrc=rss",
-      "time": "2026-11-13T16:41:00+00:00",
-      "touches": [
-        "V"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:d9c0547f-b4b2-33ef-9251-477a1a87c51c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "V",
-      "title": "Can Visa's Stablecoin Push Gain Momentum With WU and Anchorage?",
-      "summary": "V expands its stablecoin settlement network with Anchorage Digital and Western Union's USDPT, targeting faster payments and deeper institutional adoption.",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/visas-stablecoin-push-gain-momentum-155100004.html?.tsrc=rss",
-      "time": "2026-11-13T15:51:00+00:00",
+      "title": "Can Mastercard's Singapore Innovation Hub Accelerate AI-Led Growth?",
+      "summary": "MA's Singapore innovation hub aims to accelerate AI-driven payments, cybersecurity and agentic commerce, unlocking growth opportunities across Asia-Pacific.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/mastercards-singapore-innovation-hub-accelerate-160800694.html?.tsrc=rss",
+      "time": "2026-11-13T16:08:00+00:00",
       "touches": [
         "V"
       ],
