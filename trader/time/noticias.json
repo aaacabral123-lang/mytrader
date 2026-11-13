@@ -1,21 +1,36 @@
 {
-  "as_of": "2026-11-13T13:05:00Z",
+  "as_of": "2026-11-13T13:35:00Z",
   "items": [
     {
-      "id": "rss:63df1fc1-a335-45c1-9f40-69deaa4b206e",
+      "id": "rss:12346892-e27a-3292-a69f-d60d665b39a4",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "YUM",
-      "title": "Starbucks CEO Brian Niccol focused on 'being Starbucks' but leaves door open for future restaurant acquisitions",
-      "summary": "Starbucks CEO Brian Niccol doesn't rule out building a restaurant empire.",
-      "link": "https://finance.yahoo.com/markets/article/starbucks-ceo-brian-niccol-focused-on-being-starbucks-but-leaves-door-open-for-future-restaurant-acquisitions-123328802.html?.tsrc=rss",
-      "time": "2026-11-12T20:36:37+00:00",
+      "title": "Yum! Brands, Inc. Declares Quarterly Dividend of $0.75 Per Share",
+      "summary": "LOUISVILLE, Ky., November 13, 2026--Yum! Brands, Inc. Declares Quarterly Dividend of $0.75 Per Share",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/yum-brands-inc-declares-quarterly-133000100.html?.tsrc=rss",
+      "time": "2026-11-13T13:30:00+00:00",
       "touches": [
         "YUM"
       ],
       "tags": [
-        "people"
+        "capital"
       ],
+      "new": true
+    },
+    {
+      "id": "rss:38e02132-153b-375d-bac0-85b686afa877",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "5 Best Stocks to Buy for a Rising Interest Rate Environment",
+      "summary": "After a prolonged run of easing speculation, the interest rate outlook has taken a shift. Back in September, the Federal Reserve increased rates by 25 basis points, and economists are now anticipating another rate hike in December, according to a recent Reuters poll. Bond markets have already reacted to yield curve changes, as the 10-year [\u2026]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-best-stocks-buy-rising-130523215.html?.tsrc=rss",
+      "time": "2026-11-13T13:05:23+00:00",
+      "touches": [
+        "XOM"
+      ],
+      "tags": [],
       "new": true
     }
   ],
