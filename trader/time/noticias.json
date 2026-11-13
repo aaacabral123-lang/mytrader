@@ -1,34 +1,21 @@
 {
-  "as_of": "2026-11-13T23:05:00Z",
+  "as_of": "2026-11-13T23:35:00Z",
   "items": [
     {
-      "id": "rss:337f6e5f-1e25-3708-aace-ce7dc288db98",
+      "id": "rss:bdf96985-a4d2-3f3f-80d9-f767076160b8",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "WMT",
-      "title": "Walmart (WMT) Gains As Market Dips: What You Should Know",
-      "summary": "Walmart (WMT) concluded the recent trading session at $128.09, signifying a +1.51% move from its prior day's close.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-gains-market-dips-214502776.html?.tsrc=rss",
-      "time": "2026-11-13T21:45:02+00:00",
+      "title": "How Digital Expansion At Walmart (WMT) Has Changed Its Investment Story",
+      "summary": "Walmart recently agreed to a record US$7.8 million settlement with Pennsylvania authorities over Child Labor Act violations and is rolling out new energy, AI shopping, and drone delivery initiatives while preparing to report third quarter earnings on 19 November 2026. A stronger focus on omnichannel services, advertising, membership programs, and partnerships such as Base Power is reshaping how Walmart earns beyond traditional in-store retailing. This article examines how Walmart\u2019s expanding...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/digital-expansion-walmart-wmt-changed-231951520.html?.tsrc=rss",
+      "time": "2026-11-13T23:19:51+00:00",
       "touches": [
         "WMT"
       ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:580524bf-bd30-3f37-a643-6fbe0614525a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Adobe Systems (ADBE) Rises As Market Takes a Dip: Key Facts",
-      "summary": "Adobe Systems (ADBE) closed at $243.08 in the latest trading session, marking a +1.9% move from the prior day.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-systems-adbe-rises-market-214501482.html?.tsrc=rss",
-      "time": "2026-11-13T21:45:01+00:00",
-      "touches": [
-        "ADBE"
+      "tags": [
+        "earnings"
       ],
-      "tags": [],
       "new": true
     }
   ],
