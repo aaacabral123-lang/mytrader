@@ -1,56 +1,101 @@
 {
-  "as_of": "2026-11-13T14:05:00Z",
+  "as_of": "2026-11-13T14:35:00Z",
   "items": [
     {
-      "id": "rss:4f2a6dbc-6c1a-3ebc-bc8c-5db070fc01e0",
+      "id": "rss:eedba911-a7e1-3047-a45a-f0642246a19d",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "WMT",
-      "title": "Store Recalls Report Finds Walmart Named in 81 Official U.S. Recalls in 2026, More Than Any Other Physical Retailer",
-      "summary": "Store Recalls, a free website that sorts official U.S. recalls by the store named in each notice, found that Walmart was named in 81 recalls between January 1 and November 10, 2026, more than any other physical retailer. Target followed with 25 notices and Costco with 19, according to the Store Recalls retailer recall report.",
-      "link": "https://finance.yahoo.com/healthcare/articles/store-recalls-report-finds-walmart-134200848.html?.tsrc=rss",
-      "time": "2026-11-13T13:42:00+00:00",
+      "ticker": "HD",
+      "title": "Stifel downgrades Lowe\u2019s to Sell, stays cautious on Home Depot ahead of earnings",
+      "summary": "Investing.com -- Stifel has downgraded Lowe\u2019s (NYSE:LOW) to Sell from Hold ahead of the home improvement retailer\u2019s fiscal third-quarter results next week, with the firm also taking a cautious stance on Home Depot (NYSE:HD).",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stifel-downgrades-lowe-sell-stays-142106245.html?.tsrc=rss",
+      "time": "2026-11-13T14:21:06+00:00",
       "touches": [
-        "WMT"
+        "HD"
       ],
       "tags": [
-        "risk"
+        "earnings",
+        "analyst"
       ],
       "new": true
     },
     {
-      "id": "rss:801289be-1e1d-37da-a897-ec9a0fa50068",
+      "id": "rss:e5391894-1820-3e4a-9df3-1f08ca530bb1",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "XOM",
-      "title": "Oil Staying Above $85: A Growth Catalyst for EOG Resources?",
-      "summary": "Oil above $85 boosts EOG Resources' growth prospects, backed by vast reserves, strong cash flow potential and an attractive valuation.",
-      "link": "https://finance.yahoo.com/energy/articles/oil-staying-above-85-growth-125100648.html?.tsrc=rss",
-      "time": "2026-11-13T12:51:00+00:00",
+      "ticker": "WMT",
+      "title": "Patmos Announces Plans to Transform Former Fairfield Walmart Into New Technology Campus",
+      "summary": "FAIRFIELD, Ala., November 13, 2026--Patmos, an independent provider of data center and technology infrastructure, today announced the acquisition of the former Walmart property, a 205,000-square-foot building on Aaron Aronov Drive in Fairfield, Alabama. The company plans to redevelop the property into a Technology Campus designed to support growing infrastructure demands for artificial intelligence, high-performance computing, colocation, and other web services.",
+      "link": "https://finance.yahoo.com/technology/articles/patmos-announces-plans-transform-former-140000097.html?.tsrc=rss",
+      "time": "2026-11-13T14:00:00+00:00",
       "touches": [
-        "XOM"
+        "WMT"
+      ],
+      "tags": [
+        "deal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:c341e9b4-71d1-345b-a0d8-1dfc42279a73",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "V",
+      "title": "Visa Inc. (V) Is a Trending Stock: Facts to Know Before Betting on It",
+      "summary": "Recently, Zacks.com users have been paying close attention to Visa (V). This makes it worthwhile to examine what the stock has in store.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/visa-inc-v-trending-stock-130006379.html?.tsrc=rss",
+      "time": "2026-11-13T13:00:06+00:00",
+      "touches": [
+        "V"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:aea30086-2757-3b8f-a1cf-2d8919bf0964",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Is Trending Stock Adobe Inc. (ADBE) a Buy Now?",
+      "summary": "Zacks.com users have recently been watching Adobe (ADBE) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/trending-stock-adobe-inc-adbe-130005684.html?.tsrc=rss",
+      "time": "2026-11-13T13:00:05+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:677f6f17-dd3a-30c3-be0b-7ce045425193",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "The Home Depot, Inc. (HD) Is a Trending Stock: Facts to Know Before Betting on It",
+      "summary": "Home Depot (HD) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-inc-hd-trending-130005883.html?.tsrc=rss",
+      "time": "2026-11-13T13:00:05+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:71725ee9-604c-3f21-996f-6411894434a5",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Walmart Inc. (WMT) is Attracting Investor Attention: Here is What You Should Know",
+      "summary": "Zacks.com users have recently been watching Walmart (WMT) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-inc-wmt-attracting-investor-130005925.html?.tsrc=rss",
+      "time": "2026-11-13T13:00:05+00:00",
+      "touches": [
+        "WMT"
       ],
       "tags": [],
       "new": true
     }
   ],
-  "atencao": [
-    {
-      "id": "rss:4f2a6dbc-6c1a-3ebc-bc8c-5db070fc01e0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Store Recalls Report Finds Walmart Named in 81 Official U.S. Recalls in 2026, More Than Any Other Physical Retailer",
-      "summary": "Store Recalls, a free website that sorts official U.S. recalls by the store named in each notice, found that Walmart was named in 81 recalls between January 1 and November 10, 2026, more than any other physical retailer. Target followed with 25 notices and Costco with 19, according to the Store Recalls retailer recall report.",
-      "link": "https://finance.yahoo.com/healthcare/articles/store-recalls-report-finds-walmart-134200848.html?.tsrc=rss",
-      "time": "2026-11-13T13:42:00+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "risk"
-      ],
-      "new": true
-    }
-  ]
+  "atencao": []
 }
