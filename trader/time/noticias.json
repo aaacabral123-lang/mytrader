@@ -1,5 +1,36 @@
 {
-  "as_of": "2026-11-13T22:35:00Z",
-  "items": [],
+  "as_of": "2026-11-13T23:05:00Z",
+  "items": [
+    {
+      "id": "rss:337f6e5f-1e25-3708-aace-ce7dc288db98",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Walmart (WMT) Gains As Market Dips: What You Should Know",
+      "summary": "Walmart (WMT) concluded the recent trading session at $128.09, signifying a +1.51% move from its prior day's close.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-gains-market-dips-214502776.html?.tsrc=rss",
+      "time": "2026-11-13T21:45:02+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:580524bf-bd30-3f37-a643-6fbe0614525a",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Adobe Systems (ADBE) Rises As Market Takes a Dip: Key Facts",
+      "summary": "Adobe Systems (ADBE) closed at $243.08 in the latest trading session, marking a +1.9% move from the prior day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-systems-adbe-rises-market-214501482.html?.tsrc=rss",
+      "time": "2026-11-13T21:45:01+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
