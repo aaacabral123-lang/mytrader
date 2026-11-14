@@ -1,9 +1,9 @@
 {
   "noticias": {
-    "result": "0 novas de fontes confi\u00e1veis (0 descartadas), 0 comunicados graves, 0 manchetes de aten\u00e7\u00e3o",
-    "ok": true,
-    "last_run": "2026-11-14T04:35:00Z",
-    "last_day": "2026-11-13"
+    "result": "erro: trader-news n\u00e3o respondeu",
+    "ok": false,
+    "last_run": "2026-11-14T05:05:00Z",
+    "last_day": "2026-11-14"
   },
   "politicos": {
     "result": "0 declara\u00e7\u00f5es novas, 0 nas suas a\u00e7\u00f5es",
