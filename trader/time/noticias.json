@@ -1,21 +1,20 @@
 {
-  "as_of": "2026-11-14T00:35:00Z",
+  "as_of": "2026-11-14T01:05:00Z",
   "items": [
     {
-      "id": "rss:48f9f388-b6a1-3c79-a620-54294b156e3a",
+      "id": "rss:61b91b28-cbee-3ad0-8b37-92cf8bbbf83c",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "WMT",
-      "title": "Walmart, Target, and Nvidia Headline a Pivotal Week for Q3 Earnings",
-      "summary": "Nvidia, Target, and Walmart reflect three notable upcoming releases in the Q3 earnings season, with Nvidia's release wrapping up the reporting cycle for the Magnificent 7 group. Total Q3 earnings for the S&P 500 members that have reported are up +24.9% year-over-year on +13.7% higher revenues.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-target-nvidia-headline-pivotal-230000146.html?.tsrc=rss",
-      "time": "2026-11-13T23:00:00+00:00",
+      "ticker": "HD",
+      "title": "Costco: An AI Shelter?",
+      "summary": "The big-box retailer could be a good defensive play for investors looking for steady returns in these uncertain times.",
+      "link": "https://finance.yahoo.com/m/61b91b28-cbee-3ad0-8b37-92cf8bbbf83c/costco%3A-an-ai-shelter%3F.html?.tsrc=rss",
+      "time": "2026-11-13T23:54:00+00:00",
       "touches": [
+        "HD",
         "WMT"
       ],
-      "tags": [
-        "earnings"
-      ],
+      "tags": [],
       "new": true
     }
   ],
