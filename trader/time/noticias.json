@@ -1,5 +1,36 @@
 {
-  "as_of": "2026-11-14T10:05:00Z",
-  "items": [],
+  "as_of": "2026-11-14T10:35:00Z",
+  "items": [
+    {
+      "id": "rss:b5e0a0f8-c400-3c6d-8222-b7b853b766e0",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "Top 3 Energy Stocks To Watch In November 2026",
+      "summary": "Inflation keeps running hotter than expected, and the latest October consumer price report shows price pressures are still broad. That environment keeps energy costs and interest rates in every conversation, and investors who want exposure to companies tied to real assets are watching closely. This article walks through three large oil and gas stocks from the global majors and explains what each brings to a portfolio right now. The stocks below are just a starting sample, and the full screen...",
+      "link": "https://finance.yahoo.com/energy/articles/top-3-energy-stocks-watch-101140336.html?.tsrc=rss",
+      "time": "2026-11-14T10:11:40+00:00",
+      "touches": [
+        "XOM"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:08aa1731-72e7-3d4e-aef0-c9aca4a19179",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "Target Stock Faces A Fresh Test As US Consumer Spending Shifts",
+      "summary": "AI sentiment, Fed signals and fresh reads on US shoppers are colliding at the same time that Nvidia\u2019s leadership shake-up and Anthropic\u2019s splashy IPO are in the spotlight. That mix can quickly reward or punish retail giants that depend on everyday spending. This piece walks through 3 large-cap retailers from our screener that look especially exposed to this news flow, and explains how the story could matter for your portfolio. These three retailers are just a sample set, since the full screen...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/target-stock-faces-fresh-test-101009457.html?.tsrc=rss",
+      "time": "2026-11-14T10:10:09+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
