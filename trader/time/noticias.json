@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-14T13:05:00Z",
-  "items": [
-    {
-      "id": "rss:2720fc2b-5eb6-31cc-8fd1-cc64a9bd20a7",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "VOO",
-      "title": "Think politicians have an unfair edge in the stock market? These investments can help you trade the way they do",
-      "summary": "While a ban on Congressional trading remains elusive, some companies offer ways to mimic Washington\u2019s money moves.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/think-politicians-unfair-edge-stock-123000103.html?.tsrc=rss",
-      "time": "2026-11-14T12:30:00+00:00",
-      "touches": [
-        "VOO"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-14T13:35:00Z",
+  "items": [],
   "atencao": []
 }
