@@ -1,5 +1,23 @@
 {
-  "as_of": "2026-11-14T07:05:00Z",
-  "items": [],
+  "as_of": "2026-11-14T07:35:00Z",
+  "items": [
+    {
+      "id": "rss:00114dd0-7c1f-32af-8ace-6868dbe4771e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "V",
+      "title": "Visa (V) Stock Gets Fair Value Bump As Analysts Lift Targets On New Growth Areas",
+      "summary": "Visa\u2019s analyst narrative has shifted, with price targets now clustering in the US$480 to US$500 range, compared with a fair value estimate that has moved from US$437.06 to US$449.06. Much of this reflects research that highlights Visa\u2019s cash generation, value added services, and newer areas like stablecoin products and AI enabled commerce, while still acknowledging execution and incentive related risks. Read on to see how these views are evolving and how you can track the story from...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/visa-v-stock-gets-fair-070814550.html?.tsrc=rss",
+      "time": "2026-11-14T07:08:14+00:00",
+      "touches": [
+        "V"
+      ],
+      "tags": [
+        "analyst"
+      ],
+      "new": true
+    }
+  ],
   "atencao": []
 }
