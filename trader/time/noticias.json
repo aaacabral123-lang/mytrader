@@ -1,22 +1,5 @@
 {
-  "as_of": "2026-11-14T01:05:00Z",
-  "items": [
-    {
-      "id": "rss:61b91b28-cbee-3ad0-8b37-92cf8bbbf83c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "Costco: An AI Shelter?",
-      "summary": "The big-box retailer could be a good defensive play for investors looking for steady returns in these uncertain times.",
-      "link": "https://finance.yahoo.com/m/61b91b28-cbee-3ad0-8b37-92cf8bbbf83c/costco%3A-an-ai-shelter%3F.html?.tsrc=rss",
-      "time": "2026-11-13T23:54:00+00:00",
-      "touches": [
-        "HD",
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-14T01:35:00Z",
+  "items": [],
   "atencao": []
 }
