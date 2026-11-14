@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-14T01:35:00Z",
-  "items": [],
+  "as_of": "2026-11-14T02:35:01Z",
+  "items": [
+    {
+      "id": "rss:ef004836-c89d-35b6-8b05-54d674e58b24",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "Is ExxonMobil Holdings (XOM) Undervalued After Its $12.5b Guyana Longtail Approval?",
+      "summary": "ExxonMobil Holdings (XOM) just approved a US$12.5b Longtail development offshore Guyana, targeting non associated gas and condensate. This gives investors a fresh long term project to factor into the stock\u2019s risk profile. The Longtail decision comes at a time when ExxonMobil Holdings\u2019 share price has been strong, with a year to date share price return of 39.09% and a 1 year total shareholder return of 45.87% backed by dividends. Short term momentum has cooled a little, with the 30 day share...",
+      "link": "https://finance.yahoo.com/energy/articles/exxonmobil-holdings-xom-undervalued-12-011312124.html?.tsrc=rss",
+      "time": "2026-11-14T01:13:12+00:00",
+      "touches": [
+        "XOM"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
