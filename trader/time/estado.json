@@ -2,13 +2,13 @@
   "noticias": {
     "result": "erro: trader-news n\u00e3o respondeu",
     "ok": false,
-    "last_run": "2026-11-15T19:05:00Z",
+    "last_run": "2026-11-15T19:35:00Z",
     "last_day": "2026-11-15"
   },
   "politicos": {
     "result": "0 declara\u00e7\u00f5es novas, 0 nas suas a\u00e7\u00f5es",
     "ok": true,
-    "last_run": "2026-11-15T17:35:00Z",
+    "last_run": "2026-11-15T19:35:00Z",
     "last_day": "2026-11-15"
   },
   "vigia": {
