@@ -1,24 +1,5 @@
 {
-  "as_of": "2026-11-15T13:05:00Z",
-  "items": [
-    {
-      "id": "rss:173554e6-cb71-3104-9da1-ff25aae22851",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "V",
-      "title": "What Is Next For Global Payments (GPN) After Elliott Pressure And Authentication Upgrade?",
-      "summary": "Global Payments (NYSE:GPN) is under pressure from Elliott Investment Management, which has taken an activist stake and is questioning the rationale for the Worldpay acquisition. Elliott is pushing Global Payments' board for greater disclosure around capital allocation decisions tied to the Worldpay deal and related integration plans. Separately, Global Payments has upgraded its Adaptive Authentication platform by integrating Visa's Intelligent Data Exchange API to refine fraud checks and...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/next-global-payments-gpn-elliott-120827361.html?.tsrc=rss",
-      "time": "2026-11-15T12:08:27+00:00",
-      "touches": [
-        "V"
-      ],
-      "tags": [
-        "analyst",
-        "deal"
-      ],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-15T15:05:00Z",
+  "items": [],
   "atencao": []
 }
