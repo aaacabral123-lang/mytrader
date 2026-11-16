@@ -1,82 +1,22 @@
 {
-  "as_of": "2026-11-16T11:35:00Z",
+  "as_of": "2026-11-16T12:05:00Z",
   "items": [
     {
-      "id": "rss:5cef3893-686c-3651-b2d7-6fb7f84d248a",
+      "id": "rss:c31dad8d-d40a-332f-a035-b3ca044f0739",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "WMT",
-      "title": "iShares S&P 500 Value ETF (IVE) Sells Apple and Amazon on Nov. 12",
-      "summary": "The fund sold $1.10 billion of stock, cutting 427 positions and adding none, against $50.68 billion in assets.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-p-500-value-etf-110409682.html?.tsrc=rss",
-      "time": "2026-11-16T11:04:09+00:00",
+      "ticker": "HD",
+      "title": "US Equity Investors to Monitor Anthropic's IPO, Nvidia's Quarterly Results, Fed Chair Kevin Warsh's Policy Lean This Week",
+      "summary": "US equity investors will focus on Anthropic's initial public offering and Nvidia's (NVDA) earnings w",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-investors-monitor-anthropic-113258609.html?.tsrc=rss",
+      "time": "2026-11-16T11:32:58+00:00",
       "touches": [
-        "WMT",
-        "XOM"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:740976c8-bc96-3be8-9d7d-b7302aa86db9",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XOM",
-      "title": "ETFs Are Net Sellers of ExxonMobil (XOM) on Nov. 12",
-      "summary": "ExxonMobil ETFs saw a net $90.6 million outflow as 14 funds sold and 42 bought.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-exxonmobil-xom-110256049.html?.tsrc=rss",
-      "time": "2026-11-16T11:02:56+00:00",
-      "touches": [
-        "XOM"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:9c51a626-4f0c-3864-a02f-5f45d2c6ca98",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "37 ETFs Add to Walmart (WMT) Holdings on Thursday",
-      "summary": "ETFs bought $40.6 million of Walmart stock on Nov. 12, with 37 buyers against 16 sellers.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/37-etfs-add-walmart-wmt-110130256.html?.tsrc=rss",
-      "time": "2026-11-16T11:01:30+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:aabf070e-5119-4235-ba0d-d5b802d16f9b",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "How Chewy's CEO plans to kill the $2,000 vet ER bill",
-      "summary": "Chewy CEO Sumit Singh explains to Yahoo Finance Executive Editor Brian Sozzi how the company is trying to bring pet insurance to millions of US households after finding fewer than 2% of pets were covered.",
-      "link": "https://finance.yahoo.com/video/chewys-ceo-plans-kill-2-110000995.html?.tsrc=rss",
-      "time": "2026-11-16T11:00:00+00:00",
-      "touches": [
-        "WMT"
+        "HD"
       ],
       "tags": [
-        "people"
+        "earnings",
+        "capital"
       ],
-      "new": true
-    },
-    {
-      "id": "rss:897f1818-bc16-31b3-b8b5-47f39283d76d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XOM",
-      "title": "This Spanish Oil Stock Is Beating Exxon and Chevron. Wall Street Sees More Upside.",
-      "summary": "European oil stocks are still much cheaper than American ones.",
-      "link": "https://finance.yahoo.com/m/897f1818-bc16-31b3-b8b5-47f39283d76d/this-spanish-oil-stock-is.html?.tsrc=rss",
-      "time": "2026-11-16T10:55:00+00:00",
-      "touches": [
-        "XOM"
-      ],
-      "tags": [],
       "new": true
     }
   ],
