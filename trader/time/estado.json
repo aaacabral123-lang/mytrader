@@ -2,7 +2,7 @@
   "noticias": {
     "result": "erro: trader-news n\u00e3o respondeu",
     "ok": false,
-    "last_run": "2026-11-16T14:05:00Z",
+    "last_run": "2026-11-16T14:35:00Z",
     "last_day": "2026-11-16"
   },
   "politicos": {
@@ -14,8 +14,8 @@
   "vigia": {
     "result": "7 a\u00e7\u00f5es vigiadas, 0 alertas",
     "ok": true,
-    "last_run": "2026-11-13T20:35:00Z",
-    "last_day": "2026-11-13"
+    "last_run": "2026-11-16T14:35:00Z",
+    "last_day": "2026-11-16"
   },
   "analista": {
     "periods": {
@@ -49,8 +49,8 @@
   "gestor": {
     "result": "rodada feita",
     "ok": true,
-    "last_run": "2026-11-13T20:35:00Z",
-    "last_day": "2026-11-13"
+    "last_run": "2026-11-16T14:35:00Z",
+    "last_day": "2026-11-16"
   },
   "contador": {
     "result": "2 lotes, resultado n\u00e3o realizado $11.34",
