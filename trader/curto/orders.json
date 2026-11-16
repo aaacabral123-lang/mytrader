@@ -3,12 +3,20 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "XLE",
-      "side": "sell",
-      "qty": "3.994768547",
+      "symbol": "XLY",
+      "side": "buy",
+      "notional": "249",
       "type": "market",
       "time_in_force": "day",
-      "why": "curto prazo, sa\u00edda: repique: $62.22 acima da m\u00e9dia de 5 dias ($62.21)"
+      "why": "curto prazo, entrada: RSI(2) 5.2, acima da m\u00e9dia de 200 dias ($115.07)"
+    },
+    {
+      "symbol": "XLB",
+      "side": "buy",
+      "notional": "249",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "curto prazo, entrada: RSI(2) 5.8, acima da m\u00e9dia de 200 dias ($50.94)"
     }
   ]
 }

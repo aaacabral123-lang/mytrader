@@ -79,6 +79,26 @@
       "id": "18eea306-747e-4dd1-b19b-e5878ce97df8",
       "approved_by": "robo (automatic, paper)",
       "why": "curto prazo, sa\u00edda: repique: $62.22 acima da m\u00e9dia de 5 dias ($62.21)"
+    },
+    {
+      "date": "2026-11-16",
+      "at": "2026-11-16T20:05:35Z",
+      "status": "placed",
+      "symbol": "XLY",
+      "side": "buy",
+      "id": "f6f31583-3529-4807-93d4-c557eec03361",
+      "approved_by": "robo (automatic, paper)",
+      "why": "curto prazo, entrada: RSI(2) 5.2, acima da m\u00e9dia de 200 dias ($115.07)"
+    },
+    {
+      "date": "2026-11-16",
+      "at": "2026-11-16T20:05:35Z",
+      "status": "placed",
+      "symbol": "XLB",
+      "side": "buy",
+      "id": "b6597aa5-8833-4ebe-8407-a55aa4a21af5",
+      "approved_by": "robo (automatic, paper)",
+      "why": "curto prazo, entrada: RSI(2) 5.8, acima da m\u00e9dia de 200 dias ($50.94)"
     }
   ]
 }
