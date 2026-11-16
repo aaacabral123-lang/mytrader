@@ -1,22 +1,5 @@
 {
-  "as_of": "2026-11-16T09:35:00Z",
-  "items": [
-    {
-      "id": "rss:e581bee3-45e5-35e3-9793-6f32fc596ad6",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "V",
-      "title": "The Zacks Analyst Blog Highlights Visa, ExxonMobil Holdings and Pfizer",
-      "summary": "Visa, ExxonMobil Holdings and Pfizer are included in this Analyst Blog.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-visa-082600678.html?.tsrc=rss",
-      "time": "2026-11-16T08:26:00+00:00",
-      "touches": [
-        "V",
-        "XOM"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-16T10:05:00Z",
+  "items": [],
   "atencao": []
 }
