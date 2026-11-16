@@ -1,24 +1,5 @@
 {
-  "as_of": "2026-11-16T12:05:00Z",
-  "items": [
-    {
-      "id": "rss:c31dad8d-d40a-332f-a035-b3ca044f0739",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "US Equity Investors to Monitor Anthropic's IPO, Nvidia's Quarterly Results, Fed Chair Kevin Warsh's Policy Lean This Week",
-      "summary": "US equity investors will focus on Anthropic's initial public offering and Nvidia's (NVDA) earnings w",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-investors-monitor-anthropic-113258609.html?.tsrc=rss",
-      "time": "2026-11-16T11:32:58+00:00",
-      "touches": [
-        "HD"
-      ],
-      "tags": [
-        "earnings",
-        "capital"
-      ],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-16T12:35:00Z",
+  "items": [],
   "atencao": []
 }
