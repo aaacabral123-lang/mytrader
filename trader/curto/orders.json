@@ -3,20 +3,12 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "XLY",
+      "symbol": "SPY",
       "side": "buy",
-      "notional": "249",
+      "notional": "248",
       "type": "market",
       "time_in_force": "day",
-      "why": "curto prazo, entrada: RSI(2) 5.2, acima da m\u00e9dia de 200 dias ($115.07)"
-    },
-    {
-      "symbol": "XLB",
-      "side": "buy",
-      "notional": "249",
-      "type": "market",
-      "time_in_force": "day",
-      "why": "curto prazo, entrada: RSI(2) 5.8, acima da m\u00e9dia de 200 dias ($50.94)"
+      "why": "curto prazo, entrada: RSI(2) 9.5, acima da m\u00e9dia de 200 dias ($729.55)"
     }
   ]
 }

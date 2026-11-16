@@ -31,6 +31,18 @@
       "pct": 5
     },
     {
+      "id": "vigia-XLB",
+      "symbol": "XLB",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
+      "id": "vigia-XLY",
+      "symbol": "XLY",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
       "id": "vigia-XOM",
       "symbol": "XOM",
       "type": "pct_move",

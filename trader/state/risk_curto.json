@@ -4,32 +4,21 @@
   "results": [
     {
       "index": 1,
-      "symbol": "XLY",
+      "symbol": "SPY",
       "side": "buy",
-      "amount": "$249",
-      "value_usd": 249.0,
-      "fingerprint": "e4243369f56cf7d8",
-      "verdict": "PASS",
-      "reasons": [],
-      "warnings": []
-    },
-    {
-      "index": 2,
-      "symbol": "XLB",
-      "side": "buy",
-      "amount": "$249",
-      "value_usd": 249.0,
-      "fingerprint": "00999a6a8635146b",
+      "amount": "$248",
+      "value_usd": 248.0,
+      "fingerprint": "4b96afd2221eaed4",
       "verdict": "PASS",
       "reasons": [],
       "warnings": []
     }
   ],
-  "pass": 2,
+  "pass": 1,
   "block": 0,
   "warnings": [],
-  "cash_after": 498.49,
-  "prices_as_of": "2026-11-16T20:05:35Z",
-  "checked_at": "2026-11-16T20:05:35",
+  "cash_after": 250.51,
+  "prices_as_of": "2026-11-16T20:35:36Z",
+  "checked_at": "2026-11-16T20:35:36",
   "orders_file": "trader/curto/orders.json"
 }
