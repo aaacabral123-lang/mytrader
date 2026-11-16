@@ -1,36 +1,5 @@
 {
-  "as_of": "2026-11-16T02:35:00Z",
-  "items": [
-    {
-      "id": "rss:54abe8af-9db7-3a5f-a622-17c5229e0c5a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "V",
-      "title": "Visa And Mastercard Stocks Face A Stablecoin Test Investors Should Watch",
-      "summary": "Stablecoins are moving from crypto corners into boardrooms as banks, SoFi, Visa, Mastercard and major processors race to wire digital dollars directly into everyday payments. That shift could reshape how money flows, where fees land and which listed payment stocks gain or lose influence. This article walks through three stocks from our Digital Payments & Card Networks screener that appear well aligned with this new onchain settlement era. These three payment stocks are just a starting sample,...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/visa-mastercard-stocks-face-stablecoin-020920234.html?.tsrc=rss",
-      "time": "2026-11-16T02:09:20+00:00",
-      "touches": [
-        "V"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:57b7a837-2e41-3301-88e0-f8e46b358103",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "V",
-      "title": "Visa and Samsung Bring Scan to Pay to Mobile Devices Across Asia Pacific with Samsung Wallet",
-      "summary": "Visa, a global leader in digital payments, and Samsung Electronics today announced the launch of Visa Scan to Pay on Samsung Wallet in Asia Pacific, enabling consumers to make secure, seamless QR payments exclusively with their Visa cards on their Galaxy devices at millions of merchants across the region.",
-      "link": "https://finance.yahoo.com/technology/articles/visa-samsung-bring-scan-pay-020000699.html?.tsrc=rss",
-      "time": "2026-11-16T02:00:00+00:00",
-      "touches": [
-        "V"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-16T03:05:00Z",
+  "items": [],
   "atencao": []
 }
