@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-17T23:05:00Z",
-  "items": [],
+  "as_of": "2026-11-17T23:35:00Z",
+  "items": [
+    {
+      "id": "rss:3c4473e7-2521-35bf-ae7c-3d520563fcfc",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "Lowe\u2019s Steps Up to the Plate After Home Depot Defies Housing Slump",
+      "summary": "Of particular importance will be change in same-store sales, which analysts expect to rise roughly 0.1% from the year prior.",
+      "link": "https://finance.yahoo.com/m/3c4473e7-2521-35bf-ae7c-3d520563fcfc/lowe%E2%80%99s-steps-up-to-the-plate.html?.tsrc=rss",
+      "time": "2026-11-17T22:41:00+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
