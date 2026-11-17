@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-17T08:35:00Z",
-  "items": [
-    {
-      "id": "rss:173960c1-c3bd-30ba-b74c-ce193388604e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Safe haven or bubble? Walmart and Costco now trade at 45x\u201353x P/E",
-      "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/safe-haven-bubble-walmart-costco-075714238.html?.tsrc=rss",
-      "time": "2026-11-17T07:57:14+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-17T09:05:00Z",
+  "items": [],
   "atencao": []
 }
