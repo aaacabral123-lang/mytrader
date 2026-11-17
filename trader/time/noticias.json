@@ -1,68 +1,53 @@
 {
-  "as_of": "2026-11-17T17:05:00Z",
+  "as_of": "2026-11-17T17:35:00Z",
   "items": [
     {
-      "id": "rss:59fd642f-f8aa-39c6-87d4-6630a2d615eb",
+      "id": "rss:ef9c12aa-454f-30c6-9473-38f74561a864",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ADBE",
-      "title": "ADBE Stock Alert: Michael Burry Is Buying Adobe Stock",
-      "summary": "Big Short Investor Michael Burry Pulls Back on Oracle and Caterpillar Bets as Options Get Pricey",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/adbe-stock-alert-michael-burry-163615491.html?.tsrc=rss",
-      "time": "2026-11-17T16:36:15+00:00",
+      "ticker": "V",
+      "title": "Learn Why The Bull Case For Visa (V) Could Change Following Asia Pacific QR Payments Launch",
+      "summary": "Recent Visa news spans new AI-driven shopping benchmarks, QR-based Visa Scan to Pay with Samsung Wallet in Asia Pacific, expanded fraud defenses, a higher dividend, and fresh partnerships in expense management, online gaming, and authentication through Visa Payment Passkey. The mix of agentic commerce testing, AI-focused security tools, and QR and gaming tie ups shows Visa pushing deeper into how transactions are initiated, authenticated, and processed across both consumer and business...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-visa-171128732.html?.tsrc=rss",
+      "time": "2026-11-17T17:11:28+00:00",
       "touches": [
-        "ADBE"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:959d802a-b9d6-3843-9aba-a6c70e54cc09",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Walmart Q3 Earnings Preview: What To Expect From Upcoming Report",
-      "summary": "Walmart Earnings Are Coming. Here's How Much the Stock Could Swing",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-q3-earnings-preview-expect-163401489.html?.tsrc=rss",
-      "time": "2026-11-17T16:34:01+00:00",
-      "touches": [
-        "WMT"
+        "V"
       ],
       "tags": [
-        "earnings"
+        "capital"
       ],
       "new": true
     },
     {
-      "id": "rss:3a4616fc-4adb-3d31-8f6f-6be3ee5d8b59",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XOM",
-      "title": "Brent Stuck Near $93 as Hormuz Tanker Attacks Offset Gulf Export Surge",
-      "summary": "Oil is stuck near $93 as Hormuz tanker attacks offset higher Gulf exports, while US shale hedges less for 2027 and Canadian Natural buys Advantage.",
-      "link": "https://finance.yahoo.com/energy/articles/brent-stuck-near-93-hormuz-160000297.html?.tsrc=rss",
-      "time": "2026-11-17T16:00:00+00:00",
-      "touches": [
-        "XOM"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:350f362c-1898-3fb0-9d12-5927e343193c",
+      "id": "rss:4f8b0370-3885-327a-88f3-5f183d5468f9",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "HD",
-      "title": "Home Depot Q3 Earnings Meet Estimates, Sales Beat on Comps Growth",
-      "summary": "HD's Q3 fiscal 2026 earnings meet estimates, while sales beat expectations on comps growth and higher spending per transaction despite margin pressure.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-q3-earnings-meet-154400748.html?.tsrc=rss",
-      "time": "2026-11-17T15:44:00+00:00",
+      "title": "Top Midday Stories: Former Nvidia CEO Huang Reportedly to Appear Before House Panels on Dec. 1; Home Depot Names Richard McPhail CEO",
+      "summary": "All three major US stock indexes were down in late-morning trading Tuesday, as investors gear up for",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-former-nvidia-170434625.html?.tsrc=rss",
+      "time": "2026-11-17T17:04:34+00:00",
       "touches": [
         "HD"
       ],
       "tags": [
-        "earnings"
+        "people"
       ],
+      "new": true
+    },
+    {
+      "id": "rss:cb2b63f7-cd96-3892-8ed8-d55414094b9b",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "V",
+      "title": "AXP Expands Its Lounge Network: Can Premium Benefits Pay Off?",
+      "summary": "American Express is expanding its airport lounge network to attract premium cardholders, and boost fee income and retention, but rising costs pose a challenge.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/axp-expands-lounge-network-premium-162200683.html?.tsrc=rss",
+      "time": "2026-11-17T16:22:00+00:00",
+      "touches": [
+        "V"
+      ],
+      "tags": [],
       "new": true
     }
   ],
