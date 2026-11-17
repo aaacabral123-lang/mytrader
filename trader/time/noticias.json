@@ -1,38 +1,19 @@
 {
-  "as_of": "2026-11-17T15:35:00Z",
+  "as_of": "2026-11-17T16:05:00Z",
   "items": [
     {
-      "id": "rss:a01e4c58-69f9-3aa7-a33b-7e4004dc8861",
+      "id": "rss:2b19a609-df36-34ba-918f-13b2a7fe49aa",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "HD",
-      "title": "Retail Sales & Disney Numbers This Morning, NVIDIA This Afternoon",
-      "summary": "Retail Sales were in line and Disney shares re down on its earnings beat. All eyes and ears will be on NVIDIA's earnings and conference call later today.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/retail-sales-disney-numbers-morning-142500457.html?.tsrc=rss",
-      "time": "2026-11-17T14:25:00+00:00",
+      "ticker": "V",
+      "title": "Visa Report: AI-Enabled Fraud and Third-Party Attacks Are Scaling Worldwide",
+      "summary": "SAN FRANCISCO, November 17, 2026--Fraud is becoming more automated, targeted and global as criminals use AI to exploit weak points across the payments ecosystem and target third-party providers that can provide access to multiple downstream payment organizations, according to the Visa (NYSE: V) Fall 2026 Biannual Threats Report released today during International Fraud Awareness Week.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/visa-report-ai-enabled-fraud-154000642.html?.tsrc=rss",
+      "time": "2026-11-17T15:40:00+00:00",
       "touches": [
-        "HD"
+        "V"
       ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:aa4d32a7-baee-3b46-8a09-39d31a456844",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Walmart's Q3 Earnings on Deck: Is WMT Stock a Buy or Hold?",
-      "summary": "Walmart enters Q3 earnings with strong e-commerce momentum and market share gains, while rising costs and premium valuation support a cautious investment stance.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmarts-q3-earnings-deck-wmt-135600764.html?.tsrc=rss",
-      "time": "2026-11-17T13:56:00+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "earnings"
-      ],
+      "tags": [],
       "new": true
     }
   ],
