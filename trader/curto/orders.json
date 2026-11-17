@@ -3,12 +3,12 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "SPY",
+      "symbol": "DIA",
       "side": "buy",
-      "notional": "248",
+      "notional": "247",
       "type": "market",
       "time_in_force": "day",
-      "why": "curto prazo, entrada: RSI(2) 9.5, acima da m\u00e9dia de 200 dias ($729.55)"
+      "why": "curto prazo, entrada: RSI(2) 3.7, acima da m\u00e9dia de 200 dias ($505.28)"
     }
   ]
 }

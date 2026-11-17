@@ -1,55 +1,5 @@
 {
-  "as_of": "2026-11-17T19:35:00Z",
-  "items": [
-    {
-      "id": "rss:59ad709c-e0ee-3110-9a36-4c0c9d4e24d2",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Dow Jones Discount Retail Giant Walmart Poised To Hit Buy Point With Earnings Due",
-      "summary": "Dow Jones discount retail giant Walmart stock is approaching a new buy point ahead of this week's earnings report.",
-      "link": "https://finance.yahoo.com/m/59ad709c-e0ee-3110-9a36-4c0c9d4e24d2/dow-jones-discount-retail.html?.tsrc=rss",
-      "time": "2026-11-17T19:26:17+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:be47d270-ca93-3269-a95d-d4a386a54882",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Adobe (ADBE) Turns Creative Cloud And Firefly Into AI Studios With New Partnerships",
-      "summary": "Adobe (NasdaqGS: ADBE) announced major AI product rollouts that turn Creative Cloud and Firefly into fully AI-powered studios. The company introduced agentic AI tools across its creative platforms, aiming to automate complex design and content workflows for users. Adobe expanded its AI partnerships with Google and Microsoft, integrating its creative technologies with widely used productivity and cloud platforms. These agentic AI rollouts and big tech partnerships only capture part of what...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-turns-creative-cloud-191007810.html?.tsrc=rss",
-      "time": "2026-11-17T19:10:07+00:00",
-      "touches": [
-        "ADBE"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:e47b0018-5add-3d75-ba2b-7908e059a046",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "Home Depot's Earnings Beat Wasn't Enough for Investors",
-      "summary": "The full-year outlook puts profitability back in focus.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depots-earnings-beat-wasnt-190911350.html?.tsrc=rss",
-      "time": "2026-11-17T19:09:11+00:00",
-      "touches": [
-        "HD"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-17T20:05:00Z",
+  "items": [],
   "atencao": []
 }

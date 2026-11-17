@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "paper": true,
   "results": [
     {
       "index": 1,
-      "symbol": "SPY",
+      "symbol": "DIA",
       "side": "buy",
-      "amount": "$248",
-      "value_usd": 248.0,
-      "fingerprint": "4b96afd2221eaed4",
+      "amount": "$247",
+      "value_usd": 247.0,
+      "fingerprint": "78d0a3b63cdd3d25",
       "verdict": "PASS",
       "reasons": [],
       "warnings": []
@@ -17,8 +17,8 @@
   "pass": 1,
   "block": 0,
   "warnings": [],
-  "cash_after": 250.51,
-  "prices_as_of": "2026-11-16T20:35:36Z",
-  "checked_at": "2026-11-16T20:35:36",
+  "cash_after": 3.52,
+  "prices_as_of": "2026-11-17T20:05:31Z",
+  "checked_at": "2026-11-17T20:05:32",
   "orders_file": "trader/curto/orders.json"
 }

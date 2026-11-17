@@ -109,6 +109,16 @@
       "id": "aeb9d553-16a9-4778-9758-f6f5db00de6d",
       "approved_by": "robo (automatic, paper)",
       "why": "curto prazo, entrada: RSI(2) 9.5, acima da m\u00e9dia de 200 dias ($729.55)"
+    },
+    {
+      "date": "2026-11-17",
+      "at": "2026-11-17T20:05:31Z",
+      "status": "placed",
+      "symbol": "DIA",
+      "side": "buy",
+      "id": "7c62d1ab-30d7-4924-99c4-c59f7231be97",
+      "approved_by": "robo (automatic, paper)",
+      "why": "curto prazo, entrada: RSI(2) 3.7, acima da m\u00e9dia de 200 dias ($505.28)"
     }
   ]
 }
