@@ -1,8 +1,8 @@
 {
   "noticias": {
-    "result": "3 novas de fontes confi\u00e1veis (1 descartadas), 0 comunicados graves, 0 manchetes de aten\u00e7\u00e3o",
+    "result": "2 novas de fontes confi\u00e1veis (4 descartadas), 0 comunicados graves, 0 manchetes de aten\u00e7\u00e3o",
     "ok": true,
-    "last_run": "2026-11-17T12:35:00Z",
+    "last_run": "2026-11-17T13:05:00Z",
     "last_day": "2026-11-17"
   },
   "politicos": {
@@ -40,11 +40,11 @@
     "last_day": "2026-11-17"
   },
   "copiador": {
-    "accession": "0001193125-26-352200",
-    "result": "\u00faltimo 13F da Berkshire: 2026-06-30",
+    "accession": "0001193125-26-463399",
+    "result": "13F novo da Berkshire (2026-09-30)",
     "ok": true,
-    "last_run": "2026-11-16T13:05:00Z",
-    "last_day": "2026-11-16"
+    "last_run": "2026-11-17T13:05:00Z",
+    "last_day": "2026-11-17"
   },
   "gestor": {
     "result": "rodada feita",

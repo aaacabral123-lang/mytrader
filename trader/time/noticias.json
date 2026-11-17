@@ -1,52 +1,37 @@
 {
-  "as_of": "2026-11-17T12:35:00Z",
+  "as_of": "2026-11-17T13:05:00Z",
   "items": [
     {
-      "id": "rss:a68f1112-209a-3f7d-a0ba-4e1b4889c652",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Holiday Shoppers Are Forecast to Put $21.3 Billion on Buy Now, Pay Later",
-      "summary": "Equity Insider News Commentary - Buy now, pay later has become a fixture of holiday checkout, and one of the largest names in the category reports quarterly results before the bell today. Adobe forecasts that U.S. consumers will spend a record $21.3 billion through buy now, pay later during the 2026 holiday season, up 6.6% year over year, as part of a record $275.1 billion in total online spending between November 1 and December 31. Active Companies from around the markets with current developme",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/holiday-shoppers-forecast-put-21-120200458.html?.tsrc=rss",
-      "time": "2026-11-17T12:02:00+00:00",
-      "touches": [
-        "ADBE"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:4417f10e-87b2-34ab-bd80-a72e64ce2aab",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "V",
-      "title": "Coda and Visa partner to deliver seamless and trusted gaming commerce across Southeast Asia",
-      "summary": "Coda, a global leader in digital content monetisation and distribution, today announced a five-year partnership with Visa, a global leader in digital payments, to support the growth of gaming commerce across Southeast Asia.",
-      "link": "https://finance.yahoo.com/technology/articles/coda-visa-partner-deliver-seamless-120200371.html?.tsrc=rss",
-      "time": "2026-11-17T12:02:00+00:00",
-      "touches": [
-        "V"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:ebe7d5a1-3d72-3350-adf2-8461b00048ac",
+      "id": "rss:37e9e59d-2c91-36fd-bd6a-6d28a3982da8",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "HD",
-      "title": "Home Depot (HD) Matches Q3 Earnings Estimates",
-      "summary": "Home Depot (HD) delivered earnings and revenue surprises of 0.00% and +1.59%, respectively, for the quarter ended October 2026. Do the numbers hold clues to what lies ahead for the stock?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-matches-q3-111001740.html?.tsrc=rss",
-      "time": "2026-11-17T11:10:01+00:00",
+      "title": "Premarket movers: Nvidia, Red Cat fall; Home Depot, SpaceX gains",
+      "summary": "Investing.com - U.S. stock index futures fell on Tuesday as investors braced for Nvidia\u2019s quarterly results, looking for fresh evidence that demand for artificial intelligence infrastructure can justify the sector\u2019s lofty expectations. Concerns about slowing data center spending and higher borrowing costs have fueled a broader market selloff in recent weeks, while the sudden departure of Nvidia Chief Executive Jensen Huang has added another layer of uncertainty ahead of the chipmaker\u2019s earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-nvidia-red-cat-124832112.html?.tsrc=rss",
+      "time": "2026-11-17T12:48:32+00:00",
       "touches": [
         "HD"
       ],
       "tags": [
         "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:ceeae1e2-ea33-4f87-ac9d-567ca294cb09",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "Who is new Home Depot CEO Richard McPhail?",
+      "summary": "Home Depot has a new CEO. Here's what we know.",
+      "link": "https://finance.yahoo.com/markets/stocks/article/who-is-new-home-depot-ceo-richard-mcphail-123623601.html?.tsrc=rss",
+      "time": "2026-11-17T12:36:23+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [
+        "people"
       ],
       "new": true
     }
