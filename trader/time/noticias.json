@@ -1,17 +1,17 @@
 {
-  "as_of": "2026-11-17T18:35:00Z",
+  "as_of": "2026-11-17T19:05:00Z",
   "items": [
     {
-      "id": "rss:015fd5ae-b2dd-3727-8ef6-920de2ed4c87",
+      "id": "rss:ca9ad036-b98c-337f-9adc-be18c485fd9e",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents",
-      "summary": "Organizations can observe much of the activity around AI models, but they often cannot reconstruct what happened between a request and an outcome, making it difficult to independently verify model behavior. At Microsoft Ignite on Tuesday, Microsoft Chairman and CEO Satya Nadella announced the next phase of Microsoft's commitment to making AI safer: the AI Transparency Initiative, a collaborative effort with customers and partners to establish a common, open approach to security and governance ac",
-      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-organizations-across-industries-launch-181500607.html?.tsrc=rss",
-      "time": "2026-11-17T18:15:00+00:00",
+      "ticker": "HD",
+      "title": "Home Depot Stocks Fall 2.21% Despite Beat as CFO McPhail Named CEO",
+      "summary": "Third-quarter sales rose 4.9% to $43.4 billion, but the full-year comparable sales outlook sits near 1.4% and margins slipped.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-stocks-fall-2-185813894.html?.tsrc=rss",
+      "time": "2026-11-17T18:58:13+00:00",
       "touches": [
-        "ADBE"
+        "HD"
       ],
       "tags": [
         "people"
@@ -19,31 +19,35 @@
       "new": true
     },
     {
-      "id": "rss:b1998527-ade9-34ce-b9ca-6af970763132",
+      "id": "rss:0c0f0574-43a9-4a18-afca-68b2649f25c0",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ADBE",
-      "title": "WSC Sports Leads BDO's 2026 Analysis of Sports Content Solution Vendors",
-      "summary": "WSC Sports Leads BDO's 2026 Analysis of Sports Content Solution Vendors WSC Sports stands at the top of BDO's positioning map of 30+ vendors, including Adobe, FanDuel and Brightcove, with the widest product range, the most sports covered and the strongest tier-1 customer base. WSC Sports stands at the top of BDO's positioning map of 30+ vendors, including Adobe, FanDuel and Brightcove, with the widest product range, the most sports covered and the strongest tier-1 customer base. New York, Novemb",
-      "link": "https://finance.yahoo.com/media-advertising/articles/wsc-sports-leads-bdos-2026-180200322.html?.tsrc=rss",
-      "time": "2026-11-17T18:02:00+00:00",
+      "ticker": "WMT",
+      "title": "Disney earnings show consumers will still pay up for experiences",
+      "summary": "Siebert Financial chief investment officer Mark Malek and his panel of experts weigh in on how resilient the US consumer looks heading into the holidays, with Disney (DIS) reporting a strong fourth quarter and premium experiential spending, like Viking Cruises (VIK), holding up. Today's panel includes Yahoo Finance's Julie Hyman, Solidarity Wealth CEO Jeff McClean, Roundhill Investments ETF strategist Thomas DiFazio, and Alumni Ventures managing partner Laura Rippy.",
+      "link": "https://finance.yahoo.com/video/disney-earnings-show-consumers-will-still-pay-up-for-experiences-185709384.html?.tsrc=rss",
+      "time": "2026-11-17T18:57:09+00:00",
       "touches": [
-        "ADBE"
+        "WMT"
       ],
-      "tags": [],
+      "tags": [
+        "earnings",
+        "people"
+      ],
       "new": true
     },
     {
-      "id": "rss:8a5e3089-30cc-3bd7-8078-8f0818f08d75",
+      "id": "rss:b117e06c-d1b5-30e2-bcd8-630415b1c783",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "V",
-      "title": "3 Stocks in a Bull Rally Right Now",
-      "summary": "Forget the AI sell-off. These three non-technology stocks are trading near their all-time highs.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-bull-rally-now-172100309.html?.tsrc=rss",
-      "time": "2026-11-17T17:21:00+00:00",
+      "ticker": "HD",
+      "title": "Sector Update: Consumer Stocks Softer in Afternoon Trading",
+      "summary": "Consumer stocks were lower Tuesday afternoon, with the State Street Consumer Staples Select Sector S",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-softer-afternoon-184444371.html?.tsrc=rss",
+      "time": "2026-11-17T18:44:44+00:00",
       "touches": [
-        "V"
+        "HD",
+        "XLY"
       ],
       "tags": [],
       "new": true
