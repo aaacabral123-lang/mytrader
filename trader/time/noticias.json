@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-17T06:05:00Z",
-  "items": [],
+  "as_of": "2026-11-17T06:35:00Z",
+  "items": [
+    {
+      "id": "rss:166e5e75-b575-3afe-83d4-6bb484f29683",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Chart of the Day: Walmart Is a Defensive Giant With Offensive Upside",
+      "summary": "Walmart stock is holding up well as market uncertainty weighs on investor sentiment and risk appetite.",
+      "link": "https://finance.yahoo.com/m/166e5e75-b575-3afe-83d4-6bb484f29683/chart-of-the-day%3A-walmart-is.html?.tsrc=rss",
+      "time": "2026-11-17T05:07:00+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
