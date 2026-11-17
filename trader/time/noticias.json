@@ -1,15 +1,21 @@
 {
-  "as_of": "2026-11-17T11:05:00Z",
+  "as_of": "2026-11-17T11:35:00Z",
   "items": [
     {
-      "id": "rss:898b4124-b38c-3203-a823-0056230c2c54",
-      "source": "Yahoo Finance",
-      "kind": "headline",
+      "id": "sec:0000354950-26-000184",
+      "source": "SEC EDGAR",
+      "kind": "filing",
+      "form": "8-K",
       "ticker": "HD",
-      "title": "The Home Depot Announces Third Quarter Fiscal 2026 Results; Updates Fiscal 2026 Guidance",
-      "summary": "The Home Depot\u00ae, the world's largest home improvement retailer, today reported sales of $43.4 billion for the third quarter of fiscal 2026, an increase of $2.0 billion, or 4.9% from the third quarter of fiscal 2025. Comparable sales for the third quarter of fiscal 2026 increased 2.2%, and comparable sales in the U.S. increased 2.2%.",
-      "link": "https://finance.yahoo.com/news/home-depot-announces-third-quarter-110000708.html?.tsrc=rss",
-      "time": "2026-11-17T11:00:00+00:00",
+      "title": "HOME DEPOT, INC. filed a 8-K: earnings results",
+      "summary": "Current report",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "important": true,
+      "link": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000184/0000354950-26-000184-index.htm",
+      "time": "2026-11-17T11:18:03+00:00",
       "touches": [
         "HD"
       ],
@@ -19,20 +25,229 @@
       "new": true
     },
     {
-      "id": "rss:15917b78-4f42-34a1-a378-1de7ca0fa197",
+      "id": "rss:563734c7-9bfa-4abc-8a9a-291a0cdfaf3d",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "HD",
-      "title": "The Home Depot Names Richard McPhail as CEO, Effective November 23, 2026",
-      "summary": "The Home Depot\u00ae, the world's largest home improvement retailer, today announced that its board of directors has appointed Richard McPhail as chief executive officer and elected him to the company's board, effective November 23, 2026. Ann-Marie Campbell was named president and chief operating officer (COO), and Jordan Broggi was appointed executive vice president (EVP) and chief financial officer (CFO), also effective November 23.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-names-richard-mcphail-104300919.html?.tsrc=rss",
-      "time": "2026-11-17T10:43:00+00:00",
+      "title": "Home Depot taps Richard McPhail as new CEO, reports Q3 earnings beat",
+      "summary": "Current CEO Ted Decker will stay on as board Chair, while CFO Richard McPhail will be named CEO.",
+      "link": "https://finance.yahoo.com/markets/stocks/article/home-depot-taps-richard-mcphail-as-new-ceo-reports-q3-earnings-beat-111428412.html?.tsrc=rss",
+      "time": "2026-11-17T11:08:47+00:00",
       "touches": [
         "HD"
       ],
       "tags": [
+        "earnings",
         "people"
       ],
+      "new": true
+    },
+    {
+      "id": "sec:0000354950-26-000182",
+      "source": "SEC EDGAR",
+      "kind": "filing",
+      "form": "8-K",
+      "ticker": "HD",
+      "title": "HOME DEPOT, INC. filed a 8-K: director or officer change, Regulation FD disclosure",
+      "summary": "Current report",
+      "items": [
+        "5.02",
+        "7.01",
+        "9.01"
+      ],
+      "important": true,
+      "link": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000182/0000354950-26-000182-index.htm",
+      "time": "2026-11-17T11:08:09+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:cb450fd6-eaca-3775-892b-7c45f99c9ee5",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "Home Depot: Fiscal Q3 Earnings Snapshot",
+      "summary": "ATLANTA (AP) \u2014 ATLANTA (AP) \u2014 The Home Depot Inc. (HD) on Tuesday reported fiscal third-quarter net income of $3.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-fiscal-q3-earnings-110634869.html?.tsrc=rss",
+      "time": "2026-11-17T11:06:34+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:8f08ff94-16f1-396c-b465-7c02154be2d1",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "State Street Consumer Discretionary (XLY) Buys $17.8 Million More Amazon on Nov. 13",
+      "summary": "The fund added $78.0 million across all 47 of its positions, with Amazon and Tesla leading the purchases.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-consumer-discretionary-xly-110514145.html?.tsrc=rss",
+      "time": "2026-11-17T11:05:14+00:00",
+      "touches": [
+        "HD",
+        "XLY"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:db0dd161-7e45-3704-8839-80091e5079b8",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "What iShares S&P 500 Value ETF (IVE) Sold: Apple Leads on Nov. 13",
+      "summary": "The fund sold $84.8 million of stock across 429 positions and bought nothing on Friday.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-p-500-value-etf-110506472.html?.tsrc=rss",
+      "time": "2026-11-17T11:05:06+00:00",
+      "touches": [
+        "WMT",
+        "XOM"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:f3584294-949d-3c9e-bb59-fa7fc49c9162",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "iShares Core Dividend Growth (DGRO) Buys $4.2 Million More Apple on Nov. 13",
+      "summary": "The fund added $106.8 million across 377 positions, with Apple, Microsoft, AbbVie, ExxonMobil and Johnson & Johnson leading the buys.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-core-dividend-growth-dgro-110451386.html?.tsrc=rss",
+      "time": "2026-11-17T11:04:51+00:00",
+      "touches": [
+        "XOM"
+      ],
+      "tags": [
+        "capital"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:952dcbe6-2f49-34e4-b090-e024c93d3532",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "SPY",
+      "title": "ETFs Are Buying Chevron (CVX) on Friday",
+      "summary": "ETFs bought $105.5 million of Chevron (CVX) on Friday, Nov. 13.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-chevron-cvx-friday-110158202.html?.tsrc=rss",
+      "time": "2026-11-17T11:01:58+00:00",
+      "touches": [
+        "SPY"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:8e248e39-70ef-3836-9ce2-2fbad9b280fb",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "SPY",
+      "title": "ETFs Bought $111.9 Million of Cisco (CSCO) on Nov. 13",
+      "summary": "ETFs bought $111.9 million of Cisco on Friday, with 55 funds buying and 21 selling.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-111-9-million-110152347.html?.tsrc=rss",
+      "time": "2026-11-17T11:01:52+00:00",
+      "touches": [
+        "SPY"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:9ec70dab-136e-32d8-8632-3dab2ce09782",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "SPY",
+      "title": "Palantir (PLTR) Sees $117.4 Million in Net ETF Buying on Nov. 13",
+      "summary": "ETFs bought $117.4 million in Palantir stock on Friday, Nov. 13.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-sees-117-4-110149586.html?.tsrc=rss",
+      "time": "2026-11-17T11:01:49+00:00",
+      "touches": [
+        "SPY"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:e75888fc-37fb-34fe-9a2a-10c5aa34a369",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "SPY",
+      "title": "41 ETFs Add to Costco (COST) Holdings on Friday",
+      "summary": "ETFs bought $197.3 million of Costco shares, with 41 buyers against 14 sellers.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/41-etfs-add-costco-cost-110125113.html?.tsrc=rss",
+      "time": "2026-11-17T11:01:25+00:00",
+      "touches": [
+        "SPY"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:c45d09aa-c81e-3f5b-a599-b394ab9cd4c4",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "ETFs Bought $242.6 Million of Walmart (WMT) on Nov. 13",
+      "summary": "39 ETFs bought Walmart shares versus 12 that sold last Friday.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-242-6-million-110118012.html?.tsrc=rss",
+      "time": "2026-11-17T11:01:18+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:083136b1-1f31-3b61-a91c-de972d6376e1",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "SPY",
+      "title": "52 ETFs Add to Amazon (AMZN) Holdings on Nov. 13",
+      "summary": "ETFs bought $458.8 million of Amazon stock on Friday, with 52 buyers against 16 sellers.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/52-etfs-add-amazon-amzn-110054561.html?.tsrc=rss",
+      "time": "2026-11-17T11:00:54+00:00",
+      "touches": [
+        "SPY"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:da4e3068-a92f-318d-b217-96686d28a0a0",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "SPY",
+      "title": "ETFs Are Buying Apple (AAPL) on Friday",
+      "summary": "ETFs bought $871.5 million of Apple stock on Friday.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-apple-aapl-friday-110040448.html?.tsrc=rss",
+      "time": "2026-11-17T11:00:40+00:00",
+      "touches": [
+        "SPY"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:b4efac56-4fcf-36f3-81ba-ba60a8a9d6b9",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLY",
+      "title": "Sector Update: Consumer Stocks Mixed Late Afternoon",
+      "summary": "Consumer stocks were mixed late Monday afternoon, with the State Street Consumer Staples Select Sect",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-afternoon-204930753.html?.tsrc=rss",
+      "time": "2026-11-16T20:49:30+00:00",
+      "touches": [
+        "XLY"
+      ],
+      "tags": [],
       "new": true
     }
   ],
