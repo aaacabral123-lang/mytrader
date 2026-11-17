@@ -1,47 +1,17 @@
 {
-  "as_of": "2026-11-17T18:05:00Z",
+  "as_of": "2026-11-17T18:35:00Z",
   "items": [
     {
-      "id": "rss:2dda4da1-eae4-37ad-af65-5cc917ef6f09",
+      "id": "rss:015fd5ae-b2dd-3727-8ef6-920de2ed4c87",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "ADBE",
-      "title": "Michael Burry Makes Bold Bet on Beaten-Down AI Software Stock",
-      "summary": "Michael Burry increased his Adobe stake while exiting Oracle and Caterpillar puts amid AI market volatility.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/michael-burry-makes-bold-bet-174737697.html?.tsrc=rss",
-      "time": "2026-11-17T17:47:37+00:00",
+      "title": "Microsoft and organizations across industries launch AI Transparency Initiative to strengthen enterprise trust in AI models and agents",
+      "summary": "Organizations can observe much of the activity around AI models, but they often cannot reconstruct what happened between a request and an outcome, making it difficult to independently verify model behavior. At Microsoft Ignite on Tuesday, Microsoft Chairman and CEO Satya Nadella announced the next phase of Microsoft's commitment to making AI safer: the AI Transparency Initiative, a collaborative effort with customers and partners to establish a common, open approach to security and governance ac",
+      "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-organizations-across-industries-launch-181500607.html?.tsrc=rss",
+      "time": "2026-11-17T18:15:00+00:00",
       "touches": [
         "ADBE"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:1e785856-d1f6-369e-994b-db1a39bb04aa",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "V",
-      "title": "Visa and Mastercard's 21-Year Fight Could Change What Happens at Checkout",
-      "summary": "Stores could soon get more say at the checkout.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/visa-mastercards-21-fight-could-174503802.html?.tsrc=rss",
-      "time": "2026-11-17T17:45:03+00:00",
-      "touches": [
-        "V"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:1e5ebd1c-5d3f-34fc-8352-2fbaed734064",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "Home Depot Names New CEO Amid Leadership Reshuffle, Narrows Outlook",
-      "summary": "Home Depot (HD) named a new chief executive as part of a management reshuffle Tuesday, while the hom",
-      "link": "https://finance.yahoo.com/real-estate/articles/home-depot-names-ceo-amid-173846708.html?.tsrc=rss",
-      "time": "2026-11-17T17:38:46+00:00",
-      "touches": [
-        "HD"
       ],
       "tags": [
         "people"
@@ -49,31 +19,31 @@
       "new": true
     },
     {
-      "id": "rss:f30200f7-45f0-319e-ba10-e1b334ca6c79",
+      "id": "rss:b1998527-ade9-34ce-b9ca-6af970763132",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "V",
-      "title": "Carma Technology Powers New GoMoneyMiles Commuter Rewards Program",
-      "summary": "SAN BERNARDINO, Calif., November 17, 2026--Carma announces the launch of GoMoneyMiles, a commuter rewards program developed with the San Bernardino County Transportation Authority (SBCTA).",
-      "link": "https://finance.yahoo.com/technology/articles/carma-technology-powers-gomoneymiles-commuter-173000137.html?.tsrc=rss",
-      "time": "2026-11-17T17:30:00+00:00",
+      "ticker": "ADBE",
+      "title": "WSC Sports Leads BDO's 2026 Analysis of Sports Content Solution Vendors",
+      "summary": "WSC Sports Leads BDO's 2026 Analysis of Sports Content Solution Vendors WSC Sports stands at the top of BDO's positioning map of 30+ vendors, including Adobe, FanDuel and Brightcove, with the widest product range, the most sports covered and the strongest tier-1 customer base. WSC Sports stands at the top of BDO's positioning map of 30+ vendors, including Adobe, FanDuel and Brightcove, with the widest product range, the most sports covered and the strongest tier-1 customer base. New York, Novemb",
+      "link": "https://finance.yahoo.com/media-advertising/articles/wsc-sports-leads-bdos-2026-180200322.html?.tsrc=rss",
+      "time": "2026-11-17T18:02:00+00:00",
       "touches": [
-        "V"
+        "ADBE"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:1e5b91b5-b2da-3e49-b47b-5f686f569ba6",
+      "id": "rss:8a5e3089-30cc-3bd7-8078-8f0818f08d75",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Michael Burry Donates Alphabet Shares, Then Buys the Software Stock Wall Street Fears Most",
-      "summary": "Michael Burry is trimming his exposure to Alphabet Inc. (NASDAQ:GOOG) (NASDAQ:GOOGL) while adding to a software stock many investors have written off. GOOGL stock is moving. Get all the latest details here. Burry Donates Appreciated Alphabet Shares In his Monday Substack trading update, the investor said he is moving to donate a good portion of his appreciated Alphabet shares, which he has owned since the COVID period. Burry described the donation as akin to a sell. He said it reflects a less pr",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-donates-alphabet-shares-165323198.html?.tsrc=rss",
-      "time": "2026-11-17T16:53:23+00:00",
+      "ticker": "V",
+      "title": "3 Stocks in a Bull Rally Right Now",
+      "summary": "Forget the AI sell-off. These three non-technology stocks are trading near their all-time highs.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-bull-rally-now-172100309.html?.tsrc=rss",
+      "time": "2026-11-17T17:21:00+00:00",
       "touches": [
-        "ADBE"
+        "V"
       ],
       "tags": [],
       "new": true
