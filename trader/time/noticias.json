@@ -1,32 +1,45 @@
 {
-  "as_of": "2026-11-17T17:35:00Z",
+  "as_of": "2026-11-17T18:05:00Z",
   "items": [
     {
-      "id": "rss:ef9c12aa-454f-30c6-9473-38f74561a864",
+      "id": "rss:2dda4da1-eae4-37ad-af65-5cc917ef6f09",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "V",
-      "title": "Learn Why The Bull Case For Visa (V) Could Change Following Asia Pacific QR Payments Launch",
-      "summary": "Recent Visa news spans new AI-driven shopping benchmarks, QR-based Visa Scan to Pay with Samsung Wallet in Asia Pacific, expanded fraud defenses, a higher dividend, and fresh partnerships in expense management, online gaming, and authentication through Visa Payment Passkey. The mix of agentic commerce testing, AI-focused security tools, and QR and gaming tie ups shows Visa pushing deeper into how transactions are initiated, authenticated, and processed across both consumer and business...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-visa-171128732.html?.tsrc=rss",
-      "time": "2026-11-17T17:11:28+00:00",
+      "ticker": "ADBE",
+      "title": "Michael Burry Makes Bold Bet on Beaten-Down AI Software Stock",
+      "summary": "Michael Burry increased his Adobe stake while exiting Oracle and Caterpillar puts amid AI market volatility.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/michael-burry-makes-bold-bet-174737697.html?.tsrc=rss",
+      "time": "2026-11-17T17:47:37+00:00",
       "touches": [
-        "V"
+        "ADBE"
       ],
-      "tags": [
-        "capital"
-      ],
+      "tags": [],
       "new": true
     },
     {
-      "id": "rss:4f8b0370-3885-327a-88f3-5f183d5468f9",
+      "id": "rss:1e785856-d1f6-369e-994b-db1a39bb04aa",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "V",
+      "title": "Visa and Mastercard's 21-Year Fight Could Change What Happens at Checkout",
+      "summary": "Stores could soon get more say at the checkout.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/visa-mastercards-21-fight-could-174503802.html?.tsrc=rss",
+      "time": "2026-11-17T17:45:03+00:00",
+      "touches": [
+        "V"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:1e5ebd1c-5d3f-34fc-8352-2fbaed734064",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "HD",
-      "title": "Top Midday Stories: Former Nvidia CEO Huang Reportedly to Appear Before House Panels on Dec. 1; Home Depot Names Richard McPhail CEO",
-      "summary": "All three major US stock indexes were down in late-morning trading Tuesday, as investors gear up for",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-former-nvidia-170434625.html?.tsrc=rss",
-      "time": "2026-11-17T17:04:34+00:00",
+      "title": "Home Depot Names New CEO Amid Leadership Reshuffle, Narrows Outlook",
+      "summary": "Home Depot (HD) named a new chief executive as part of a management reshuffle Tuesday, while the hom",
+      "link": "https://finance.yahoo.com/real-estate/articles/home-depot-names-ceo-amid-173846708.html?.tsrc=rss",
+      "time": "2026-11-17T17:38:46+00:00",
       "touches": [
         "HD"
       ],
@@ -36,16 +49,31 @@
       "new": true
     },
     {
-      "id": "rss:cb2b63f7-cd96-3892-8ed8-d55414094b9b",
+      "id": "rss:f30200f7-45f0-319e-ba10-e1b334ca6c79",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "V",
-      "title": "AXP Expands Its Lounge Network: Can Premium Benefits Pay Off?",
-      "summary": "American Express is expanding its airport lounge network to attract premium cardholders, and boost fee income and retention, but rising costs pose a challenge.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/axp-expands-lounge-network-premium-162200683.html?.tsrc=rss",
-      "time": "2026-11-17T16:22:00+00:00",
+      "title": "Carma Technology Powers New GoMoneyMiles Commuter Rewards Program",
+      "summary": "SAN BERNARDINO, Calif., November 17, 2026--Carma announces the launch of GoMoneyMiles, a commuter rewards program developed with the San Bernardino County Transportation Authority (SBCTA).",
+      "link": "https://finance.yahoo.com/technology/articles/carma-technology-powers-gomoneymiles-commuter-173000137.html?.tsrc=rss",
+      "time": "2026-11-17T17:30:00+00:00",
       "touches": [
         "V"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:1e5b91b5-b2da-3e49-b47b-5f686f569ba6",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Michael Burry Donates Alphabet Shares, Then Buys the Software Stock Wall Street Fears Most",
+      "summary": "Michael Burry is trimming his exposure to Alphabet Inc. (NASDAQ:GOOG) (NASDAQ:GOOGL) while adding to a software stock many investors have written off. GOOGL stock is moving. Get all the latest details here. Burry Donates Appreciated Alphabet Shares In his Monday Substack trading update, the investor said he is moving to donate a good portion of his appreciated Alphabet shares, which he has owned since the COVID period. Burry described the donation as akin to a sell. He said it reflects a less pr",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-donates-alphabet-shares-165323198.html?.tsrc=rss",
+      "time": "2026-11-17T16:53:23+00:00",
+      "touches": [
+        "ADBE"
       ],
       "tags": [],
       "new": true
