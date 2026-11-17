@@ -1,5 +1,87 @@
 {
-  "as_of": "2026-11-17T14:05:00Z",
-  "items": [],
+  "as_of": "2026-11-17T14:35:00Z",
+  "items": [
+    {
+      "id": "rss:fb87e84e-214e-3d35-8a3a-327f3a77f0ca",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Michael Burry Still Bearish On Nvidia, AI Trade, Buys These Software Names",
+      "summary": "The \"Big Short\" investor added Adobe and other software names, while keeping his bearish view on Nvidia, Palantir and AI stocks.",
+      "link": "https://finance.yahoo.com/m/fb87e84e-214e-3d35-8a3a-327f3a77f0ca/michael-burry-still-bearish.html?.tsrc=rss",
+      "time": "2026-11-17T14:26:48+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:04a819e4-abe6-3a7c-87fe-786ddb54c23c",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "V",
+      "title": "Sector Update: Financial Stocks Decline Pre-Bell Tuesday",
+      "summary": "Financial stocks were declining pre-bell Tuesday, with the State Street Financial Select Sector SPDR",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-pre-141914668.html?.tsrc=rss",
+      "time": "2026-11-17T14:19:14+00:00",
+      "touches": [
+        "V"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:6b95dbd1-531f-3dd8-bd1c-43c09bb5b084",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "SPY",
+      "title": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Tuesday as Investors Await Nvidia Earnings",
+      "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.1% and the actively tr",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-141622060.html?.tsrc=rss",
+      "time": "2026-11-17T14:16:22+00:00",
+      "touches": [
+        "SPY"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:4093f27e-00d2-328d-a4f2-5b776dbed412",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "5 beaten-down U.S. large caps with fair value upside above 25%",
+      "summary": "Investing.com -- A screen of US large caps (over $10B market cap) filtered for a 1-year price drop of more than 10%, fair value upside above 25%, ROIC above 12%, and projected 3-year revenue CAGR above 5% returned 14 names. These five stood out because the sell-off looks more like sentiment than damaged earnings power. Screener values are snapshots and may lag live prices. Prices are the Nov 16, 2026 closes.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-beaten-down-u-large-140725570.html?.tsrc=rss",
+      "time": "2026-11-17T14:07:25+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:9a9dc8ba-c96c-32c4-9488-9ba292da0482",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "How To Earn $500 A Month From Home Depot Stock Ahead of Q3 Earnings",
+      "summary": "The Home Depot, Inc. will release its third-quarter earnings report before the opening bell on Tuesday, Nov. 17. Analysts expect the retailer to report quarterly earnings of $3.84 per share, up from $3.74 per share a year ago. The consensus...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/earn-500-month-home-depot-130034786.html?.tsrc=rss",
+      "time": "2026-11-17T13:00:34+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    }
+  ],
   "atencao": []
 }

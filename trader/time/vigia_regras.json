@@ -13,6 +13,12 @@
       "pct": 5
     },
     {
+      "id": "vigia-SPY",
+      "symbol": "SPY",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
       "id": "vigia-V",
       "symbol": "V",
       "type": "pct_move",
