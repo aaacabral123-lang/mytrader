@@ -1,17 +1,17 @@
 {
-  "as_of": "2026-11-17T06:35:00Z",
+  "as_of": "2026-11-17T07:05:00Z",
   "items": [
     {
-      "id": "rss:166e5e75-b575-3afe-83d4-6bb484f29683",
+      "id": "rss:6a3d7a4c-8f74-3b40-aa7c-90a7e3e8a79a",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "WMT",
-      "title": "Chart of the Day: Walmart Is a Defensive Giant With Offensive Upside",
-      "summary": "Walmart stock is holding up well as market uncertainty weighs on investor sentiment and risk appetite.",
-      "link": "https://finance.yahoo.com/m/166e5e75-b575-3afe-83d4-6bb484f29683/chart-of-the-day%3A-walmart-is.html?.tsrc=rss",
-      "time": "2026-11-17T05:07:00+00:00",
+      "ticker": "XOM",
+      "title": "ExxonMobil's Uaru Startup Lifts Guyana Oil Capacity to 1.1 Million Bpd",
+      "summary": "ExxonMobil's Uaru Startup Lifts Guyana Oil Capacity to 1.1 Million Bpd",
+      "link": "https://finance.yahoo.com/energy/articles/exxonmobils-uaru-startup-lifts-guyana-064000242.html?.tsrc=rss",
+      "time": "2026-11-17T06:40:00+00:00",
       "touches": [
-        "WMT"
+        "XOM"
       ],
       "tags": [],
       "new": true
