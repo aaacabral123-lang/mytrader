@@ -1,20 +1,36 @@
 {
-  "as_of": "2026-11-17T10:35:00Z",
+  "as_of": "2026-11-17T11:05:00Z",
   "items": [
     {
-      "id": "rss:46b4e1f6-2030-37bc-865a-77316ddf7b6f",
+      "id": "rss:898b4124-b38c-3203-a823-0056230c2c54",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Why HubSpot Stock Is In Focus As Founder Returns And New CFO Joins",
-      "summary": "HubSpot announced a major leadership reshuffle, with co founder Brian Halligan returning as CEO and Adobe executive Karen Burgess set to replace retiring CFO Kate Bueker in February 2027, while Bueker stays on as an adviser through the end of 2027. The leadership reset comes shortly after HubSpot reported US$947.57 million in Q3 2026 revenue, positive net income for both the quarter and year to date, and active share repurchase programs that together highlight a business balancing...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-hubspot-stock-focus-founder-101159167.html?.tsrc=rss",
-      "time": "2026-11-17T10:11:59+00:00",
+      "ticker": "HD",
+      "title": "The Home Depot Announces Third Quarter Fiscal 2026 Results; Updates Fiscal 2026 Guidance",
+      "summary": "The Home Depot\u00ae, the world's largest home improvement retailer, today reported sales of $43.4 billion for the third quarter of fiscal 2026, an increase of $2.0 billion, or 4.9% from the third quarter of fiscal 2025. Comparable sales for the third quarter of fiscal 2026 increased 2.2%, and comparable sales in the U.S. increased 2.2%.",
+      "link": "https://finance.yahoo.com/news/home-depot-announces-third-quarter-110000708.html?.tsrc=rss",
+      "time": "2026-11-17T11:00:00+00:00",
       "touches": [
-        "ADBE"
+        "HD"
       ],
       "tags": [
-        "capital",
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:15917b78-4f42-34a1-a378-1de7ca0fa197",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "The Home Depot Names Richard McPhail as CEO, Effective November 23, 2026",
+      "summary": "The Home Depot\u00ae, the world's largest home improvement retailer, today announced that its board of directors has appointed Richard McPhail as chief executive officer and elected him to the company's board, effective November 23, 2026. Ann-Marie Campbell was named president and chief operating officer (COO), and Jordan Broggi was appointed executive vice president (EVP) and chief financial officer (CFO), also effective November 23.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-names-richard-mcphail-104300919.html?.tsrc=rss",
+      "time": "2026-11-17T10:43:00+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [
         "people"
       ],
       "new": true
