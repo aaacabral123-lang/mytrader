@@ -1,5 +1,41 @@
 {
-  "as_of": "2026-11-17T20:05:00Z",
-  "items": [],
-  "atencao": []
+  "as_of": "2026-11-17T20:35:00Z",
+  "items": [
+    {
+      "id": "rss:308705ba-a5f7-35ad-816c-9d1b6ed2eb8b",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "The Bet Behind ExxonMobil's Rally",
+      "summary": "If ExxonMobil was on your watchlist rather than in your portfolio, the result may feel like a painful miss. Investors who held ExxonMobil over the past year are up 45.6%, including dividends. That outcome now looks simple to admire, but the real puzzle is what could have helped you spot it in advance. Was the key clue the assumption back in November 2025 that its refining-heavy model would keep turning strong margins into durable cash flow? If the move has made ExxonMobil harder to judge,...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bet-behind-exxonmobils-rally-201029387.html?.tsrc=rss",
+      "time": "2026-11-17T20:10:29+00:00",
+      "touches": [
+        "XOM"
+      ],
+      "tags": [
+        "legal"
+      ],
+      "new": true
+    }
+  ],
+  "atencao": [
+    {
+      "id": "rss:308705ba-a5f7-35ad-816c-9d1b6ed2eb8b",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "The Bet Behind ExxonMobil's Rally",
+      "summary": "If ExxonMobil was on your watchlist rather than in your portfolio, the result may feel like a painful miss. Investors who held ExxonMobil over the past year are up 45.6%, including dividends. That outcome now looks simple to admire, but the real puzzle is what could have helped you spot it in advance. Was the key clue the assumption back in November 2025 that its refining-heavy model would keep turning strong margins into durable cash flow? If the move has made ExxonMobil harder to judge,...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bet-behind-exxonmobils-rally-201029387.html?.tsrc=rss",
+      "time": "2026-11-17T20:10:29+00:00",
+      "touches": [
+        "XOM"
+      ],
+      "tags": [
+        "legal"
+      ],
+      "new": true
+    }
+  ]
 }

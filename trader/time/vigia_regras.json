@@ -7,6 +7,12 @@
       "pct": 5
     },
     {
+      "id": "vigia-DIA",
+      "symbol": "DIA",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
       "id": "vigia-HD",
       "symbol": "HD",
       "type": "pct_move",
