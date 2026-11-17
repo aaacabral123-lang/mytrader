@@ -1,51 +1,32 @@
 {
-  "as_of": "2026-11-17T16:35:00Z",
+  "as_of": "2026-11-17T17:05:00Z",
   "items": [
     {
-      "id": "rss:95486e2b-d606-33fd-9dcf-7321f61fde86",
+      "id": "rss:59fd642f-f8aa-39c6-87d4-6630a2d615eb",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "HD",
-      "title": "Home Depot (HD) Names Richard McPhail CEO In Sweeping Leadership Reshuffle",
-      "summary": "Home Depot (NYSE:HD) appointed current CFO Richard McPhail as chief executive officer as Ted Decker steps down after medical leave. Ann-Marie Campbell was named President and chief operating officer, expanding her responsibility across the retailer\u2019s global operations. Jordan Broggi will move into the chief financial officer role, completing a broad leadership reshuffle at the home improvement chain. This leadership overhaul around McPhail, Campbell and Broggi only hints at how Home Depot...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-names-richard-161354798.html?.tsrc=rss",
-      "time": "2026-11-17T16:13:54+00:00",
+      "ticker": "ADBE",
+      "title": "ADBE Stock Alert: Michael Burry Is Buying Adobe Stock",
+      "summary": "Big Short Investor Michael Burry Pulls Back on Oracle and Caterpillar Bets as Options Get Pricey",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adbe-stock-alert-michael-burry-163615491.html?.tsrc=rss",
+      "time": "2026-11-17T16:36:15+00:00",
       "touches": [
-        "HD"
+        "ADBE"
       ],
-      "tags": [
-        "people"
-      ],
+      "tags": [],
       "new": true
     },
     {
-      "id": "rss:d3fa3df8-06d3-3d41-89a2-23c1584f133a",
+      "id": "rss:959d802a-b9d6-3843-9aba-a6c70e54cc09",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "V",
-      "title": "Eli Lilly Caught in Vendor Hack as Extortion Group Threatens to Leak Data on 1.2 Million Patients",
-      "summary": "Lilly found no unauthorized access to its own systems, a person familiar with the matter said. Extortion group n0n claims to hold patient and prescriber data.",
-      "link": "https://finance.yahoo.com/m/d3fa3df8-06d3-3d41-89a2-23c1584f133a/eli-lilly-caught-in-vendor.html?.tsrc=rss",
-      "time": "2026-11-17T16:05:00+00:00",
+      "ticker": "WMT",
+      "title": "Walmart Q3 Earnings Preview: What To Expect From Upcoming Report",
+      "summary": "Walmart Earnings Are Coming. Here's How Much the Stock Could Swing",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-q3-earnings-preview-expect-163401489.html?.tsrc=rss",
+      "time": "2026-11-17T16:34:01+00:00",
       "touches": [
-        "V"
-      ],
-      "tags": [
-        "risk"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:e4a96a28-6256-3554-b772-32fb81394aa4",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "Disney Up on Adjusted EPS Beat; Home Depot Down on Guidance | Stock Movers",
-      "summary": "On this episode of Stock Movers: - Disney (DIS) shares are rising after the media company reported adjusted earnings per share for the fourth quarter that beat the average analyst estimate. - Home Depot (HD) shares are lower despite quarterly earnings beating estimates. It comes after the retailer adjusted its year guidance, which analysts say implies a deceleration for the fourth quarter. - Red Cat Holdings (RCAT) shares sliding after the company said it no longer expects to achieve its full-year revenue target and reported third-quarter results that missed the average analyst estimate on key metrics.",
-      "link": "https://finance.yahoo.com/video/disney-adjusted-eps-beat-home-155400636.html?.tsrc=rss",
-      "time": "2026-11-17T15:54:00+00:00",
-      "touches": [
-        "HD"
+        "WMT"
       ],
       "tags": [
         "earnings"
@@ -53,54 +34,37 @@
       "new": true
     },
     {
-      "id": "rss:68c1f64e-cbf1-33fc-a391-ca6784e14b3b",
+      "id": "rss:3a4616fc-4adb-3d31-8f6f-6be3ee5d8b59",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Retail ETFs in Focus as Countdown to 2026 Black Friday Sales Begins",
-      "summary": "Black Friday 2026 could fuel record retail spending, putting e-commerce giants and retail ETFs in the spotlight as investors seek diversified exposure.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/retail-etfs-focus-countdown-2026-145900387.html?.tsrc=rss",
-      "time": "2026-11-17T14:59:00+00:00",
+      "ticker": "XOM",
+      "title": "Brent Stuck Near $93 as Hormuz Tanker Attacks Offset Gulf Export Surge",
+      "summary": "Oil is stuck near $93 as Hormuz tanker attacks offset higher Gulf exports, while US shale hedges less for 2027 and Canadian Natural buys Advantage.",
+      "link": "https://finance.yahoo.com/energy/articles/brent-stuck-near-93-hormuz-160000297.html?.tsrc=rss",
+      "time": "2026-11-17T16:00:00+00:00",
       "touches": [
-        "ADBE",
-        "WMT"
+        "XOM"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:27bd9144-5c22-3ca2-9ba5-37fa4dd1e6c5",
+      "id": "rss:350f362c-1898-3fb0-9d12-5927e343193c",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "HD",
-      "title": "Home Depot's Best Comp of the Year Arrives With a Thinner Margin",
-      "summary": "The home improvement retailer is converting less of each sales dollar into profit.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depots-best-comp-arrives-145500197.html?.tsrc=rss",
-      "time": "2026-11-17T14:55:00+00:00",
+      "title": "Home Depot Q3 Earnings Meet Estimates, Sales Beat on Comps Growth",
+      "summary": "HD's Q3 fiscal 2026 earnings meet estimates, while sales beat expectations on comps growth and higher spending per transaction despite margin pressure.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-q3-earnings-meet-154400748.html?.tsrc=rss",
+      "time": "2026-11-17T15:44:00+00:00",
       "touches": [
         "HD"
       ],
-      "tags": [],
+      "tags": [
+        "earnings"
+      ],
       "new": true
     }
   ],
-  "atencao": [
-    {
-      "id": "rss:d3fa3df8-06d3-3d41-89a2-23c1584f133a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "V",
-      "title": "Eli Lilly Caught in Vendor Hack as Extortion Group Threatens to Leak Data on 1.2 Million Patients",
-      "summary": "Lilly found no unauthorized access to its own systems, a person familiar with the matter said. Extortion group n0n claims to hold patient and prescriber data.",
-      "link": "https://finance.yahoo.com/m/d3fa3df8-06d3-3d41-89a2-23c1584f133a/eli-lilly-caught-in-vendor.html?.tsrc=rss",
-      "time": "2026-11-17T16:05:00+00:00",
-      "touches": [
-        "V"
-      ],
-      "tags": [
-        "risk"
-      ],
-      "new": true
-    }
-  ]
+  "atencao": []
 }
