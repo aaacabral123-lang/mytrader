@@ -1,54 +1,5 @@
 {
-  "as_of": "2026-11-16T23:35:00Z",
-  "new": [
-    {
-      "doc_id": "20035807",
-      "type": "P",
-      "type_name": "Periodic Transaction Report",
-      "last": "Hill",
-      "first": "James French",
-      "name": "Hon. James French Hill",
-      "district": "AR02",
-      "year": 2026,
-      "filed": "2026-11-13",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035807.pdf"
-    },
-    {
-      "doc_id": "20035786",
-      "type": "P",
-      "type_name": "Periodic Transaction Report",
-      "last": "Peters",
-      "first": "Scott H.",
-      "name": "Hon. Scott H. Peters",
-      "district": "CA50",
-      "year": 2026,
-      "filed": "2026-11-13",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035786.pdf"
-    },
-    {
-      "doc_id": "20035779",
-      "type": "P",
-      "type_name": "Periodic Transaction Report",
-      "last": "DelBene",
-      "first": "Suzan K.",
-      "name": "Hon. Suzan K. DelBene",
-      "district": "WA01",
-      "year": 2026,
-      "filed": "2026-11-13",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035779.pdf"
-    },
-    {
-      "doc_id": "20035757",
-      "type": "P",
-      "type_name": "Periodic Transaction Report",
-      "last": "Jackson",
-      "first": "Jonathan",
-      "name": "Hon. Jonathan Jackson",
-      "district": "IL01",
-      "year": 2026,
-      "filed": "2026-11-13",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035757.pdf"
-    }
-  ],
+  "as_of": "2026-11-17T01:35:00Z",
+  "new": [],
   "hits": []
 }
