@@ -1,19 +1,22 @@
 {
-  "as_of": "2026-11-17T00:05:00Z",
+  "as_of": "2026-11-17T00:35:00Z",
   "items": [
     {
-      "id": "rss:3d2e77c6-922e-3eec-9cb0-72a515628087",
+      "id": "rss:e33a1932-faff-3da4-ae37-dc7111fea39a",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "XOM",
-      "title": "What ExxonMobil Stock's Guyana Expansion Means For Shareholders",
-      "summary": "ExxonMobil Holdings has approved a US$12.5b Longtail development in Guyana and started production at Uaru, its fifth Stabroek block project, adding another large FPSO and around 45 planned subsea wells to an already substantial offshore program. By targeting non associated gas and condensate rich reservoirs with Longtail while Uaru ramps up, ExxonMobil is deepening its low cost offshore portfolio and reinforcing the role of Guyana alongside the Permian as a core engine for future volumes and...",
-      "link": "https://finance.yahoo.com/energy/articles/exxonmobil-stocks-guyana-expansion-means-232026527.html?.tsrc=rss",
-      "time": "2026-11-16T23:20:26+00:00",
+      "ticker": "HD",
+      "title": "Retail Earnings: WMT, TGT, HD Set to Report This Week",
+      "summary": "The Q3 earnings cycle continues to wind down, with this week's reporting docket featuring several retail heavyweights, including Walmart (WMT), Target (TGT), and Home Depot (HD).",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/retail-earnings-wmt-tgt-hd-230000690.html?.tsrc=rss",
+      "time": "2026-11-16T23:00:00+00:00",
       "touches": [
-        "XOM"
+        "HD",
+        "WMT"
       ],
-      "tags": [],
+      "tags": [
+        "earnings"
+      ],
       "new": true
     }
   ],
