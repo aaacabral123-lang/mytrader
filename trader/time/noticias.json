@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-17T07:35:00Z",
-  "items": [],
+  "as_of": "2026-11-17T08:05:00Z",
+  "items": [
+    {
+      "id": "rss:f52b123e-e4a7-388c-98bd-eb472c37c79f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Zacks Investment Ideas feature highlights: Target and Walmart",
+      "summary": "Target and Walmart have been highlighted in this Investment Ideas article.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-065600463.html?.tsrc=rss",
+      "time": "2026-11-17T06:56:00+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
