@@ -1,24 +1,5 @@
 {
-  "as_of": "2026-11-17T00:35:00Z",
-  "items": [
-    {
-      "id": "rss:e33a1932-faff-3da4-ae37-dc7111fea39a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "Retail Earnings: WMT, TGT, HD Set to Report This Week",
-      "summary": "The Q3 earnings cycle continues to wind down, with this week's reporting docket featuring several retail heavyweights, including Walmart (WMT), Target (TGT), and Home Depot (HD).",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/retail-earnings-wmt-tgt-hd-230000690.html?.tsrc=rss",
-      "time": "2026-11-16T23:00:00+00:00",
-      "touches": [
-        "HD",
-        "WMT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-17T01:05:00Z",
+  "items": [],
   "atencao": []
 }
