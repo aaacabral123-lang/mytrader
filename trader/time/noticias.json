@@ -1,52 +1,52 @@
 {
-  "as_of": "2026-11-17T12:05:00Z",
+  "as_of": "2026-11-17T12:35:00Z",
   "items": [
     {
-      "id": "rss:2393f92a-a5d7-384b-8c3c-bf07af847821",
+      "id": "rss:a68f1112-209a-3f7d-a0ba-4e1b4889c652",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "HD",
-      "title": "Home Depot Stock Slips as Shoppers Spend More per Trip but Visit Less",
-      "summary": "Comparable sales rose 2.2% as a higher average ticket offset fewer transactions",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-stock-slips-shoppers-115618617.html?.tsrc=rss",
-      "time": "2026-11-17T11:56:18+00:00",
+      "ticker": "ADBE",
+      "title": "Holiday Shoppers Are Forecast to Put $21.3 Billion on Buy Now, Pay Later",
+      "summary": "Equity Insider News Commentary - Buy now, pay later has become a fixture of holiday checkout, and one of the largest names in the category reports quarterly results before the bell today. Adobe forecasts that U.S. consumers will spend a record $21.3 billion through buy now, pay later during the 2026 holiday season, up 6.6% year over year, as part of a record $275.1 billion in total online spending between November 1 and December 31. Active Companies from around the markets with current developme",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/holiday-shoppers-forecast-put-21-120200458.html?.tsrc=rss",
+      "time": "2026-11-17T12:02:00+00:00",
       "touches": [
-        "HD"
+        "ADBE"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:4417f10e-87b2-34ab-bd80-a72e64ce2aab",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "V",
+      "title": "Coda and Visa partner to deliver seamless and trusted gaming commerce across Southeast Asia",
+      "summary": "Coda, a global leader in digital content monetisation and distribution, today announced a five-year partnership with Visa, a global leader in digital payments, to support the growth of gaming commerce across Southeast Asia.",
+      "link": "https://finance.yahoo.com/technology/articles/coda-visa-partner-deliver-seamless-120200371.html?.tsrc=rss",
+      "time": "2026-11-17T12:02:00+00:00",
+      "touches": [
+        "V"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:56515aeb-6454-3ffb-a331-a5c8fbb70881",
+      "id": "rss:ebe7d5a1-3d72-3350-adf2-8461b00048ac",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "HD",
-      "title": "Home Depot Names New CEO, Raises Sales Outlook",
-      "summary": "Home Depot appointed Chief Financial Officer Richard McPhail as CEO, effective Nov. 23.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-names-ceo-raises-114849993.html?.tsrc=rss",
-      "time": "2026-11-17T11:48:49+00:00",
+      "title": "Home Depot (HD) Matches Q3 Earnings Estimates",
+      "summary": "Home Depot (HD) delivered earnings and revenue surprises of 0.00% and +1.59%, respectively, for the quarter ended October 2026. Do the numbers hold clues to what lies ahead for the stock?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-matches-q3-111001740.html?.tsrc=rss",
+      "time": "2026-11-17T11:10:01+00:00",
       "touches": [
         "HD"
       ],
       "tags": [
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:e1650135-ff9c-3637-95b4-fd306787b4d8",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "Home Depot names\u00a0CFO McPhail as next CEO, lifts sales outlook",
-      "summary": "Investing.com -- Home Depot named finance chief Richard McPhail as its next chief executive and updated its fiscal 2026 outlook on Tuesday.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-names-cfo-mcphail-113925304.html?.tsrc=rss",
-      "time": "2026-11-17T11:39:25+00:00",
-      "touches": [
-        "HD"
-      ],
-      "tags": [
-        "people"
+        "earnings"
       ],
       "new": true
     }
