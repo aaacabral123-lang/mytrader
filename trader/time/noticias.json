@@ -1,23 +1,5 @@
 {
-  "as_of": "2026-11-17T21:35:00Z",
-  "items": [
-    {
-      "id": "rss:58c4d3ac-4623-368b-b396-fed058796c95",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "The Home Depot Inc (HD) (Q3 2026) Earnings Call Highlights: Sales Up 4.9% to $43. ...",
-      "summary": "The Home Depot Inc (HD) posts its highest comp growth in four years despite a frozen housing market, though gross margin pressure and a lowered SRS outlook temper the otherwise strong quarter.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-inc-hd-q3-210118237.html?.tsrc=rss",
-      "time": "2026-11-17T21:01:18+00:00",
-      "touches": [
-        "HD"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-17T22:05:00Z",
+  "items": [],
   "atencao": []
 }
