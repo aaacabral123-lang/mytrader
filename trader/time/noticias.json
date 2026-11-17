@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-17T03:05:00Z",
-  "items": [],
+  "as_of": "2026-11-17T03:35:00Z",
+  "items": [
+    {
+      "id": "rss:b757c3fe-3c7c-34b8-a0d9-8dc7b33b55e8",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "V",
+      "title": "UQPAY Deploys Visa Payment Passkey, Advancing the Next Generation of Agentic Payment Experience",
+      "summary": "UQPAY has announced the production deployment of Visa Payment Passkey, becoming one of the earlier issuers in Asia Pacific to bring this capability into a live environment. It marks another step forward in UQPAY's work on payment security, user experience, and the foundations of intelligent commerce.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/uqpay-deploys-visa-payment-passkey-032700656.html?.tsrc=rss",
+      "time": "2026-11-17T03:27:00+00:00",
+      "touches": [
+        "V"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
