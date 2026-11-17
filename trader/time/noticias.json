@@ -1,15 +1,15 @@
 {
-  "as_of": "2026-11-17T15:05:00Z",
+  "as_of": "2026-11-17T15:35:00Z",
   "items": [
     {
-      "id": "rss:7171b12f-d690-4739-b8d4-cb45906aca7f",
+      "id": "rss:a01e4c58-69f9-3aa7-a33b-7e4004dc8861",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "HD",
-      "title": "Stocks slip ahead of Nvidia earnings, Home Depot shares slide: AlphaCheck",
-      "summary": "Stocks slipped on Tuesday ahead of Nvidia's quarterly results.",
-      "link": "https://finance.yahoo.com/markets/article/copy-copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-145755423.html?.tsrc=rss",
-      "time": "2026-11-17T14:57:55+00:00",
+      "title": "Retail Sales & Disney Numbers This Morning, NVIDIA This Afternoon",
+      "summary": "Retail Sales were in line and Disney shares re down on its earnings beat. All eyes and ears will be on NVIDIA's earnings and conference call later today.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/retail-sales-disney-numbers-morning-142500457.html?.tsrc=rss",
+      "time": "2026-11-17T14:25:00+00:00",
       "touches": [
         "HD"
       ],
@@ -19,120 +19,20 @@
       "new": true
     },
     {
-      "id": "rss:2468d77b-9225-3a39-9fef-e28a153a40d2",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "Which retail stocks are best positioned ahead of earnings this week?",
-      "summary": "Investing.com -- Six retailers still report this week, per the earnings calendar: Lowe\u2019s (LOW), TJX (TJX) and Target (TGT) on Nov 18 pre-market, then Walmart (WMT) pre-market and PDD Holdings (PDD) on Nov 19. Ross Stores (ROST) reports after the close on Nov 19. Home Depot (HD) already reported this morning, so it is excluded. The calendar was filtered to high- and medium-importance names, so smaller retailers may be missing.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/retail-stocks-best-positioned-ahead-144942706.html?.tsrc=rss",
-      "time": "2026-11-17T14:49:42+00:00",
-      "touches": [
-        "HD",
-        "WMT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:6226ba3b-dee9-44ea-aa16-d147f472c1bc",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "Home Depot CFO Richard McPhail to become retailer's next CEO",
-      "summary": "Home Depot (HD) announces that CFO Richard McPhail will step up to become the next CEO, replacing Ted Decker, effective November 23. Decker will serve in a new role as the company's chair. The 8:30 Hosts Jake Conley, Julie Hyman, and Pras Subramanian discuss the significance of this headline reported alongside Home Depot's third quarter earnings results.",
-      "link": "https://finance.yahoo.com/video/home-depot-cfo-richard-mcphail-to-become-retailers-next-ceo-144632964.html?.tsrc=rss",
-      "time": "2026-11-17T14:46:32+00:00",
-      "touches": [
-        "HD"
-      ],
-      "tags": [
-        "earnings",
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:f79b6b12-b4c1-3d84-804e-f4d49ecada9f",
+      "id": "rss:aa4d32a7-baee-3b46-8a09-39d31a456844",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "WMT",
-      "title": "Cisco upgraded, PepsiCo downgraded: Wall Street's top analyst calls",
-      "summary": "Cisco upgraded, PepsiCo downgraded: Wall Street's top analyst calls",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cisco-upgraded-doximity-downgraded-wall-134558910.html?.tsrc=rss",
-      "time": "2026-11-17T14:34:55+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "analyst"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:5e57862c-9d0b-3332-bfd9-78efcfd37fbc",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "Help Open a Door for a Young Person This Holiday Season: The Home Depot Canada Foundation's Orange Door Project Campaign Is Back",
-      "summary": "More than 35,000 young people in Canada are experiencing homelessness. This holiday season, The Home Depot Canada Foundation is asking Canadians to help create new pathways for youth through its annual Orange Door Project holiday campaign. 100% of funds raised stay in the community where they are donated, and every donation made on Giving Tuesday, December 1, will be matched.",
-      "link": "https://finance.yahoo.com/small-business/articles/help-open-door-young-person-143000948.html?.tsrc=rss",
-      "time": "2026-11-17T14:30:00+00:00",
-      "touches": [
-        "HD"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:f84f6b5e-5050-35b1-8393-832372ab5e91",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Is BJ's Wholesale Ready to Surprise the Street This Earnings Season?",
-      "summary": "BJ's Wholesale gears up for Q3 earnings with strong membership growth, digital momentum and club expansion. Can these strengths fuel another earnings beat?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bjs-wholesale-ready-surprise-street-133900761.html?.tsrc=rss",
-      "time": "2026-11-17T13:39:00+00:00",
+      "title": "Walmart's Q3 Earnings on Deck: Is WMT Stock a Buy or Hold?",
+      "summary": "Walmart enters Q3 earnings with strong e-commerce momentum and market share gains, while rising costs and premium valuation support a cautious investment stance.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmarts-q3-earnings-deck-wmt-135600764.html?.tsrc=rss",
+      "time": "2026-11-17T13:56:00+00:00",
       "touches": [
         "WMT"
       ],
       "tags": [
         "earnings"
       ],
-      "new": true
-    },
-    {
-      "id": "rss:7240daab-a82f-34ed-9abb-06244df309a6",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "Home Depot (HD) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
-      "summary": "Although the revenue and EPS for Home Depot (HD) give a sense of how its business performed in the quarter ended October 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-q3-earnings-133003094.html?.tsrc=rss",
-      "time": "2026-11-17T13:30:03+00:00",
-      "touches": [
-        "HD"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:9102e8fa-846e-394f-b414-e71f63f266dc",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Wall Street Analysts See Walmart (WMT) as a Buy: Should You Invest?",
-      "summary": "Based on the average brokerage recommendation (ABR), Walmart (WMT) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric. So, is the stock worth buying?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-walmart-133003972.html?.tsrc=rss",
-      "time": "2026-11-17T13:30:03+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
       "new": true
     }
   ],
