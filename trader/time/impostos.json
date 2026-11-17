@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-16T21:35:00Z",
+  "as_of": "2026-11-17T21:35:00Z",
   "report": {
     "lots": [
       {
@@ -8,9 +8,9 @@
         "date": "2026-10-28",
         "shares": 2.7337e-05,
         "cost": 0.01,
-        "price": 245.42,
+        "price": 235.135,
         "value": 0.01,
-        "gain": 0.0,
+        "gain": -0.0,
         "term": "short",
         "long_term_on": "2027-10-29"
       },
@@ -20,9 +20,9 @@
         "date": "2026-11-10",
         "shares": 2.97608681,
         "cost": 2047.7,
-        "price": 679.4034,
-        "value": 2021.96,
-        "gain": -25.73,
+        "price": 671.425,
+        "value": 1998.22,
+        "gain": -49.48,
         "term": "short",
         "long_term_on": "2027-11-11"
       }
@@ -33,20 +33,20 @@
         "shares": 2.7337e-05,
         "cost": 0.01,
         "value": 0.01,
-        "short": 0.0,
+        "short": -0.0,
         "long": 0.0,
-        "gain": 0.0,
+        "gain": -0.0,
         "pct": 0.0
       },
       {
         "ticker": "VOO",
         "shares": 2.97608681,
         "cost": 2047.7,
-        "value": 2021.96,
-        "short": -25.73,
+        "value": 1998.22,
+        "short": -49.48,
         "long": 0.0,
-        "gain": -25.73,
-        "pct": -1.26
+        "gain": -49.48,
+        "pct": -2.42
       }
     ],
     "missing_prices": [],

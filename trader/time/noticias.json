@@ -1,37 +1,21 @@
 {
-  "as_of": "2026-11-17T21:05:00Z",
+  "as_of": "2026-11-17T21:35:00Z",
   "items": [
     {
-      "id": "rss:8743791a-f4db-3d63-bfd9-a72b6f1d9a3b",
+      "id": "rss:58c4d3ac-4623-368b-b396-fed058796c95",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "HD",
-      "title": "Home Depot earnings analysis: questions answered and next catalysts",
-      "summary": "Investing.com -- Home Depot Inc (HD) beat on Nov 17, 2026, but only narrowly. Adjusted EPS was $3.86 vs $3.84 expected (+0.5%). Revenue was $43.4B vs $42.81B, up 4.9% year over year. The stock still trades at $338.99 (-2.45%) as of Nov 17, 3:18 PM EST. Investors were reading the guidance, not the headline.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-earnings-analysis-questions-205114963.html?.tsrc=rss",
-      "time": "2026-11-17T20:51:14+00:00",
+      "title": "The Home Depot Inc (HD) (Q3 2026) Earnings Call Highlights: Sales Up 4.9% to $43. ...",
+      "summary": "The Home Depot Inc (HD) posts its highest comp growth in four years despite a frozen housing market, though gross margin pressure and a lowered SRS outlook temper the otherwise strong quarter.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-inc-hd-q3-210118237.html?.tsrc=rss",
+      "time": "2026-11-17T21:01:18+00:00",
       "touches": [
         "HD"
       ],
       "tags": [
         "earnings"
       ],
-      "new": true
-    },
-    {
-      "id": "rss:b8fbc319-3079-33bb-a01c-76bf35d9149d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "Sector Update: Consumer Stocks Decline Late Afternoon",
-      "summary": "Consumer stocks were lower late Tuesday afternoon, with the State Street Consumer Staples Select Sec",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-decline-afternoon-204309541.html?.tsrc=rss",
-      "time": "2026-11-17T20:43:09+00:00",
-      "touches": [
-        "HD",
-        "XLY"
-      ],
-      "tags": [],
       "new": true
     }
   ],
