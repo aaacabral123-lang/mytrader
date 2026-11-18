@@ -1,17 +1,17 @@
 {
-  "as_of": "2026-11-18T14:35:00Z",
+  "as_of": "2026-11-18T15:05:00Z",
   "items": [
     {
-      "id": "rss:995a366c-f509-3911-b02e-5c43259e5018",
+      "id": "rss:aa19957b-b384-4c7d-a843-c3ef0c548a03",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "SPY",
-      "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Wednesday Amid Nvidia Earnings, Upcoming Fed Meeting Minutes",
-      "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.4% and the actively trad",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-140832688.html?.tsrc=rss",
-      "time": "2026-11-18T14:08:32+00:00",
+      "ticker": "WMT",
+      "title": "Walmart earnings expected to show market share gains as US customers remain under pressure",
+      "summary": "The retail giant will give Wall Street key insight ahead of the holiday shopping season.",
+      "link": "https://finance.yahoo.com/markets/stocks/article/walmart-earnings-expected-to-show-market-share-gains-as-us-customers-remain-under-pressure-150000395.html?.tsrc=rss",
+      "time": "2026-11-18T15:00:00+00:00",
       "touches": [
-        "SPY"
+        "WMT"
       ],
       "tags": [
         "earnings"
@@ -19,20 +19,69 @@
       "new": true
     },
     {
-      "id": "rss:ab965049-3ba1-3a4c-82d8-a9e03e85519a",
+      "id": "rss:90b8fbc9-26ca-4aac-901c-b0e39a09a75d",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "V",
-      "title": "Sezzle Anywhere Launches in Canada, Bringing BNPL Everywhere Visa Is Accepted",
-      "summary": "The new offering dramatically expands Canada's most popular Buy Now, Pay Later option online or in-store.Toronto, Canada, Nov. 18, 2026 (GLOBE NEWSWIRE) -- Sezzle, the most popular Buy Now, Pay Later (BNPL) solution in Canada, today announced the Canadian launch of Sezzle Anywhere\u2021, a monthly subscription that gives shoppers a multi-use Sezzle Virtual Card that can be used anywhere Visa is accepted, online or in-store, including tap to pay with Apple Pay and Google Pay. Sezzle Anywhere is the fi",
-      "link": "https://finance.yahoo.com/small-business/articles/sezzle-anywhere-launches-canada-bringing-140000922.html?.tsrc=rss",
-      "time": "2026-11-18T14:00:00+00:00",
+      "ticker": "HD",
+      "title": "California bans Waymo on freeways, Lowe's & TJX earnings: Stories to watch",
+      "summary": "\"The 8:30\" hosts Julie Hyman, Pras Subramanian, and Jake Conley go over a few stories to watch on Wednesday: Lowe's (LOW) lifting its revenue forecast, TJX (TJX) earnings results, and California temporarily banning Waymo (GOOG, GOOGL) on freeways due to safety concerns.",
+      "link": "https://finance.yahoo.com/video/california-bans-waymo-on-freeways-lowes--tjx-earnings-stories-to-watch-145236149.html?.tsrc=rss",
+      "time": "2026-11-18T14:52:36+00:00",
       "touches": [
-        "V"
+        "HD"
       ],
       "tags": [
-        "capital"
+        "earnings"
       ],
+      "new": true
+    },
+    {
+      "id": "rss:936e0fbf-d9ed-4180-835b-dd4e914d03bf",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Target's turnaround is finally gaining steam: A closer look at Q3 earnings",
+      "summary": "\"The 8:30\" hosts Julie Hyman, Pras Subramanian, and Jake Conley take a closer look at Target's (TGT) impressive third quarter earnings results.",
+      "link": "https://finance.yahoo.com/video/targets-turnaround-is-finally-gaining-steam-a-closer-look-at-q3-earnings-143115047.html?.tsrc=rss",
+      "time": "2026-11-18T14:31:15+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:86261574-ba91-3c4d-95eb-7c015b9193a2",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Walmart or Dollar General: Which Stock Should Investors Favor?",
+      "summary": "Walmart and Dollar General are strengthening their value-retail positions, with growth strategies, earnings trends and valuations shaping their investment appeal.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-dollar-general-stock-investors-134000586.html?.tsrc=rss",
+      "time": "2026-11-18T13:40:00+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:5743726a-2519-30ea-b738-06b2cd473ab4",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "Lowe's Beat Comes With a Refund Inside It",
+      "summary": "The beat was real on the top line. On the bottom line, it was largely a refund check.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lowes-beat-comes-refund-inside-133500740.html?.tsrc=rss",
+      "time": "2026-11-18T13:35:00+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [],
       "new": true
     }
   ],
