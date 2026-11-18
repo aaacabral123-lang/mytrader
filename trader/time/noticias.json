@@ -1,19 +1,21 @@
 {
-  "as_of": "2026-11-17T23:35:00Z",
+  "as_of": "2026-11-18T00:05:00Z",
   "items": [
     {
-      "id": "rss:3c4473e7-2521-35bf-ae7c-3d520563fcfc",
+      "id": "rss:127cbc46-de0d-3847-b994-2fa0387af23a",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "HD",
-      "title": "Lowe\u2019s Steps Up to the Plate After Home Depot Defies Housing Slump",
-      "summary": "Of particular importance will be change in same-store sales, which analysts expect to rise roughly 0.1% from the year prior.",
-      "link": "https://finance.yahoo.com/m/3c4473e7-2521-35bf-ae7c-3d520563fcfc/lowe%E2%80%99s-steps-up-to-the-plate.html?.tsrc=rss",
-      "time": "2026-11-17T22:41:00+00:00",
+      "ticker": "WMT",
+      "title": "5 Top Earnings Charts to Watch This Week",
+      "summary": "Will Walmart and the other retailers save the market?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/5-top-earnings-charts-watch-223600810.html?.tsrc=rss",
+      "time": "2026-11-17T22:36:00+00:00",
       "touches": [
-        "HD"
+        "WMT"
       ],
-      "tags": [],
+      "tags": [
+        "earnings"
+      ],
       "new": true
     }
   ],
