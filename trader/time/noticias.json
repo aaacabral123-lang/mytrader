@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-18T10:05:00Z",
-  "items": [
-    {
-      "id": "rss:a4e0b2a3-ec7b-3cf7-be30-91c9487962bc",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "V",
-      "title": "Lianlian DigiTech and Visa Advance Trusted B2B Agentic Commerce for Small and Medium-Sized Businesses",
-      "summary": "Lianlian DigiTech (HKEX: 2598) and Visa (NYSE: V), a global leader in digital payments, today announced the next phase of their collaboration to advance trusted B2B agentic commerce. The companies have completed their first live transaction in Asia Pacific through Visa Intelligent Commerce Connect,[ii] using a tokenised payment credential designed specifically for an authorised AI agent. Also unveiled at the Singapore Fintech Festival, Lianlian DigiTech is also launching LianLian XCard, powered",
-      "link": "https://finance.yahoo.com/small-business/articles/lianlian-digitech-visa-advance-trusted-093500388.html?.tsrc=rss",
-      "time": "2026-11-18T09:35:00+00:00",
-      "touches": [
-        "V"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-18T10:35:00Z",
+  "items": [],
   "atencao": []
 }
