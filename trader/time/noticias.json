@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-18T07:35:00Z",
-  "items": [
-    {
-      "id": "rss:bbffd4c5-07fd-391d-8dbb-cfb009b1e8bf",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Goldman trades at 13x P/E\u2014so why did these AI models pass on it?",
-      "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-trades-13x-p-e-072349007.html?.tsrc=rss",
-      "time": "2026-11-18T07:23:49+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-18T08:05:00Z",
+  "items": [],
   "atencao": []
 }
