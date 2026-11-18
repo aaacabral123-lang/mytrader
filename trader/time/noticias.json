@@ -1,5 +1,56 @@
 {
-  "as_of": "2026-11-18T19:05:00Z",
-  "items": [],
+  "as_of": "2026-11-18T20:05:00Z",
+  "items": [
+    {
+      "id": "rss:69f47178-4174-316b-9264-e6ea4d1af27f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "Home Depot Stocks Fall 2.45% as Finance Chief Richard McPhail Is Named CEO",
+      "summary": "Third-quarter sales rose 4.9% to $43.4 billion, but full-year adjusted EPS growth is guided to only about 2%.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-stocks-fall-2-194356751.html?.tsrc=rss",
+      "time": "2026-11-18T19:43:56+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [
+        "earnings",
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:fe521d14-906a-3199-90bc-185dc8207e8a",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "Home Depot Poised to Accelerate Market Share Gains, Could Mull Price Hikes, BofA Says",
+      "summary": "Home Depot (HD) is well placed to accelerate market share gains and could evaluate potential price i",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-poised-accelerate-market-191737442.html?.tsrc=rss",
+      "time": "2026-11-18T19:17:37+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:b51bb8f2-b293-3bb6-96f2-f17b49d0fe1e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Discount Retailer Stock Tops S&P 500 on Strong Holiday Outlook",
+      "summary": "Investors may be able to cross strong strong retail earnings off their wishlist.",
+      "link": "https://finance.yahoo.com/m/b51bb8f2-b293-3bb6-96f2-f17b49d0fe1e/discount-retailer-stock-tops.html?.tsrc=rss",
+      "time": "2026-11-18T18:36:07+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    }
+  ],
   "atencao": []
 }

@@ -4,11 +4,11 @@
   "results": [
     {
       "index": 1,
-      "symbol": "V",
-      "side": "sell",
-      "amount": "0.708094736 shares",
-      "value_usd": 293.55,
-      "fingerprint": "179cb706a5a7a37b",
+      "symbol": "FDX",
+      "side": "buy",
+      "amount": "$293",
+      "value_usd": 293.0,
+      "fingerprint": "571dd2e51acd57b6",
       "verdict": "PASS",
       "reasons": [],
       "warnings": []
@@ -17,8 +17,8 @@
   "pass": 1,
   "block": 0,
   "warnings": [],
-  "cash_after": 293.6,
-  "prices_as_of": "2026-11-18T15:35:17Z",
-  "checked_at": "2026-11-18T15:35:17",
+  "cash_after": 0.59,
+  "prices_as_of": "2026-11-18T20:05:34Z",
+  "checked_at": "2026-11-18T20:05:37",
   "orders_file": "trader/pares/orders.json"
 }

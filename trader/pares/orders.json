@@ -3,12 +3,12 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "V",
-      "side": "sell",
-      "qty": "0.708094736",
+      "symbol": "FDX",
+      "side": "buy",
+      "notional": "293",
       "type": "market",
       "time_in_force": "day",
-      "why": "pares, sa\u00edda: a dist\u00e2ncia de V/MA voltou ao normal (z 0.03)"
+      "why": "pares, entrada: FDX ficou para tr\u00e1s de UPS (z 1.73, correla\u00e7\u00e3o 0.67)"
     }
   ]
 }
