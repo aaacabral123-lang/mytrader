@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-18T10:35:00Z",
-  "items": [],
+  "as_of": "2026-11-18T11:05:00Z",
+  "items": [
+    {
+      "id": "rss:a0eee366-5a63-3163-a1c0-230ddc9a6a95",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "Zacks Investment Ideas feature highlights: Home Depot and Lowe's",
+      "summary": "Home Depot and Lowe's have been highlighted in this Investment Ideas article.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-093700469.html?.tsrc=rss",
+      "time": "2026-11-18T09:37:00+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
