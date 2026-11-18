@@ -1,38 +1,5 @@
 {
-  "as_of": "2026-11-18T22:05:00Z",
-  "items": [
-    {
-      "id": "rss:107e5a2c-4fba-3df3-b2fd-5d1160e65516",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Dow Jones Futures: Anthropic IPO Prices High, Palo Alto, Everpure Jump After Market Mixed On Nvidia, Target, UnitedHealth, Fed 'Shock'",
-      "summary": "The stock market was mixed as UnitedHealth dived and Nvidia fell. The Anthropic IPO priced high. Palo Alto, Everpure leaped.",
-      "link": "https://finance.yahoo.com/m/107e5a2c-4fba-3df3-b2fd-5d1160e65516/dow-jones-futures%3A-anthropic.html?.tsrc=rss",
-      "time": "2026-11-18T21:57:35+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:e1b03594-d419-34dc-b0da-f74ff752b7cc",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Walmart Earnings Could Add to Its Winning Streak",
-      "summary": "Analysts are looking for Walmart to earn 64 cents a share on revenue of $187.3 billion.",
-      "link": "https://finance.yahoo.com/m/e1b03594-d419-34dc-b0da-f74ff752b7cc/walmart-earnings-could-add-to.html?.tsrc=rss",
-      "time": "2026-11-18T21:15:00+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-18T22:35:00Z",
+  "items": [],
   "atencao": []
 }
