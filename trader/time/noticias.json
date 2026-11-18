@@ -1,15 +1,15 @@
 {
-  "as_of": "2026-11-18T20:35:00Z",
+  "as_of": "2026-11-18T21:05:00Z",
   "items": [
     {
-      "id": "rss:06822cb6-476d-310b-a4c8-9bcc164b6ca9",
+      "id": "rss:d696dc30-4420-3335-be45-f499fbd90c2b",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "XLV",
-      "title": "Sector Update: Healthcare Stocks Decline in Afternoon Trading",
-      "summary": "Healthcare stocks were lower Wednesday afternoon, with the NYSE Healthcare Index dropping 1.6% and t",
-      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-decline-afternoon-184357969.html?.tsrc=rss",
-      "time": "2026-11-18T18:43:57+00:00",
+      "title": "Sector Update: Healthcare Stocks Fall Late Afternoon",
+      "summary": "Healthcare stocks were lower late Wednesday afternoon, with the NYSE Healthcare Index dropping 1.6%",
+      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-fall-afternoon-204713275.html?.tsrc=rss",
+      "time": "2026-11-18T20:47:13+00:00",
       "touches": [
         "XLV"
       ],
@@ -17,100 +17,37 @@
       "new": true
     },
     {
-      "id": "rss:f7176d57-b858-37eb-bdf9-d99078580d5b",
+      "id": "rss:4e4663e3-d1c6-3c85-9593-95cd1cd93406",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "FDX",
-      "title": "UPS Likely to Gain From Smartways Logistics Buyout: More Upside Ahead?",
-      "summary": "UPS plans to acquire Smartways Logistics to strengthen its healthcare logistics network across Asia-Pacific, boosting capabilities in time-sensitive shipments.",
-      "link": "https://finance.yahoo.com/healthcare/articles/ups-likely-gain-smartways-logistics-170000059.html?.tsrc=rss",
-      "time": "2026-11-18T17:00:00+00:00",
+      "ticker": "WMT",
+      "title": "Buy the Spike in Target (TGT) Stock After Strong Q3 Earnings?",
+      "summary": "Target stock has surged as much as 7% after strong Q3 results and raised guidance, but is TGT still a buy following its 75% year-to-date rally?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-spike-target-tgt-stock-195200622.html?.tsrc=rss",
+      "time": "2026-11-18T19:52:00+00:00",
       "touches": [
-        "FDX"
+        "WMT"
       ],
       "tags": [
-        "deal"
+        "earnings"
       ],
       "new": true
     },
     {
-      "id": "rss:9e3a490f-411c-38e5-b342-6546c5e41a9f",
+      "id": "rss:bb866c1d-b861-3e91-9565-294439a01fb0",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "FDX",
-      "title": "Global Retail Logistics Market to Reach $612 Billion by 2032, Driven by E-Commerce, Automation and Omnichannel Expansion - A.P. Moller-Maersk, Deutsche Post, DSV, and FedEx Battle for Share",
-      "summary": "Dublin, Nov. 18, 2026 (GLOBE NEWSWIRE) -- \"Retail Logistics - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global retail logistics market was valued at US$269.4 billion in 2025 and is projected to reach US$612 billion by 2032, expanding at a compound annual growth rate (CAGR) of 12.4% during the forecast period. Market growth is being supported by rising e-commerce volumes, increasing demand for faster last-mile delivery, wider adoption of omnic",
-      "link": "https://finance.yahoo.com/real-estate/articles/global-retail-logistics-market-reach-152900903.html?.tsrc=rss",
-      "time": "2026-11-18T15:29:00+00:00",
+      "ticker": "HD",
+      "title": "Home Depot\u2019s incoming CEO says homeowners are \u2018feeling pressure.\u2019 A quarter can\u2019t cover a $5,000 repair",
+      "summary": "A third of homeowners have put off repairs, and many are now doing the work themselves.",
+      "link": "https://finance.yahoo.com/real-estate/articles/home-depot-incoming-ceo-says-180432744.html?.tsrc=rss",
+      "time": "2026-11-18T18:04:32+00:00",
       "touches": [
-        "FDX"
+        "HD"
       ],
       "tags": [
-        "earnings",
-        "capital"
+        "people"
       ],
-      "new": true
-    },
-    {
-      "id": "rss:253358fb-1d14-385c-b502-8544c486fce9",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "FDX",
-      "title": "EasyPost, the Leading Shipping AI and API Platform for Modern Commerce, to Go Public on Nasdaq Through Business Combination with American Drive Acquisition Company",
-      "summary": "LEHI, Utah & NEW YORK, November 18, 2026--EasyPost (\"EasyPost\" or the \"Company\"), the leading multi-carrier shipping AI and API platform for modern commerce, and American Drive Acquisition Company (Nasdaq: ADAC) (\"ADAC\"), a special purpose acquisition company led by veteran technology and logistics investors, today announced they have entered into a definitive business combination agreement that would result in EasyPost becoming a public company. Upon closing of the business combination, the com",
-      "link": "https://finance.yahoo.com/technology/ai/articles/easypost-leading-shipping-ai-api-123000713.html?.tsrc=rss",
-      "time": "2026-11-18T12:30:00+00:00",
-      "touches": [
-        "FDX"
-      ],
-      "tags": [
-        "deal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:624943c2-a9b5-3834-8bb4-529e9f16a786",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XLV",
-      "title": "The Stock Market Reaches the Lull in the Horror Film",
-      "summary": "Every horror movie worth its salt has that lull, where things calm down, and the audience starts to relax.",
-      "link": "https://finance.yahoo.com/m/624943c2-a9b5-3834-8bb4-529e9f16a786/the-stock-market-reaches-the.html?.tsrc=rss",
-      "time": "2026-11-17T14:39:17+00:00",
-      "touches": [
-        "XLV"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:5b2149cc-2fa0-3287-8369-119b1618e9be",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "FDX",
-      "title": "FedEx Stock And Other Fuel Cost Winners If Oil Prices Stay Low",
-      "summary": "Oil benchmarks have been sliding while major forecasters talk about a supply surplus stretching into the next few years, and that mix puts energy hungry businesses in an unusual spotlight. Cheaper crude can quietly reshape cost bases and profit potential, and investors who ignore that shift risk missing it. This article picks out three stocks from our Global Oil Importing, Energy Intensive Sectors screener that appear well placed if fuel stays less of a burden. The three stocks highlighted...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fedex-stock-other-fuel-cost-010951070.html?.tsrc=rss",
-      "time": "2026-11-17T01:09:51+00:00",
-      "touches": [
-        "FDX"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:2651a40a-5631-37f8-910e-ac2897ab2103",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XLV",
-      "title": "Sector Update: Healthcare Stocks Decline Late Afternoon",
-      "summary": "Healthcare stocks were lower late Monday afternoon, with the NYSE Healthcare Index falling 0.3% and",
-      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-decline-afternoon-205311075.html?.tsrc=rss",
-      "time": "2026-11-16T20:53:11+00:00",
-      "touches": [
-        "XLV"
-      ],
-      "tags": [],
       "new": true
     }
   ],
