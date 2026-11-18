@@ -1,38 +1,5 @@
 {
-  "as_of": "2026-11-18T18:05:00Z",
-  "items": [
-    {
-      "id": "rss:d5958f64-e7a9-31c6-87c9-170141526b6a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "Lowe's Stocks Fall 5.43% Premarket as Tariff Refund Masks Margin Squeeze",
-      "summary": "Adjusted EPS of $3.10 included a $0.34 tariff refund, while gross margin narrowed to 32.95% from 34.19%.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lowes-stocks-fall-5-43-175547482.html?.tsrc=rss",
-      "time": "2026-11-18T17:55:47+00:00",
-      "touches": [
-        "HD"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:51419f59-871b-363e-a8b3-f0fe0dbacf86",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "SPY",
-      "title": "ARKK Is Down, But These 10 Cathie Wood Stocks Have Soared Up to 285% in 2026",
-      "summary": "Cathie Wood has taken a lot of heat in recent years. She became one of Wall Street\u2019s best-known fund managers during the pandemic rally, but her flagship ARK Innovation ETF (BATS:ARKK) fell sharply in 2022 and has trailed the market since. As of mid-November, ARKK is down about 4% in 2026, while the SPDR S&P [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/arkk-down-10-cathie-wood-173103158.html?.tsrc=rss",
-      "time": "2026-11-18T17:31:03+00:00",
-      "touches": [
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-18T18:35:00Z",
+  "items": [],
   "atencao": []
 }
