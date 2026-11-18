@@ -1,37 +1,35 @@
 {
-  "as_of": "2026-11-18T17:05:00Z",
+  "as_of": "2026-11-18T17:35:00Z",
   "items": [
     {
-      "id": "rss:69f2a1e6-d82d-34ac-b103-49ef59b0c2d0",
+      "id": "rss:2f166b49-8ec2-31ad-bc00-23ebf7d31c29",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "HD",
-      "title": "Nike Moves on Investor Day; Lowe's Reports Earnings | Stock Movers",
-      "summary": "On this episode of Stock Movers: - Lowe's (LOW) is also reporting its earnings this morning, a day after competitor Home Depot reported. Bloomberg Intelligence cites steady demand and data from Placer.ai which points to foot-traffic trends similar to the second quarter. - Nike (NKE) shares are moving following its investor day. The company is projecting a return to market-level expansion in the fiscal year through May 2029, but challenges in its Jordan and Converse brands, as well as its sportswear business, don't have an immediate fix. - Take-Two Interactive (TTWO) shares are jumping in premarket as its major video game Grand Theft Auto VI is an open-world game set in Vice City, a fictionalized version of Miami, with lifelike graphical fidelity.",
-      "link": "https://finance.yahoo.com/video/nike-moves-investor-day-lowes-162353192.html?.tsrc=rss",
-      "time": "2026-11-18T16:23:53+00:00",
+      "ticker": "SPY",
+      "title": "Cathie Wood Was Right About These 5 Stocks",
+      "summary": "Cathie Wood became one of Wall Street\u2019s best-known fund managers during the pandemic rally, but her flagship ARK Innovation ETF (BATS:ARKK) fell sharply in 2022 and has trailed the market since. As of mid-November, ARKK is down about 4% in 2026, while the SPDR S&P 500 ETF Trust (NYSEARCA:SPY) is up about 10%. Her trades [\u2026]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-5-stocks-171622537.html?.tsrc=rss",
+      "time": "2026-11-18T17:16:22+00:00",
       "touches": [
-        "HD"
+        "SPY"
       ],
-      "tags": [
-        "earnings"
-      ],
+      "tags": [],
       "new": true
     },
     {
-      "id": "rss:c9e41f8c-ba09-3f50-af89-f73721ad3981",
+      "id": "rss:d11f54fb-8518-3c9c-ab09-64f67cc00a3d",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "HD",
-      "title": "Home Depot Q3 Earnings Call Flags Margin Pressure as Sales Grow",
-      "summary": "HD expects 4.5% sales growth in fiscal 2026 but faces margin pressure from shifting sales mix, acquisitions and softer home improvement demand.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-q3-earnings-call-155300529.html?.tsrc=rss",
-      "time": "2026-11-18T15:53:00+00:00",
+      "ticker": "WMT",
+      "title": "What investors should know about Anthropic's unusual IPO",
+      "summary": "NEW YORK (AP) \u2014 When Anthropic's stock begins trading for the first time later this week, it will be a big test not only for the company behind the Claude AI chatbot but also for the entire artificial-intelligence industry and the U.Anthropic's initial public offering will reverberate far beyond anyone geeky enough to understand what its business structure as a \u201cpublic benefit corporation\u201d means.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-know-anthropics-unusual-ipo-170821261.html?.tsrc=rss",
+      "time": "2026-11-18T17:08:21+00:00",
       "touches": [
-        "HD"
+        "WMT"
       ],
       "tags": [
-        "earnings"
+        "capital"
       ],
       "new": true
     }
