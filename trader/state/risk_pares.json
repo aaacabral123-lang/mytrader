@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-18",
   "paper": true,
   "results": [
     {
       "index": 1,
-      "symbol": "WMT",
-      "side": "buy",
-      "amount": "$300",
-      "value_usd": 300.0,
-      "fingerprint": "d5d7fa2c86104770",
+      "symbol": "V",
+      "side": "sell",
+      "amount": "0.708094736 shares",
+      "value_usd": 293.55,
+      "fingerprint": "179cb706a5a7a37b",
       "verdict": "PASS",
       "reasons": [],
       "warnings": []
@@ -17,8 +17,8 @@
   "pass": 1,
   "block": 0,
   "warnings": [],
-  "cash_after": 0.04,
-  "prices_as_of": "2026-11-11T20:05:05Z",
-  "checked_at": "2026-11-11T20:05:12",
+  "cash_after": 293.6,
+  "prices_as_of": "2026-11-18T15:35:17Z",
+  "checked_at": "2026-11-18T15:35:17",
   "orders_file": "trader/pares/orders.json"
 }
