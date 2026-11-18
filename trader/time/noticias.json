@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-18T09:05:00Z",
-  "items": [],
+  "as_of": "2026-11-18T09:35:00Z",
+  "items": [
+    {
+      "id": "rss:922cd377-206a-31db-9cd0-d3ec5384aff8",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "V",
+      "title": "iFAST Global Bank Expands Multi-Currency Visa Debit Card Access to Overseas Customers",
+      "summary": "The expansion brings multi-currency spending and virtual debit card access to iFAST Global Bank customers across seven overseas markets.Key facts: Launch: iFAST Global Bank is expanding virtual access to its Multi-Currency Visa Debit Card to customers across seven overseas markets: Thailand, Hong Kong, Singapore, Malaysia, Taiwan, Pakistan, and Germany.Purpose: Complementing iFAST Global Bank\u2019s Multi-Currency Current Account, the expansion broadens access of the Bank\u2019s digital banking services b",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/ifast-global-bank-expands-multi-090000920.html?.tsrc=rss",
+      "time": "2026-11-18T09:00:00+00:00",
+      "touches": [
+        "V"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
