@@ -1,5 +1,36 @@
 {
-  "as_of": "2026-11-18T12:35:00Z",
-  "items": [],
+  "as_of": "2026-11-18T13:05:00Z",
+  "items": [
+    {
+      "id": "rss:371aaf58-c9ee-3ed4-8d8a-b8e13fb31b46",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "YUM",
+      "title": "New Yum! Brands 2027 Trends Report Reveals How Snacking, Experiences and Global Flavors Are Redefining Dining",
+      "summary": "LOUISVILLE, Ky., November 18, 2026--Yum! Brands, Inc. (NYSE: YUM) today released its second annual Food Trends Report, \"What\u2019s Next in Dining,\" developed with its in-house marketing strategy, consumer insights and innovation agency Collider Lab. With more than 44,000 restaurants across its KFC, Taco Bell and Habit Burger & Grill brands, Yum! draws on global consumer insights, cultural analysis and menu testing to explore how all-day snacking, more memorable restaurant experiences and globally in",
+      "link": "https://finance.yahoo.com/media-advertising/articles/yum-brands-2027-trends-report-130000854.html?.tsrc=rss",
+      "time": "2026-11-18T13:00:00+00:00",
+      "touches": [
+        "YUM"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:fcfabae7-fb99-343c-b651-f59dfcae72c6",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "V",
+      "title": "Visa Targets Secure AI Agent Payments Through Expanded Industry Partnership",
+      "summary": "Visa Inc. (NYSE:V) announced on Tuesday that it expanded its Agentic Ready program to include merchants, payment service providers (PSPs), acquirers and commerce platforms, helping them prepare for transactions initiated by AI agents. The initiative, part of Visa Intelligent Commerce, launched with more than 140 participants, including Adyen, Antom, Billtrust, Checkout.com, Fiserv, Global Payments, PayPal and Stripe. These participants join more than 175 issuers already enrolled in the program a",
+      "link": "https://finance.yahoo.com/technology/ai/articles/visa-targets-secure-ai-agent-114840038.html?.tsrc=rss",
+      "time": "2026-11-18T11:48:40+00:00",
+      "touches": [
+        "V"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
