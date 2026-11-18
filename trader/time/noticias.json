@@ -1,17 +1,17 @@
 {
-  "as_of": "2026-11-18T00:05:00Z",
+  "as_of": "2026-11-18T00:35:00Z",
   "items": [
     {
-      "id": "rss:127cbc46-de0d-3847-b994-2fa0387af23a",
+      "id": "rss:2ca6b81b-010b-317f-ad13-fce627e19825",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "WMT",
-      "title": "5 Top Earnings Charts to Watch This Week",
-      "summary": "Will Walmart and the other retailers save the market?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/5-top-earnings-charts-watch-223600810.html?.tsrc=rss",
-      "time": "2026-11-17T22:36:00+00:00",
+      "ticker": "HD",
+      "title": "Home Depot (HD) Q3 Results Meet Growth But Margins Constrain Upside",
+      "summary": "Home Depot entered this earnings release priced for resilience, not drama, after a flat few months and a modest 30-day gain of about 9%. Yet the stock dropped about 2.5% on the day as investors reacted to the Q3 2027 report and a premium P/E near 23.8x that already implied high expectations. The numbers themselves told a more measured story. Quarterly revenue reached about US$43.4b and basic earnings per share were approximately US$3.73. The main issue was valuation meeting modest earnings...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-q3-results-001937621.html?.tsrc=rss",
+      "time": "2026-11-18T00:19:37+00:00",
       "touches": [
-        "WMT"
+        "HD"
       ],
       "tags": [
         "earnings"
