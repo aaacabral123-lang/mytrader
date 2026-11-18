@@ -1,52 +1,35 @@
 {
-  "as_of": "2026-11-18T21:05:00Z",
+  "as_of": "2026-11-18T21:35:00Z",
   "items": [
     {
-      "id": "rss:d696dc30-4420-3335-be45-f499fbd90c2b",
+      "id": "rss:23d72558-bfb7-3160-8920-81b66b2cce7e",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "XLV",
-      "title": "Sector Update: Healthcare Stocks Fall Late Afternoon",
-      "summary": "Healthcare stocks were lower late Wednesday afternoon, with the NYSE Healthcare Index dropping 1.6%",
-      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-fall-afternoon-204713275.html?.tsrc=rss",
-      "time": "2026-11-18T20:47:13+00:00",
+      "ticker": "ADBE",
+      "title": "Adobe (ADBE) Is Printing Cash While Wall Street Writes Its Obituary",
+      "summary": "Adobe (ADBE) is printing cash even as Wall Street writes off its prospects amid growing concerns about artificial intelligence (AI). Even after falling nearly 64% from its all-time high, the creative software giant continues to deliver double-digit revenue growth. It also generates more than $10 billion in annual free cash flow (FCF) and spends billions on share buybacks. Yet, at around $235, the stock trades at just 9x its annual FCF. However, there\u2019s a reason for all this pessimism. The latest",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-printing-cash-while-212000862.html?.tsrc=rss",
+      "time": "2026-11-18T21:20:00+00:00",
       "touches": [
-        "XLV"
+        "ADBE"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:4e4663e3-d1c6-3c85-9593-95cd1cd93406",
+      "id": "rss:4263b045-dfd1-3f54-bdb0-873726f10ff1",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "WMT",
-      "title": "Buy the Spike in Target (TGT) Stock After Strong Q3 Earnings?",
-      "summary": "Target stock has surged as much as 7% after strong Q3 results and raised guidance, but is TGT still a buy following its 75% year-to-date rally?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/buy-spike-target-tgt-stock-195200622.html?.tsrc=rss",
-      "time": "2026-11-18T19:52:00+00:00",
+      "ticker": "XOM",
+      "title": "Helmerich & Payne, Inc. Announces Fiscal Fourth Quarter and Fiscal 2026 Results",
+      "summary": "TULSA, Okla., November 18, 2026--Helmerich & Payne, Inc. (NYSE:HP):",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/helmerich-payne-inc-announces-fiscal-211500249.html?.tsrc=rss",
+      "time": "2026-11-18T21:15:00+00:00",
       "touches": [
-        "WMT"
+        "XOM"
       ],
       "tags": [
         "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:bb866c1d-b861-3e91-9565-294439a01fb0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "Home Depot\u2019s incoming CEO says homeowners are \u2018feeling pressure.\u2019 A quarter can\u2019t cover a $5,000 repair",
-      "summary": "A third of homeowners have put off repairs, and many are now doing the work themselves.",
-      "link": "https://finance.yahoo.com/real-estate/articles/home-depot-incoming-ceo-says-180432744.html?.tsrc=rss",
-      "time": "2026-11-18T18:04:32+00:00",
-      "touches": [
-        "HD"
-      ],
-      "tags": [
-        "people"
       ],
       "new": true
     }
