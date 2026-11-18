@@ -13,6 +13,12 @@
       "pct": 5
     },
     {
+      "id": "vigia-FDX",
+      "symbol": "FDX",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
       "id": "vigia-HD",
       "symbol": "HD",
       "type": "pct_move",
@@ -39,6 +45,12 @@
     {
       "id": "vigia-XLB",
       "symbol": "XLB",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
+      "id": "vigia-XLV",
+      "symbol": "XLV",
       "type": "pct_move",
       "pct": 5
     },
