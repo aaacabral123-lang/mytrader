@@ -1,35 +1,38 @@
 {
-  "as_of": "2026-11-18T16:35:00Z",
+  "as_of": "2026-11-18T17:05:00Z",
   "items": [
     {
-      "id": "rss:e76a5906-7ceb-3afe-af83-2ef75d69193a",
+      "id": "rss:69f2a1e6-d82d-34ac-b103-49ef59b0c2d0",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "HD",
-      "title": "Costco's Generator Sellouts Prompt a New Wall Street Stock Call",
-      "summary": "Shoppers stock up on essentials following major technology outages, driving demand for generators, food and emergency supplies.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/costcos-generator-sellouts-prompt-wall-160732178.html?.tsrc=rss",
-      "time": "2026-11-18T16:07:32+00:00",
+      "title": "Nike Moves on Investor Day; Lowe's Reports Earnings | Stock Movers",
+      "summary": "On this episode of Stock Movers: - Lowe's (LOW) is also reporting its earnings this morning, a day after competitor Home Depot reported. Bloomberg Intelligence cites steady demand and data from Placer.ai which points to foot-traffic trends similar to the second quarter. - Nike (NKE) shares are moving following its investor day. The company is projecting a return to market-level expansion in the fiscal year through May 2029, but challenges in its Jordan and Converse brands, as well as its sportswear business, don't have an immediate fix. - Take-Two Interactive (TTWO) shares are jumping in premarket as its major video game Grand Theft Auto VI is an open-world game set in Vice City, a fictionalized version of Miami, with lifelike graphical fidelity.",
+      "link": "https://finance.yahoo.com/video/nike-moves-investor-day-lowes-162353192.html?.tsrc=rss",
+      "time": "2026-11-18T16:23:53+00:00",
       "touches": [
-        "HD",
-        "WMT"
+        "HD"
       ],
-      "tags": [],
+      "tags": [
+        "earnings"
+      ],
       "new": true
     },
     {
-      "id": "rss:98b084ae-d5b0-3ab2-b64d-c1eea0d94da2",
+      "id": "rss:c9e41f8c-ba09-3f50-af89-f73721ad3981",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "YUM",
-      "title": "McDonald\u2019s vs Yum Brands: value and income versus growth and momentum",
-      "summary": "Investing.com -- McDonald\u2019s Corporation (MCD) offers the stronger quality-and-income profile; Yum! Brands Inc (YUM) offers faster growth and stronger momentum. The valuation gap is now surprisingly narrow.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonald-vs-yum-brands-value-160230770.html?.tsrc=rss",
-      "time": "2026-11-18T16:02:30+00:00",
+      "ticker": "HD",
+      "title": "Home Depot Q3 Earnings Call Flags Margin Pressure as Sales Grow",
+      "summary": "HD expects 4.5% sales growth in fiscal 2026 but faces margin pressure from shifting sales mix, acquisitions and softer home improvement demand.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-q3-earnings-call-155300529.html?.tsrc=rss",
+      "time": "2026-11-18T15:53:00+00:00",
       "touches": [
-        "YUM"
+        "HD"
       ],
-      "tags": [],
+      "tags": [
+        "earnings"
+      ],
       "new": true
     }
   ],

@@ -3,12 +3,12 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "DIA",
-      "side": "buy",
-      "notional": "247",
+      "symbol": "XLY",
+      "side": "sell",
+      "qty": "2.110800271",
       "type": "market",
       "time_in_force": "day",
-      "why": "curto prazo, entrada: RSI(2) 3.7, acima da m\u00e9dia de 200 dias ($505.28)"
+      "why": "curto prazo, sa\u00edda: repique: $119.24 acima da m\u00e9dia de 5 dias ($118.99)"
     }
   ]
 }
