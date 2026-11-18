@@ -1,17 +1,17 @@
 {
-  "as_of": "2026-11-18T14:05:00Z",
+  "as_of": "2026-11-18T14:35:00Z",
   "items": [
     {
-      "id": "rss:adf5cdf3-7d46-3aea-9023-e004c7185486",
+      "id": "rss:995a366c-f509-3911-b02e-5c43259e5018",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "HD",
-      "title": "Lowe's Retreats On Outlook, Home Depot Stock Eases After Earnings",
-      "summary": "Home improvement retailers Lowe's, Home Depot slide after their respective Q3 reports, guidance updates.",
-      "link": "https://finance.yahoo.com/m/adf5cdf3-7d46-3aea-9023-e004c7185486/lowe%27s-retreats-on-outlook%2C.html?.tsrc=rss",
-      "time": "2026-11-18T13:52:19+00:00",
+      "ticker": "SPY",
+      "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Wednesday Amid Nvidia Earnings, Upcoming Fed Meeting Minutes",
+      "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.4% and the actively trad",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-140832688.html?.tsrc=rss",
+      "time": "2026-11-18T14:08:32+00:00",
       "touches": [
-        "HD"
+        "SPY"
       ],
       "tags": [
         "earnings"
@@ -19,33 +19,20 @@
       "new": true
     },
     {
-      "id": "rss:6df555fb-dbeb-3b32-9350-880947ab1c9b",
+      "id": "rss:ab965049-3ba1-3a4c-82d8-a9e03e85519a",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "WMT",
-      "title": "Brandmovers Launches RetailerConnect\u2122 to Bring Receiptless Rewards to Brand Loyalty and Promotions",
-      "summary": "Brandmovers, a global provider of loyalty programs and promotions, today launched RetailerConnect\u2122, a proof of purchase solution that lets CPG brands verify shopper purchases from connected merchant accounts and reward them automatically with loyalty points, sweepstakes entries, and rebates based on merchant data without a receipt upload. Partnering with Knot's TransactionLink, RetailerConnect is live with Amazon, Target and Walmart, and can expand across additional supported retailers like Krog",
-      "link": "https://finance.yahoo.com/media-advertising/articles/brandmovers-launches-retailerconnect-bring-receiptless-134400075.html?.tsrc=rss",
-      "time": "2026-11-18T13:44:00+00:00",
+      "ticker": "V",
+      "title": "Sezzle Anywhere Launches in Canada, Bringing BNPL Everywhere Visa Is Accepted",
+      "summary": "The new offering dramatically expands Canada's most popular Buy Now, Pay Later option online or in-store.Toronto, Canada, Nov. 18, 2026 (GLOBE NEWSWIRE) -- Sezzle, the most popular Buy Now, Pay Later (BNPL) solution in Canada, today announced the Canadian launch of Sezzle Anywhere\u2021, a monthly subscription that gives shoppers a multi-use Sezzle Virtual Card that can be used anywhere Visa is accepted, online or in-store, including tap to pay with Apple Pay and Google Pay. Sezzle Anywhere is the fi",
+      "link": "https://finance.yahoo.com/small-business/articles/sezzle-anywhere-launches-canada-bringing-140000922.html?.tsrc=rss",
+      "time": "2026-11-18T14:00:00+00:00",
       "touches": [
-        "WMT"
+        "V"
       ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:30883f17-9ea2-3827-9f3a-01e2cad2ca24",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "SPY",
-      "title": "Fed\u2019s Waller warns inflation is worsening, floats 50-basis-point December hike",
-      "summary": "Investing.com -- Federal Reserve Governor Christopher Waller called for more aggressive action to contain inflation on Wednesday, warning that price pressures are proving more persistent than he expected and are spreading across the economy.",
-      "link": "https://finance.yahoo.com/economy/policy/articles/fed-waller-warns-inflation-worsening-133638284.html?.tsrc=rss",
-      "time": "2026-11-18T13:36:38+00:00",
-      "touches": [
-        "SPY"
+      "tags": [
+        "capital"
       ],
-      "tags": [],
       "new": true
     }
   ],
