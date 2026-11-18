@@ -1,36 +1,36 @@
 {
-  "as_of": "2026-11-18T17:35:00Z",
+  "as_of": "2026-11-18T18:05:00Z",
   "items": [
     {
-      "id": "rss:2f166b49-8ec2-31ad-bc00-23ebf7d31c29",
+      "id": "rss:d5958f64-e7a9-31c6-87c9-170141526b6a",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "Lowe's Stocks Fall 5.43% Premarket as Tariff Refund Masks Margin Squeeze",
+      "summary": "Adjusted EPS of $3.10 included a $0.34 tariff refund, while gross margin narrowed to 32.95% from 34.19%.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lowes-stocks-fall-5-43-175547482.html?.tsrc=rss",
+      "time": "2026-11-18T17:55:47+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:51419f59-871b-363e-a8b3-f0fe0dbacf86",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "SPY",
-      "title": "Cathie Wood Was Right About These 5 Stocks",
-      "summary": "Cathie Wood became one of Wall Street\u2019s best-known fund managers during the pandemic rally, but her flagship ARK Innovation ETF (BATS:ARKK) fell sharply in 2022 and has trailed the market since. As of mid-November, ARKK is down about 4% in 2026, while the SPDR S&P 500 ETF Trust (NYSEARCA:SPY) is up about 10%. Her trades [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-5-stocks-171622537.html?.tsrc=rss",
-      "time": "2026-11-18T17:16:22+00:00",
+      "title": "ARKK Is Down, But These 10 Cathie Wood Stocks Have Soared Up to 285% in 2026",
+      "summary": "Cathie Wood has taken a lot of heat in recent years. She became one of Wall Street\u2019s best-known fund managers during the pandemic rally, but her flagship ARK Innovation ETF (BATS:ARKK) fell sharply in 2022 and has trailed the market since. As of mid-November, ARKK is down about 4% in 2026, while the SPDR S&P [\u2026]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/arkk-down-10-cathie-wood-173103158.html?.tsrc=rss",
+      "time": "2026-11-18T17:31:03+00:00",
       "touches": [
         "SPY"
       ],
       "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:d11f54fb-8518-3c9c-ab09-64f67cc00a3d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "What investors should know about Anthropic's unusual IPO",
-      "summary": "NEW YORK (AP) \u2014 When Anthropic's stock begins trading for the first time later this week, it will be a big test not only for the company behind the Claude AI chatbot but also for the entire artificial-intelligence industry and the U.Anthropic's initial public offering will reverberate far beyond anyone geeky enough to understand what its business structure as a \u201cpublic benefit corporation\u201d means.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-know-anthropics-unusual-ipo-170821261.html?.tsrc=rss",
-      "time": "2026-11-18T17:08:21+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "capital"
-      ],
       "new": true
     }
   ],
