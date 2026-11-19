@@ -1,174 +1,15 @@
 {
-  "as_of": "2026-11-19T14:05:00Z",
+  "as_of": "2026-11-19T14:35:00Z",
   "items": [
     {
-      "id": "rss:51a8288a-9984-3683-a8d5-462947852bf5",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Update: US Equity Futures Rise Pre-Bell as Traders Anticipate Anthropic's Stock Market Debut",
-      "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-135511181.html?.tsrc=rss",
-      "time": "2026-11-19T13:55:11+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:81d1d9ec-afbb-3e6f-882b-7e094a9a305e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Stock Market Today: Dow Rises As Walmart Falls On Earnings; Anthropic IPO Set To Soar 25% (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index rises Thursday even as Walmart drops on earnings. The Anthropic IPO is set to soar 25%.",
-      "link": "https://finance.yahoo.com/m/81d1d9ec-afbb-3e6f-882b-7e094a9a305e/stock-market-today%3A-dow-rises.html?.tsrc=rss",
-      "time": "2026-11-19T13:51:10+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:65618736-0325-3838-962a-ddfe19b5fcab",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "FDX",
-      "title": "PostalAnnex Franchisees Expand Local Business Portfolio with Third Sacramento-Area Location in Roseville",
-      "summary": "Annex Brands, Inc., one of the leading franchisors in the packing, shipping and office services industries, is excited to announce the opening of its newest PostalAnnex location in Roseville, CA to new owners Aarondeep Hira and Manraj Sangha. This new PostalAnnex is set to offer a wide range of essential shipping and office services to the local community, making it easier to provide more service to more people in more places.",
-      "link": "https://finance.yahoo.com/small-business/articles/postalannex-franchisees-expand-local-business-135100675.html?.tsrc=rss",
-      "time": "2026-11-19T13:51:00+00:00",
-      "touches": [
-        "FDX"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:91520d38-1f51-3949-b3fa-e214c8b540ce",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Walmart Sales Rise Powered by E-Commerce Gains",
-      "summary": "The retail behemoth reported its total revenue grew 5.2% in the third quarter to $188.8 billion, and it raised its guidance for the full year.",
-      "link": "https://www.wsj.com/business/earnings/walmart-wmt-3q-earnings-report-2026-6e658c54?.tsrc=rss",
-      "time": "2026-11-19T13:44:00+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:f60661fd-58b7-33fd-8bad-c6fe5bbc0376",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Coca-Cola Stock Could Lose Its Fizz. Its Valuation Is the Highest in 25 Years.",
-      "summary": "Investors are paying too much for Coke and glossing over its challenge as the top seller of soda in a health-conscious world.",
-      "link": "https://finance.yahoo.com/m/f60661fd-58b7-33fd-8bad-c6fe5bbc0376/coca-cola-stock-could-lose.html?.tsrc=rss",
-      "time": "2026-11-19T13:01:00+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:e0d07465-1085-3963-9825-16ec79cf5f88",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "DIA",
-      "title": "Five Straight Losses, One Divergence: Where the Major Indexes Stand Now",
-      "summary": "Canada News Group News Commentary - Wall Street heads into Thursday's session with the S&P 500 on its longest losing streak since June. The benchmark fell 16.90 points, or 0.23%, on Wednesday to 7,323.63, its fifth straight decline, according to CNBC, while the Nasdaq Composite rose 101.50 points, or 0.42%, to 24,429.88 and the Dow Jones Industrial Average fell 561.25 points, or 1.11%, to 50,198.17. Index funds that track the benchmarks in this commentary include: SPDR S&P 500 ETF Trust (NYSE Ar",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/five-straight-losses-one-divergence-130000760.html?.tsrc=rss",
-      "time": "2026-11-19T13:00:00+00:00",
-      "touches": [
-        "DIA",
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:b6808a17-7b63-3208-94b1-ce7ba14b1536",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "FDX",
-      "title": "From Financial Innovation to AI-Powered Aviation: Threads of Connectivity Part Two Launches on NatGeo.com",
-      "summary": "A pilot receives a warning that prevents a runway collision. A vast financial network connects families separated by borders. A medical shipment crosses continents to reach a patient in need.",
-      "link": "https://finance.yahoo.com/technology/articles/financial-innovation-ai-powered-aviation-130000406.html?.tsrc=rss",
-      "time": "2026-11-19T13:00:00+00:00",
-      "touches": [
-        "FDX"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:2f125afe-a05a-388b-b762-268dcba0ce82",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "US Equity Futures Rise Pre-Bell as Traders Anticipate Anthropic's Stock Market Debut",
-      "summary": "US equity futures were higher pre-bell Thursday as traders geared up for the market debut of Claude",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-125837258.html?.tsrc=rss",
-      "time": "2026-11-19T12:58:37+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:77e09d45-32f9-3c5a-816d-1c5eca135103",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Walmart beats third quarter expectations, raises guidance",
-      "summary": "Investing.com -- Walmart Inc. (NASDAQ: WMT) reported third-quarter results that exceeded analyst expectations, with adjusted earnings per share of $0.65 compared to the consensus estimate of $0.64. Revenue reached $188.8 billion, surpassing the $187.27 billion analyst estimate and marking a 5.2% increase from $179.5 billion in the prior-year period.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-beats-third-quarter-expectations-124112923.html?.tsrc=rss",
-      "time": "2026-11-19T12:41:12+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:38d8e6ad-c1d5-31b0-8b5c-7d9ab5829447",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Walmart (WMT) Tops Q3 Earnings and Revenue Estimates",
-      "summary": "Walmart (WMT) delivered earnings and revenue surprises of +1.56% and +1.20%, respectively, for the quarter ended October 2026. Do the numbers hold clues to what lies ahead for the stock?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-tops-q3-earnings-121502391.html?.tsrc=rss",
-      "time": "2026-11-19T12:15:02+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:8f5e4a74-0478-367e-908a-623d53161991",
+      "id": "rss:da379aa9-baae-37c1-9144-b51689ab1b6d",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "YUM",
-      "title": "Yum! Brands (YUM) Moves To End Franchises, Is A 10.6% Undervalued View Still Intact?",
-      "summary": "Tasty Chick'n's Chapter 11 filing, covering 84 KFC and KFC/Taco Bell sites, has pushed Yum! Brands (YUM) to declare defaults and begin franchise termination, putting royalty collections and restaurant continuity in focus for shareholders. For context, Yum! Brands\u2019 share price has climbed over recent months, with a 30-day share price return of 7.32% and a 90-day move of 5.56%, while the 1-year total shareholder return of 10.52% and 3-year total shareholder return of 32.17% point to momentum...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/yum-brands-yum-moves-end-121216777.html?.tsrc=rss",
-      "time": "2026-11-19T12:12:16+00:00",
+      "title": "Yum! Brands (YUM) Stock Looks Fully Priced On Its 39% Run",
+      "summary": "Yum! Brands has delivered solid long term gains and now trades around US$160.8, which naturally raises the question of whether that price is well supported by the cash the business is expected to generate. With a Discounted Cash Flow (DCF) intrinsic value estimate available, the stock invites a closer look at how its cash flows line up against where the market has taken it. Over the past 5 years, Yum! Brands has returned 38.8%, putting real weight on the question of whether the current...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/yum-brands-yum-stock-looks-141623869.html?.tsrc=rss",
+      "time": "2026-11-19T14:16:23+00:00",
       "touches": [
         "YUM"
       ],
@@ -176,120 +17,82 @@
       "new": true
     },
     {
-      "id": "rss:9bdcfb5f-0c96-397c-8c47-c0b7b71c929e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Anthropic's Stock Market Debut Lifts Wall Street Futures Premarket Thursday",
-      "summary": "Wall Street futures were tracking higher premarket Thursday as investors anticipate artificial intel",
-      "link": "https://finance.yahoo.com/news/anthropic-apos-stock-market-debut-120733310.html?.tsrc=rss",
-      "time": "2026-11-19T12:07:33+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:92aa4e55-b493-3f18-aef4-b271ad00961e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Walmart: Fiscal Q3 Earnings Snapshot",
-      "summary": "(WMT) on Thursday reported fiscal third-quarter earnings of $4.The Bentonville, Arkansas-based company said it had net income of 62 cents per share.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-fiscal-q3-earnings-snapshot-120626110.html?.tsrc=rss",
-      "time": "2026-11-19T12:06:26+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:c89b9fe3-24bc-33ea-93a5-448fd190f88e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Walmart raises its outlook for the year for the 3rd time after a solid quarter",
-      "summary": "NEW YORK (AP) \u2014 Walmart reported solid third quarter sales gains as the retailer continues to attract a growing number of customers across the economic spectrum that are seeking to cut costs in the face of rising prices. The company topped Wall Street\u2019s profit and sales projections, and it raised its annual guidance for the third time this year, but the outlook released Thursday was more conservative than industry analysts had expected.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-raises-outlook-3rd-time-120322526.html?.tsrc=rss",
-      "time": "2026-11-19T12:03:22+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:38b35b7e-0104-32d2-9e93-b650469d0750",
+      "id": "rss:e76c02cf-5139-3027-a6ae-21d94b61c414",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "SPY",
-      "title": "Wall Street Subdued So Far in Q4: What Lies Ahead?",
-      "summary": "S&P 500 ETFs struggle so far in Q4, but strong spending, earnings growth and post-midterm trends offer hope for a rebound.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-subdued-far-q4-120000528.html?.tsrc=rss",
-      "time": "2026-11-19T12:00:00+00:00",
+      "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Ahead of Anthropic Stock Market Debut",
+      "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 1% and the actively traded",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-141450756.html?.tsrc=rss",
+      "time": "2026-11-19T14:14:50+00:00",
       "touches": [
         "SPY"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:8dfcfde2-dedb-383d-a455-44f9e95d31dc",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Walmart reports revenue growth of 5.2%, up 4.5% in constant currency (cc)",
-      "summary": "BENTONVILLE, Ark., November 19, 2026--Walmart Inc. (Nasdaq: WMT):",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-reports-revenue-growth-5-120000596.html?.tsrc=rss",
-      "time": "2026-11-19T12:00:00+00:00",
-      "touches": [
-        "WMT"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "sec:0000104169-26-000168",
-      "source": "SEC EDGAR",
-      "kind": "filing",
-      "form": "8-K",
-      "ticker": "WMT",
-      "title": "Walmart Inc. filed a 8-K: earnings results",
-      "summary": "Current report",
-      "items": [
-        "2.02",
-        "9.01"
-      ],
-      "important": true,
-      "link": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000168/0000104169-26-000168-index.htm",
-      "time": "2026-11-19T11:58:52+00:00",
+      "id": "rss:406ddda3-07c8-3412-9187-0f989131929a",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "CreatorIQ Appoints Ray Ball as Chief People Officer to Support Next Phase of Global Growth",
+      "summary": "LOS ANGELES, November 19, 2026--CreatorIQ, the enterprise infrastructure for creator marketing, today announced the appointment of Ray Ball as Chief People Officer (CPO), expanding its executive leadership team as the company continues to grow its global customer base. Ball will report to CEO Chris Harrington and lead CreatorIQ\u2019s global people strategy, including talent acquisition, talent management and leadership development, benefits, and employee experience.",
+      "link": "https://finance.yahoo.com/small-business/articles/creatoriq-appoints-ray-ball-chief-140000530.html?.tsrc=rss",
+      "time": "2026-11-19T14:00:00+00:00",
       "touches": [
-        "WMT"
+        "ADBE"
       ],
       "tags": [
-        "earnings"
+        "deal",
+        "people"
       ],
       "new": true
     },
     {
-      "id": "rss:65710a12-1ba7-3685-a3c3-30d9e0878af7",
+      "id": "rss:ffc60e6b-e39f-3437-8e43-17967032e289",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "WMT",
-      "title": "Anthropic, Google, Palo Alto, Walmart, and More Stocks That Explain Today\u2019s Market",
-      "summary": "The AI trade gets a shot in the arm as investors await Anthropic\u2019s IPO, as the Claude developer aims for a $1.5 trillion valuation.",
-      "link": "https://finance.yahoo.com/m/65710a12-1ba7-3685-a3c3-30d9e0878af7/anthropic%2C-google%2C-palo-alto%2C.html?.tsrc=rss",
-      "time": "2026-11-19T11:33:00+00:00",
+      "ticker": "XOM",
+      "title": "Crude Gives Back Ground Midweek as Inventories Build and Surplus Talk Grows",
+      "summary": "Oil Market Daily News Commentary - Crude oil heads into Thursday down for the week so far. Brent futures settled at $91.95 a barrel on Wednesday, down $1.19, or 1.28%, while U.S. West Texas Intermediate fell $2.75, or 3.2%, to $83.26, its lowest since August 26, according to Reuters. Measured from Friday's settlements of $95.84 for Brent and $88.56 for WTI, Brent is down $3.89, or 4.06%, and WTI is down $5.30, or 5.98%, for the week to date, by our arithmetic. Energy companies with developments",
+      "link": "https://finance.yahoo.com/energy/articles/crude-gives-back-ground-midweek-140000929.html?.tsrc=rss",
+      "time": "2026-11-19T14:00:00+00:00",
       "touches": [
-        "WMT"
+        "XOM"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:1a8e3f9b-4a33-3d12-9f77-c6cee6fc4039",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLV",
+      "title": "Stock Market News for Nov 19, 2026",
+      "summary": "U.S. stocks ended mixed on Wednesday, with the Nasdaq rebounding from its previous session's losses, while the S&P 500 clocked its fifth straight day of losses as investors digested NVIDIA's earnings and awaited Anthropic's initial public offering.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-19-132100065.html?.tsrc=rss",
+      "time": "2026-11-19T13:21:00+00:00",
+      "touches": [
+        "XLV"
+      ],
+      "tags": [
+        "earnings",
+        "capital"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:c3dbf6fc-6dc1-35bb-882e-6bdd53e337f7",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "How XOM's Strong Balance Sheet Helps Manage Oil Market Volatility",
+      "summary": "ExxonMobil's low debt levels strengthen its balance sheet, helping it navigate oil price volatility and reward shareholders.",
+      "link": "https://finance.yahoo.com/energy/articles/xoms-strong-balance-sheet-helps-131400951.html?.tsrc=rss",
+      "time": "2026-11-19T13:14:00+00:00",
+      "touches": [
+        "XOM"
       ],
       "tags": [],
       "new": true

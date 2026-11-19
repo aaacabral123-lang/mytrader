@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "paper": true,
   "results": [
     {
       "index": 1,
-      "symbol": "FDX",
-      "side": "buy",
-      "amount": "$293",
-      "value_usd": 293.0,
-      "fingerprint": "571dd2e51acd57b6",
+      "symbol": "YUM",
+      "side": "sell",
+      "amount": "1.867304891 shares",
+      "value_usd": 296.8,
+      "fingerprint": "eceb5a0a3f17841f",
       "verdict": "PASS",
       "reasons": [],
       "warnings": []
@@ -17,8 +17,8 @@
   "pass": 1,
   "block": 0,
   "warnings": [],
-  "cash_after": 0.59,
-  "prices_as_of": "2026-11-18T20:05:34Z",
-  "checked_at": "2026-11-18T20:05:37",
+  "cash_after": 297.4,
+  "prices_as_of": "2026-11-19T14:35:32Z",
+  "checked_at": "2026-11-19T14:35:36",
   "orders_file": "trader/pares/orders.json"
 }

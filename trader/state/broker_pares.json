@@ -69,6 +69,16 @@
       "id": "80eff4eb-6a68-4291-8a99-2b988ac96dd8",
       "approved_by": "robo (automatic, paper)",
       "why": "pares, entrada: FDX ficou para tr\u00e1s de UPS (z 1.73, correla\u00e7\u00e3o 0.67)"
+    },
+    {
+      "date": "2026-11-19",
+      "at": "2026-11-19T14:35:32Z",
+      "status": "placed",
+      "symbol": "YUM",
+      "side": "sell",
+      "id": "ec1f1916-1ce9-49e6-b4a4-1f9156514c79",
+      "approved_by": "robo (automatic, paper)",
+      "why": "pares, sa\u00edda: a dist\u00e2ncia de MCD/YUM voltou ao normal (z -0.23)"
     }
   ]
 }

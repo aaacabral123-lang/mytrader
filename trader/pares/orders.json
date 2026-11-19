@@ -3,12 +3,12 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "FDX",
-      "side": "buy",
-      "notional": "293",
+      "symbol": "YUM",
+      "side": "sell",
+      "qty": "1.867304891",
       "type": "market",
       "time_in_force": "day",
-      "why": "pares, entrada: FDX ficou para tr\u00e1s de UPS (z 1.73, correla\u00e7\u00e3o 0.67)"
+      "why": "pares, sa\u00edda: a dist\u00e2ncia de MCD/YUM voltou ao normal (z -0.23)"
     }
   ]
 }
