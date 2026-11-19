@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-19T23:05:00Z",
-  "items": [
-    {
-      "id": "rss:394b3e00-3d56-3cbe-a7a3-5cc7f1200191",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Adobe Systems (ADBE) Stock Moves -2.00%: What You Should Know",
-      "summary": "The latest trading day saw Adobe Systems (ADBE) settling at $221.68, representing a -2% change from its previous close.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-systems-adbe-stock-moves-214502521.html?.tsrc=rss",
-      "time": "2026-11-19T21:45:02+00:00",
-      "touches": [
-        "ADBE"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-19T23:35:00Z",
+  "items": [],
   "atencao": []
 }
