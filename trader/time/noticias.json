@@ -1,100 +1,134 @@
 {
-  "as_of": "2026-11-19T14:35:00Z",
+  "as_of": "2026-11-19T15:05:00Z",
   "items": [
     {
-      "id": "rss:da379aa9-baae-37c1-9144-b51689ab1b6d",
+      "id": "rss:776daf98-67ea-352a-821b-3f8d0267205e",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "YUM",
-      "title": "Yum! Brands (YUM) Stock Looks Fully Priced On Its 39% Run",
-      "summary": "Yum! Brands has delivered solid long term gains and now trades around US$160.8, which naturally raises the question of whether that price is well supported by the cash the business is expected to generate. With a Discounted Cash Flow (DCF) intrinsic value estimate available, the stock invites a closer look at how its cash flows line up against where the market has taken it. Over the past 5 years, Yum! Brands has returned 38.8%, putting real weight on the question of whether the current...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/yum-brands-yum-stock-looks-141623869.html?.tsrc=rss",
-      "time": "2026-11-19T14:16:23+00:00",
+      "ticker": "HD",
+      "title": "Lowe\u2019s earnings analysis: questions answered and next catalysts",
+      "summary": "Investing.com -- Lowe\u2019s Companies Inc (LOW) beat on the top and bottom lines, but gross margin took the hit. The stock closed at $222.78 on Nov 18 (3:59 PM EST). Pre-market was $218.56 (-1.89%) as of 9:22 AM EST Nov 19, as the market weighed the margin detail more than the headline beat.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lowe-earnings-analysis-questions-answered-145859534.html?.tsrc=rss",
+      "time": "2026-11-19T14:58:59+00:00",
       "touches": [
-        "YUM"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:e76c02cf-5139-3027-a6ae-21d94b61c414",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "SPY",
-      "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Ahead of Anthropic Stock Market Debut",
-      "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 1% and the actively traded",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-141450756.html?.tsrc=rss",
-      "time": "2026-11-19T14:14:50+00:00",
-      "touches": [
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:406ddda3-07c8-3412-9187-0f989131929a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "CreatorIQ Appoints Ray Ball as Chief People Officer to Support Next Phase of Global Growth",
-      "summary": "LOS ANGELES, November 19, 2026--CreatorIQ, the enterprise infrastructure for creator marketing, today announced the appointment of Ray Ball as Chief People Officer (CPO), expanding its executive leadership team as the company continues to grow its global customer base. Ball will report to CEO Chris Harrington and lead CreatorIQ\u2019s global people strategy, including talent acquisition, talent management and leadership development, benefits, and employee experience.",
-      "link": "https://finance.yahoo.com/small-business/articles/creatoriq-appoints-ray-ball-chief-140000530.html?.tsrc=rss",
-      "time": "2026-11-19T14:00:00+00:00",
-      "touches": [
-        "ADBE"
+        "HD"
       ],
       "tags": [
-        "deal",
-        "people"
+        "earnings"
       ],
       "new": true
     },
     {
-      "id": "rss:ffc60e6b-e39f-3437-8e43-17967032e289",
+      "id": "rss:2e509bef-8d2d-3013-933a-2c419f90e09e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Walmart Tops Q3 Forecasts; Why The Stock Is Lower",
+      "summary": "U.S. e-commerce sales surged 23% while advertising revenue grew 37%.",
+      "link": "https://finance.yahoo.com/m/2e509bef-8d2d-3013-933a-2c419f90e09e/walmart-tops-q3-forecasts%3B.html?.tsrc=rss",
+      "time": "2026-11-19T14:53:23+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:b1d450dd-b6c9-3915-9485-120ad70f18ca",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Walmart Stock Slips as Raised Outlook Meets Slower U.S. Sales",
+      "summary": "U.S. comparable sales rose 2.9%, down from 4.5% a year earlier",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-stock-slips-raised-outlook-145027546.html?.tsrc=rss",
+      "time": "2026-11-19T14:50:27+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:3c1822ff-1ec0-4854-8a32-bc00f62d093b",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Stocks boosted by Anthropic optimism as the company gets set for IPO",
+      "summary": "The 8:30 hosts, Julie Hyman, Pras Subramanian, and Jake Conley, tackle the top stories of the day, including Anthropic's (ANT) IPO, which priced its stock at $83. Plus, the long-awaited release of Grand Theft Auto 6 is finally here, and sales are expected to hit 3 billion dollars. Plus, Walmart (WMT) raised its outlook as wealthier shoppers continue to seek bargains.",
+      "link": "https://finance.yahoo.com/video/stocks-boosted-by-anthropic-optimism-as-the-company-gets-set-for-ipo-144936891.html?.tsrc=rss",
+      "time": "2026-11-19T14:49:36+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:84c73a3e-e10d-4eba-850d-cb5942943249",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Walmart's earnings reveal why it's becoming a tech powerhouse",
+      "summary": "Walmart (WMT) raised its full-year outlook following stronger-than-expected earnings, fueled in part by its growing e-commerce business and investments in technology. \"The 8:30\" hosts Julie Hyman, Pras Subramanian, and Jake Conley discuss Walmart's digital transformation, its expanding partnerships with tech companies, and why investors may want to start thinking of the retail giant as more than just a traditional retailer.",
+      "link": "https://finance.yahoo.com/video/walmarts-earnings-reveal-why-its-becoming-a-tech-powerhouse-143458993.html?.tsrc=rss",
+      "time": "2026-11-19T14:34:58+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:530694e8-62c7-3d58-9629-2e4638525fe8",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "Zacks Investment Ideas feature highlights: Lowe's Companies and Home Depot",
+      "summary": "Lowe's beat earnings and revenue estimates, but tariff refunds masked underlying weakness as margins compressed and its profit outlook remained unchanged.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-134200192.html?.tsrc=rss",
+      "time": "2026-11-19T13:42:00+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:3104aa8e-cae9-3c71-b9af-1deaa60efa83",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Compared to Estimates, Walmart (WMT) Q3 Earnings: A Look at Key Metrics",
+      "summary": "Although the revenue and EPS for Walmart (WMT) give a sense of how its business performed in the quarter ended October 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-walmart-wmt-q3-133003947.html?.tsrc=rss",
+      "time": "2026-11-19T13:30:03+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:8f77e0f5-6187-31f4-ab3c-944640d409fb",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "XOM",
-      "title": "Crude Gives Back Ground Midweek as Inventories Build and Surplus Talk Grows",
-      "summary": "Oil Market Daily News Commentary - Crude oil heads into Thursday down for the week so far. Brent futures settled at $91.95 a barrel on Wednesday, down $1.19, or 1.28%, while U.S. West Texas Intermediate fell $2.75, or 3.2%, to $83.26, its lowest since August 26, according to Reuters. Measured from Friday's settlements of $95.84 for Brent and $88.56 for WTI, Brent is down $3.89, or 4.06%, and WTI is down $5.30, or 5.98%, for the week to date, by our arithmetic. Energy companies with developments",
-      "link": "https://finance.yahoo.com/energy/articles/crude-gives-back-ground-midweek-140000929.html?.tsrc=rss",
-      "time": "2026-11-19T14:00:00+00:00",
+      "title": "Should Investors Buy, Hold or Sell Equinor Stock Post Q3 Earnings?",
+      "summary": "EQNR's strong earnings, rising production, expanding power business and discounted valuation boost its appeal despite commodity price and output risks.",
+      "link": "https://finance.yahoo.com/energy/articles/investors-buy-hold-sell-equinor-132900291.html?.tsrc=rss",
+      "time": "2026-11-19T13:29:00+00:00",
       "touches": [
         "XOM"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:1a8e3f9b-4a33-3d12-9f77-c6cee6fc4039",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XLV",
-      "title": "Stock Market News for Nov 19, 2026",
-      "summary": "U.S. stocks ended mixed on Wednesday, with the Nasdaq rebounding from its previous session's losses, while the S&P 500 clocked its fifth straight day of losses as investors digested NVIDIA's earnings and awaited Anthropic's initial public offering.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-19-132100065.html?.tsrc=rss",
-      "time": "2026-11-19T13:21:00+00:00",
-      "touches": [
-        "XLV"
       ],
       "tags": [
-        "earnings",
-        "capital"
+        "earnings"
       ],
-      "new": true
-    },
-    {
-      "id": "rss:c3dbf6fc-6dc1-35bb-882e-6bdd53e337f7",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XOM",
-      "title": "How XOM's Strong Balance Sheet Helps Manage Oil Market Volatility",
-      "summary": "ExxonMobil's low debt levels strengthen its balance sheet, helping it navigate oil price volatility and reward shareholders.",
-      "link": "https://finance.yahoo.com/energy/articles/xoms-strong-balance-sheet-helps-131400951.html?.tsrc=rss",
-      "time": "2026-11-19T13:14:00+00:00",
-      "touches": [
-        "XOM"
-      ],
-      "tags": [],
       "new": true
     }
   ],
