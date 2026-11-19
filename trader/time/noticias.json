@@ -1,63 +1,15 @@
 {
-  "as_of": "2026-11-19T17:05:00Z",
+  "as_of": "2026-11-19T17:35:00Z",
   "items": [
     {
-      "id": "rss:e46d0c79-5f7c-460a-bcfa-b1a56259bc95",
+      "id": "rss:d7dd5ecd-dc0a-3fdf-9b1e-12f680570b6d",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "WMT",
-      "title": "Sky-high diesel prices take a $2 billion bite out of Walmart",
-      "summary": "Diesel price inflation is hurting retail giant Walmart.",
-      "link": "https://finance.yahoo.com/markets/stocks/article/sky-high-diesel-prices-take-a-2-billion-bite-out-of-walmart-163930973.html?.tsrc=rss",
-      "time": "2026-11-19T16:39:30+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:3bb9853f-abfc-3f5e-94b2-b8c12ce5806e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Software as a Service (SaaS) Market to Reach USD 1,367.68 Billion by 2035 as AI Agents Reshape Pricing and Salesforce, Adobe, ServiceNow and Workday Build New AI Revenue Lines",
-      "summary": "North America Holds 46% of a USD 465.03 Billion Market, Software 85% and Large Enterprises 62%, While Vendors Shift From Seats to Agents: Precedence Research Segment, Company and Buyer IntelligenceOttawa, Nov. 19, 2026 (GLOBE NEWSWIRE) -- The global software as a service market is valued at USD 465.03 billion in 2026, up from USD 408.21 billion in 2025, and is projected to reach USD 1,367.68 billion by 2035 at a CAGR of 12.85%. The U.S. market is set to grow from USD 132.19 billion in 2025 to ar",
-      "link": "https://finance.yahoo.com/technology/articles/software-saas-market-reach-usd-160000054.html?.tsrc=rss",
-      "time": "2026-11-19T16:00:00+00:00",
-      "touches": [
-        "ADBE"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:2e1a75d3-ebc4-3e1c-8218-7c2c8244b640",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Walmart Full Year Forecast; Bath & Body Works Beats Estimates; Stock Movers",
-      "summary": "On this episode of Stock Movers: - Walmart (WMT) shares are reacting to news that the company raised its full-year forecasts for sales and earnings as its focus on prices and e-commerce expansion continue to win over shoppers. Walmart's earnings report suggests that US consumers are still spending ahead of the holiday shopping season. - Bath & Body Works (BBWI) shares are moving after it reported adjusted earnings per share for the third quarter that beat the average analyst estimate. - Palo Alto Networks (PAWN) shares are gaining after the cybersecurity firm delivered better-than-expected first-quarter results and raised its full-year outlook. It also agreed to buy the AI model platform Applied Compute in an $4.5 billion deal that's expected to move the firm into the neocloud business and enable development of cyber-specific AI models.",
-      "link": "https://finance.yahoo.com/video/walmart-full-forecast-bath-body-155851672.html?.tsrc=rss",
-      "time": "2026-11-19T15:58:51+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "earnings",
-        "deal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:12f4cc71-e9fb-344c-9662-be3638e9353e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Walmart Benefits from E-Commerce",
-      "summary": "Walmart\u00a0raised its full-year forecasts for sales and earnings, as the retailer's focus on prices and a steady expansion of e-commerce continue to win over shoppers across income groups. Walmart benefited from a boost in its e-commerce business, which grew 23% in the US in the recent quarter. The company is prioritizing faster delivery times, and says it can now deliver to 60% of US households in less than 30 minutes. Sarah Henry, Managing Director and Portfolio Manager at Logan Capital Management, discusses the e-commerce strategy, and whether large-scale, global companies like Walmart should be valued as tech stocks. She speaks with Bloomberg's Paul Sweeney and Scarlet Fu.",
-      "link": "https://finance.yahoo.com/video/walmart-benefits-e-commerce-155345982.html?.tsrc=rss",
-      "time": "2026-11-19T15:53:45+00:00",
+      "title": "Top Midday Stories: Anthropic Makes Nasdaq Debut; Walmart Raises Guidance But Shares Fall",
+      "summary": "All three major US stock indexes were down in late-morning trading Thursday as investors weighed Ant",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-anthropic-makes-172225485.html?.tsrc=rss",
+      "time": "2026-11-19T17:22:25+00:00",
       "touches": [
         "WMT"
       ],
@@ -67,85 +19,20 @@
       "new": true
     },
     {
-      "id": "rss:72f5a39c-f704-31dc-85fb-ea148b2a454c",
+      "id": "rss:989793b2-a25d-3b26-a707-923c1832b206",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "WMT",
-      "title": "Walmart Lifts Full-Year Outlook; US Comparable Sales Miss Views",
-      "summary": "Walmart (WMT) raised its full-year financial outlook Thursday, although the retail giant's fiscal th",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-lifts-full-outlook-us-154203292.html?.tsrc=rss",
-      "time": "2026-11-19T15:42:03+00:00",
+      "title": "Walmart Stocks Fall 1.95% Despite Earnings Beat and Raised Outlook",
+      "summary": "Revenue rose 5.2% to $188.8 billion and ads grew 25%, but a premium valuation set a high bar.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-stocks-fall-1-95-170518638.html?.tsrc=rss",
+      "time": "2026-11-19T17:05:18+00:00",
       "touches": [
         "WMT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:70ccafa2-e8db-33f2-8419-149c0104376b",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XOM",
-      "title": "Erste Group Upgrades ExxonMobil (XOM). Here\u2019s What Drove It.",
-      "summary": "We just published a list of the 10 Stocks Analysts Upgraded On Wednesday and ExxonMobil (NYSE:XOM) ranked 8th on this list. Hotter inflation has pushed the Federal Reserve back toward rate increases, and the bond market is repricing around it. The Labor Department said consumer prices rose 0.4% in October, the third straight monthly gain [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/erste-group-upgrades-exxonmobil-xom-154139627.html?.tsrc=rss",
-      "time": "2026-11-19T15:41:39+00:00",
-      "touches": [
-        "XOM"
-      ],
-      "tags": [
-        "analyst"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:d084f626-44d3-4738-9d8f-76752cbc5f16",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Anthropic makes its IPO debut on the Nasdaq: Sozzi hot takes and what to watch",
-      "summary": "Yahoo Finance Executive Editor Brian Sozzi gives his take on the Anthropic (ANT) IPO: expectations, numbers, CEO perspectives, and what analysts are saying as the company prepares to trade. Walmart (WMT) CFO John David Rainey joins the show to chat about the state of the consumer as wealthy shoppers look for bargains while some buyers panic and stock up on certain goods.",
-      "link": "https://finance.yahoo.com/video/anthropic-makes-its-ipo-debut-on-the-nasdaq-sozzi-hot-takes-and-what-to-watch-153538614.html?.tsrc=rss",
-      "time": "2026-11-19T15:35:38+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:0eeea43c-3bba-32a7-845d-c4a6f73ad7e7",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "WSM Q3 Earnings Beat Estimates on Brand Growth, Margin Gains",
-      "summary": "Williams-Sonoma beats Q3 earnings estimates as brand-wide sales growth and margin expansion boost profitability, while shares fall 6.9% premarket.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wsm-q3-earnings-beat-estimates-153200911.html?.tsrc=rss",
-      "time": "2026-11-19T15:32:00+00:00",
-      "touches": [
-        "HD"
       ],
       "tags": [
         "earnings"
       ],
-      "new": true
-    },
-    {
-      "id": "rss:3044218a-90d4-330e-825a-10cb3d79daff",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "DIA",
-      "title": "ANT Marks Momentous Occasion for Wall Street",
-      "summary": "By initial haul, it's the biggest IPO of all time; we'll see over the course of the trading day how it compares with SpaceX's (SPCX) IPO back in June.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ant-marks-momentous-occasion-wall-143000887.html?.tsrc=rss",
-      "time": "2026-11-19T14:30:00+00:00",
-      "touches": [
-        "DIA",
-        "SPY"
-      ],
-      "tags": [],
       "new": true
     }
   ],
