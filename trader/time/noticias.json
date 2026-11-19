@@ -1,35 +1,56 @@
 {
-  "as_of": "2026-11-19T21:05:00Z",
+  "as_of": "2026-11-19T21:35:00Z",
   "items": [
     {
-      "id": "rss:c6e539aa-c4ba-37f7-b3f3-18a8598caf50",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XLV",
-      "title": "Sector Update: Healthcare Stocks Retreat Late Afternoon",
-      "summary": "Healthcare stocks declined late Thursday afternoon, with the NYSE Healthcare Index falling 2.1% and",
-      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-retreat-afternoon-205159656.html?.tsrc=rss",
-      "time": "2026-11-19T20:51:59+00:00",
-      "touches": [
-        "XLV"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:a2cdae06-41ba-3a57-b7c4-a9a68e2412b5",
+      "id": "rss:5ba15b86-39cc-3cc9-9656-23c2d29d36c6",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "HD",
-      "title": "Sector Update: Consumer Stocks Fall Late Afternoon",
-      "summary": "Consumer stocks declined late Thursday afternoon with the State Street Consumer Staples Select Secto",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-fall-afternoon-204435029.html?.tsrc=rss",
-      "time": "2026-11-19T20:44:35+00:00",
+      "title": "The Home Depot Declares Quarterly Dividend of $2.33",
+      "summary": "The Home Depot\u00ae, the world's largest home improvement retailer, today announced that its board of directors declared a quarterly cash dividend of $2.33 per share. The dividend is payable on December 17, 2026, to shareholders of record on the close of business on December 3, 2026. This is the 159th consecutive quarter the company has paid a cash dividend.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-declares-quarterly-dividend-211500958.html?.tsrc=rss",
+      "time": "2026-11-19T21:15:00+00:00",
       "touches": [
-        "HD",
+        "HD"
+      ],
+      "tags": [
+        "capital"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:e708c7fb-78cf-3ecd-8e02-1c729136461c",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "Is Home Depot (HD) Undervalued Following Its Q3 Results Guidance Reset And CEO Change?",
+      "summary": "Home Depot (HD) just combined three big updates in one week, reporting third quarter results, tightening its 2026 outlook, and confirming a leadership reshuffle that puts longtime finance chief Richard McPhail in the CEO seat. Home Depot\u2019s share price has had a choppy year, with a 1-month share price return of 8.96% that contrasts with a year-to-date decline of 2.37%. The 1-year total shareholder return of 3.8% and 3-year total shareholder return of 17.94% point to momentum that has been...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-undervalued-following-211247836.html?.tsrc=rss",
+      "time": "2026-11-19T21:12:47+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [
+        "earnings",
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:0fe04378-9aa8-3d82-b116-5a7d8c4429de",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Walmart Inc (WMT) (Q3 2027) Earnings Call Highlights: Raised Guidance, 23% US E-Commerce Growth ...",
+      "summary": "Walmart Inc (WMT) beats sales guidance with 4.4% constant-currency growth, lifts full-year outlook, and leans into advertising, marketplace and fast delivery to outpace rising costs.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-inc-wmt-q3-2027-210048614.html?.tsrc=rss",
+      "time": "2026-11-19T21:00:48+00:00",
+      "touches": [
         "WMT"
       ],
-      "tags": [],
+      "tags": [
+        "earnings"
+      ],
       "new": true
     }
   ],

@@ -1,8 +1,8 @@
 {
   "noticias": {
-    "result": "2 novas de fontes confi\u00e1veis (2 descartadas), 0 comunicados graves, 0 manchetes de aten\u00e7\u00e3o",
+    "result": "3 novas de fontes confi\u00e1veis (2 descartadas), 0 comunicados graves, 0 manchetes de aten\u00e7\u00e3o",
     "ok": true,
-    "last_run": "2026-11-19T21:05:00Z",
+    "last_run": "2026-11-19T21:35:00Z",
     "last_day": "2026-11-19"
   },
   "politicos": {
@@ -54,9 +54,9 @@
     "last_day": "2026-11-19"
   },
   "contador": {
-    "result": "2 lotes, resultado n\u00e3o realizado $-49.97",
+    "result": "2 lotes, resultado n\u00e3o realizado $-87.72",
     "ok": true,
-    "last_run": "2026-11-18T21:35:00Z",
-    "last_day": "2026-11-18"
+    "last_run": "2026-11-19T21:35:00Z",
+    "last_day": "2026-11-19"
   }
 }
