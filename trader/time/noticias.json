@@ -1,56 +1,34 @@
 {
-  "as_of": "2026-11-19T21:35:00Z",
+  "as_of": "2026-11-19T22:05:00Z",
   "items": [
     {
-      "id": "rss:5ba15b86-39cc-3cc9-9656-23c2d29d36c6",
+      "id": "rss:82d35cdc-7359-3558-9c56-82f16f4b8915",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "HD",
-      "title": "The Home Depot Declares Quarterly Dividend of $2.33",
-      "summary": "The Home Depot\u00ae, the world's largest home improvement retailer, today announced that its board of directors declared a quarterly cash dividend of $2.33 per share. The dividend is payable on December 17, 2026, to shareholders of record on the close of business on December 3, 2026. This is the 159th consecutive quarter the company has paid a cash dividend.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-declares-quarterly-dividend-211500958.html?.tsrc=rss",
-      "time": "2026-11-19T21:15:00+00:00",
+      "ticker": "XOM",
+      "title": "ExxonMobil Holdings (XOM) Gets Mozambique Approval For $30 Billion Rovuma LNG Plan",
+      "summary": "ExxonMobil Holdings (NYSE:XOM) secured Mozambican government approval for its redesigned Rovuma LNG project, a roughly US$30b development. The revised Rovuma LNG plan includes higher production capacity and a layout aimed at materially lower emissions compared with the earlier concept. Regulatory clearance positions ExxonMobil to consider a final investment decision on Rovuma LNG by the end of this year. The approval of ExxonMobil's updated US$30b Rovuma LNG plan only captures one part of...",
+      "link": "https://finance.yahoo.com/energy/articles/exxonmobil-holdings-xom-gets-mozambique-211612645.html?.tsrc=rss",
+      "time": "2026-11-19T21:16:12+00:00",
       "touches": [
-        "HD"
+        "XOM"
       ],
-      "tags": [
-        "capital"
-      ],
+      "tags": [],
       "new": true
     },
     {
-      "id": "rss:e708c7fb-78cf-3ecd-8e02-1c729136461c",
+      "id": "rss:4eebf059-993c-380e-ad8a-ae70901cbd3a",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "HD",
-      "title": "Is Home Depot (HD) Undervalued Following Its Q3 Results Guidance Reset And CEO Change?",
-      "summary": "Home Depot (HD) just combined three big updates in one week, reporting third quarter results, tightening its 2026 outlook, and confirming a leadership reshuffle that puts longtime finance chief Richard McPhail in the CEO seat. Home Depot\u2019s share price has had a choppy year, with a 1-month share price return of 8.96% that contrasts with a year-to-date decline of 2.37%. The 1-year total shareholder return of 3.8% and 3-year total shareholder return of 17.94% point to momentum that has been...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-undervalued-following-211247836.html?.tsrc=rss",
-      "time": "2026-11-19T21:12:47+00:00",
+      "ticker": "XLV",
+      "title": "Healthcare ETFs Shine as Investors Rotate Out of Tech",
+      "summary": "Many investors are moving money out of AI and technology and into defensive sectors.",
+      "link": "https://finance.yahoo.com/healthcare/articles/healthcare-etfs-shine-investors-rotate-204700146.html?.tsrc=rss",
+      "time": "2026-11-19T20:47:00+00:00",
       "touches": [
-        "HD"
+        "XLV"
       ],
-      "tags": [
-        "earnings",
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:0fe04378-9aa8-3d82-b116-5a7d8c4429de",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Walmart Inc (WMT) (Q3 2027) Earnings Call Highlights: Raised Guidance, 23% US E-Commerce Growth ...",
-      "summary": "Walmart Inc (WMT) beats sales guidance with 4.4% constant-currency growth, lifts full-year outlook, and leans into advertising, marketplace and fast delivery to outpace rising costs.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-inc-wmt-q3-2027-210048614.html?.tsrc=rss",
-      "time": "2026-11-19T21:00:48+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "earnings"
-      ],
+      "tags": [],
       "new": true
     }
   ],
