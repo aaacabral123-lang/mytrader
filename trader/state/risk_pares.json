@@ -4,11 +4,11 @@
   "results": [
     {
       "index": 1,
-      "symbol": "YUM",
-      "side": "sell",
-      "amount": "1.867304891 shares",
-      "value_usd": 296.8,
-      "fingerprint": "eceb5a0a3f17841f",
+      "symbol": "MRK",
+      "side": "buy",
+      "amount": "$292",
+      "value_usd": 292.0,
+      "fingerprint": "87d8acb25d986658",
       "verdict": "PASS",
       "reasons": [],
       "warnings": []
@@ -17,8 +17,8 @@
   "pass": 1,
   "block": 0,
   "warnings": [],
-  "cash_after": 297.4,
-  "prices_as_of": "2026-11-19T14:35:32Z",
-  "checked_at": "2026-11-19T14:35:36",
+  "cash_after": 4.25,
+  "prices_as_of": "2026-11-19T20:05:16Z",
+  "checked_at": "2026-11-19T20:05:17",
   "orders_file": "trader/pares/orders.json"
 }

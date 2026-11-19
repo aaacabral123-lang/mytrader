@@ -1,54 +1,5 @@
 {
-  "as_of": "2026-11-19T18:05:00Z",
-  "new": [
-    {
-      "doc_id": "20036844",
-      "type": "P",
-      "type_name": "Periodic Transaction Report",
-      "last": "Kean",
-      "first": "Thomas H.",
-      "name": "Hon. Thomas H. Kean Jr",
-      "district": "NJ07",
-      "year": 2026,
-      "filed": "2026-11-19",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036844.pdf"
-    },
-    {
-      "doc_id": "20036864",
-      "type": "P",
-      "type_name": "Periodic Transaction Report",
-      "last": "Sewell",
-      "first": "Terri A.",
-      "name": "Hon. Terri A. Sewell",
-      "district": "AL07",
-      "year": 2026,
-      "filed": "2026-11-18",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036864.pdf"
-    },
-    {
-      "doc_id": "20036855",
-      "type": "P",
-      "type_name": "Periodic Transaction Report",
-      "last": "Rulli",
-      "first": "Michael",
-      "name": "Hon. Michael Rulli",
-      "district": "OH06",
-      "year": 2026,
-      "filed": "2026-11-18",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036855.pdf"
-    },
-    {
-      "doc_id": "20036849",
-      "type": "P",
-      "type_name": "Periodic Transaction Report",
-      "last": "Cohen",
-      "first": "Steve",
-      "name": "Hon. Steve Cohen",
-      "district": "TN09",
-      "year": 2026,
-      "filed": "2026-11-18",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036849.pdf"
-    }
-  ],
+  "as_of": "2026-11-19T20:05:00Z",
+  "new": [],
   "hits": []
 }

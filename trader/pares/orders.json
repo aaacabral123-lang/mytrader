@@ -3,12 +3,12 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "YUM",
-      "side": "sell",
-      "qty": "1.867304891",
+      "symbol": "MRK",
+      "side": "buy",
+      "notional": "292",
       "type": "market",
       "time_in_force": "day",
-      "why": "pares, sa\u00edda: a dist\u00e2ncia de MCD/YUM voltou ao normal (z -0.23)"
+      "why": "pares, entrada: MRK ficou para tr\u00e1s de PFE (z 1.86, correla\u00e7\u00e3o 0.59)"
     }
   ]
 }

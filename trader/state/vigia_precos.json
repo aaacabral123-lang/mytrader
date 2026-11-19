@@ -1,36 +1,36 @@
 {
-  "as_of": "2026-11-19T19:35:32Z",
+  "as_of": "2026-11-19T20:05:10Z",
   "source": "yahoo",
   "note": "Delayed quotes for alerts and sizing checks. Your broker's price is the one that fills.",
   "prices": {
-    "ADBE": 222.01,
+    "ADBE": 221.075,
     "BLK": 1210.11,
     "GOOGL": 290.802,
     "MSFT": 543.02,
     "NVDA": 178.26,
     "ORCL": 119.385,
     "QQQ": 698.27,
-    "SPY": 720.98,
+    "SPY": 716.25,
     "UNP": 297.275,
     "XLK": 170.25,
     "XLE": 62.21,
     "REGN": 908.95,
-    "VOO": 662.66,
-    "HD": 337.135,
+    "VOO": 658.33,
+    "HD": 336.31,
     "V": 414.56,
-    "XOM": 158.96,
+    "XOM": 158.655,
     "YUM": 158.46,
-    "WMT": 126.49,
-    "XLB": 49.65,
+    "WMT": 125.97,
+    "XLB": 49.44,
     "XLY": 119.25,
-    "DIA": 493.63,
-    "FDX": 316.16,
-    "XLV": 177.86
+    "DIA": 491.09,
+    "FDX": 314.845,
+    "XLV": 177.09
   },
   "detail": {
     "ADBE": {
       "prev_close": 226.2,
-      "time": "2026-11-19T19:35:28Z",
+      "time": "2026-11-19T20:05:08Z",
       "source": "yahoo"
     },
     "BLK": {
@@ -65,7 +65,7 @@
     },
     "SPY": {
       "prev_close": 730.2,
-      "time": "2026-11-19T19:35:33Z",
+      "time": "2026-11-19T20:05:12Z",
       "source": "yahoo"
     },
     "UNP": {
@@ -90,12 +90,12 @@
     },
     "VOO": {
       "prev_close": 671.31,
-      "time": "2026-11-19T19:35:30Z",
+      "time": "2026-11-19T20:05:11Z",
       "source": "yahoo"
     },
     "HD": {
       "prev_close": 337.64,
-      "time": "2026-11-19T19:35:19Z",
+      "time": "2026-11-19T20:05:11Z",
       "source": "yahoo"
     },
     "V": {
@@ -105,7 +105,7 @@
     },
     "XOM": {
       "prev_close": 160.58,
-      "time": "2026-11-19T19:35:31Z",
+      "time": "2026-11-19T20:05:15Z",
       "source": "yahoo"
     },
     "YUM": {
@@ -115,12 +115,12 @@
     },
     "WMT": {
       "prev_close": 127.36,
-      "time": "2026-11-19T19:35:33Z",
+      "time": "2026-11-19T20:05:12Z",
       "source": "yahoo"
     },
     "XLB": {
       "prev_close": 50.46,
-      "time": "2026-11-19T19:35:30Z",
+      "time": "2026-11-19T20:05:09Z",
       "source": "yahoo"
     },
     "XLY": {
@@ -130,17 +130,17 @@
     },
     "DIA": {
       "prev_close": 501.73,
-      "time": "2026-11-19T19:35:31Z",
+      "time": "2026-11-19T20:05:06Z",
       "source": "yahoo"
     },
     "FDX": {
       "prev_close": 318.31,
-      "time": "2026-11-19T19:35:31Z",
+      "time": "2026-11-19T20:04:58Z",
       "source": "yahoo"
     },
     "XLV": {
       "prev_close": 181.17,
-      "time": "2026-11-19T19:35:31Z",
+      "time": "2026-11-19T20:05:13Z",
       "source": "yahoo"
     }
   }
