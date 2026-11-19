@@ -1,77 +1,48 @@
 {
-  "as_of": "2026-11-19T15:05:00Z",
+  "as_of": "2026-11-19T15:35:00Z",
   "items": [
     {
-      "id": "rss:776daf98-67ea-352a-821b-3f8d0267205e",
+      "id": "rss:6b6628e4-8f1b-47c4-82d4-ac7090ab6074",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Walmart CFO: \u2018Value and speed\u2019 is the winning combo amid $4 Gas",
+      "summary": "Walmart (WMT) CFO John David Rainey joins Yahoo Finance Executive Editor Brian Sozzi and Senior Reporter Brooke DiPalma to discuss the company's latest earnings report, crediting value, faster delivery, and early holiday sales running ahead of last year.",
+      "link": "https://finance.yahoo.com/video/walmart-cfo-value-and-speed-is-the-winning-combo-amid-4-gas-152801412.html?.tsrc=rss",
+      "time": "2026-11-19T15:28:01+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [
+        "earnings",
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:559a0298-a3db-35d3-bdf0-edfc26af963c",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "HD",
-      "title": "Lowe\u2019s earnings analysis: questions answered and next catalysts",
-      "summary": "Investing.com -- Lowe\u2019s Companies Inc (LOW) beat on the top and bottom lines, but gross margin took the hit. The stock closed at $222.78 on Nov 18 (3:59 PM EST). Pre-market was $218.56 (-1.89%) as of 9:22 AM EST Nov 19, as the market weighed the margin detail more than the headline beat.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/lowe-earnings-analysis-questions-answered-145859534.html?.tsrc=rss",
-      "time": "2026-11-19T14:58:59+00:00",
+      "title": "Here\u2019s Why the Fund Continues to Favour Home Depot (HD) Despite the Pullback",
+      "summary": "Carillon Tower Advisers, an investment management company, released its third-quarter 2026 investor letter for the \u201cCarillon Eagle Growth & Income Fund\u201d. The letter can be downloaded here. In the third quarter, the S&P 500 Index rose 2.3%, its best quarter since the pandemic, driven by strong underlying fundamentals amid significant headwinds like Middle Eastern conflicts [\u2026]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-fund-continues-favour-home-151332700.html?.tsrc=rss",
+      "time": "2026-11-19T15:13:32+00:00",
       "touches": [
         "HD"
       ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:2e509bef-8d2d-3013-933a-2c419f90e09e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Walmart Tops Q3 Forecasts; Why The Stock Is Lower",
-      "summary": "U.S. e-commerce sales surged 23% while advertising revenue grew 37%.",
-      "link": "https://finance.yahoo.com/m/2e509bef-8d2d-3013-933a-2c419f90e09e/walmart-tops-q3-forecasts%3B.html?.tsrc=rss",
-      "time": "2026-11-19T14:53:23+00:00",
-      "touches": [
-        "WMT"
-      ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:b1d450dd-b6c9-3915-9485-120ad70f18ca",
+      "id": "rss:5a0e557d-d8a5-4e2f-bacb-74ace39ed2c3",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "WMT",
-      "title": "Walmart Stock Slips as Raised Outlook Meets Slower U.S. Sales",
-      "summary": "U.S. comparable sales rose 2.9%, down from 4.5% a year earlier",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-stock-slips-raised-outlook-145027546.html?.tsrc=rss",
-      "time": "2026-11-19T14:50:27+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:3c1822ff-1ec0-4854-8a32-bc00f62d093b",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Stocks boosted by Anthropic optimism as the company gets set for IPO",
-      "summary": "The 8:30 hosts, Julie Hyman, Pras Subramanian, and Jake Conley, tackle the top stories of the day, including Anthropic's (ANT) IPO, which priced its stock at $83. Plus, the long-awaited release of Grand Theft Auto 6 is finally here, and sales are expected to hit 3 billion dollars. Plus, Walmart (WMT) raised its outlook as wealthier shoppers continue to seek bargains.",
-      "link": "https://finance.yahoo.com/video/stocks-boosted-by-anthropic-optimism-as-the-company-gets-set-for-ipo-144936891.html?.tsrc=rss",
-      "time": "2026-11-19T14:49:36+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:84c73a3e-e10d-4eba-850d-cb5942943249",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Walmart's earnings reveal why it's becoming a tech powerhouse",
-      "summary": "Walmart (WMT) raised its full-year outlook following stronger-than-expected earnings, fueled in part by its growing e-commerce business and investments in technology. \"The 8:30\" hosts Julie Hyman, Pras Subramanian, and Jake Conley discuss Walmart's digital transformation, its expanding partnerships with tech companies, and why investors may want to start thinking of the retail giant as more than just a traditional retailer.",
-      "link": "https://finance.yahoo.com/video/walmarts-earnings-reveal-why-its-becoming-a-tech-powerhouse-143458993.html?.tsrc=rss",
-      "time": "2026-11-19T14:34:58+00:00",
+      "title": "Is Target finally catching up to Walmart?",
+      "summary": "Walmart (WMT) posted third quarter earnings results that beat Wall Street's expectations. Yahoo Finance Executive Editor Brian Sozzi shares a few of his thoughts on the print, especially compared with Target's (TGT) recent results.",
+      "link": "https://finance.yahoo.com/video/is-target-finally-catching-up-to-walmart-150741787.html?.tsrc=rss",
+      "time": "2026-11-19T15:07:41+00:00",
       "touches": [
         "WMT"
       ],
@@ -81,50 +52,16 @@
       "new": true
     },
     {
-      "id": "rss:530694e8-62c7-3d58-9629-2e4638525fe8",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "Zacks Investment Ideas feature highlights: Lowe's Companies and Home Depot",
-      "summary": "Lowe's beat earnings and revenue estimates, but tariff refunds masked underlying weakness as margins compressed and its profit outlook remained unchanged.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-134200192.html?.tsrc=rss",
-      "time": "2026-11-19T13:42:00+00:00",
-      "touches": [
-        "HD"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:3104aa8e-cae9-3c71-b9af-1deaa60efa83",
+      "id": "rss:feeb8392-b768-3050-8fc5-e4628fae9723",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "WMT",
-      "title": "Compared to Estimates, Walmart (WMT) Q3 Earnings: A Look at Key Metrics",
-      "summary": "Although the revenue and EPS for Walmart (WMT) give a sense of how its business performed in the quarter ended October 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-walmart-wmt-q3-133003947.html?.tsrc=rss",
-      "time": "2026-11-19T13:30:03+00:00",
+      "title": "WMT Q3 Earnings Beat Estimates, Strong Digital Sales Lift Outlook",
+      "summary": "Walmart beats Q3 earnings and revenue estimates as e-commerce, advertising and membership growth drive results, prompting higher fiscal 2027 guidance.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wmt-q3-earnings-beat-estimates-135500115.html?.tsrc=rss",
+      "time": "2026-11-19T13:55:00+00:00",
       "touches": [
         "WMT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:8f77e0f5-6187-31f4-ab3c-944640d409fb",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XOM",
-      "title": "Should Investors Buy, Hold or Sell Equinor Stock Post Q3 Earnings?",
-      "summary": "EQNR's strong earnings, rising production, expanding power business and discounted valuation boost its appeal despite commodity price and output risks.",
-      "link": "https://finance.yahoo.com/energy/articles/investors-buy-hold-sell-equinor-132900291.html?.tsrc=rss",
-      "time": "2026-11-19T13:29:00+00:00",
-      "touches": [
-        "XOM"
       ],
       "tags": [
         "earnings"
