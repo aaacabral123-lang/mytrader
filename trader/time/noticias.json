@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-19T09:05:00Z",
-  "items": [],
+  "as_of": "2026-11-19T09:35:00Z",
+  "items": [
+    {
+      "id": "rss:45d19a9b-7384-4652-982e-2509afdb7ba4",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise ahead of historic Anthropic IPO",
+      "summary": "Anthropic's public trading debut under the ticker symbol ANT marks a pivotal moment for the artificial intelligence boom.",
+      "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-090910916.html?.tsrc=rss",
+      "time": "2026-11-19T09:09:10+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
