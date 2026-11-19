@@ -1,163 +1,33 @@
 {
-  "as_of": "2026-11-19T20:35:00Z",
+  "as_of": "2026-11-19T21:05:00Z",
   "items": [
     {
-      "id": "rss:314d790f-d69b-3683-96e1-e73b6e3afe93",
+      "id": "rss:c6e539aa-c4ba-37f7-b3f3-18a8598caf50",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "WMT",
-      "title": "Why JPMorgan\u2019s 13x P/E isn\u2019t the bargain it looks like",
-      "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-jpmorgan-13x-p-e-202913875.html?.tsrc=rss",
-      "time": "2026-11-19T20:29:13+00:00",
+      "ticker": "XLV",
+      "title": "Sector Update: Healthcare Stocks Retreat Late Afternoon",
+      "summary": "Healthcare stocks declined late Thursday afternoon, with the NYSE Healthcare Index falling 2.1% and",
+      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-retreat-afternoon-205159656.html?.tsrc=rss",
+      "time": "2026-11-19T20:51:59+00:00",
       "touches": [
-        "WMT"
+        "XLV"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:2a3dc039-5d33-38ad-92d8-639d011370eb",
+      "id": "rss:a2cdae06-41ba-3a57-b7c4-a9a68e2412b5",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "HD",
-      "title": "Ross Stores Earnings Due After Rival TJX Surged On Holiday Outlook",
-      "summary": "The Ross Stores report after the close marks the peak of S&P 500 retail earnings.",
-      "link": "https://finance.yahoo.com/m/2a3dc039-5d33-38ad-92d8-639d011370eb/ross-stores-earnings-due.html?.tsrc=rss",
-      "time": "2026-11-19T20:02:32+00:00",
+      "title": "Sector Update: Consumer Stocks Fall Late Afternoon",
+      "summary": "Consumer stocks declined late Thursday afternoon with the State Street Consumer Staples Select Secto",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-fall-afternoon-204435029.html?.tsrc=rss",
+      "time": "2026-11-19T20:44:35+00:00",
       "touches": [
         "HD",
         "WMT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:ee6ea646-f73d-366f-8a4c-f658d3b26876",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MRK",
-      "title": "Moderna: Can the Vaccine Business Fund Its Next Phase of Growth?",
-      "summary": "MRNA's ambitious oncology investments and expanding vaccine portfolio drive growth, but rising costs and uncertain revenues test its financial recovery.",
-      "link": "https://finance.yahoo.com/healthcare/articles/moderna-vaccine-business-fund-next-171700046.html?.tsrc=rss",
-      "time": "2026-11-19T17:17:00+00:00",
-      "touches": [
-        "MRK"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:bb582ea8-81c2-3bc4-8730-8226312dc844",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MRK",
-      "title": "Halozyme Provides Update on German Preliminary Injunction Hearing",
-      "summary": "Halozyme Therapeutics, Inc. (Nasdaq: HALO) (Halozyme), today provided an update on the German preliminary injunction hearing that overturned the decision issued in December 2025, ordering Merck to refrain from distributing and offering Keytruda SC in Germany.",
-      "link": "https://finance.yahoo.com/healthcare/articles/halozyme-provides-german-preliminary-injunction-142000460.html?.tsrc=rss",
-      "time": "2026-11-19T14:20:00+00:00",
-      "touches": [
-        "MRK"
-      ],
-      "tags": [
-        "capital"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:5557977a-9b6b-3737-8552-4d5ce8bf982a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MRK",
-      "title": "The Zacks Analyst Blog Highlights Merck, Caterpillar,  Union Pacific, Daily Journal and Community Bancorp",
-      "summary": "Zacks highlights Merck, Caterpillar, Union Pacific, Daily Journal and Community Bancorp, examining growth drivers, competitive pressures and key investment risks.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-merck-134800098.html?.tsrc=rss",
-      "time": "2026-11-19T13:48:00+00:00",
-      "touches": [
-        "MRK"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:9262f8cc-0eb4-390e-9391-550c1e094ea1",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MRK",
-      "title": "Investors Heavily Search Merck & Co., Inc. (MRK): Here is What You Need to Know",
-      "summary": "Merck (MRK) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-merck-co-130005433.html?.tsrc=rss",
-      "time": "2026-11-19T13:00:05+00:00",
-      "touches": [
-        "MRK"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:96067f16-9d2c-3a9d-934e-7628a0305fad",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MRK",
-      "title": "Merck and Isomorphic Labs Enter Strategic Research Collaboration",
-      "summary": "RAHWAY, N.J., November 19, 2026--Merck (NYSE: MRK), known as MSD outside of the United States and Canada, and Isomorphic Labs, an AI-first drug design and development company, today announced a research collaboration that brings together Isomorphic Labs\u2019 AI approach to drug discovery with Merck\u2019s rich proprietary data resources and deep discovery experience.",
-      "link": "https://finance.yahoo.com/healthcare/articles/merck-isomorphic-labs-enter-strategic-114500965.html?.tsrc=rss",
-      "time": "2026-11-19T11:45:00+00:00",
-      "touches": [
-        "MRK"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:4d0a2a75-53d9-32e9-946e-07bfeb3af7b1",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MRK",
-      "title": "What Does Merck (MRK) Losing Nemtabrutinib Mean For Its Blood Cancer Pipeline?",
-      "summary": "Merck (NYSE:MRK) has halted clinical development of its blood cancer drug candidate nemtabrutinib after a recent internal review. The decision ends all Phase 3 BELLWAVE program studies after data indicated the benefit to risk profile did not justify continuation. This move closes out one of Merck's late stage hematology assets and removes a potential future option in its oncology portfolio. The decision to discontinue nemtabrutinib and end the BELLWAVE program deserves weighing against the...",
-      "link": "https://finance.yahoo.com/healthcare/articles/does-merck-mrk-losing-nemtabrutinib-001452377.html?.tsrc=rss",
-      "time": "2026-11-19T00:14:52+00:00",
-      "touches": [
-        "MRK"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "sec:0000310158-26-000255",
-      "source": "SEC EDGAR",
-      "kind": "filing",
-      "form": "8-K",
-      "ticker": "MRK",
-      "title": "Merck & Co., Inc. filed a 8-K: director or officer change",
-      "summary": "Current report",
-      "items": [
-        "5.02",
-        "9.01"
-      ],
-      "important": true,
-      "link": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000255/0000310158-26-000255-index.htm",
-      "time": "2026-11-18T21:27:51+00:00",
-      "touches": [
-        "MRK"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:5b81c528-7781-3444-a08e-e521a4480c30",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MRK",
-      "title": "Top Stock Reports for Merck, Caterpillar & Union Pacific",
-      "summary": "Merck, Caterpillar and Union Pacific benefit from strong demand, strategic growth drivers and solid cash generation, but face key competitive and execution risks.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-merck-caterpillar-202700360.html?.tsrc=rss",
-      "time": "2026-11-18T20:27:00+00:00",
-      "touches": [
-        "MRK"
       ],
       "tags": [],
       "new": true
