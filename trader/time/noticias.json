@@ -1,62 +1,15 @@
 {
-  "as_of": "2026-11-19T11:35:00Z",
+  "as_of": "2026-11-19T14:05:00Z",
   "items": [
     {
-      "id": "rss:ff52caf9-e84f-33c3-ab40-f0c8d1785f7d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "YUM",
-      "title": "Yum! Brands (YUM) Faces Franchise Fallout After 84 Store Operator Files Chapter 11",
-      "summary": "Yum! Brands (NYSE:YUM) franchisee Tasty Chick'n LLC filed for Chapter 11 bankruptcy, affecting 84 KFC and Taco Bell outlets. The filing cites declining sales and rising costs at the franchised restaurants as key pressures on the business. Yum! Brands has moved to terminate its franchise agreements with Tasty Chick'n LLC as part of the restructuring process. The Tasty Chick'n LLC Chapter 11 bankruptcy and related Yum! Brands franchise terminations are only one factor investors should weigh...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/yum-brands-yum-faces-franchise-110842549.html?.tsrc=rss",
-      "time": "2026-11-19T11:08:42+00:00",
-      "touches": [
-        "YUM"
-      ],
-      "tags": [
-        "risk"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:02fd6aff-e357-3651-bce7-2e84ef25aea2",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "What State Street Consumer Discretionary SPDR (XLY) Sold: Amazon Leads on Nov. 17",
-      "summary": "The fund sold $216.7 million of stock on Tuesday, Nov. 17, cutting all 47 of its positions and buying nothing.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-consumer-discretionary-spdr-110530754.html?.tsrc=rss",
-      "time": "2026-11-19T11:05:30+00:00",
-      "touches": [
-        "HD"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:a4d1d4dd-219a-37de-aac4-a581f3a525d0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XLV",
-      "title": "What State Street Health Care SPDR (XLV) Sold: Eli Lilly Leads on Nov. 17",
-      "summary": "The fund cut all 60 of its positions, selling $250.1 million of stock, led by Eli Lilly at $42.3 million.",
-      "link": "https://finance.yahoo.com/healthcare/articles/state-street-health-care-spdr-110508688.html?.tsrc=rss",
-      "time": "2026-11-19T11:05:08+00:00",
-      "touches": [
-        "XLV"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:93de20be-43c2-39ba-ade7-56864eb8c7a7",
+      "id": "rss:51a8288a-9984-3683-a8d5-462947852bf5",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "WMT",
-      "title": "State Street Consumer Staples SPDR (XLP) Sells $48.7 Million of Walmart on Nov. 17",
-      "summary": "The $14.79 billion fund sold $429.9 million across all 33 of its positions and bought nothing.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-consumer-staples-spdr-110437927.html?.tsrc=rss",
-      "time": "2026-11-19T11:04:37+00:00",
+      "title": "Update: US Equity Futures Rise Pre-Bell as Traders Anticipate Anthropic's Stock Market Debut",
+      "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-135511181.html?.tsrc=rss",
+      "time": "2026-11-19T13:55:11+00:00",
       "touches": [
         "WMT"
       ],
@@ -64,59 +17,109 @@
       "new": true
     },
     {
-      "id": "rss:bf3624d8-5871-39b9-8a3d-f235e444e4dd",
+      "id": "rss:81d1d9ec-afbb-3e6f-882b-7e094a9a305e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Stock Market Today: Dow Rises As Walmart Falls On Earnings; Anthropic IPO Set To Soar 25% (Live Coverage)",
+      "summary": "Stock Market Today: The Dow Jones index rises Thursday even as Walmart drops on earnings. The Anthropic IPO is set to soar 25%.",
+      "link": "https://finance.yahoo.com/m/81d1d9ec-afbb-3e6f-882b-7e094a9a305e/stock-market-today%3A-dow-rises.html?.tsrc=rss",
+      "time": "2026-11-19T13:51:10+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:65618736-0325-3838-962a-ddfe19b5fcab",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "FDX",
+      "title": "PostalAnnex Franchisees Expand Local Business Portfolio with Third Sacramento-Area Location in Roseville",
+      "summary": "Annex Brands, Inc., one of the leading franchisors in the packing, shipping and office services industries, is excited to announce the opening of its newest PostalAnnex location in Roseville, CA to new owners Aarondeep Hira and Manraj Sangha. This new PostalAnnex is set to offer a wide range of essential shipping and office services to the local community, making it easier to provide more service to more people in more places.",
+      "link": "https://finance.yahoo.com/small-business/articles/postalannex-franchisees-expand-local-business-135100675.html?.tsrc=rss",
+      "time": "2026-11-19T13:51:00+00:00",
+      "touches": [
+        "FDX"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:91520d38-1f51-3949-b3fa-e214c8b540ce",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Walmart Sales Rise Powered by E-Commerce Gains",
+      "summary": "The retail behemoth reported its total revenue grew 5.2% in the third quarter to $188.8 billion, and it raised its guidance for the full year.",
+      "link": "https://www.wsj.com/business/earnings/walmart-wmt-3q-earnings-report-2026-6e658c54?.tsrc=rss",
+      "time": "2026-11-19T13:44:00+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:f60661fd-58b7-33fd-8bad-c6fe5bbc0376",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Coca-Cola Stock Could Lose Its Fizz. Its Valuation Is the Highest in 25 Years.",
+      "summary": "Investors are paying too much for Coke and glossing over its challenge as the top seller of soda in a health-conscious world.",
+      "link": "https://finance.yahoo.com/m/f60661fd-58b7-33fd-8bad-c6fe5bbc0376/coca-cola-stock-could-lose.html?.tsrc=rss",
+      "time": "2026-11-19T13:01:00+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:e0d07465-1085-3963-9825-16ec79cf5f88",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "DIA",
-      "title": "What SPDR Dow Jones Industrial Avg ETF (DIA) Bought: Goldman Sachs Leads on Nov. 17",
-      "summary": "The fund added $481.4 million across all 30 holdings, with Goldman Sachs Group leading the buys at $49.5 million.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spdr-dow-jones-industrial-avg-110433749.html?.tsrc=rss",
-      "time": "2026-11-19T11:04:33+00:00",
+      "title": "Five Straight Losses, One Divergence: Where the Major Indexes Stand Now",
+      "summary": "Canada News Group News Commentary - Wall Street heads into Thursday's session with the S&P 500 on its longest losing streak since June. The benchmark fell 16.90 points, or 0.23%, on Wednesday to 7,323.63, its fifth straight decline, according to CNBC, while the Nasdaq Composite rose 101.50 points, or 0.42%, to 24,429.88 and the Dow Jones Industrial Average fell 561.25 points, or 1.11%, to 50,198.17. Index funds that track the benchmarks in this commentary include: SPDR S&P 500 ETF Trust (NYSE Ar",
+      "link": "https://finance.yahoo.com/markets/world-indices/articles/five-straight-losses-one-divergence-130000760.html?.tsrc=rss",
+      "time": "2026-11-19T13:00:00+00:00",
       "touches": [
-        "DIA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:892a8349-6b0b-3d91-8c6d-99cccda3fbe9",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "SPY",
-      "title": "SPDR S&P 500 ETF (SPY) Adds Apple and Nvidia on Nov. 17",
-      "summary": "The fund bought $1.35 billion of stock and sold nothing, lifting all 503 of its positions.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/spdr-p-500-etf-spy-110414065.html?.tsrc=rss",
-      "time": "2026-11-19T11:04:14+00:00",
-      "touches": [
+        "DIA",
         "SPY"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:b17195d7-1417-3e97-8e5c-16bed6317b16",
+      "id": "rss:b6808a17-7b63-3208-94b1-ce7ba14b1536",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "HD",
-      "title": "Capital Group Div Value (CGDV) Adds Home Depot and Constellation on Nov. 17",
-      "summary": "The $39.13 billion fund bought $237.5 million of Home Depot and $175.7 million of Constellation Energy, both new positions, while trimming Cisco by $185.4 million.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/capital-group-div-value-cgdv-110403334.html?.tsrc=rss",
-      "time": "2026-11-19T11:04:03+00:00",
+      "ticker": "FDX",
+      "title": "From Financial Innovation to AI-Powered Aviation: Threads of Connectivity Part Two Launches on NatGeo.com",
+      "summary": "A pilot receives a warning that prevents a runway collision. A vast financial network connects families separated by borders. A medical shipment crosses continents to reach a patient in need.",
+      "link": "https://finance.yahoo.com/technology/articles/financial-innovation-ai-powered-aviation-130000406.html?.tsrc=rss",
+      "time": "2026-11-19T13:00:00+00:00",
       "touches": [
-        "HD"
+        "FDX"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:31804d0c-72b5-30a6-841f-eecc6621d1e5",
+      "id": "rss:2f125afe-a05a-388b-b762-268dcba0ce82",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "WMT",
-      "title": "ETFs Are Net Sellers of Walmart (WMT) on Nov. 17",
-      "summary": "ETFs sold a net $51.2 million of Walmart stock on Tuesday, Nov. 17.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-walmart-wmt-110305093.html?.tsrc=rss",
-      "time": "2026-11-19T11:03:05+00:00",
+      "title": "US Equity Futures Rise Pre-Bell as Traders Anticipate Anthropic's Stock Market Debut",
+      "summary": "US equity futures were higher pre-bell Thursday as traders geared up for the market debut of Claude",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-125837258.html?.tsrc=rss",
+      "time": "2026-11-19T12:58:37+00:00",
       "touches": [
         "WMT"
       ],
@@ -124,250 +127,173 @@
       "new": true
     },
     {
-      "id": "rss:e0906aa2-8750-3fdf-ba69-ed99128a8023",
+      "id": "rss:77e09d45-32f9-3c5a-816d-1c5eca135103",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "SPY",
-      "title": "ETFs Are Buying Bank of America (BAC) on Tuesday",
-      "summary": "ETFs bought $32.2 million of Bank of America stock on Tuesday, Nov. 17.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-bank-america-bac-110214667.html?.tsrc=rss",
-      "time": "2026-11-19T11:02:14+00:00",
+      "ticker": "WMT",
+      "title": "Walmart beats third quarter expectations, raises guidance",
+      "summary": "Investing.com -- Walmart Inc. (NASDAQ: WMT) reported third-quarter results that exceeded analyst expectations, with adjusted earnings per share of $0.65 compared to the consensus estimate of $0.64. Revenue reached $188.8 billion, surpassing the $187.27 billion analyst estimate and marking a 5.2% increase from $179.5 billion in the prior-year period.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-beats-third-quarter-expectations-124112923.html?.tsrc=rss",
+      "time": "2026-11-19T12:41:12+00:00",
       "touches": [
-        "SPY"
+        "WMT"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:38d8e6ad-c1d5-31b0-8b5c-7d9ab5829447",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Walmart (WMT) Tops Q3 Earnings and Revenue Estimates",
+      "summary": "Walmart (WMT) delivered earnings and revenue surprises of +1.56% and +1.20%, respectively, for the quarter ended October 2026. Do the numbers hold clues to what lies ahead for the stock?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-tops-q3-earnings-121502391.html?.tsrc=rss",
+      "time": "2026-11-19T12:15:02+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:8f5e4a74-0478-367e-908a-623d53161991",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "YUM",
+      "title": "Yum! Brands (YUM) Moves To End Franchises, Is A 10.6% Undervalued View Still Intact?",
+      "summary": "Tasty Chick'n's Chapter 11 filing, covering 84 KFC and KFC/Taco Bell sites, has pushed Yum! Brands (YUM) to declare defaults and begin franchise termination, putting royalty collections and restaurant continuity in focus for shareholders. For context, Yum! Brands\u2019 share price has climbed over recent months, with a 30-day share price return of 7.32% and a 90-day move of 5.56%, while the 1-year total shareholder return of 10.52% and 3-year total shareholder return of 32.17% point to momentum...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/yum-brands-yum-moves-end-121216777.html?.tsrc=rss",
+      "time": "2026-11-19T12:12:16+00:00",
+      "touches": [
+        "YUM"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:4c46b7c8-7dea-3f33-9fad-f7ed73431031",
+      "id": "rss:9bdcfb5f-0c96-397c-8c47-c0b7b71c929e",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "SPY",
-      "title": "ETFs Bought $33.8 Million of Caterpillar (CAT) on Nov. 17",
-      "summary": "Forty ETFs bought Caterpillar shares against 14 sellers in Tuesday's session.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-33-8-million-110211105.html?.tsrc=rss",
-      "time": "2026-11-19T11:02:11+00:00",
+      "ticker": "WMT",
+      "title": "Anthropic's Stock Market Debut Lifts Wall Street Futures Premarket Thursday",
+      "summary": "Wall Street futures were tracking higher premarket Thursday as investors anticipate artificial intel",
+      "link": "https://finance.yahoo.com/news/anthropic-apos-stock-market-debut-120733310.html?.tsrc=rss",
+      "time": "2026-11-19T12:07:33+00:00",
       "touches": [
-        "SPY"
+        "WMT"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:de0a2fb8-1bfd-3a55-98e8-0f4989c48ae0",
+      "id": "rss:92aa4e55-b493-3f18-aef4-b271ad00961e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Walmart: Fiscal Q3 Earnings Snapshot",
+      "summary": "(WMT) on Thursday reported fiscal third-quarter earnings of $4.The Bentonville, Arkansas-based company said it had net income of 62 cents per share.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-fiscal-q3-earnings-snapshot-120626110.html?.tsrc=rss",
+      "time": "2026-11-19T12:06:26+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:c89b9fe3-24bc-33ea-93a5-448fd190f88e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Walmart raises its outlook for the year for the 3rd time after a solid quarter",
+      "summary": "NEW YORK (AP) \u2014 Walmart reported solid third quarter sales gains as the retailer continues to attract a growing number of customers across the economic spectrum that are seeking to cut costs in the face of rising prices. The company topped Wall Street\u2019s profit and sales projections, and it raised its annual guidance for the third time this year, but the outlook released Thursday was more conservative than industry analysts had expected.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-raises-outlook-3rd-time-120322526.html?.tsrc=rss",
+      "time": "2026-11-19T12:03:22+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:38b35b7e-0104-32d2-9e93-b650469d0750",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "SPY",
-      "title": "ETFs Are Buying ExxonMobil (XOM) on Nov. 17",
-      "summary": "ETFs bought $41.8 million of ExxonMobil stock on Tuesday.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-exxonmobil-xom-nov-110201088.html?.tsrc=rss",
-      "time": "2026-11-19T11:02:01+00:00",
+      "title": "Wall Street Subdued So Far in Q4: What Lies Ahead?",
+      "summary": "S&P 500 ETFs struggle so far in Q4, but strong spending, earnings growth and post-midterm trends offer hope for a rebound.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-subdued-far-q4-120000528.html?.tsrc=rss",
+      "time": "2026-11-19T12:00:00+00:00",
       "touches": [
-        "SPY",
-        "XOM"
+        "SPY"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:8dfcfde2-dedb-383d-a455-44f9e95d31dc",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Walmart reports revenue growth of 5.2%, up 4.5% in constant currency (cc)",
+      "summary": "BENTONVILLE, Ark., November 19, 2026--Walmart Inc. (Nasdaq: WMT):",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-reports-revenue-growth-5-120000596.html?.tsrc=rss",
+      "time": "2026-11-19T12:00:00+00:00",
+      "touches": [
+        "WMT"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:123747fc-14ee-39de-9b4e-92318fc3456b",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "SPY",
-      "title": "41 ETFs Add to UnitedHealth (UNH) Holdings on Nov. 17",
-      "summary": "ETFs bought a net $42.3 million of UnitedHealth stock, with 41 buyers against 15 sellers.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/41-etfs-add-unitedhealth-unh-110155115.html?.tsrc=rss",
-      "time": "2026-11-19T11:01:55+00:00",
-      "touches": [
-        "SPY"
+      "id": "sec:0000104169-26-000168",
+      "source": "SEC EDGAR",
+      "kind": "filing",
+      "form": "8-K",
+      "ticker": "WMT",
+      "title": "Walmart Inc. filed a 8-K: earnings results",
+      "summary": "Current report",
+      "items": [
+        "2.02",
+        "9.01"
       ],
-      "tags": [],
+      "important": true,
+      "link": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000168/0000104169-26-000168-index.htm",
+      "time": "2026-11-19T11:58:52+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [
+        "earnings"
+      ],
       "new": true
     },
     {
-      "id": "rss:3698224e-f899-3531-9c70-264a0596b06a",
+      "id": "rss:65710a12-1ba7-3685-a3c3-30d9e0878af7",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "SPY",
-      "title": "ETFs Are Buying Visa (V) on Tuesday",
-      "summary": "ETFs bought $47.6 million of Visa stock on Tuesday, Nov. 17.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-visa-v-tuesday-110148858.html?.tsrc=rss",
-      "time": "2026-11-19T11:01:48+00:00",
+      "ticker": "WMT",
+      "title": "Anthropic, Google, Palo Alto, Walmart, and More Stocks That Explain Today\u2019s Market",
+      "summary": "The AI trade gets a shot in the arm as investors await Anthropic\u2019s IPO, as the Claude developer aims for a $1.5 trillion valuation.",
+      "link": "https://finance.yahoo.com/m/65710a12-1ba7-3685-a3c3-30d9e0878af7/anthropic%2C-google%2C-palo-alto%2C.html?.tsrc=rss",
+      "time": "2026-11-19T11:33:00+00:00",
       "touches": [
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:cb385d9d-b8c3-323d-afdb-3136cdb34454",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "SPY",
-      "title": "ETFs Bought $49.7 Million of Chevron (CVX) on Nov. 17",
-      "summary": "38 ETFs bought Chevron shares versus 17 that sold, for a net inflow of $49.7 million.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-49-7-million-110142732.html?.tsrc=rss",
-      "time": "2026-11-19T11:01:42+00:00",
-      "touches": [
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:d2e08974-98db-3caa-a825-a29e543f7ccc",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "SPY",
-      "title": "Alphabet (GOOG) Sees $52 Million in Net ETF Buying on Tuesday",
-      "summary": "ETFs added $52 million of Alphabet (GOOG) shares, with 46 funds buying and 13 selling.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-goog-sees-52-million-110136028.html?.tsrc=rss",
-      "time": "2026-11-19T11:01:36+00:00",
-      "touches": [
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:f646f634-c7c9-3f88-a120-848f8b885274",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "SPY",
-      "title": "Goldman Sachs (GS) Sees $64.6 Million in Net ETF Buying on Nov. 17",
-      "summary": "ETFs bought $64.6 million of Goldman Sachs stock on Tuesday, Nov. 17.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-gs-sees-64-110126444.html?.tsrc=rss",
-      "time": "2026-11-19T11:01:26+00:00",
-      "touches": [
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:afaae184-1204-3a24-a836-df4cd3b5778c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "SPY",
-      "title": "ETFs Bought $82.9 Million of Broadcom (AVGO) on Nov. 17",
-      "summary": "Broadcom shares saw net ETF buying of $82.9 million on Tuesday.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-82-9-million-110119740.html?.tsrc=rss",
-      "time": "2026-11-19T11:01:19+00:00",
-      "touches": [
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:2010635b-669d-38ae-995a-afa708065f3d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "SPY",
-      "title": "Dominion Energy (D) Sees $123.0 Million in Net ETF Buying on Nov. 17",
-      "summary": "ETFs bought $123.0 million of Dominion Energy stock on Tuesday, Nov. 17.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dominion-energy-d-sees-123-110107437.html?.tsrc=rss",
-      "time": "2026-11-19T11:01:07+00:00",
-      "touches": [
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:fe9156a6-2051-3658-a810-cb5a899218a0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "SPY",
-      "title": "ETFs Are Buying Tractor Supply (TSCO) on Nov. 17",
-      "summary": "ETFs bought $144.8 million of Tractor Supply stock on Tuesday.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-tractor-supply-tsco-110101280.html?.tsrc=rss",
-      "time": "2026-11-19T11:01:01+00:00",
-      "touches": [
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:27c315de-8870-347d-bff8-3e7620fc5130",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "SPY",
-      "title": "25 ETFs Add to BlackRock (BLK) Holdings on Nov. 17",
-      "summary": "ETFs bought $151.6 million of BlackRock stock on Tuesday, with 25 buyers against 13 sellers.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/25-etfs-add-blackrock-blk-110054904.html?.tsrc=rss",
-      "time": "2026-11-19T11:00:54+00:00",
-      "touches": [
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:181d6a37-3caf-3205-89d4-69ac328b2707",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "SPY",
-      "title": "ETFs Are Buying Constellation Energy (CEG) on Tuesday",
-      "summary": "ETFs bought $173.8 million of Constellation Energy on Tuesday, with 36 buyers against 11 sellers.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-constellation-energy-ceg-110051815.html?.tsrc=rss",
-      "time": "2026-11-19T11:00:51+00:00",
-      "touches": [
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:f3632506-e0cd-3361-ad6a-92f62b48a255",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "35 ETFs Add to Home Depot (HD) Holdings on Tuesday",
-      "summary": "ETFs bought $265.9 million of Home Depot stock on Tuesday, Nov. 17.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/35-etfs-add-home-depot-110047965.html?.tsrc=rss",
-      "time": "2026-11-19T11:00:47+00:00",
-      "touches": [
-        "HD",
-        "SPY"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:a4e9b127-0a68-3d8d-bcb8-5c919e05c72e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "SPY",
-      "title": "ETF Activity: QQQ Outflows Lead Fund Moves on Nov. 17",
-      "summary": "Large-cap tech funds led a mixed day as broad-market inflows offset sector-level selling.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/etf-activity-qqq-outflows-lead-110012726.html?.tsrc=rss",
-      "time": "2026-11-19T11:00:12+00:00",
-      "touches": [
-        "SPY"
+        "WMT"
       ],
       "tags": [],
       "new": true
     }
   ],
-  "atencao": [
-    {
-      "id": "rss:ff52caf9-e84f-33c3-ab40-f0c8d1785f7d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "YUM",
-      "title": "Yum! Brands (YUM) Faces Franchise Fallout After 84 Store Operator Files Chapter 11",
-      "summary": "Yum! Brands (NYSE:YUM) franchisee Tasty Chick'n LLC filed for Chapter 11 bankruptcy, affecting 84 KFC and Taco Bell outlets. The filing cites declining sales and rising costs at the franchised restaurants as key pressures on the business. Yum! Brands has moved to terminate its franchise agreements with Tasty Chick'n LLC as part of the restructuring process. The Tasty Chick'n LLC Chapter 11 bankruptcy and related Yum! Brands franchise terminations are only one factor investors should weigh...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/yum-brands-yum-faces-franchise-110842549.html?.tsrc=rss",
-      "time": "2026-11-19T11:08:42+00:00",
-      "touches": [
-        "YUM"
-      ],
-      "tags": [
-        "risk"
-      ],
-      "new": true
-    }
-  ]
+  "atencao": []
 }
