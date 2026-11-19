@@ -1,36 +1,5 @@
 {
-  "as_of": "2026-11-19T22:05:00Z",
-  "items": [
-    {
-      "id": "rss:82d35cdc-7359-3558-9c56-82f16f4b8915",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XOM",
-      "title": "ExxonMobil Holdings (XOM) Gets Mozambique Approval For $30 Billion Rovuma LNG Plan",
-      "summary": "ExxonMobil Holdings (NYSE:XOM) secured Mozambican government approval for its redesigned Rovuma LNG project, a roughly US$30b development. The revised Rovuma LNG plan includes higher production capacity and a layout aimed at materially lower emissions compared with the earlier concept. Regulatory clearance positions ExxonMobil to consider a final investment decision on Rovuma LNG by the end of this year. The approval of ExxonMobil's updated US$30b Rovuma LNG plan only captures one part of...",
-      "link": "https://finance.yahoo.com/energy/articles/exxonmobil-holdings-xom-gets-mozambique-211612645.html?.tsrc=rss",
-      "time": "2026-11-19T21:16:12+00:00",
-      "touches": [
-        "XOM"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:4eebf059-993c-380e-ad8a-ae70901cbd3a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XLV",
-      "title": "Healthcare ETFs Shine as Investors Rotate Out of Tech",
-      "summary": "Many investors are moving money out of AI and technology and into defensive sectors.",
-      "link": "https://finance.yahoo.com/healthcare/articles/healthcare-etfs-shine-investors-rotate-204700146.html?.tsrc=rss",
-      "time": "2026-11-19T20:47:00+00:00",
-      "touches": [
-        "XLV"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-19T22:35:00Z",
+  "items": [],
   "atencao": []
 }
