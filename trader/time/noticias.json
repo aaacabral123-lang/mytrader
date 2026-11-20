@@ -1,59 +1,21 @@
 {
-  "as_of": "2026-11-20T13:35:00Z",
+  "as_of": "2026-11-20T14:05:00Z",
   "items": [
     {
-      "id": "rss:b0f222b2-7cec-349b-980d-55b5347453a7",
+      "id": "rss:a92de70d-6b69-32a8-9851-53d2962d9703",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MRK",
-      "title": "Which Merck ETF Best Balances Its Drug Upside And Risks?",
-      "summary": "Owning Merck stock outright means you feel every bump in its specific issues yourself. Simply Wall St flags that Merck\u2019s profit margins of 3.6% are far lower than last year\u2019s 29.6%, and it notes the risk that blockbuster cancer drug exclusivity eventually fades. An exchange traded fund that owns Merck alongside dozens of other healthcare businesses mutes how much those Merck specific swings move your total portfolio, and tempers any upside from the stock at the same time. Today\u2019s news is a...",
-      "link": "https://finance.yahoo.com/healthcare/articles/merck-etf-best-balances-drug-130853271.html?.tsrc=rss",
-      "time": "2026-11-20T13:08:53+00:00",
+      "ticker": "SPY",
+      "title": "Exchange-Traded Funds, Equity Futures Fall Pre-Bell Friday Amid Continued AI Stock Selloff",
+      "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.9% and the actively tr",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-140012643.html?.tsrc=rss",
+      "time": "2026-11-20T14:00:12+00:00",
       "touches": [
-        "MRK",
-        "XLV"
+        "SPY"
       ],
       "tags": [],
       "new": true
-    },
-    {
-      "id": "rss:733c8a4b-739d-3100-ab04-6ed678551ce6",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "FDX",
-      "title": "Consortium of Advent, FedEx, A&R and PPF Completes Acquisition of InPost",
-      "summary": "AMSTERDAM & LUXEMBOURG, November 20, 2026--Funds managed and/or advised by Advent International, L.P. and/or its affiliates (\"Advent\"), FCWB LLC, a wholly owned subsidiary of FedEx Corporation (\"FedEx\"), A&R Investments Ltd. (\"A&R\") and PPF Group (\"PPF\"), together forming the Consortium, today announce the completion of the acquisition of InPost S.A. (\"InPost\" or the \"Company\"). InPost is now wholly-owned by the Consortium and has delisted from Euronext Amsterdam.",
-      "link": "https://finance.yahoo.com/small-business/articles/consortium-advent-fedex-r-ppf-130000846.html?.tsrc=rss",
-      "time": "2026-11-20T13:00:00+00:00",
-      "touches": [
-        "FDX"
-      ],
-      "tags": [
-        "deal",
-        "risk"
-      ],
-      "new": true
     }
   ],
-  "atencao": [
-    {
-      "id": "rss:733c8a4b-739d-3100-ab04-6ed678551ce6",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "FDX",
-      "title": "Consortium of Advent, FedEx, A&R and PPF Completes Acquisition of InPost",
-      "summary": "AMSTERDAM & LUXEMBOURG, November 20, 2026--Funds managed and/or advised by Advent International, L.P. and/or its affiliates (\"Advent\"), FCWB LLC, a wholly owned subsidiary of FedEx Corporation (\"FedEx\"), A&R Investments Ltd. (\"A&R\") and PPF Group (\"PPF\"), together forming the Consortium, today announce the completion of the acquisition of InPost S.A. (\"InPost\" or the \"Company\"). InPost is now wholly-owned by the Consortium and has delisted from Euronext Amsterdam.",
-      "link": "https://finance.yahoo.com/small-business/articles/consortium-advent-fedex-r-ppf-130000846.html?.tsrc=rss",
-      "time": "2026-11-20T13:00:00+00:00",
-      "touches": [
-        "FDX"
-      ],
-      "tags": [
-        "deal",
-        "risk"
-      ],
-      "new": true
-    }
-  ]
+  "atencao": []
 }
