@@ -1,5 +1,38 @@
 {
-  "as_of": "2026-11-20T10:35:00Z",
-  "items": [],
+  "as_of": "2026-11-20T11:05:00Z",
+  "items": [
+    {
+      "id": "rss:9940c5e8-2265-37e1-9fb0-f12b61e8fd4e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "Home Depot (HD) Sees $76.7 Million in Net ETF Buying on Nov. 18",
+      "summary": "31 ETFs bought Home Depot shares versus 19 that sold on Wednesday.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-sees-76-110053110.html?.tsrc=rss",
+      "time": "2026-11-20T11:00:53+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:2d99e619-b8d3-3822-936e-f0fc3a67f802",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "DIA",
+      "title": "ETF Activity: SPY Leads $11.63 Billion Exit on Nov. 18",
+      "summary": "Broad-market funds bled assets while dividend and technology ETFs attracted fresh money.",
+      "link": "https://finance.yahoo.com/markets/options/articles/etf-activity-spy-leads-11-110010858.html?.tsrc=rss",
+      "time": "2026-11-20T11:00:10+00:00",
+      "touches": [
+        "DIA"
+      ],
+      "tags": [
+        "capital"
+      ],
+      "new": true
+    }
+  ],
   "atencao": []
 }
