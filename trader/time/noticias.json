@@ -1,15 +1,45 @@
 {
-  "as_of": "2026-11-20T11:05:00Z",
+  "as_of": "2026-11-20T11:35:00Z",
   "items": [
     {
-      "id": "rss:9940c5e8-2265-37e1-9fb0-f12b61e8fd4e",
+      "id": "rss:3cd6bc70-3fc9-3b1c-86f6-d938cd9cdb86",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MRK",
+      "title": "iShares U.S. Healthcare ETF (IYH) Sells $17.4 Million of Eli Lilly on Wednesday",
+      "summary": "The fund sold $105.9 million of stock and bought nothing, cutting all 99 of its positions.",
+      "link": "https://finance.yahoo.com/healthcare/articles/ishares-u-healthcare-etf-iyh-110527822.html?.tsrc=rss",
+      "time": "2026-11-20T11:05:27+00:00",
+      "touches": [
+        "MRK"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:7a7c8fd2-f7f7-37cb-b4f2-b27149d52f44",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "State Street Consumer Staples SPDR (XLP) Adds Walmart and Costco on Nov. 18",
+      "summary": "The fund bought $145.9 million of stock and increased all 33 of its positions, led by $16.5 million of Walmart and $14.2 million of Costco.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-consumer-staples-spdr-110512500.html?.tsrc=rss",
+      "time": "2026-11-20T11:05:12+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:78e28c00-eae2-36a7-b158-6b47cc159544",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "HD",
-      "title": "Home Depot (HD) Sees $76.7 Million in Net ETF Buying on Nov. 18",
-      "summary": "31 ETFs bought Home Depot shares versus 19 that sold on Wednesday.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-sees-76-110053110.html?.tsrc=rss",
-      "time": "2026-11-20T11:00:53+00:00",
+      "title": "What State Street Consumer Discretionary SPDR (XLY) Bought: Amazon Leads on Nov. 18",
+      "summary": "The $22.83 billion fund bought $172.9 million of stock and sold nothing, lifting all 47 positions.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-consumer-discretionary-spdr-110457372.html?.tsrc=rss",
+      "time": "2026-11-20T11:04:57+00:00",
       "touches": [
         "HD"
       ],
@@ -17,20 +47,232 @@
       "new": true
     },
     {
-      "id": "rss:2d99e619-b8d3-3822-936e-f0fc3a67f802",
+      "id": "rss:e138d072-886d-34ce-8f31-0f1776376a23",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MRK",
+      "title": "What State Street Health Care SPDR (XLV) Sold: Eli Lilly Leads on Wednesday",
+      "summary": "The fund sold $335.2 million of stock on Wednesday, Nov. 18, cutting all 60 of its positions and buying nothing.",
+      "link": "https://finance.yahoo.com/healthcare/articles/state-street-health-care-spdr-110415075.html?.tsrc=rss",
+      "time": "2026-11-20T11:04:15+00:00",
+      "touches": [
+        "MRK",
+        "XLV"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:f49a7ceb-29ea-3a18-9fbf-bafed53735ef",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "DIA",
-      "title": "ETF Activity: SPY Leads $11.63 Billion Exit on Nov. 18",
-      "summary": "Broad-market funds bled assets while dividend and technology ETFs attracted fresh money.",
-      "link": "https://finance.yahoo.com/markets/options/articles/etf-activity-spy-leads-11-110010858.html?.tsrc=rss",
-      "time": "2026-11-20T11:00:10+00:00",
+      "title": "What SPDR Dow Jones Industrial Avg ETF (DIA) Bought: Goldman Leads on Nov. 18",
+      "summary": "The fund added $536.8 million in new buying across 29 positions, led by a $57.0 million purchase of Goldman Sachs.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spdr-dow-jones-industrial-avg-110357839.html?.tsrc=rss",
+      "time": "2026-11-20T11:03:57+00:00",
       "touches": [
         "DIA"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:7d938407-33b7-357c-962d-fc6405004233",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "Capital Group Dividend Value (CGDV) Adds BlackRock and Dominion on Nov. 18",
+      "summary": "The $39.09 billion fund bought $720.1 million of stock on Wednesday, with $496.0 million net bought across 56 increased positions.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/capital-group-dividend-value-cgdv-110350011.html?.tsrc=rss",
+      "time": "2026-11-20T11:03:50+00:00",
+      "touches": [
+        "HD"
       ],
       "tags": [
         "capital"
       ],
+      "new": true
+    },
+    {
+      "id": "rss:79021931-3294-3385-bbf4-4c09e1e78eb8",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "State Street Energy SPDR (XLE) Sells $174.6 Million of Exxon on Wednesday",
+      "summary": "The $39.74 billion fund sold $727.9 million of stock and bought nothing, cutting all 21 of its positions.",
+      "link": "https://finance.yahoo.com/energy/articles/state-street-energy-spdr-xle-110346712.html?.tsrc=rss",
+      "time": "2026-11-20T11:03:46+00:00",
+      "touches": [
+        "XOM"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:75a729aa-4c09-32ca-822b-89b83707afc4",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "SPY",
+      "title": "SPDR S&P 500 ETF (SPY) Sells Apple and Microsoft on Nov. 18",
+      "summary": "The fund sold $11.62 billion of stock and bought nothing, cutting 502 positions while adding none.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/spdr-p-500-etf-spy-110339564.html?.tsrc=rss",
+      "time": "2026-11-20T11:03:39+00:00",
+      "touches": [
+        "SPY"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:a2e878dc-6217-3577-b996-01e765b46a24",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "SPY",
+      "title": "ETFs Are Net Sellers of Johnson & Johnson (JNJ) on Wednesday",
+      "summary": "ETFs sold a net $144.2 million of Johnson & Johnson on Wednesday, Nov. 18.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-johnson-johnson-110303332.html?.tsrc=rss",
+      "time": "2026-11-20T11:03:03+00:00",
+      "touches": [
+        "SPY"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:8ece95e0-69fe-3892-b9d8-63410f003958",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "SPY",
+      "title": "ETFs Are Net Sellers of JPMorgan Chase (JPM) on Nov. 18",
+      "summary": "ETFs sold a net $151.2 million of JPMorgan Chase on Wednesday, Nov. 18.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-jpmorgan-chase-110300552.html?.tsrc=rss",
+      "time": "2026-11-20T11:03:00+00:00",
+      "touches": [
+        "SPY"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:1a068cf3-806d-3e50-abe7-fb45648a4447",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "SPY",
+      "title": "ETFs Are Net Sellers of Broadcom (AVGO) on Nov. 18",
+      "summary": "ETFs sold a net $188.4 million of Broadcom (AVGO) on Nov. 18.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-broadcom-avgo-110250063.html?.tsrc=rss",
+      "time": "2026-11-20T11:02:50+00:00",
+      "touches": [
+        "SPY"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:798ba3af-206a-3eb8-9803-73ca898fcd3d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "SPY",
+      "title": "ETFs Are Net Sellers of Chevron (CVX) on Nov. 18",
+      "summary": "ETFs sold $197.3 million of Chevron stock on Nov. 18.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-chevron-cvx-110244445.html?.tsrc=rss",
+      "time": "2026-11-20T11:02:44+00:00",
+      "touches": [
+        "SPY"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:bea201e9-53a9-3c2c-a84a-6fd57872db60",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "SPY",
+      "title": "ETFs Are Net Sellers of Alphabet (GOOGL) on Nov. 18",
+      "summary": "ETFs sold a net $243.5 million of Alphabet (GOOGL) shares on Nov. 18.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-alphabet-googl-110228712.html?.tsrc=rss",
+      "time": "2026-11-20T11:02:28+00:00",
+      "touches": [
+        "SPY"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:42ff1b64-04c2-394a-af92-6eefd10a8633",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "SPY",
+      "title": "ETFs Are Net Sellers of Eli Lilly (LLY) on Nov. 18",
+      "summary": "ETFs sold $252.2 million of Eli Lilly (LLY) on Wednesday, with 39 buying and 20 selling.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-eli-lilly-110221691.html?.tsrc=rss",
+      "time": "2026-11-20T11:02:21+00:00",
+      "touches": [
+        "SPY"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:ba484d94-143f-3131-9ffa-ddf3c013095e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "SPY",
+      "title": "ETFs Are Net Sellers of ExxonMobil (XOM) on Nov. 18",
+      "summary": "ETFs sold $305.7 million of ExxonMobil on Wednesday, Nov. 18, with 32 funds buying and 26 selling.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-exxonmobil-xom-110214806.html?.tsrc=rss",
+      "time": "2026-11-20T11:02:14+00:00",
+      "touches": [
+        "SPY",
+        "XOM"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:d6e78a62-82fe-3521-bd8c-87cb8493cb73",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "SPY",
+      "title": "ETFs Are Net Sellers of Amazon (AMZN) on Nov. 18",
+      "summary": "ETFs sold a net $411.8 million of Amazon.com (AMZN) shares in Wednesday's session.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-amazon-amzn-110209755.html?.tsrc=rss",
+      "time": "2026-11-20T11:02:09+00:00",
+      "touches": [
+        "SPY"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:37301cf3-cca1-32da-9857-0bfc50622d25",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "SPY",
+      "title": "ETFs Are Net Sellers of NVIDIA (NVDA) on Wednesday",
+      "summary": "ETFs sold $547.5 million of NVIDIA stock on Wednesday, with 55 buyers and 27 sellers.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-nvidia-nvda-110205069.html?.tsrc=rss",
+      "time": "2026-11-20T11:02:05+00:00",
+      "touches": [
+        "SPY"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:e1950f4c-0edd-3c86-9e66-1c24714c82be",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Anthropic's record IPO nets huge windfall for L.A. investors",
+      "summary": "L.A. investors and others are set to make billions of dollars from Anthropic's record IPO.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/anthropics-record-ipo-nets-huge-110000462.html?.tsrc=rss",
+      "time": "2026-11-20T11:00:00+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [],
       "new": true
     }
   ],
