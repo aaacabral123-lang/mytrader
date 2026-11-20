@@ -1,35 +1,53 @@
 {
-  "as_of": "2026-11-20T14:35:00Z",
+  "as_of": "2026-11-20T15:05:00Z",
   "items": [
     {
-      "id": "rss:dbd58bd0-7d56-33fe-9285-d91958fff503",
+      "id": "rss:ef6be8cd-6948-3768-953c-6b951007790b",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "XLV",
-      "title": "Sector Update: Healthcare Stocks Mixed Pre-Bell Friday",
-      "summary": "Healthcare stocks were mixed pre-bell Friday, with the State Street Health Care Select Sector SPDR E",
-      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-mixed-pre-141359907.html?.tsrc=rss",
-      "time": "2026-11-20T14:13:59+00:00",
+      "ticker": "ADBE",
+      "title": "Global Through-Channel Marketing Software Market 2026 | Capitalize on AI and Cloud Growth to $6.14B by 2030 as Microsoft, Salesforce, Adobe and StructuredWeb Accelerate Automation",
+      "summary": "Boost ROI with AI-personalized campaigns, automation, real-time analytics, CRM and multichannel integration, localized co-branding, partner training, and performance optimization.Dublin, Nov. 20, 2026 (GLOBE NEWSWIRE) -- \"Through-Channel Marketing Software Global Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global through-channel marketing software market is experiencing rapid growth as organizations seek more effective ways to manage partner campaigns, maintain c",
+      "link": "https://finance.yahoo.com/technology/articles/global-channel-marketing-software-market-143800579.html?.tsrc=rss",
+      "time": "2026-11-20T14:38:00+00:00",
       "touches": [
-        "XLV"
+        "ADBE"
+      ],
+      "tags": [
+        "capital"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:cceb6c5d-023d-3590-afbe-fff91313d7b0",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "The Holiday Shopping Outook? Could Be Jolly Good.",
+      "summary": "With a little luck, and lower gas prices, retailers may hit their marks.",
+      "link": "https://finance.yahoo.com/m/cceb6c5d-023d-3590-afbe-fff91313d7b0/the-holiday-shopping-outook%3F.html?.tsrc=rss",
+      "time": "2026-11-20T13:39:00+00:00",
+      "touches": [
+        "WMT"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:98ebab27-1999-3c8d-9a8e-e4f06eb0e146",
+      "id": "rss:8f4f333c-8832-3a58-86cf-7d2243900c4e",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "XLB",
-      "title": "Stock Market News for Nov 20, 2026",
-      "summary": "U.S. stocks ended sharply lower on Thursday as Anthropic's blockbuster IPO failed to lift investor sentiment, with the artificial intelligence giant's stock dropping soon after it began trading.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-20-132200926.html?.tsrc=rss",
-      "time": "2026-11-20T13:22:00+00:00",
+      "ticker": "WMT",
+      "title": "BJ\u2019s Wholesale Earnings Beat Has a $240 Million Wrinkle\u2014and the Stock Is Falling",
+      "summary": "BJ\u2019s Wholesale reports stronger-than-expected earnings, but a legal settlement complicates the results.",
+      "link": "https://finance.yahoo.com/m/8f4f333c-8832-3a58-86cf-7d2243900c4e/bj%E2%80%99s-wholesale-earnings-beat.html?.tsrc=rss",
+      "time": "2026-11-20T13:16:00+00:00",
       "touches": [
-        "XLB",
-        "XLV"
+        "WMT"
       ],
-      "tags": [],
+      "tags": [
+        "earnings"
+      ],
       "new": true
     }
   ],
