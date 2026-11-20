@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-19",
+  "as_of": "2026-11-20",
   "companies": [
     {
       "ticker": "ADBE",
@@ -50,6 +50,22 @@
       "source": "SEC XBRL company facts"
     },
     {
+      "ticker": "MRK",
+      "name": "Merck & Co., Inc.",
+      "cik": "0000310158",
+      "period_end": "2026-09-30",
+      "revenue_ttm": 67378000000,
+      "net_income_ttm": 2453000000,
+      "eps_ttm": 0.97,
+      "revenue_growth_yoy": 4.7,
+      "eps_growth_yoy": -12.1,
+      "net_income_growth_yoy": -12.4,
+      "gross_margin": 72.9,
+      "operating_margin": null,
+      "net_margin": 28.0,
+      "source": "SEC XBRL company facts"
+    },
+    {
       "ticker": "WMT",
       "name": "Walmart Inc.",
       "cik": "0000104169",
@@ -79,22 +95,6 @@
       "gross_margin": null,
       "operating_margin": null,
       "net_margin": 13.6,
-      "source": "SEC XBRL company facts"
-    },
-    {
-      "ticker": "YUM",
-      "name": "YUM BRANDS INC",
-      "cik": "0001041061",
-      "period_end": "2026-09-30",
-      "revenue_ttm": 8797000000,
-      "net_income_ttm": 3443000000,
-      "eps_ttm": 12.46,
-      "revenue_growth_yoy": 3.8,
-      "eps_growth_yoy": 319.9,
-      "net_income_growth_yoy": 308.8,
-      "gross_margin": 66.9,
-      "operating_margin": 112.8,
-      "net_margin": 79.0,
       "source": "SEC XBRL company facts"
     }
   ]
