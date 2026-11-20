@@ -1,15 +1,15 @@
 {
-  "as_of": "2026-11-20T16:35:00Z",
+  "as_of": "2026-11-20T18:05:00Z",
   "items": [
     {
-      "id": "rss:ffff9f29-ab2a-34a6-82f9-37e42bb1ed66",
+      "id": "rss:dc22f23f-71e4-3cb2-8bb7-c47922ad3acb",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "WMT",
-      "title": "Walmart Posted Largely In-Line Q3 Results Amid High Bar, RBC Says",
-      "summary": "Walmart (WMT) delivered largely in-line Q3 results against a high bar, amid an encouraging response",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-posted-largely-line-q3-161527222.html?.tsrc=rss",
-      "time": "2026-11-20T16:15:27+00:00",
+      "title": "Walmart's Q3 Results Strengthen Bull Case as E-Commerce Economics Improve, UBS Says",
+      "summary": "Walmart's (WMT) fiscal Q3 results \"reinforced the bull case,\" as improving e-commerce economics, hig",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-apos-q3-results-strengthen-173429075.html?.tsrc=rss",
+      "time": "2026-11-20T17:34:29+00:00",
       "touches": [
         "WMT"
       ],
@@ -19,18 +19,101 @@
       "new": true
     },
     {
-      "id": "rss:77551acb-1d92-30c5-bad7-d727279232f7",
+      "id": "rss:18cb2837-3886-36aa-8a2e-44ac9de332bc",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "XOM",
-      "title": "TechnipFMC Deepens ExxonMobil Ties With Guyana Longtail Awards",
-      "summary": "FTI deepens its XOM partnership with two Guyana Longtail awards, expanding subsea work as the $12.5B offshore project targets 2030 production.",
-      "link": "https://finance.yahoo.com/energy/articles/technipfmc-deepens-exxonmobil-ties-guyana-150200655.html?.tsrc=rss",
-      "time": "2026-11-20T15:02:00+00:00",
+      "ticker": "ADBE",
+      "title": "New Klaviyo Holiday Email Marketing Guide for Ecommerce Stores Released Ahead of Black Friday",
+      "summary": "Optimum7 released a Klaviyo holiday email marketing guide that covers sale-day flows, send volume, VIP access and shipping dates.Flows earned 20x, 31x and 40x more revenue per recipient than campaigns at three Optimum7 ecommerce clients, two measured over 12 months and one since June.NRF's forecast covers Nov. 1 to Dec. 31 and tops 2025's $972 billion in holiday retail sales.Adobe expects Cyber Week online sales of $47.5 billion, up from $44.2 billion in 2025. Miami, FL, Nov. 20, 2026 (GLOBE NEW",
+      "link": "https://finance.yahoo.com/media-advertising/articles/klaviyo-holiday-email-marketing-guide-173000052.html?.tsrc=rss",
+      "time": "2026-11-20T17:30:00+00:00",
       "touches": [
-        "XOM"
+        "ADBE"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:b6f94f6d-642a-3fe2-9696-10fa4d565475",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Walmart's Share Gains Likely to Continue, BofA Says",
+      "summary": "Walmart (WMT) is gaining share across categories and income groups, led by higher-income households,",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-apos-share-gains-likely-170314245.html?.tsrc=rss",
+      "time": "2026-11-20T17:03:14+00:00",
+      "touches": [
+        "WMT"
       ],
       "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:1556543e-0cea-3c1f-82d4-16023a658873",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Walmart's Fiscal Q3 Results Reinforce Durability of ECommerce Flywheel, Morgan Stanley Says",
+      "summary": "Walmart's (WMT) fiscal Q3 financial results show that its eCommerce flywheel is driving incremental",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-apos-fiscal-q3-results-165810251.html?.tsrc=rss",
+      "time": "2026-11-20T16:58:10+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:fbff36bf-b4b2-35e5-ba1f-8527b567bd06",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Edible Garden Partners with Walmart, Hannaford, Kroger, Meijer, Target and Wakefern/ShopRite to Help Keep Fresh Herbs Affordable This Thanksgiving",
+      "summary": "Early Holiday Planning and Coordination with Major Retail Partners Help Support Fresh Herb Availability, Reduce Waste and Keep Thanksgiving Essentials Affordable for FamiliesBELVIDERE, NJ, Nov. 20, 2026 (GLOBE NEWSWIRE) -- Edible Garden AG Incorporated (\u201cEdible Garden\u201d or the \u201cCompany\u201d) (Nasdaq: EDBL, EDBLW), a leader in controlled environment agriculture (CEA), organic and sustainable produce, and developer of the Zero-Waste Inspired\u00ae mission and Farm-to-Formula\u00ae platform today highlighted its",
+      "link": "https://finance.yahoo.com/small-business/articles/edible-garden-partners-walmart-hannaford-164800334.html?.tsrc=rss",
+      "time": "2026-11-20T16:48:00+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:bcd84546-a71f-30bc-857f-6edb76ad481d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Stock Market Dives To New Lows Despite Nvidia Earnings, Anthropic IPO: Weekly Review",
+      "summary": "The stock market sell-off intensified as the key indexes dived to multimonth lows despite strong Nvidia earnings and Anthropic's record IPO.",
+      "link": "https://finance.yahoo.com/m/bcd84546-a71f-30bc-857f-6edb76ad481d/stock-market-dives-to-new.html?.tsrc=rss",
+      "time": "2026-11-20T16:35:14+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:af07a6cc-4b08-3304-91cf-b74896f247a7",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Snowflake vs. Adobe: Which Enterprise AI Stock Is a Better Buy?",
+      "summary": "Snowflake and Adobe compete in enterprise AI, but stronger revenue growth, rising AI adoption, and earnings momentum give Snowflake an edge despite its premium valuation.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/snowflake-vs-adobe-enterprise-ai-155800527.html?.tsrc=rss",
+      "time": "2026-11-20T15:58:00+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [
+        "earnings"
+      ],
       "new": true
     }
   ],
