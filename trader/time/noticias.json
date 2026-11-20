@@ -1,36 +1,5 @@
 {
-  "as_of": "2026-11-20T01:35:00Z",
-  "items": [
-    {
-      "id": "rss:26a99824-d835-3c83-abee-6cd63f8fc688",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Review & Preview: Anthropic Pops, Markets Drop",
-      "summary": "The splashy IPO was a success, but indexes fell on Thursday.",
-      "link": "https://finance.yahoo.com/m/26a99824-d835-3c83-abee-6cd63f8fc688/review-%26-preview%3A-anthropic.html?.tsrc=rss",
-      "time": "2026-11-20T00:55:00+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:2f4069c5-6a7e-3b84-9d5b-f325befdff73",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Thanksgiving Dinner Will Cost More This Year. Here\u2019s Why.",
-      "summary": "The American Farm Bureau\u2019s annual survey for how much the meal costs says prices are up 6% this year.",
-      "link": "https://finance.yahoo.com/m/2f4069c5-6a7e-3b84-9d5b-f325befdff73/thanksgiving-dinner-will-cost.html?.tsrc=rss",
-      "time": "2026-11-19T23:48:00+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-20T02:05:00Z",
+  "items": [],
   "atencao": []
 }
