@@ -1,54 +1,5 @@
 {
-  "as_of": "2026-11-20T19:05:00Z",
-  "items": [
-    {
-      "id": "rss:b0b3d5ce-0dd2-32b9-a595-52f19a7b4d89",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XLV",
-      "title": "Sector Update: Healthcare Stocks Rise Friday Afternoon",
-      "summary": "Healthcare stocks were higher Friday afternoon, with the NYSE Healthcare Index up 0.6% and the State",
-      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-rise-friday-184228825.html?.tsrc=rss",
-      "time": "2026-11-20T18:42:28+00:00",
-      "touches": [
-        "XLV"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:ed7cfca6-0c4d-3e4e-bc51-b70fc87ca2df",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "Georgia\u2019s Top Technology Executives Honored at the 2026 GeorgiaCIO ORBIE Awards",
-      "summary": "Leading CIOs honored for leadership, innovation, and business impact at the GeorgiaCIO ORBIE Awards on November 19, 2026 at the Hotel at Avalon. ALPHARETTA, Ga., Nov. 20, 2026 (GLOBE NEWSWIRE) -- The 2026 GeorgiaCIO ORBIE Awards honored leading chief information officers (CIOs) from Phase IV Ventures, IBM, JAS Worldwide, The Home Depot, Rollins, Deluxe Corporation, and Lazer Logistics for their exceptional leadership. Hosted by GeorgiaCIO, one of over 50 Inspire Leadership Network chapters, the",
-      "link": "https://finance.yahoo.com/technology/articles/georgia-top-technology-executives-honored-184000559.html?.tsrc=rss",
-      "time": "2026-11-20T18:40:00+00:00",
-      "touches": [
-        "HD"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:845f54ea-c861-418d-8544-19f25f442a0d",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Sozzi: Anthropic\u2019s IPO Surges; Is AMD\u2019s Pullback a Buy?",
-      "summary": "Yahoo Finance Executive Editor Brian Sozzi breaks down the biggest stories to kick off the trading day, including the performance of Anthropic (ANT)\u2019s IPO, whether AMD (AMD)\u2019s pullback presents a buying opportunity, and Gap (GAP)\u2019s fall earnings warning. Sozzi then sits down with former Bridgewater (BWB) Associates Chief Investment Strategist Rebecca Patterson and former BNY (BNY) Wealth Management CEO Catherine Keating to discuss their new book, Investment Wisdom, and how its lessons can help friends and loved ones navigate investing.",
-      "link": "https://finance.yahoo.com/video/sozzi-anthropics-ipo-surges-is-amds-pullback-a-buy-181915349.html?.tsrc=rss",
-      "time": "2026-11-20T18:19:15+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "earnings",
-        "people"
-      ],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-20T19:35:00Z",
+  "items": [],
   "atencao": []
 }
