@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-20T21:05:00Z",
-  "items": [],
+  "as_of": "2026-11-20T21:35:00Z",
+  "items": [
+    {
+      "id": "rss:e54601b6-f731-34b2-9ce4-d05ef5850bef",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLV",
+      "title": "Sector Update: Healthcare Stocks Rise Late Afternoon",
+      "summary": "Healthcare stocks were higher late Friday afternoon, with the NYSE Healthcare Index and the State St",
+      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-rise-afternoon-210224167.html?.tsrc=rss",
+      "time": "2026-11-20T21:02:24+00:00",
+      "touches": [
+        "XLV"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
