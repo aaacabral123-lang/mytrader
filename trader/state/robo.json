@@ -753,88 +753,88 @@
     },
     "signals": {
       "SPY": {
-        "price": 693.97,
-        "rsi2": 0.37,
-        "sma_exit": 722.52,
-        "sma_trend": 730.28
+        "price": 689.95,
+        "rsi2": 0.32,
+        "sma_exit": 721.71,
+        "sma_trend": 730.26
       },
       "QQQ": {
-        "price": 613.94,
-        "rsi2": 1.95,
-        "sma_exit": 647.49,
-        "sma_trend": 682.07
+        "price": 609.41,
+        "rsi2": 1.75,
+        "sma_exit": 646.59,
+        "sma_trend": 682.05
       },
       "IWM": {
-        "price": 257.83,
-        "rsi2": 3.17,
-        "sma_exit": 266.83,
+        "price": 257.05,
+        "rsi2": 2.95,
+        "sma_exit": 266.67,
         "sma_trend": 278.67
       },
       "DIA": {
-        "price": 483.85,
-        "rsi2": 0.45,
-        "sma_exit": 499.45,
-        "sma_trend": 504.81
+        "price": 481.39,
+        "rsi2": 0.39,
+        "sma_exit": 498.96,
+        "sma_trend": 504.8
       },
       "XLK": {
-        "price": 150.19,
-        "rsi2": 1.31,
-        "sma_exit": 160.53,
-        "sma_trend": 171.04
+        "price": 148.93,
+        "rsi2": 1.2,
+        "sma_exit": 160.28,
+        "sma_trend": 171.03
       },
       "XLF": {
-        "price": 54.9,
-        "rsi2": 1.42,
-        "sma_exit": 56.44,
+        "price": 54.66,
+        "rsi2": 1.22,
+        "sma_exit": 56.39,
         "sma_trend": 53.75
       },
       "XLE": {
-        "price": 60.84,
-        "rsi2": 4.72,
-        "sma_exit": 62.02,
+        "price": 60.8,
+        "rsi2": 4.53,
+        "sma_exit": 62.01,
         "sma_trend": 59.23
       },
       "XLV": {
-        "price": 178.09,
-        "rsi2": 16.6,
-        "sma_exit": 181.99,
+        "price": 177.23,
+        "rsi2": 1.24,
+        "sma_exit": 181.82,
         "sma_trend": 160.02
       },
       "XLY": {
-        "price": 113.13,
-        "rsi2": 10.02,
-        "sma_exit": 116.69,
+        "price": 112.41,
+        "rsi2": 8.8,
+        "sma_exit": 116.55,
         "sma_trend": 115.01
       },
       "XLP": {
-        "price": 90.77,
-        "rsi2": 51.68,
-        "sma_exit": 91.19,
+        "price": 90.69,
+        "rsi2": 49.43,
+        "sma_exit": 91.18,
         "sma_trend": 84.26
       },
       "XLI": {
-        "price": 157.19,
-        "rsi2": 0.48,
-        "sma_exit": 162.73,
-        "sma_trend": 172.7
+        "price": 156.51,
+        "rsi2": 0.43,
+        "sma_exit": 162.6,
+        "sma_trend": 172.69
       },
       "XLU": {
-        "price": 42.88,
-        "rsi2": 7.96,
-        "sma_exit": 43.4,
+        "price": 42.9,
+        "rsi2": 8.35,
+        "sma_exit": 43.41,
         "sma_trend": 43.9
       },
       "XLB": {
-        "price": 48.62,
-        "rsi2": 0.23,
-        "sma_exit": 50.16,
+        "price": 48.49,
+        "rsi2": 0.22,
+        "sma_exit": 50.14,
         "sma_trend": 50.93
       },
       "SMH": {
-        "price": 404.15,
-        "rsi2": 0.48,
-        "sma_exit": 446.6,
-        "sma_trend": 525.12
+        "price": 400.19,
+        "rsi2": 0.44,
+        "sma_exit": 445.81,
+        "sma_trend": 525.1
       }
     }
   },
@@ -886,35 +886,35 @@
     },
     "signals": {
       "KO/PEP": {
-        "z": 0.86,
+        "z": 0.93,
         "corr": 0.67
       },
       "V/MA": {
-        "z": -0.61,
+        "z": -0.62,
         "corr": 0.92
       },
       "HD/LOW": {
-        "z": -0.49,
+        "z": -0.61,
         "corr": 0.93
       },
       "XOM/CVX": {
-        "z": -2.09,
+        "z": -2.01,
         "corr": 0.89
       },
       "JPM/BAC": {
-        "z": -2.0,
+        "z": -1.91,
         "corr": 0.78
       },
       "GS/MS": {
-        "z": -1.4,
+        "z": -1.48,
         "corr": 0.91
       },
       "UPS/FDX": {
-        "z": 1.54,
+        "z": 1.49,
         "corr": 0.68
       },
       "MCD/YUM": {
-        "z": 0.4,
+        "z": 0.32,
         "corr": 0.59
       },
       "WMT/TGT": {
@@ -922,43 +922,43 @@
         "corr": 0.36
       },
       "PG/CL": {
-        "z": 0.49,
+        "z": 0.5,
         "corr": 0.79
       },
       "CAT/DE": {
         "z": -0.88,
-        "corr": 0.31
+        "corr": 0.32
       },
       "T/VZ": {
-        "z": 0.75,
+        "z": 0.73,
         "corr": 0.85
       },
       "UNP/CSX": {
-        "z": -0.2,
+        "z": -0.08,
         "corr": 0.86
       },
       "LMT/NOC": {
-        "z": -1.51,
+        "z": -1.52,
         "corr": 0.73
       },
       "PFE/MRK": {
-        "z": 0.8,
+        "z": 1.06,
         "corr": 0.59
       },
       "COST/WMT": {
-        "z": 0.85,
+        "z": 0.84,
         "corr": 0.69
       },
       "MSFT/AAPL": {
-        "z": -1.83,
-        "corr": 0.23
+        "z": -1.85,
+        "corr": 0.24
       },
       "C/WFC": {
-        "z": -1.79,
-        "corr": 0.72
+        "z": -1.76,
+        "corr": 0.73
       },
       "COP/XOM": {
-        "z": 2.26,
+        "z": 2.29,
         "corr": 0.88
       }
     }
