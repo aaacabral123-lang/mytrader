@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-20T12:35:00Z",
-  "items": [
-    {
-      "id": "rss:9b67f04d-2758-331f-8884-e4e4b0170e4e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XLV",
-      "title": "3 ETFs That Give You Johnson & Johnson In Different Doses",
-      "summary": "You might like Johnson & Johnson for its mix of medicine and medical devices, but owning a single stock means living with its specific risks. Simply Wall St flags pressure on profit margins, with recent margins at 16.2% versus 27.2% last year. Holding Johnson & Johnson inside a fund spreads that business specific hit across many holdings, and also spreads out any gains. On 19 November 2026, Johnson & Johnson reported the first commercial installation of its new robotic surgery system at...",
-      "link": "https://finance.yahoo.com/healthcare/articles/3-etfs-johnson-johnson-different-121150454.html?.tsrc=rss",
-      "time": "2026-11-20T12:11:50+00:00",
-      "touches": [
-        "XLV"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-20T13:05:00Z",
+  "items": [],
   "atencao": []
 }
