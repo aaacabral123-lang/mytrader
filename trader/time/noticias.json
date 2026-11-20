@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-20T00:35:00Z",
-  "items": [],
+  "as_of": "2026-11-20T01:05:00Z",
+  "items": [
+    {
+      "id": "rss:cc8659fc-4bf6-3508-8076-a509b26ebded",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "Guyana Oil Boom Rekindles Frontier Drilling Appetite",
+      "summary": "Exxon\u2019s success is reigniting Big Oil\u2019s appetite for high-risk frontier exploration, demonstrating the potential rewards of long-term investment in new oil discoveries.",
+      "link": "https://finance.yahoo.com/energy/articles/guyana-oil-boom-rekindles-frontier-000000725.html?.tsrc=rss",
+      "time": "2026-11-20T00:00:00+00:00",
+      "touches": [
+        "XOM"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
