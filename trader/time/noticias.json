@@ -1,30 +1,15 @@
 {
-  "as_of": "2026-11-20T16:05:00Z",
+  "as_of": "2026-11-20T16:35:00Z",
   "items": [
     {
-      "id": "rss:4b546235-124e-3fa4-b951-41a067ff7bf2",
+      "id": "rss:ffff9f29-ab2a-34a6-82f9-37e42bb1ed66",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "WMT",
-      "title": "Stock Market Today: Nasdaq Slides As AI Trade, IPO Anthropic Suffer (Live Coverage)",
-      "summary": "The Nasdaq composite tumbles Friday after Thursday's market sell-off. Anthropic stock plunges after its IPO.",
-      "link": "https://finance.yahoo.com/m/4b546235-124e-3fa4-b951-41a067ff7bf2/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-      "time": "2026-11-20T15:31:04+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:2c6998fa-efff-4d7a-a802-e5ca2cb71fb1",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Gap Inc. slashed its full-year sales outlook \u2014 and it might be due to the weather",
-      "summary": "The Gap Inc. (GAP) reported solid third quarter earnings results but cut its full-year sales outlook. The results came after a busy week of other retail earnings from Walmart (WMT) and Target (TGT). Yahoo Finance Executive Editor Brian Sozzi takes a closer look.",
-      "link": "https://finance.yahoo.com/video/gap-inc-slashed-its-full-year-sales-outlook--and-it-might-be-due-to-the-weather-152504625.html?.tsrc=rss",
-      "time": "2026-11-20T15:25:04+00:00",
+      "title": "Walmart Posted Largely In-Line Q3 Results Amid High Bar, RBC Says",
+      "summary": "Walmart (WMT) delivered largely in-line Q3 results against a high bar, amid an encouraging response",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-posted-largely-line-q3-161527222.html?.tsrc=rss",
+      "time": "2026-11-20T16:15:27+00:00",
       "touches": [
         "WMT"
       ],
@@ -34,113 +19,14 @@
       "new": true
     },
     {
-      "id": "rss:665fee88-6e96-388a-8f87-6e34f7e00de7",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MRK",
-      "title": "HIV Clinical Trials - Global Strategic Business Report 2026-2032 Featuring Strategic Intelligence on Gilead, ViiV Healthcare, Merck, and Pfizer",
-      "summary": "Dublin, Nov. 20, 2026 (GLOBE NEWSWIRE) -- \"HIV Clinical Trials - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global HIV clinical trials market was valued at US$1.5 billion in 2025 and is projected to reach US$2.1 billion by 2032, expanding at a compound annual growth rate (CAGR) of 4.8%. Market growth is supported by sustained investment in HIV research, increased development of long-acting antiretroviral therapies, expanding vaccine pipelines,",
-      "link": "https://finance.yahoo.com/healthcare/articles/hiv-clinical-trials-global-strategic-151900055.html?.tsrc=rss",
-      "time": "2026-11-20T15:19:00+00:00",
-      "touches": [
-        "MRK"
-      ],
-      "tags": [
-        "capital"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:8baed744-fd66-35e2-8fc5-5ffc31590167",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "DIA",
-      "title": "American Express (AXP) Could Be 30% Undervalued As Trust Questions Meet ETF Outflows",
-      "summary": "ETFs were net sellers of American Express (AXP) on Monday, with about US$19 million of outflows led by the SPDR Dow Jones Industrial Average ETF. This interrupted a brief inflow streak into the card issuer. American Express has seen momentum cool, with the share price down 7.4% over the past 90 days and 16.5% year to date to US$311.11. However, the 3 year total shareholder return of 96.5% and 5 year total shareholder return of 92.8% still paint a much stronger longer term picture as investors...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/american-express-axp-could-30-151150319.html?.tsrc=rss",
-      "time": "2026-11-20T15:11:50+00:00",
-      "touches": [
-        "DIA"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:4f5421b1-3c69-3420-8e7c-55d7a16b0e48",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Instacart vs. Walmart vs. Amazon: Which Grocery Delivery App Saves the Most?",
-      "summary": "Wondering what the best grocery delivery service is for you? Here are the details on options that could help you save time (and your sanity). This was originally published on The Penny Hoarder, a personal finance website that empowers millions of readers nationwide to make smart decisions with their money through actionable and inspirational advice, and resources about how to make, save and manage money.",
-      "link": "https://finance.yahoo.com/general/articles/instacart-vs-walmart-vs-amazon-190210952.html?.tsrc=rss",
-      "time": "2026-11-20T15:04:14+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:72d1ce2f-9fd9-3765-869a-372267c9f331",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MRK",
-      "title": "Oncology Clinical Trials - Global Strategic Business Report 2026: Secure Share of a $6 Billion Revenue Surge by 2032 as AbbVie, AstraZeneca, ICON, Merck, and Roche Accelerate AI-Led Trials",
-      "summary": "Dublin, Nov. 20, 2026 (GLOBE NEWSWIRE) -- \"Oncology Clinical Trials - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global oncology clinical trials market was valued at US$11.2 billion in 2025 and is projected to reach US$17.2 billion by 2032, expanding at a compound annual growth rate of 6.4% during the forecast period. Market growth is being supported by rising cancer incidence, advances in genomics and molecular biology, increased investment i",
-      "link": "https://finance.yahoo.com/healthcare/articles/oncology-clinical-trials-global-strategic-150100841.html?.tsrc=rss",
-      "time": "2026-11-20T15:01:00+00:00",
-      "touches": [
-        "MRK"
-      ],
-      "tags": [
-        "earnings",
-        "capital"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:d3709370-d76c-31bf-aa85-cdec5fb7a3e0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MRK",
-      "title": "HALO Faces Legal Setback in Germany Over MRK's Keytruda SC, Stock Down",
-      "summary": "Halozyme faces a legal setback in Germany as a court overturns an injunction against Merck's Keytruda SC, prompting a new patent lawsuit.",
-      "link": "https://finance.yahoo.com/healthcare/articles/halo-faces-legal-setback-germany-141000944.html?.tsrc=rss",
-      "time": "2026-11-20T14:10:00+00:00",
-      "touches": [
-        "MRK"
-      ],
-      "tags": [
-        "legal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:0d988140-580d-3dfe-825b-fc149080f9ea",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "WMT Q3 Earnings Call Takeaways as Sales and Profit Outlooks Rise",
-      "summary": "Walmart raises its fiscal 2027 sales and profit outlook as e-commerce surges, online margins improve and membership gains fuel optimism ahead of the holidays.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wmt-q3-earnings-call-takeaways-140000322.html?.tsrc=rss",
-      "time": "2026-11-20T14:00:00+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:ec7b3fc5-6dfb-3304-b61e-e38981fbe2dc",
+      "id": "rss:77551acb-1d92-30c5-bad7-d727279232f7",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "XOM",
-      "title": "Can PBR's 280,000-BPD Capacity Expansion Drive Cash Flow Growth?",
-      "summary": "Petrobras is boosting offshore output without building new platforms, potentially accelerating production growth while improving capital efficiency and cash generation.",
-      "link": "https://finance.yahoo.com/energy/articles/pbrs-280-000-bpd-capacity-140000396.html?.tsrc=rss",
-      "time": "2026-11-20T14:00:00+00:00",
+      "title": "TechnipFMC Deepens ExxonMobil Ties With Guyana Longtail Awards",
+      "summary": "FTI deepens its XOM partnership with two Guyana Longtail awards, expanding subsea work as the $12.5B offshore project targets 2030 production.",
+      "link": "https://finance.yahoo.com/energy/articles/technipfmc-deepens-exxonmobil-ties-guyana-150200655.html?.tsrc=rss",
+      "time": "2026-11-20T15:02:00+00:00",
       "touches": [
         "XOM"
       ],
@@ -148,23 +34,5 @@
       "new": true
     }
   ],
-  "atencao": [
-    {
-      "id": "rss:d3709370-d76c-31bf-aa85-cdec5fb7a3e0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MRK",
-      "title": "HALO Faces Legal Setback in Germany Over MRK's Keytruda SC, Stock Down",
-      "summary": "Halozyme faces a legal setback in Germany as a court overturns an injunction against Merck's Keytruda SC, prompting a new patent lawsuit.",
-      "link": "https://finance.yahoo.com/healthcare/articles/halo-faces-legal-setback-germany-141000944.html?.tsrc=rss",
-      "time": "2026-11-20T14:10:00+00:00",
-      "touches": [
-        "MRK"
-      ],
-      "tags": [
-        "legal"
-      ],
-      "new": true
-    }
-  ]
+  "atencao": []
 }
