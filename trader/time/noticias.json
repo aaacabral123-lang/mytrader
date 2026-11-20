@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-20T07:05:00Z",
-  "items": [],
+  "as_of": "2026-11-20T07:35:00Z",
+  "items": [
+    {
+      "id": "rss:8f15e78d-92f6-39de-941c-23f985261f33",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Walmart (WMT) Ad Revenue Jumped 25% As AI And TV Deals Gain Traction",
+      "summary": "Walmart (NasdaqGS:WMT) reported a 25% rise in global advertising revenue, with U.S. ad sales up 37% in the latest period. Management linked the advertising gains to recent moves in connected TV, including acquisitions involving Vizio and Vibe.co. The retailer highlighted new AI powered retail media tools and conversational commerce features as part of its advertising push. The 25% advertising jump supported by AI tools and connected TV deals feeds into a broader pattern our research has...",
+      "link": "https://finance.yahoo.com/media-advertising/articles/walmart-wmt-ad-revenue-jumped-071351195.html?.tsrc=rss",
+      "time": "2026-11-20T07:13:51+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
