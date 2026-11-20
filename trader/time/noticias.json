@@ -1,5 +1,40 @@
 {
-  "as_of": "2026-11-20T19:35:00Z",
-  "items": [],
+  "as_of": "2026-11-20T20:05:00Z",
+  "items": [
+    {
+      "id": "rss:5b440eae-c472-3914-a394-596d02040cd0",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "What Target, Walmart Earnings Tell Us About Retail and Consumers",
+      "summary": "Walmart and Target\u2013and other retailers\u2013are having to work harder than ever because consumers are hungry for value.",
+      "link": "https://finance.yahoo.com/m/5b440eae-c472-3914-a394-596d02040cd0/what-target%2C-walmart-earnings.html?.tsrc=rss",
+      "time": "2026-11-20T19:32:00+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:fb6cd700-57ec-3d29-b04d-adcdf6882228",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Week\u2019s Best: Schwab Claims Dividend King Title",
+      "summary": "Here\u2019s our weekly roundup of the most-read articles at Barron\u2019s Advisor.",
+      "link": "https://finance.yahoo.com/m/fb6cd700-57ec-3d29-b04d-adcdf6882228/week%E2%80%99s-best%3A-schwab-claims.html?.tsrc=rss",
+      "time": "2026-11-20T19:12:00+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [
+        "capital"
+      ],
+      "new": true
+    }
+  ],
   "atencao": []
 }
