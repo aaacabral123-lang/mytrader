@@ -1,34 +1,17 @@
 {
-  "as_of": "2026-11-20T12:05:00Z",
+  "as_of": "2026-11-20T12:35:00Z",
   "items": [
     {
-      "id": "rss:5a796723-2014-3e79-a085-b809fd3a6410",
+      "id": "rss:9b67f04d-2758-331f-8884-e4e4b0170e4e",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "WMT",
-      "title": "Walmart CEO says he's working to keep prices low as diesel costs soar. Here's what's to blame for rising food prices",
-      "summary": "Walmart rolled back prices on nearly 8,000 items, but a food economist sees grocery bills climbing into 2027",
-      "link": "https://finance.yahoo.com/economy/articles/walmart-ceo-says-hes-working-120000672.html?.tsrc=rss",
-      "time": "2026-11-20T12:00:00+00:00",
+      "ticker": "XLV",
+      "title": "3 ETFs That Give You Johnson & Johnson In Different Doses",
+      "summary": "You might like Johnson & Johnson for its mix of medicine and medical devices, but owning a single stock means living with its specific risks. Simply Wall St flags pressure on profit margins, with recent margins at 16.2% versus 27.2% last year. Holding Johnson & Johnson inside a fund spreads that business specific hit across many holdings, and also spreads out any gains. On 19 November 2026, Johnson & Johnson reported the first commercial installation of its new robotic surgery system at...",
+      "link": "https://finance.yahoo.com/healthcare/articles/3-etfs-johnson-johnson-different-121150454.html?.tsrc=rss",
+      "time": "2026-11-20T12:11:50+00:00",
       "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:a0bbfff1-041e-3b93-ab53-8921d77a15e2",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MRK",
-      "title": "Merck Announces TroFuse-015 Trial Evaluating Sacituzumab Tirumotecan (Sac-TMT) Met Primary Endpoint of Overall Survival (OS) in Third-Line or Later Locally Advanced Unresectable or Metastatic Gastroesophageal Adenocarcinoma",
-      "summary": "RAHWAY, N.J., November 20, 2026--TroFuse-015 Evaluating Sac-TMT Met Primary Endpoint of OS in 3rd-Line or Later Locally Adv. Unresectable or Metastatic Gastroesophageal Adenocarcinoma",
-      "link": "https://finance.yahoo.com/healthcare/articles/merck-announces-trofuse-015-trial-114500306.html?.tsrc=rss",
-      "time": "2026-11-20T11:45:00+00:00",
-      "touches": [
-        "MRK"
+        "XLV"
       ],
       "tags": [],
       "new": true
