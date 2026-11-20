@@ -1,36 +1,5 @@
 {
-  "as_of": "2026-11-20T20:35:00Z",
-  "items": [
-    {
-      "id": "rss:9a4728a5-906f-3aab-8c58-01689d305d30",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XOM",
-      "title": "TechnipFMC (FTI) Stock May Be 43% Undervalued Following Guyana Contract Win",
-      "summary": "TechnipFMC has delivered very strong multi year gains, yet the real question for you today is whether the current share price lines up with the cash flows the business can produce. After a run like this and with fresh contract wins in the subsea business, it is fair to ask if the market price still reflects what those cash flows are worth. Over the past 5 years the stock has returned roughly 9x. That puts a lot of weight on whether the underlying cash generation can keep justifying that kind...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/technipfmc-fti-stock-may-43-201536728.html?.tsrc=rss",
-      "time": "2026-11-20T20:15:36+00:00",
-      "touches": [
-        "XOM"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:a7a4020b-083f-3ce7-9036-8743c197a5e8",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Adobe (ADBE) Joins 40 Plus Groups Launching The AI Transparency Initiative",
-      "summary": "Adobe (NasdaqGS:ADBE) joined Microsoft and more than 40 organizations to launch the AI Transparency Initiative in November 2026. The coalition aims to create independently verifiable standards so enterprises can monitor and control how AI systems behave. New guidelines focus on AI accountability and data security for businesses that use Adobe's creative and document software in regulated sectors. The AI Transparency Initiative is only one part of Adobe's broader story on AI and enterprise...",
-      "link": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-joins-40-plus-201324152.html?.tsrc=rss",
-      "time": "2026-11-20T20:13:24+00:00",
-      "touches": [
-        "ADBE"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-20T21:05:00Z",
+  "items": [],
   "atencao": []
 }
