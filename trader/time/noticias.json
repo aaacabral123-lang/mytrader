@@ -1,55 +1,5 @@
 {
-  "as_of": "2026-11-21T00:05:00Z",
-  "items": [
-    {
-      "id": "rss:f12326bb-d1df-3a01-adc2-2d8798431a06",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "Shopping Till We Drop",
-      "summary": "Retail sales are doing well now, but don\u2019t break out the eggnog just yet.",
-      "link": "https://finance.yahoo.com/m/f12326bb-d1df-3a01-adc2-2d8798431a06/shopping-till-we-drop.html?.tsrc=rss",
-      "time": "2026-11-20T23:30:00+00:00",
-      "touches": [
-        "HD"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:b97d096e-8545-3c33-b068-35376c745a54",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Walmart (WMT) Q3 Results Meet Sales Growth But Profitability Cools",
-      "summary": "Walmart came into this earnings print priced for near perfection, trading on a rich P/E multiple and sitting on a roughly 23.5% gain over the past three months. Q3 FY27 results did not break the story on the top line, with revenue of US$188.8b, but the real tension sits in profitability. Net income from ongoing operations landed at US$4.9b and basic EPS was US$0.62, softer than the prior quarter, even as the stock jumped 1.6% on the day. The market cheered. The margin picture looked more...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-q3-results-meet-231353428.html?.tsrc=rss",
-      "time": "2026-11-20T23:13:53+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:507c7941-c0c0-3cf3-8423-1a2c0205025f",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Target Shines, Walmart Merely Fine: Two Retail Giants Split on Q3 Results",
-      "summary": "Walmart and Target helped headline the reporting docket for Retail this week. Target's results were notably impressive, though big-box retailers in general face a difficult operating environment due to elevated fuel costs adding to consumers' financial burdens and increasing retailers' expenses.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/target-shines-walmart-merely-fine-224900183.html?.tsrc=rss",
-      "time": "2026-11-20T22:49:00+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-21T00:35:00Z",
+  "items": [],
   "atencao": []
 }
