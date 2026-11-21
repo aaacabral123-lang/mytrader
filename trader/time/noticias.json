@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-21T14:05:00Z",
-  "items": [],
+  "as_of": "2026-11-21T14:35:00Z",
+  "items": [
+    {
+      "id": "rss:62499851-ae2a-3986-acf8-4d9d1b0a40aa",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "FDX",
+      "title": "DHL Express makes customs clearance easier for small cross-border shippers",
+      "summary": "DHL Express has introduced a new AI-generated product identifier for customs clearance that takes the guesswork out of the process. The post DHL Express makes customs clearance easier for small cross-border shippers appeared first on FreightWaves.",
+      "link": "https://finance.yahoo.com/small-business/articles/dhl-express-makes-customs-clearance-133856106.html?.tsrc=rss",
+      "time": "2026-11-21T13:38:56+00:00",
+      "touches": [
+        "FDX"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
