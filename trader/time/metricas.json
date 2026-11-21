@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-20",
+  "as_of": "2026-11-21",
   "companies": [
     {
       "ticker": "ADBE",
@@ -37,16 +37,16 @@
       "ticker": "HD",
       "name": "HOME DEPOT, INC.",
       "cik": "0000354950",
-      "period_end": "2026-08-02",
-      "revenue_ttm": 169176000000,
-      "net_income_ttm": 14227000000,
-      "eps_ttm": 14.29,
-      "revenue_growth_yoy": 5.7,
-      "eps_growth_yoy": 4.6,
-      "net_income_growth_yoy": 4.7,
-      "gross_margin": 33.7,
-      "operating_margin": 14.3,
-      "net_margin": 10.0,
+      "period_end": "2026-11-01",
+      "revenue_ttm": 171222000000,
+      "net_income_ttm": 14339000000,
+      "eps_ttm": 14.39,
+      "revenue_growth_yoy": 4.9,
+      "eps_growth_yoy": 2.8,
+      "net_income_growth_yoy": 3.1,
+      "gross_margin": 32.8,
+      "operating_margin": 12.6,
+      "net_margin": 8.6,
       "source": "SEC XBRL company facts"
     },
     {
