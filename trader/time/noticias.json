@@ -1,5 +1,24 @@
 {
-  "as_of": "2026-11-21T04:35:00Z",
-  "items": [],
+  "as_of": "2026-11-21T05:05:00Z",
+  "items": [
+    {
+      "id": "rss:788d5e98-4aef-32b9-a0be-9cba575009c7",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "Should CEO Change Require Action From Home Depot Stock Investors?",
+      "summary": "Home Depot reported third quarter 2026 sales of US$43,398 million and net income of US$3,713 million, alongside updated 2026 guidance that calls for total sales growth of approximately 4.5% and diluted EPS growth of about 1.5% from US$14.23 in fiscal 2025. The board moved to concentrate experience at the top by naming long-time CFO Richard McPhail as CEO, adding him to the board, elevating veteran operator Ann-Marie Campbell to President and COO, and appointing digital and finance insider...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ceo-change-require-action-home-042018887.html?.tsrc=rss",
+      "time": "2026-11-21T04:20:18+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [
+        "earnings",
+        "people"
+      ],
+      "new": true
+    }
+  ],
   "atencao": []
 }
