@@ -1,23 +1,5 @@
 {
-  "as_of": "2026-11-21T06:35:00Z",
-  "items": [
-    {
-      "id": "rss:ed8ba717-e459-376e-9cac-161e918caad0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MRK",
-      "title": "Learn Why The Bull Case For Moderna (MRNA) Could Change Following Melanoma Vaccine Trial Results",
-      "summary": "Moderna reported that its personalized melanoma vaccine, intismeran autogene, delivered positive Phase 3 results with Merck\u2019s Keytruda, cutting the risk of recurrence or death and supporting plans for regulatory filings. Investors now have to weigh this oncology progress against Moderna\u2019s guidance for roughly US$4b to US$4.5b a year in cash costs through 2030, largely tied to cancer drug development. We will now look at how Moderna's investment narrative reflects this oncology progress while...",
-      "link": "https://finance.yahoo.com/healthcare/articles/learn-why-bull-case-moderna-060925616.html?.tsrc=rss",
-      "time": "2026-11-21T06:09:25+00:00",
-      "touches": [
-        "MRK"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-21T07:05:00Z",
+  "items": [],
   "atencao": []
 }
