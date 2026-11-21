@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-21T15:05:00Z",
-  "items": [
-    {
-      "id": "rss:3210b989-7b62-31ad-8d9e-864ea02df6c9",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Stock Market Week Ahead: A Matter Of Pressure And Time",
-      "summary": "The stock market suffered its most brutal week in five years. It's an important time for investors to pay careful attention.",
-      "link": "https://finance.yahoo.com/m/3210b989-7b62-31ad-8d9e-864ea02df6c9/stock-market-week-ahead%3A-a.html?.tsrc=rss",
-      "time": "2026-11-21T14:34:41+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-21T15:35:00Z",
+  "items": [],
   "atencao": []
 }
