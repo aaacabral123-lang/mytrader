@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-22T12:35:00Z",
-  "items": [
-    {
-      "id": "rss:1322adb2-f4b3-3472-af3d-25d203e9914f",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "\u2018Inflation affects all of us\u2019: Kevin O'Leary went shopping for Walmart paper towel bargains. How are you fighting back?",
-      "summary": "Mr. Wonderful hunts for Bounty deals and wears $29 Walmart jeans \u2014 and the inflation data shows exactly why even the wealthy are watching what they spend on everyday essentials.",
-      "link": "https://finance.yahoo.com/economy/articles/inflation-affects-us-kevin-oleary-122000791.html?.tsrc=rss",
-      "time": "2026-11-22T12:20:00+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-22T13:05:00Z",
+  "items": [],
   "atencao": []
 }
