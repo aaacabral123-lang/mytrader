@@ -1,23 +1,5 @@
 {
-  "as_of": "2026-11-22T01:35:00Z",
-  "items": [
-    {
-      "id": "rss:29fccf1e-1fe4-32a5-af9e-6d622ee6d2f0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Walmart (WMT) Stock May Be Fully Valued After Earnings News",
-      "summary": "Walmart has delivered a powerful long run for shareholders, and the latest burst of earnings news keeps attention squarely on whether the current share price is still backed by its profits. With the stock recently closing at US$127.95, the key issue for you is how that tag lines up with what the retailer is actually earning today. Over the past 5 years the share price has gained about 182.0%, which puts a lot of weight on the question of how much of that move is supported by the company\u2019s...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-stock-may-fully-010939760.html?.tsrc=rss",
-      "time": "2026-11-22T01:09:39+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-22T02:05:00Z",
+  "items": [],
   "atencao": []
 }
