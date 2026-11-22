@@ -1,23 +1,5 @@
 {
-  "as_of": "2026-11-22T13:35:00Z",
-  "items": [
-    {
-      "id": "rss:c97b2ec6-296b-326c-a939-414b59c71519",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Grocery stores have \u2018staggering deals\u2019 for Thanksgiving \u2014 but don\u2019t get used to these lower prices just yet",
-      "summary": "Walmart, Target and Amazon are some of the retailers offering meal-basket deals this year.",
-      "link": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?.tsrc=rss",
-      "time": "2026-11-21T14:00:00+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "capital"
-      ],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-22T14:05:00Z",
+  "items": [],
   "atencao": []
 }
