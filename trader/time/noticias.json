@@ -1,19 +1,84 @@
 {
-  "as_of": "2026-11-23T15:35:00Z",
+  "as_of": "2026-11-23T16:05:00Z",
   "items": [
     {
-      "id": "rss:c27c736c-3a0c-3c9a-91fa-37a05e4814b3",
+      "id": "rss:17fdbc15-9a82-3f8a-8220-1e4d983d8ee6",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "WMT",
-      "title": "MERSCO Joins Walmart\u2019s Hardlines Category Exchange, Exploring Opportunities in Backyard Play Expansion and Peak-Season Strategy",
-      "summary": "SHENZHEN, China, Nov. 23, 2026 (GLOBE NEWSWIRE) -- On October 21, 2026, Walmart hosted an in-person Global E-commerce Hardlines Category Exchange. MERSCO, a backyard play brand and Walmart marketplace seller, was invited to participate in the event, where it met face-to-face with Walmart\u2019s North American merchant team and global business representatives. The two sides held in-depth discussions on category expansion, shelf opportunities, and peak-season strategies across the backyard play categor",
-      "link": "https://finance.yahoo.com/small-business/articles/mersco-joins-walmart-hardlines-category-151000715.html?.tsrc=rss",
-      "time": "2026-11-23T15:10:00+00:00",
+      "title": "Vuzix stock jumps on reseller deal with Friends With Holograms",
+      "summary": "Investing.com -- Vuzix Corp (NASDAQ:VUZI) shares rose over 8% in trading Monday following the announcement of a reseller agreement with Friends With Holograms, a New York-based company specializing in smart glasses and spatial computing solutions for enterprises.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vuzix-stock-jumps-reseller-deal-155040814.html?.tsrc=rss",
+      "time": "2026-11-23T15:50:40+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [
+        "deal"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:4a179f6c-c2b8-3c68-bbdd-6decd3da0c1e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "Intel Leads A List Of Stocks Winning Over New Hedge Fund Fans",
+      "summary": "Intel Stock Has Surged This Year, And Hedge Funds Keep Piling In",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-leads-list-stocks-winning-154214710.html?.tsrc=rss",
+      "time": "2026-11-23T15:42:14+00:00",
+      "touches": [
+        "HD",
+        "MRK"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:2adcc3aa-1f33-3c4c-942e-2ce7ef9dde64",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Michael Burry\u2019s Latest Top 10 Stock Picks Amid AI Crash",
+      "summary": "Michael Burry, the investor who famously predicted the 2008 housing market crash, is back in the spotlight as a sharp selloff in artificial intelligence stocks draws renewed attention to his warnings about a potential AI bubble. The investor has become increasingly vocal on X as major AI names, including Nvidia, CoreWeave, and Nebius, have suffered [\u2026]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-latest-top-10-154101772.html?.tsrc=rss",
+      "time": "2026-11-23T15:41:01+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:2de9edcf-3bd8-37b2-81a5-5052c4dcce87",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Can Costco's $7.5 Billion FY27 Capex Plan Deliver Strong Returns?",
+      "summary": "Costco's $7.5 billion FY27 capex plan targets warehouse expansion and supply-chain efficiency, backed by strong cash flow. Can it deliver lasting returns?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/costcos-7-5-billion-fy27-144200343.html?.tsrc=rss",
+      "time": "2026-11-23T14:42:00+00:00",
       "touches": [
         "WMT"
       ],
       "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:3be22491-a4f2-301e-a224-fb97b932f2d1",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "ExxonMobil vs. Equinor: Which is the Stronger Integrated Player?",
+      "summary": "EQNR beats XOM in stock gains, dividend yield and valuation. Can strong European gas prices make EQNR the better investment?",
+      "link": "https://finance.yahoo.com/energy/articles/exxonmobil-vs-equinor-stronger-integrated-143900281.html?.tsrc=rss",
+      "time": "2026-11-23T14:39:00+00:00",
+      "touches": [
+        "XOM"
+      ],
+      "tags": [
+        "capital"
+      ],
       "new": true
     }
   ],
