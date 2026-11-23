@@ -1,98 +1,17 @@
 {
-  "as_of": "2026-11-23T13:35:00Z",
+  "as_of": "2026-11-23T14:05:00Z",
   "items": [
     {
-      "id": "rss:f6674798-1f13-3337-89a6-a38f13ece6f2",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XOM",
-      "title": "Which 3 ETFs Best Fit ExxonMobil After Its Angola Move?",
-      "summary": "If you like ExxonMobil Holdings for its global oil and gas reach, owning only the single stock means your money rises and falls entirely with its own issues. Simply Wall St points out that earnings are forecast to decline by an average of 2.2% a year over the next few years, and the business is still closely tied to long term demand for fossil fuels. Holding it inside an exchange traded fund spreads those ExxonMobil specific swings across many companies. However, this also limits how much its...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-etfs-best-fit-exxonmobil-131152914.html?.tsrc=rss",
-      "time": "2026-11-23T13:11:52+00:00",
-      "touches": [
-        "XOM"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:fa723792-c8ff-3427-8156-62f35f54f953",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XOM",
-      "title": "What Does ExxonMobil (XOM) Gain From Its $4 Billion Angola Block 15 Bet?",
-      "summary": "ExxonMobil Holdings (NYSE:XOM) and partners approved a US$4b final investment decision to redevelop Angola\u2019s offshore Block 15. The plan covers further development of existing infrastructure and progresses new hydrocarbon discoveries within the long producing deepwater block. The decision includes funding to support ongoing production commitments in Angola alongside development of recently identified resources in Block 15. The new US$4b redevelopment of Angola\u2019s Block 15 feeds into a wider...",
-      "link": "https://finance.yahoo.com/energy/articles/does-exxonmobil-xom-gain-4-131137683.html?.tsrc=rss",
-      "time": "2026-11-23T13:11:37+00:00",
-      "touches": [
-        "XOM"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:b52880f3-5864-31a6-983f-75315cc2cb18",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "The Home Depot to Present at the Morgan Stanley Global Consumer & Retail Conference",
-      "summary": "The Home Depot\u00ae, the world's largest home improvement retailer, today announced that Richard McPhail, chief executive officer, will present at the Morgan Stanley Global Consumer & Retail Conference. The presentation will begin at 8:45 a.m. ET on Tuesday, December 1, 2026.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-present-morgan-stanley-130000424.html?.tsrc=rss",
-      "time": "2026-11-23T13:00:00+00:00",
-      "touches": [
-        "HD"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:6c07f3dc-7a76-3d06-b394-f9fe46622c42",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "FDX",
-      "title": "FedEx-led consortium finalizes $9.2B deal for Polish delivery company",
-      "summary": "A consortium led by FedEx has completed the takeover of InPost, a large parcel courier in Europe. The post FedEx-led consortium finalizes $9.2B deal for Polish delivery company appeared first on FreightWaves.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fedex-led-consortium-finalizes-9-123030458.html?.tsrc=rss",
-      "time": "2026-11-23T12:30:30+00:00",
-      "touches": [
-        "FDX"
-      ],
-      "tags": [
-        "deal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:aed8f550-d2e4-36ae-86ac-80025c8bbef2",
+      "id": "rss:3295e411-4056-3303-afc3-54af70b7afe7",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "WMT",
-      "title": "Walmart, Target, Anthropic, Amazon, Nvidia, Micron and Alphabet are part of Zacks Earnings Preview",
-      "summary": "Walmart and Target diverge in Q3 retail performance as sector earnings face cost pressures, while Nvidia, Micron and Alphabet shape S&P 500 growth expectations.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-target-anthropic-amazon-nvidia-120200850.html?.tsrc=rss",
-      "time": "2026-11-23T12:02:00+00:00",
+      "title": "Vuzix Signs Reseller Agreement with Friends With Holograms to Support Enterprise Smart Glasses Adoption",
+      "summary": "Vuzix\u00ae Corporation (NASDAQ: VUZI), (\"Vuzix\" or, the \"Company\"), a supplier of AI-powered smart glasses, waveguides for smart glasses and co-packaged optical data center interconnects, and related augmented reality technologies, today announced that it has entered into a reseller agreement with Friends With Holograms, a New York-based company that helps enterprises identify, develop and deploy smart glasses and spatial computing solutions.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/vuzix-signs-reseller-agreement-friends-134500543.html?.tsrc=rss",
+      "time": "2026-11-23T13:45:00+00:00",
       "touches": [
         "WMT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:658ac4d0-9aa9-3f5f-9f04-bca15472b178",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "SPY",
-      "title": "4 ETF Winners of Last Week Amid Wall Street's Plunge",
-      "summary": "Wall Street plunged last week on AI fears and rate concerns. These four ETFs defied the selloff, delivering gains or relative stability.",
-      "link": "https://finance.yahoo.com/markets/options/articles/4-etf-winners-last-week-120000856.html?.tsrc=rss",
-      "time": "2026-11-23T12:00:00+00:00",
-      "touches": [
-        "SPY"
       ],
       "tags": [],
       "new": true
