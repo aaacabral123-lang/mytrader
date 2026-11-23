@@ -1,17 +1,34 @@
 {
-  "as_of": "2026-11-23T16:05:00Z",
+  "as_of": "2026-11-23T16:35:00Z",
   "items": [
     {
-      "id": "rss:17fdbc15-9a82-3f8a-8220-1e4d983d8ee6",
+      "id": "rss:807af08b-c093-3773-8bfa-bb4aebdbb9ca",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "WMT",
-      "title": "Vuzix stock jumps on reseller deal with Friends With Holograms",
-      "summary": "Investing.com -- Vuzix Corp (NASDAQ:VUZI) shares rose over 8% in trading Monday following the announcement of a reseller agreement with Friends With Holograms, a New York-based company specializing in smart glasses and spatial computing solutions for enterprises.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/vuzix-stock-jumps-reseller-deal-155040814.html?.tsrc=rss",
-      "time": "2026-11-23T15:50:40+00:00",
+      "ticker": "XOM",
+      "title": "Wall Street Opens Sharply Higher After the S&P 500's Seven-Day Slide",
+      "summary": "Oil Market Daily News Commentary - Wall Street started the Thanksgiving week on a much brighter note. All three major U.S. stock indexes moved sharply higher at Monday's open as investors returned to stocks after a seven-session losing streak for the S&P 500, and crude oil prices eased further after three straight weekly declines. For the energy companies that produce, refine, ship and move that oil and gas, the latest quarterly reports have been full of records, raised guidance and bigger payou",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-opens-sharply-higher-163000554.html?.tsrc=rss",
+      "time": "2026-11-23T16:30:00+00:00",
       "touches": [
-        "WMT"
+        "XOM"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:044e206e-a163-37b7-8d36-8036ef6d4f2c",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MRK",
+      "title": "Merck (MRK) Ties New AI Oncology Discovery Deal To Future Pipeline Growth",
+      "summary": "Merck (NYSE:MRK) agreed a new oncology drug discovery collaboration with Isomorphic Labs that centers on advanced AI driven molecule design. The partnership combines Merck's internal oncology data with Isomorphic Labs' computational models to identify and optimize new cancer drug candidates. Both groups plan to use the AI platform across multiple early stage discovery programs, targeting areas where traditional screening has been slow. The fresh Merck Isomorphic Labs oncology tie up is only...",
+      "link": "https://finance.yahoo.com/healthcare/articles/merck-mrk-ties-ai-oncology-161156740.html?.tsrc=rss",
+      "time": "2026-11-23T16:11:56+00:00",
+      "touches": [
+        "MRK"
       ],
       "tags": [
         "deal"
@@ -19,45 +36,31 @@
       "new": true
     },
     {
-      "id": "rss:4a179f6c-c2b8-3c68-bbdd-6decd3da0c1e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "Intel Leads A List Of Stocks Winning Over New Hedge Fund Fans",
-      "summary": "Intel Stock Has Surged This Year, And Hedge Funds Keep Piling In",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/intel-leads-list-stocks-winning-154214710.html?.tsrc=rss",
-      "time": "2026-11-23T15:42:14+00:00",
-      "touches": [
-        "HD",
-        "MRK"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:2adcc3aa-1f33-3c4c-942e-2ce7ef9dde64",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Michael Burry\u2019s Latest Top 10 Stock Picks Amid AI Crash",
-      "summary": "Michael Burry, the investor who famously predicted the 2008 housing market crash, is back in the spotlight as a sharp selloff in artificial intelligence stocks draws renewed attention to his warnings about a potential AI bubble. The investor has become increasingly vocal on X as major AI names, including Nvidia, CoreWeave, and Nebius, have suffered [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-latest-top-10-154101772.html?.tsrc=rss",
-      "time": "2026-11-23T15:41:01+00:00",
-      "touches": [
-        "ADBE"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:2de9edcf-3bd8-37b2-81a5-5052c4dcce87",
+      "id": "rss:6ee71d12-591e-3ce3-bfa6-8ae4f459489c",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "WMT",
-      "title": "Can Costco's $7.5 Billion FY27 Capex Plan Deliver Strong Returns?",
-      "summary": "Costco's $7.5 billion FY27 capex plan targets warehouse expansion and supply-chain efficiency, backed by strong cash flow. Can it deliver lasting returns?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/costcos-7-5-billion-fy27-144200343.html?.tsrc=rss",
-      "time": "2026-11-23T14:42:00+00:00",
+      "title": "How Much of Target's Third-Quarter EPS of $2.65 Reflects Core Growth?",
+      "summary": "Target's Q3 EPS jumps to $2.65, boosted by tariff refunds. Yet underlying earnings growth, stronger sales and margin gains reveal a broader performance story.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/much-targets-third-quarter-eps-152500148.html?.tsrc=rss",
+      "time": "2026-11-23T15:25:00+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:6182af31-e554-3dd6-b7f9-7cf077d399d9",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Can Dollar General Sustain Its 80% Delivery Sales Incrementality?",
+      "summary": "Dollar General's delivery business boasts 80% sales incrementality, larger baskets and strong repeat orders. Can this momentum last as its delivery network matures?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-sustain-80-delivery-152000585.html?.tsrc=rss",
+      "time": "2026-11-23T15:20:00+00:00",
       "touches": [
         "WMT"
       ],
@@ -65,20 +68,33 @@
       "new": true
     },
     {
-      "id": "rss:3be22491-a4f2-301e-a224-fb97b932f2d1",
+      "id": "rss:d541d1bd-783d-36c7-bb6f-782883f8245f",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "XOM",
-      "title": "ExxonMobil vs. Equinor: Which is the Stronger Integrated Player?",
-      "summary": "EQNR beats XOM in stock gains, dividend yield and valuation. Can strong European gas prices make EQNR the better investment?",
-      "link": "https://finance.yahoo.com/energy/articles/exxonmobil-vs-equinor-stronger-integrated-143900281.html?.tsrc=rss",
-      "time": "2026-11-23T14:39:00+00:00",
+      "ticker": "HD",
+      "title": "Can Home Depot Reignite Growth Amid Weak Big-Ticket Demand?",
+      "summary": "HD's Pro expansion, digital growth and faster delivery fuel sales gains, but weak housing demand and margin pressures cloud a sharper recovery.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-reignite-growth-amid-151500743.html?.tsrc=rss",
+      "time": "2026-11-23T15:15:00+00:00",
       "touches": [
-        "XOM"
+        "HD"
       ],
-      "tags": [
-        "capital"
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:ded02950-7e98-3a62-931d-2127880f5bed",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Can Walmart Sustain Its Q3 Sales Momentum Through the Holiday Season?",
+      "summary": "WMT's Q3 sales momentum, fueled by grocery gains, e-commerce growth and competitive pricing, sets the stage for a crucial holiday shopping season.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-sustain-q3-sales-momentum-151500637.html?.tsrc=rss",
+      "time": "2026-11-23T15:15:00+00:00",
+      "touches": [
+        "WMT"
       ],
+      "tags": [],
       "new": true
     }
   ],
