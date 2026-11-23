@@ -1,5 +1,39 @@
 {
-  "as_of": "2026-11-23T18:35:00Z",
-  "items": [],
+  "as_of": "2026-11-23T19:05:00Z",
+  "items": [
+    {
+      "id": "rss:d048c231-fcc0-3488-9a6c-bed18aa15a80",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "FDX",
+      "title": "Forward Air (FWRD) Stock Is Up 12.1% Today Without Company News",
+      "summary": "On Monday, Nov. 23, the shares rose 12.1% without company-specific news as the S&P 500 gained 4.6%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/forward-air-fwrd-stock-12-190029728.html?.tsrc=rss",
+      "time": "2026-11-23T19:00:29+00:00",
+      "touches": [
+        "FDX"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:55753457-0bf1-4a3c-bbec-a05fbeffd966",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "FDX",
+      "title": "Jensen Huang's return to Nvidia: Long or short accountability?",
+      "summary": "Market Hang tackles the top stories of the day. Including Nvidia's board unanimously reinstating Jensen Huang as CEO and what the White House's involvement says about accountability in corporate America, whether the government has effectively put a floor under the AI trade, and Anthropic falling as options on the stock begin trading for the first time. The panel, with Yahoo Finance's Julie Hyman, debates where everyone sits on a one-to-five bullishness scale, whether this is a stock picker's market or a CapEx bubble that precedes a secular bear, the risk of a politically driven slowdown in data center construction, and OpenAI's chief scientist calling for a speed limit on AI development, including whether an FDA-style regulator is the right model for AI.",
+      "link": "https://finance.yahoo.com/video/jensen-huangs-return-to-nvidia-long-or-short-accountability-185949254.html?.tsrc=rss",
+      "time": "2026-11-23T18:59:49+00:00",
+      "touches": [
+        "FDX",
+        "WMT"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
+    }
+  ],
   "atencao": []
 }
