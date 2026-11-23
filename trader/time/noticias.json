@@ -1,37 +1,19 @@
 {
-  "as_of": "2026-11-23T19:05:00Z",
+  "as_of": "2026-11-23T19:35:00Z",
   "items": [
     {
-      "id": "rss:d048c231-fcc0-3488-9a6c-bed18aa15a80",
+      "id": "rss:ab605dd4-7367-3c56-8e71-2ac2b49133d5",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "FDX",
-      "title": "Forward Air (FWRD) Stock Is Up 12.1% Today Without Company News",
-      "summary": "On Monday, Nov. 23, the shares rose 12.1% without company-specific news as the S&P 500 gained 4.6%",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/forward-air-fwrd-stock-12-190029728.html?.tsrc=rss",
-      "time": "2026-11-23T19:00:29+00:00",
+      "ticker": "XLV",
+      "title": "3 ETFs For Owning AbbVie As Its Research Push Widens The Choice",
+      "summary": "If you like AbbVie and its drug portfolio, buying the stock outright means your money rises and falls with its specific issues. Simply Wall St flags the risk that loss of exclusivity for drugs like HUMIRA and future pressure on follow up treatments could hit revenue, and also highlights concerns about high debt. Owning AbbVie inside a wider fund spreads those company level swings across many holdings, which also means any success from AbbVie moves a smaller slice of your portfolio. Right now...",
+      "link": "https://finance.yahoo.com/healthcare/articles/3-etfs-owning-abbvie-research-191042661.html?.tsrc=rss",
+      "time": "2026-11-23T19:10:42+00:00",
       "touches": [
-        "FDX"
+        "XLV"
       ],
       "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:55753457-0bf1-4a3c-bbec-a05fbeffd966",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "FDX",
-      "title": "Jensen Huang's return to Nvidia: Long or short accountability?",
-      "summary": "Market Hang tackles the top stories of the day. Including Nvidia's board unanimously reinstating Jensen Huang as CEO and what the White House's involvement says about accountability in corporate America, whether the government has effectively put a floor under the AI trade, and Anthropic falling as options on the stock begin trading for the first time. The panel, with Yahoo Finance's Julie Hyman, debates where everyone sits on a one-to-five bullishness scale, whether this is a stock picker's market or a CapEx bubble that precedes a secular bear, the risk of a politically driven slowdown in data center construction, and OpenAI's chief scientist calling for a speed limit on AI development, including whether an FDA-style regulator is the right model for AI.",
-      "link": "https://finance.yahoo.com/video/jensen-huangs-return-to-nvidia-long-or-short-accountability-185949254.html?.tsrc=rss",
-      "time": "2026-11-23T18:59:49+00:00",
-      "touches": [
-        "FDX",
-        "WMT"
-      ],
-      "tags": [
-        "people"
-      ],
       "new": true
     }
   ],
