@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-23T09:05:00Z",
-  "items": [],
+  "as_of": "2026-11-23T09:35:00Z",
+  "items": [
+    {
+      "id": "rss:e53ae675-a1da-3cda-abc2-6884403ab73d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Stock Rotation Will Go International: Market Analysis",
+      "summary": "Anna Edwards, Guy Johnson and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\"",
+      "link": "https://finance.yahoo.com/video/stock-rotation-international-market-analysis-085117813.html?.tsrc=rss",
+      "time": "2026-11-23T08:51:17+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
