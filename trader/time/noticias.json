@@ -1,98 +1,17 @@
 {
-  "as_of": "2026-11-23T16:35:00Z",
+  "as_of": "2026-11-23T17:05:00Z",
   "items": [
     {
-      "id": "rss:807af08b-c093-3773-8bfa-bb4aebdbb9ca",
+      "id": "rss:add74646-9b02-3471-8576-24cdf31d6d5f",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "XOM",
-      "title": "Wall Street Opens Sharply Higher After the S&P 500's Seven-Day Slide",
-      "summary": "Oil Market Daily News Commentary - Wall Street started the Thanksgiving week on a much brighter note. All three major U.S. stock indexes moved sharply higher at Monday's open as investors returned to stocks after a seven-session losing streak for the S&P 500, and crude oil prices eased further after three straight weekly declines. For the energy companies that produce, refine, ship and move that oil and gas, the latest quarterly reports have been full of records, raised guidance and bigger payou",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-opens-sharply-higher-163000554.html?.tsrc=rss",
+      "ticker": "FDX",
+      "title": "Planting for Good: How FedEx and Local Communities Are Planting Trees",
+      "summary": "NORTHAMPTON, MA / ACCESS Newswire / November 23, 2026 / At , our purpose is to connect people and possibilities. That commitment doesn't stop with our global transportation network - it reaches right into the neighborhoods where our team members live, work, and deliver every day.",
+      "link": "https://finance.yahoo.com/energy/articles/planting-good-fedex-local-communities-163000303.html?.tsrc=rss",
       "time": "2026-11-23T16:30:00+00:00",
       "touches": [
-        "XOM"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:044e206e-a163-37b7-8d36-8036ef6d4f2c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MRK",
-      "title": "Merck (MRK) Ties New AI Oncology Discovery Deal To Future Pipeline Growth",
-      "summary": "Merck (NYSE:MRK) agreed a new oncology drug discovery collaboration with Isomorphic Labs that centers on advanced AI driven molecule design. The partnership combines Merck's internal oncology data with Isomorphic Labs' computational models to identify and optimize new cancer drug candidates. Both groups plan to use the AI platform across multiple early stage discovery programs, targeting areas where traditional screening has been slow. The fresh Merck Isomorphic Labs oncology tie up is only...",
-      "link": "https://finance.yahoo.com/healthcare/articles/merck-mrk-ties-ai-oncology-161156740.html?.tsrc=rss",
-      "time": "2026-11-23T16:11:56+00:00",
-      "touches": [
-        "MRK"
-      ],
-      "tags": [
-        "deal"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:6ee71d12-591e-3ce3-bfa6-8ae4f459489c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "How Much of Target's Third-Quarter EPS of $2.65 Reflects Core Growth?",
-      "summary": "Target's Q3 EPS jumps to $2.65, boosted by tariff refunds. Yet underlying earnings growth, stronger sales and margin gains reveal a broader performance story.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/much-targets-third-quarter-eps-152500148.html?.tsrc=rss",
-      "time": "2026-11-23T15:25:00+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:6182af31-e554-3dd6-b7f9-7cf077d399d9",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Can Dollar General Sustain Its 80% Delivery Sales Incrementality?",
-      "summary": "Dollar General's delivery business boasts 80% sales incrementality, larger baskets and strong repeat orders. Can this momentum last as its delivery network matures?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-sustain-80-delivery-152000585.html?.tsrc=rss",
-      "time": "2026-11-23T15:20:00+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:d541d1bd-783d-36c7-bb6f-782883f8245f",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "Can Home Depot Reignite Growth Amid Weak Big-Ticket Demand?",
-      "summary": "HD's Pro expansion, digital growth and faster delivery fuel sales gains, but weak housing demand and margin pressures cloud a sharper recovery.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-reignite-growth-amid-151500743.html?.tsrc=rss",
-      "time": "2026-11-23T15:15:00+00:00",
-      "touches": [
-        "HD"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:ded02950-7e98-3a62-931d-2127880f5bed",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Can Walmart Sustain Its Q3 Sales Momentum Through the Holiday Season?",
-      "summary": "WMT's Q3 sales momentum, fueled by grocery gains, e-commerce growth and competitive pricing, sets the stage for a crucial holiday shopping season.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-sustain-q3-sales-momentum-151500637.html?.tsrc=rss",
-      "time": "2026-11-23T15:15:00+00:00",
-      "touches": [
-        "WMT"
+        "FDX"
       ],
       "tags": [],
       "new": true
