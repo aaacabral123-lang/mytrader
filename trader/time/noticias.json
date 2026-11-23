@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-23T08:35:00Z",
-  "items": [
-    {
-      "id": "rss:f16bfc29-faba-38bc-b1fb-308b08c2f950",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "What Does Walmart (WMT) Nearly Tripling 30 Minute Delivery Volume Mean?",
-      "summary": "Walmart (NasdaqGS:WMT) reported that sub-30-minute delivery volume nearly tripled in Q3, using its U.S. store and warehouse network. Management highlighted the expansion of new warehouse nodes that feed ultra-fast delivery from existing brick-and-mortar locations across key markets. The retailer described ultra-fast fulfillment as a core pillar of its U.S. e-commerce logistics model during the Q3 update. The surge in sub-30-minute orders is important, but investors should weigh it alongside...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/does-walmart-wmt-nearly-tripling-080658672.html?.tsrc=rss",
-      "time": "2026-11-23T08:06:58+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-23T09:05:00Z",
+  "items": [],
   "atencao": []
 }
