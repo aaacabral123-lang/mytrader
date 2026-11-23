@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-23T22:05:00Z",
-  "items": [],
+  "as_of": "2026-11-23T22:35:00Z",
+  "items": [
+    {
+      "id": "rss:5f4735f7-f982-32a8-97ae-5bd894780431",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Adobe (ADBE) Faces A Valuation Test, Is It A Bargain?",
+      "summary": "Adobe (ADBE) is back in focus after StreamWork brought its review-and-approval plugins for Premiere, Photoshop and InDesign into the Adobe Marketplace, integrating creative workflows directly with Adobe Creative Cloud for existing StreamWork team customers. For context, Adobe shares have retreated sharply this year. The 30-day share price return is down 17.48% and the year-to-date share price return is down 34.68%. The 1-year total shareholder return has declined 31.69% and the 5-year total...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-faces-valuation-test-220628881.html?.tsrc=rss",
+      "time": "2026-11-23T22:06:28+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
