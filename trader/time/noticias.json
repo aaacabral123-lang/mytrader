@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-23T23:05:00Z",
-  "items": [
-    {
-      "id": "rss:15f23879-563a-362a-b8c5-41d921f1ffc4",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XOM",
-      "title": "5 Energy Stocks That Can Shrug Off a December Fed Rate Hike",
-      "summary": "Five energy stocks with strong balance sheets, from Exxon to Kinder Morgan, that could hold up if the Fed hikes again in December and CPI runs hot.",
-      "link": "https://finance.yahoo.com/energy/articles/5-energy-stocks-shrug-off-220000268.html?.tsrc=rss",
-      "time": "2026-11-23T22:00:00+00:00",
-      "touches": [
-        "XOM"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-23T23:35:00Z",
+  "items": [],
   "atencao": []
 }
