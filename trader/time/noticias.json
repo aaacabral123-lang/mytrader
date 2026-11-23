@@ -1,17 +1,17 @@
 {
-  "as_of": "2026-11-23T22:35:00Z",
+  "as_of": "2026-11-23T23:05:00Z",
   "items": [
     {
-      "id": "rss:5f4735f7-f982-32a8-97ae-5bd894780431",
+      "id": "rss:15f23879-563a-362a-b8c5-41d921f1ffc4",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Adobe (ADBE) Faces A Valuation Test, Is It A Bargain?",
-      "summary": "Adobe (ADBE) is back in focus after StreamWork brought its review-and-approval plugins for Premiere, Photoshop and InDesign into the Adobe Marketplace, integrating creative workflows directly with Adobe Creative Cloud for existing StreamWork team customers. For context, Adobe shares have retreated sharply this year. The 30-day share price return is down 17.48% and the year-to-date share price return is down 34.68%. The 1-year total shareholder return has declined 31.69% and the 5-year total...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-faces-valuation-test-220628881.html?.tsrc=rss",
-      "time": "2026-11-23T22:06:28+00:00",
+      "ticker": "XOM",
+      "title": "5 Energy Stocks That Can Shrug Off a December Fed Rate Hike",
+      "summary": "Five energy stocks with strong balance sheets, from Exxon to Kinder Morgan, that could hold up if the Fed hikes again in December and CPI runs hot.",
+      "link": "https://finance.yahoo.com/energy/articles/5-energy-stocks-shrug-off-220000268.html?.tsrc=rss",
+      "time": "2026-11-23T22:00:00+00:00",
       "touches": [
-        "ADBE"
+        "XOM"
       ],
       "tags": [],
       "new": true
