@@ -1,30 +1,15 @@
 {
-  "as_of": "2026-11-23T15:05:00Z",
+  "as_of": "2026-11-23T15:35:00Z",
   "items": [
     {
-      "id": "rss:e5ee11f1-d460-3d74-8b4e-8d21c21bf352",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MRK",
-      "title": "AbbVie vs. Merck: Which Pharma Stock Is the Better Investment Pick?",
-      "summary": "AbbVie and Merck offer compelling growth opportunities, but differences in pipeline strength, revenue outlook and patent risks make one a better investment pick.",
-      "link": "https://finance.yahoo.com/healthcare/articles/abbvie-vs-merck-pharma-stock-134100802.html?.tsrc=rss",
-      "time": "2026-11-23T13:41:00+00:00",
-      "touches": [
-        "MRK"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:4eaee175-6e46-3788-884a-6c056a60e903",
+      "id": "rss:c27c736c-3a0c-3c9a-91fa-37a05e4814b3",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "WMT",
-      "title": "Is Symbotic's Substantial Backlog a Signal for Long-Term Growth?",
-      "summary": "SYM's $22.5 billion backlog and expanding automation deployments signal long-term growth potential, but execution risks could impact revenue conversion.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/symbotics-substantial-backlog-signal-long-133100211.html?.tsrc=rss",
-      "time": "2026-11-23T13:31:00+00:00",
+      "title": "MERSCO Joins Walmart\u2019s Hardlines Category Exchange, Exploring Opportunities in Backyard Play Expansion and Peak-Season Strategy",
+      "summary": "SHENZHEN, China, Nov. 23, 2026 (GLOBE NEWSWIRE) -- On October 21, 2026, Walmart hosted an in-person Global E-commerce Hardlines Category Exchange. MERSCO, a backyard play brand and Walmart marketplace seller, was invited to participate in the event, where it met face-to-face with Walmart\u2019s North American merchant team and global business representatives. The two sides held in-depth discussions on category expansion, shelf opportunities, and peak-season strategies across the backyard play categor",
+      "link": "https://finance.yahoo.com/small-business/articles/mersco-joins-walmart-hardlines-category-151000715.html?.tsrc=rss",
+      "time": "2026-11-23T15:10:00+00:00",
       "touches": [
         "WMT"
       ],

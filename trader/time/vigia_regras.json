@@ -7,12 +7,6 @@
       "pct": 5
     },
     {
-      "id": "vigia-DIA",
-      "symbol": "DIA",
-      "type": "pct_move",
-      "pct": 5
-    },
-    {
       "id": "vigia-FDX",
       "symbol": "FDX",
       "type": "pct_move",
@@ -27,12 +21,6 @@
     {
       "id": "vigia-MRK",
       "symbol": "MRK",
-      "type": "pct_move",
-      "pct": 5
-    },
-    {
-      "id": "vigia-SPY",
-      "symbol": "SPY",
       "type": "pct_move",
       "pct": 5
     },
