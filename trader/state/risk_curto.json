@@ -4,32 +4,21 @@
   "results": [
     {
       "index": 1,
-      "symbol": "DIA",
+      "symbol": "XLB",
       "side": "sell",
-      "amount": "0.488109024 shares",
-      "value_usd": 241.56,
-      "fingerprint": "bc15e0bc644fd8bc",
-      "verdict": "PASS",
-      "reasons": [],
-      "warnings": []
-    },
-    {
-      "index": 2,
-      "symbol": "SPY",
-      "side": "sell",
-      "amount": "0.335586908 shares",
-      "value_usd": 242.41,
-      "fingerprint": "3ff4ec92118ec474",
+      "amount": "4.833818675 shares",
+      "value_usd": 240.72,
+      "fingerprint": "16dc594f607c505a",
       "verdict": "PASS",
       "reasons": [],
       "warnings": []
     }
   ],
-  "pass": 2,
+  "pass": 1,
   "block": 0,
   "warnings": [],
-  "cash_after": 492.26,
-  "prices_as_of": "2026-11-23T15:05:39Z",
-  "checked_at": "2026-11-23T15:05:41",
+  "cash_after": 732.86,
+  "prices_as_of": "2026-11-23T18:35:09Z",
+  "checked_at": "2026-11-23T18:35:10",
   "orders_file": "trader/curto/orders.json"
 }

@@ -1,23 +1,5 @@
 {
-  "as_of": "2026-11-23T18:05:00Z",
-  "items": [
-    {
-      "id": "rss:7223032b-a8a5-31ae-9156-8324a27ee1ac",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XOM",
-      "title": "ExxonMobil's $4B Kizomba Redevelopment: Can It Drive Earnings Growth?",
-      "summary": "XOM advances a $4B redevelopment of Angola's Kizomba fields, while a new Block 15 discovery boosts production and earnings growth potential.",
-      "link": "https://finance.yahoo.com/energy/articles/exxonmobils-4b-kizomba-redevelopment-drive-162400004.html?.tsrc=rss",
-      "time": "2026-11-23T16:24:00+00:00",
-      "touches": [
-        "XOM"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-23T18:35:00Z",
+  "items": [],
   "atencao": []
 }

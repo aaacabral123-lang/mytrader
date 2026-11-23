@@ -3,20 +3,12 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "DIA",
+      "symbol": "XLB",
       "side": "sell",
-      "qty": "0.488109024",
+      "qty": "4.833818675",
       "type": "market",
       "time_in_force": "day",
-      "why": "curto prazo, sa\u00edda: repique: $494.88 acima da m\u00e9dia de 5 dias ($494.85)"
-    },
-    {
-      "symbol": "SPY",
-      "side": "sell",
-      "qty": "0.335586908",
-      "type": "market",
-      "time_in_force": "day",
-      "why": "curto prazo, sa\u00edda: repique: $722.34 acima da m\u00e9dia de 5 dias ($718.32)"
+      "why": "curto prazo, sa\u00edda: repique: $49.80 acima da m\u00e9dia de 5 dias ($49.77)"
     }
   ]
 }
