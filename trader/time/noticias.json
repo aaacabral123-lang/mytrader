@@ -1,35 +1,20 @@
 {
-  "as_of": "2026-11-23T17:35:00Z",
+  "as_of": "2026-11-23T18:05:00Z",
   "items": [
     {
-      "id": "rss:4e25cb93-8298-30b6-bc33-7f1bab6c53b7",
+      "id": "rss:7223032b-a8a5-31ae-9156-8324a27ee1ac",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "HD",
-      "title": "The Home Depot (HD) Shares Fall as Depressed Home Turnover Weighs on Outlook",
-      "summary": "Meridian Funds, managed by ArrowMark Partners, released its third-quarter 2026 investor letter for \u201cMeridian Hedged Equity Fund\u201d. The letter can be downloaded here. In the quarter, a modest gain in U.S. equities masked a significant sector rotation and sharply narrowing leadership. The S&P 500 rose 2.30% in the quarter, bringing the year-to-date gain to 12.75%. [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-shares-fall-170844895.html?.tsrc=rss",
-      "time": "2026-11-23T17:08:44+00:00",
+      "ticker": "XOM",
+      "title": "ExxonMobil's $4B Kizomba Redevelopment: Can It Drive Earnings Growth?",
+      "summary": "XOM advances a $4B redevelopment of Angola's Kizomba fields, while a new Block 15 discovery boosts production and earnings growth potential.",
+      "link": "https://finance.yahoo.com/energy/articles/exxonmobils-4b-kizomba-redevelopment-drive-162400004.html?.tsrc=rss",
+      "time": "2026-11-23T16:24:00+00:00",
       "touches": [
-        "HD"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:da0e304f-9dbd-3210-9fb9-02e1050a3148",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "FDX",
-      "title": "EasyPost to Go Public Via American Drive Acquisition Co SPAC",
-      "summary": "By Karen Roman Shipping technology company EasyPost said it is going public through a business combination with American Drive Acquisition Co. (Nasdaq: ADAC), valuing the combined company at a proforma [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/easypost-public-via-american-drive-170711328.html?.tsrc=rss",
-      "time": "2026-11-23T17:07:11+00:00",
-      "touches": [
-        "FDX"
+        "XOM"
       ],
       "tags": [
-        "deal"
+        "earnings"
       ],
       "new": true
     }
