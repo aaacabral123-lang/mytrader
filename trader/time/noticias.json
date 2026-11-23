@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-23T21:35:00Z",
-  "items": [
-    {
-      "id": "rss:4a049e44-63be-3a89-b940-32dad03eadd7",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XLE",
-      "title": "Sector Update: Energy Stocks Decline Monday",
-      "summary": "Energy stocks fell Monday with the NYSE Energy Sector Index declining 1.2% and the State Street Ener",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-monday-210811263.html?.tsrc=rss",
-      "time": "2026-11-23T21:08:11+00:00",
-      "touches": [
-        "XLE"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-23T22:05:00Z",
+  "items": [],
   "atencao": []
 }
