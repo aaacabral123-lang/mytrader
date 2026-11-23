@@ -1,19 +1,36 @@
 {
-  "as_of": "2026-11-23T17:05:00Z",
+  "as_of": "2026-11-23T17:35:00Z",
   "items": [
     {
-      "id": "rss:add74646-9b02-3471-8576-24cdf31d6d5f",
+      "id": "rss:4e25cb93-8298-30b6-bc33-7f1bab6c53b7",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "The Home Depot (HD) Shares Fall as Depressed Home Turnover Weighs on Outlook",
+      "summary": "Meridian Funds, managed by ArrowMark Partners, released its third-quarter 2026 investor letter for \u201cMeridian Hedged Equity Fund\u201d. The letter can be downloaded here. In the quarter, a modest gain in U.S. equities masked a significant sector rotation and sharply narrowing leadership. The S&P 500 rose 2.30% in the quarter, bringing the year-to-date gain to 12.75%. [\u2026]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-shares-fall-170844895.html?.tsrc=rss",
+      "time": "2026-11-23T17:08:44+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:da0e304f-9dbd-3210-9fb9-02e1050a3148",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "FDX",
-      "title": "Planting for Good: How FedEx and Local Communities Are Planting Trees",
-      "summary": "NORTHAMPTON, MA / ACCESS Newswire / November 23, 2026 / At , our purpose is to connect people and possibilities. That commitment doesn't stop with our global transportation network - it reaches right into the neighborhoods where our team members live, work, and deliver every day.",
-      "link": "https://finance.yahoo.com/energy/articles/planting-good-fedex-local-communities-163000303.html?.tsrc=rss",
-      "time": "2026-11-23T16:30:00+00:00",
+      "title": "EasyPost to Go Public Via American Drive Acquisition Co SPAC",
+      "summary": "By Karen Roman Shipping technology company EasyPost said it is going public through a business combination with American Drive Acquisition Co. (Nasdaq: ADAC), valuing the combined company at a proforma [\u2026]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/easypost-public-via-american-drive-170711328.html?.tsrc=rss",
+      "time": "2026-11-23T17:07:11+00:00",
       "touches": [
         "FDX"
       ],
-      "tags": [],
+      "tags": [
+        "deal"
+      ],
       "new": true
     }
   ],
