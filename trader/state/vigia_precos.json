@@ -1,37 +1,37 @@
 {
-  "as_of": "2026-11-20T20:35:09Z",
+  "as_of": "2026-11-23T14:35:44Z",
   "source": "yahoo",
   "note": "Delayed quotes for alerts and sizing checks. Your broker's price is the one that fills.",
   "prices": {
-    "ADBE": 219.0,
+    "ADBE": 219.57,
     "BLK": 1210.11,
     "GOOGL": 290.802,
     "MSFT": 543.02,
     "NVDA": 178.26,
     "ORCL": 119.385,
     "QQQ": 698.27,
-    "SPY": 689.84,
+    "SPY": 716.23,
     "UNP": 297.275,
     "XLK": 170.25,
     "XLE": 62.21,
     "REGN": 908.95,
-    "VOO": 634.075,
-    "HD": 339.2,
+    "VOO": 658.35,
+    "HD": 340.565,
     "V": 414.56,
-    "XOM": 160.49,
+    "XOM": 157.74,
     "YUM": 158.46,
-    "WMT": 128.35,
-    "XLB": 48.485,
+    "WMT": 127.11,
+    "XLB": 49.02,
     "XLY": 119.25,
-    "DIA": 481.28,
-    "FDX": 304.255,
-    "XLV": 177.2,
-    "MRK": 133.44
+    "DIA": 490.82,
+    "FDX": 307.4,
+    "XLV": 177.655,
+    "MRK": 134.595
   },
   "detail": {
     "ADBE": {
-      "prev_close": 221.68,
-      "time": "2026-11-20T20:35:04Z",
+      "prev_close": 217.71,
+      "time": "2026-11-23T14:35:43Z",
       "source": "yahoo"
     },
     "BLK": {
@@ -65,8 +65,8 @@
       "source": "yahoo"
     },
     "SPY": {
-      "prev_close": 715.87,
-      "time": "2026-11-20T20:35:11Z",
+      "prev_close": 690.43,
+      "time": "2026-11-23T14:35:46Z",
       "source": "yahoo"
     },
     "UNP": {
@@ -90,13 +90,13 @@
       "source": "yahoo"
     },
     "VOO": {
-      "prev_close": 658.01,
-      "time": "2026-11-20T20:35:12Z",
+      "prev_close": 634.77,
+      "time": "2026-11-23T14:35:46Z",
       "source": "yahoo"
     },
     "HD": {
-      "prev_close": 336.68,
-      "time": "2026-11-20T20:35:10Z",
+      "prev_close": 339.065,
+      "time": "2026-11-23T14:35:43Z",
       "source": "yahoo"
     },
     "V": {
@@ -105,8 +105,8 @@
       "source": "yahoo"
     },
     "XOM": {
-      "prev_close": 158.93,
-      "time": "2026-11-20T20:35:12Z",
+      "prev_close": 159.995,
+      "time": "2026-11-23T14:35:47Z",
       "source": "yahoo"
     },
     "YUM": {
@@ -115,13 +115,13 @@
       "source": "yahoo"
     },
     "WMT": {
-      "prev_close": 126.04,
-      "time": "2026-11-20T20:35:11Z",
+      "prev_close": 127.95,
+      "time": "2026-11-23T14:35:48Z",
       "source": "yahoo"
     },
     "XLB": {
-      "prev_close": 49.42,
-      "time": "2026-11-20T20:35:12Z",
+      "prev_close": 48.355,
+      "time": "2026-11-23T14:35:47Z",
       "source": "yahoo"
     },
     "XLY": {
@@ -130,23 +130,23 @@
       "source": "yahoo"
     },
     "DIA": {
-      "prev_close": 490.244,
-      "time": "2026-11-20T20:35:03Z",
+      "prev_close": 480.86,
+      "time": "2026-11-23T14:35:39Z",
       "source": "yahoo"
     },
     "FDX": {
-      "prev_close": 314.64,
-      "time": "2026-11-20T20:35:09Z",
+      "prev_close": 303.903,
+      "time": "2026-11-23T14:35:41Z",
       "source": "yahoo"
     },
     "XLV": {
-      "prev_close": 177.46,
-      "time": "2026-11-20T20:35:13Z",
+      "prev_close": 177.32,
+      "time": "2026-11-23T14:35:47Z",
       "source": "yahoo"
     },
     "MRK": {
-      "prev_close": 132.81,
-      "time": "2026-11-20T20:35:07Z",
+      "prev_close": 133.9,
+      "time": "2026-11-23T14:35:39Z",
       "source": "yahoo"
     }
   }
