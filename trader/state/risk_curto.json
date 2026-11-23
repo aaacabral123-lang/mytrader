@@ -4,11 +4,11 @@
   "results": [
     {
       "index": 1,
-      "symbol": "XLB",
-      "side": "sell",
-      "amount": "4.833818675 shares",
-      "value_usd": 240.72,
-      "fingerprint": "16dc594f607c505a",
+      "symbol": "XLE",
+      "side": "buy",
+      "amount": "$244",
+      "value_usd": 244.0,
+      "fingerprint": "ac498b30ea1102fd",
       "verdict": "PASS",
       "reasons": [],
       "warnings": []
@@ -17,8 +17,8 @@
   "pass": 1,
   "block": 0,
   "warnings": [],
-  "cash_after": 732.86,
-  "prices_as_of": "2026-11-23T18:35:09Z",
-  "checked_at": "2026-11-23T18:35:10",
+  "cash_after": 488.86,
+  "prices_as_of": "2026-11-23T20:05:06Z",
+  "checked_at": "2026-11-23T20:05:07",
   "orders_file": "trader/curto/orders.json"
 }

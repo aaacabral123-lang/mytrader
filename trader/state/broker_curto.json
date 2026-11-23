@@ -169,6 +169,16 @@
       "id": "2cd38091-4f74-4061-92a6-1c76e18a1e24",
       "approved_by": "robo (automatic, paper)",
       "why": "curto prazo, sa\u00edda: repique: $49.80 acima da m\u00e9dia de 5 dias ($49.77)"
+    },
+    {
+      "date": "2026-11-23",
+      "at": "2026-11-23T20:05:06Z",
+      "status": "placed",
+      "symbol": "XLE",
+      "side": "buy",
+      "id": "47ffaf7f-ba5f-4182-b774-1515340b5350",
+      "approved_by": "robo (automatic, paper)",
+      "why": "curto prazo, entrada: RSI(2) 1.9, acima da m\u00e9dia de 200 dias ($59.27)"
     }
   ]
 }

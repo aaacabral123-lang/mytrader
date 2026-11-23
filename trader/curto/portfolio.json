@@ -1,11 +1,7 @@
 {
-  "cash": 492.14,
+  "cash": 732.86,
   "source": "curto prazo: posi\u00e7\u00f5es em ETFs + caixa do curto prazo",
   "positions": [
-    {
-      "ticker": "XLB",
-      "shares": 4.833818675
-    },
     {
       "ticker": "XLV",
       "shares": 1.363034336

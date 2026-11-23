@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-23T19:35:00Z",
-  "items": [
-    {
-      "id": "rss:ab605dd4-7367-3c56-8e71-2ac2b49133d5",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XLV",
-      "title": "3 ETFs For Owning AbbVie As Its Research Push Widens The Choice",
-      "summary": "If you like AbbVie and its drug portfolio, buying the stock outright means your money rises and falls with its specific issues. Simply Wall St flags the risk that loss of exclusivity for drugs like HUMIRA and future pressure on follow up treatments could hit revenue, and also highlights concerns about high debt. Owning AbbVie inside a wider fund spreads those company level swings across many holdings, which also means any success from AbbVie moves a smaller slice of your portfolio. Right now...",
-      "link": "https://finance.yahoo.com/healthcare/articles/3-etfs-owning-abbvie-research-191042661.html?.tsrc=rss",
-      "time": "2026-11-23T19:10:42+00:00",
-      "touches": [
-        "XLV"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-23T20:05:00Z",
+  "items": [],
   "atencao": []
 }
