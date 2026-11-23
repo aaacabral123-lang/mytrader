@@ -1,5 +1,84 @@
 {
-  "as_of": "2026-11-23T20:05:00Z",
-  "items": [],
+  "as_of": "2026-11-23T21:05:00Z",
+  "items": [
+    {
+      "id": "rss:5756e6da-56d4-37fb-90e6-c13bd281930f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLV",
+      "title": "Sector Update: Healthcare Stocks Rise Late Afternoon",
+      "summary": "Healthcare stocks were higher late Monday afternoon, with the NYSE Healthcare Index rising 1.1% and",
+      "link": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-rise-afternoon-204458367.html?.tsrc=rss",
+      "time": "2026-11-23T20:44:58+00:00",
+      "touches": [
+        "XLV"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:d85b751c-8248-3bbc-9071-97e02ce76f85",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Why Walmart and Other Defensive Stocks Are Losing Their Luster",
+      "summary": "The stock market surge thanks to Jensen Huang\u2019s return as CEO of Nvidia is great news for tech. But not for defensive consumer stocks.",
+      "link": "https://finance.yahoo.com/m/d85b751c-8248-3bbc-9071-97e02ce76f85/why-walmart-and-other.html?.tsrc=rss",
+      "time": "2026-11-23T20:37:00+00:00",
+      "touches": [
+        "WMT",
+        "XLE"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:997290b2-cb8a-317b-9d4e-f36f9f033fc4",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLE",
+      "title": "Sector Update: Energy Stocks Softer Monday Afternoon",
+      "summary": "Energy stocks were lower Monday afternoon, with the NYSE Energy Sector Index decreasing 0.5% and the",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-softer-monday-183223532.html?.tsrc=rss",
+      "time": "2026-11-23T18:32:23+00:00",
+      "touches": [
+        "XLE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:2cca23dd-b23a-395e-bcf3-35237d9275c9",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLE",
+      "title": "Exchange-Traded Funds Higher as US Equities Advance After Midday",
+      "summary": "Broad Market Indicators Broad-market exchange-traded funds IWM and IVV rose. Actively traded I",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-us-181225577.html?.tsrc=rss",
+      "time": "2026-11-23T18:12:25+00:00",
+      "touches": [
+        "XLE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:b552f09e-e146-3d88-82a9-c23c92a62f62",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLE",
+      "title": "Sector Update: Energy Stocks Decline Pre-Bell Monday",
+      "summary": "Energy stocks were declining pre-bell Monday, with the State Street Energy Select Sector SPDR ETF (X",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-pre-142515698.html?.tsrc=rss",
+      "time": "2026-11-23T14:25:15+00:00",
+      "touches": [
+        "XLE"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
