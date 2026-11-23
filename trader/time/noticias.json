@@ -1,66 +1,34 @@
 {
-  "as_of": "2026-11-23T14:35:00Z",
+  "as_of": "2026-11-23T15:05:00Z",
   "items": [
     {
-      "id": "rss:a0933a74-1f89-3f01-88da-ed80ed2e2de5",
+      "id": "rss:e5ee11f1-d460-3d74-8b4e-8d21c21bf352",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "SPY",
-      "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday as Jensen Huang Returns to Nvidia",
-      "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 2.4% and the actively trad",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-142039189.html?.tsrc=rss",
-      "time": "2026-11-23T14:20:39+00:00",
+      "ticker": "MRK",
+      "title": "AbbVie vs. Merck: Which Pharma Stock Is the Better Investment Pick?",
+      "summary": "AbbVie and Merck offer compelling growth opportunities, but differences in pipeline strength, revenue outlook and patent risks make one a better investment pick.",
+      "link": "https://finance.yahoo.com/healthcare/articles/abbvie-vs-merck-pharma-stock-134100802.html?.tsrc=rss",
+      "time": "2026-11-23T13:41:00+00:00",
       "touches": [
-        "SPY"
+        "MRK"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:8bafec74-8d83-3f9b-93d5-b88944d8231a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "FDX",
-      "title": "Missed FedEx's Rally? What Holders Had To Believe",
-      "summary": "If FedEx had looked too complex in late 2025, with DRIVE cost savings, Network 2.0 promises, rising labor and environmental pressures, and fresh competition from Amazon\u2019s supply chain push, the decision to buy or wait was not straightforward. Investors who held FedEx over the past year are up 43.8%, including dividends. The question now is which of those early cross-currents really mattered when you weighed that call. FedEx has already moved. See which of 40 high quality undervalued stocks...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/missed-fedexs-rally-holders-had-141040002.html?.tsrc=rss",
-      "time": "2026-11-23T14:10:40+00:00",
-      "touches": [
-        "FDX"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:1671d731-8f82-3ebe-ad4a-893f81e030b8",
+      "id": "rss:4eaee175-6e46-3788-884a-6c056a60e903",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "WMT",
-      "title": "Power Out, Jackery On: Surge in Home Backup Demand Meets Jackery\u2019s Limited-Stock Black Friday Deals",
-      "summary": "With $4+ gas and winter storms ahead, The World\u2019s No.1 Solar Generator Brand delivers reliable backup power from free sunlight, with savings at Walmart and Beyond FREMONT, Calif., Nov. 23, 2026 (GLOBE NEWSWIRE) -- Jackery, the World\u2019s No.1 Solar Generator Brand by global sales and revenue, according to Frost & Sullivan, is kicking off Black Friday and Cyber Monday with major savings on solar generators, portable power stations and essential home backup solutions. From now to November 30, shopper",
-      "link": "https://finance.yahoo.com/energy/articles/power-jackery-surge-home-backup-140000336.html?.tsrc=rss",
-      "time": "2026-11-23T14:00:00+00:00",
+      "title": "Is Symbotic's Substantial Backlog a Signal for Long-Term Growth?",
+      "summary": "SYM's $22.5 billion backlog and expanding automation deployments signal long-term growth potential, but execution risks could impact revenue conversion.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/symbotics-substantial-backlog-signal-long-133100211.html?.tsrc=rss",
+      "time": "2026-11-23T13:31:00+00:00",
       "touches": [
         "WMT"
       ],
       "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:1216b96e-e63f-3330-a856-22bfb2fa1e8e",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XOM",
-      "title": "ExxonMobil: Announces Pricing Terms, Expiration and Results of Cash Tender Offers for Outstanding 2030 1.900% Senior Notes, 2031 2.150% Senior Notes, 2030 3.482% Notes and 2040 4.227% Notes",
-      "summary": "SPRING, Texas, November 23, 2026--ExxonMobil Holdings Corporation (\"ExxonMobil\") (NYSE: XOM) today announces the pricing terms, expiration and results of previously announced cash tender offers (each, a \"Tender Offer\" and collectively, the \"Tender Offers\") by its wholly owned subsidiaries, Pioneer Natural Resources Company (\"Pioneer\") and Exxon Mobil Corporation (\"Exxon\" and, together with Pioneer, the \"Offerors\" and each, an \"Offeror\"), to purchase up to $3,000,000,000 aggregate principal amoun",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-announces-pricing-terms-expiration-140000286.html?.tsrc=rss",
-      "time": "2026-11-23T14:00:00+00:00",
-      "touches": [
-        "XOM"
-      ],
-      "tags": [
-        "earnings"
-      ],
       "new": true
     }
   ],
