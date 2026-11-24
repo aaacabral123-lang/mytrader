@@ -1,24 +1,41 @@
 {
-  "as_of": "2026-11-24T17:35:00Z",
+  "as_of": "2026-11-24T18:05:00Z",
   "items": [
     {
-      "id": "rss:2eaa27b4-0e15-32c1-be2f-a1f01d3f08a7",
+      "id": "rss:c2e01d7e-7e84-34bf-85bc-5a563b1d847c",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "WMT",
-      "title": "Symbotic Q4 Earnings Call Details Walmart Deal and Revenue Timing",
-      "summary": "SYM's expanded Walmart deal is set to add nearly $7B to backlog as the company outlines fiscal 2027 revenue timing and in-store automation plans.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/symbotic-q4-earnings-call-details-161300983.html?.tsrc=rss",
-      "time": "2026-11-24T16:13:00+00:00",
+      "ticker": "XOM",
+      "title": "'Exxon Got Walloped': $340 Million Legal Blow Paves The Way For More",
+      "summary": "A district judge recently dealt ExxonMobil (XOM) a $339.56 million blow over oil sludge that's \"continuously seeped\" into soil, surface water, and an aquifer in northwest Louisiana for half a century. Legal experts say the first-of-its-kind judgment paves the way for future citizen lawsuits against oil giants in the state, which has long rated among the most polluted in the...",
+      "link": "https://finance.yahoo.com/m/c2e01d7e-7e84-34bf-85bc-5a563b1d847c/%27exxon-got-walloped%27%3A-%24340.html?.tsrc=rss",
+      "time": "2026-11-24T17:28:30+00:00",
       "touches": [
-        "WMT"
+        "XOM"
       ],
       "tags": [
-        "earnings",
-        "deal"
+        "legal"
       ],
       "new": true
     }
   ],
-  "atencao": []
+  "atencao": [
+    {
+      "id": "rss:c2e01d7e-7e84-34bf-85bc-5a563b1d847c",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "'Exxon Got Walloped': $340 Million Legal Blow Paves The Way For More",
+      "summary": "A district judge recently dealt ExxonMobil (XOM) a $339.56 million blow over oil sludge that's \"continuously seeped\" into soil, surface water, and an aquifer in northwest Louisiana for half a century. Legal experts say the first-of-its-kind judgment paves the way for future citizen lawsuits against oil giants in the state, which has long rated among the most polluted in the...",
+      "link": "https://finance.yahoo.com/m/c2e01d7e-7e84-34bf-85bc-5a563b1d847c/%27exxon-got-walloped%27%3A-%24340.html?.tsrc=rss",
+      "time": "2026-11-24T17:28:30+00:00",
+      "touches": [
+        "XOM"
+      ],
+      "tags": [
+        "legal"
+      ],
+      "new": true
+    }
+  ]
 }
