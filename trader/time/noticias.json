@@ -1,19 +1,21 @@
 {
-  "as_of": "2026-11-24T19:05:00Z",
+  "as_of": "2026-11-24T19:35:00Z",
   "items": [
     {
-      "id": "rss:84211962-91d4-3724-b644-852c89be89b8",
+      "id": "rss:7d5236c9-f349-3a64-a363-5c47967ee8aa",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "XLE",
-      "title": "Sector Update: Energy Stocks Advance in Afternoon Trading",
-      "summary": "Energy stocks were higher Tuesday afternoon, with the NYSE Energy Sector Index rising 1% and the Sta",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-afternoon-185352296.html?.tsrc=rss",
-      "time": "2026-11-24T18:53:52+00:00",
+      "ticker": "WMT",
+      "title": "Best Buy Gets an Earnings Boost. Pok\u00e9mon Helped.",
+      "summary": "Best Buy reported its best same-store sales in years and expects momentum to continue. Pok\u00e9mon played a part.",
+      "link": "https://finance.yahoo.com/m/7d5236c9-f349-3a64-a363-5c47967ee8aa/best-buy-gets-an-earnings.html?.tsrc=rss",
+      "time": "2026-11-24T18:04:00+00:00",
       "touches": [
-        "XLE"
+        "WMT"
       ],
-      "tags": [],
+      "tags": [
+        "earnings"
+      ],
       "new": true
     }
   ],
