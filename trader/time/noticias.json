@@ -1,5 +1,40 @@
 {
-  "as_of": "2026-11-24T22:05:00Z",
-  "items": [],
+  "as_of": "2026-11-24T22:35:00Z",
+  "items": [
+    {
+      "id": "rss:4aa4ff31-269f-346e-80c4-e681510af7ae",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Stock Market Today: Nasdaq Dives As Jensen Huang Tells Nvidia Staff This; Walmart Tests Entry",
+      "summary": "Stock Market Today: The Dow Jones index rises but the Nasdaq falls Tuesday. Anthropic and Nvidia dive. New Trump tariffs are expected.",
+      "link": "https://finance.yahoo.com/m/4aa4ff31-269f-346e-80c4-e681510af7ae/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+      "time": "2026-11-24T21:51:27+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:419028c5-6c57-40f0-b568-a48be75f0e15",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Anthropic falls below IPO price as Nvidia gives back gains",
+      "summary": "In this edition of Sozzi Unleashed: At The Close, Brian Sozzi sorts through \"reality trading\" as Nvidia slides nearly 7% after Monday's 31% surge and Anthropic falls below its $83 IPO price less than a week after the biggest offering in history. GCG Advisory Partners' Bill Gunderson makes the case that Nvidia is the cheapest growth stock in the market at nine times forward earnings and names Nvidia and Eli Lilly as his top picks for 2027. Brian breaks down Dell's blowout quarter and $132 billion AI backlog, and HPE CEO Antonio Neri joins to explain the company's raised outlook, why it refuses to finance neoclouds, and whether server margins have peaked. Brian closes by arguing the AI trade is reaching consumers' wallets, pointing to Best Buy's strongest comparable sales growth in five years.",
+      "link": "https://finance.yahoo.com/video/anthropic-falls-below-ipo-price-as-nvidia-gives-back-gains-214558309.html?.tsrc=rss",
+      "time": "2026-11-24T21:45:58+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [
+        "earnings",
+        "capital",
+        "people"
+      ],
+      "new": true
+    }
+  ],
   "atencao": []
 }
