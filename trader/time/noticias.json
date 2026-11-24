@@ -1,39 +1,38 @@
 {
-  "as_of": "2026-11-24T15:35:00Z",
+  "as_of": "2026-11-24T16:05:00Z",
   "items": [
     {
-      "id": "rss:bdc6bec6-9356-3406-be28-5c8418e15983",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Asia-Pacific Digital Transformation Market: Size, Trends, and Forecast (2026-2034) Featuring Intelligence on Accenture, Google (Alphabet), IBM, Microsoft, Oracle, HPE, SAP, EMC (Dell EMC), Cognex, Adobe and Siemens",
-      "summary": "Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Asia-Pacific Digital Transformation Market Report - Size, Trends and Forecast 2026-2034\" has been added to ResearchAndMarkets.com's offering. The report projects that the Asia Pacific digital transformation market will grow from US$ 515.69 Billion in 2025 to US$ 2.86 trillion by 2034, registering a CAGR of 21% from 2026 to 2034. Enterprise modernization, cloud adoption, artificial intelligence, intelligent automation and government-backed digital econom",
-      "link": "https://finance.yahoo.com/technology/articles/asia-pacific-digital-transformation-market-152900939.html?.tsrc=rss",
-      "time": "2026-11-24T15:29:00+00:00",
-      "touches": [
-        "ADBE"
-      ],
-      "tags": [
-        "earnings",
-        "capital"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:07856d4d-3027-48c3-9aa3-4216dbd59513",
+      "id": "rss:42e370bc-b889-423d-abe6-160f9477d964",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "WMT",
-      "title": "Earnings: Late economic cycle anxiety isn't holding retail spending back",
-      "summary": "The 8:30 team is joined by Barron's reporter Jacob Sonenshine to assess the state of the retail sector as fresh earnings results are released Tuesday morning.",
-      "link": "https://finance.yahoo.com/video/earnings-late-economic-cycle-anxiety-isnt-holding-retail-spending-back-150150635.html?.tsrc=rss",
-      "time": "2026-11-24T15:01:50+00:00",
+      "title": "Stocks give back gains as Anthropic dips below IPO price",
+      "summary": "Hosts Julie Hyman and Jake Conley, joined on the couch by Barron's markets reporter Jacob Sonenshine, tackle the top stories of the day. Including futures sliding after Monday's biggest rally since April 2025, Anthropic briefly trading below its $83 IPO price, a Wall Street Journal report that the U.S. is preparing new tariffs on China and dozens of other countries, and whether Jensen Huang's return leaves Nvidia owing a favor to the White House. The team is joined by Seaport Research Partners senior analyst Jay Goldberg and Creative Strategies CEO and principal analyst Ben Bajarin to discuss what Jensen Huang needs to tell shareholders, the competitive threat from Broadcom and AMD, and whether Nvidia's financing of neoclouds is a wobbly foundation. The show closes on Strategy trading below the value of its Bitcoin, Sanofi's $41 billion deal for Insmed, and a strong day for retail earnings from Best Buy, Dollar Tree, Dick's, Abercrombie, and Kohl's.",
+      "link": "https://finance.yahoo.com/video/stocks-give-back-gains-as-anthropic-dips-below-ipo-price-154408548.html?.tsrc=rss",
+      "time": "2026-11-24T15:44:08+00:00",
       "touches": [
         "WMT"
       ],
       "tags": [
-        "earnings"
+        "earnings",
+        "deal",
+        "people"
       ],
+      "new": true
+    },
+    {
+      "id": "rss:0c69688e-4fdf-305b-9afa-ac8253166177",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Dollar Tree Turnaround Blooms; Abercrombie Struts With Double-Digit Growth",
+      "summary": "Tariff refunds are fueling a turnaround strategy at one S&P 500 retailer.",
+      "link": "https://finance.yahoo.com/m/0c69688e-4fdf-305b-9afa-ac8253166177/dollar-tree-turnaround.html?.tsrc=rss",
+      "time": "2026-11-24T15:35:49+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [],
       "new": true
     }
   ],
