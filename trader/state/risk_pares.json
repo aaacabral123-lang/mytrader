@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-24",
   "paper": true,
   "results": [
     {
       "index": 1,
       "symbol": "MRK",
-      "side": "buy",
-      "amount": "$292",
-      "value_usd": 292.0,
-      "fingerprint": "87d8acb25d986658",
+      "side": "sell",
+      "amount": "2.219106247 shares",
+      "value_usd": 314.51,
+      "fingerprint": "b0074ab894bae503",
       "verdict": "PASS",
       "reasons": [],
       "warnings": []
@@ -17,8 +17,8 @@
   "pass": 1,
   "block": 0,
   "warnings": [],
-  "cash_after": 4.25,
-  "prices_as_of": "2026-11-19T20:05:16Z",
-  "checked_at": "2026-11-19T20:05:17",
+  "cash_after": 318.77,
+  "prices_as_of": "2026-11-24T20:35:37Z",
+  "checked_at": "2026-11-24T20:35:38",
   "orders_file": "trader/pares/orders.json"
 }
