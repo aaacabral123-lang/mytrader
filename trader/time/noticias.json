@@ -1,51 +1,5 @@
 {
-  "as_of": "2026-11-24T21:35:00Z",
-  "items": [
-    {
-      "id": "rss:d896c895-a4c2-492b-b2af-146d4a9356ce",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Holiday shopping scams could set you back $100 or more: 3 things to watch for",
-      "summary": "Learn some of the most common tactics fraudsters use during the holidays to scam shoppers, plus get expert advice on keeping your personal information and your wallet safe.",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/holiday-shopping-scams-could-set-you-back-100-or-more-3-things-to-watch-for-211430894.html?.tsrc=rss",
-      "time": "2026-11-24T21:14:30+00:00",
-      "touches": [
-        "ADBE"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:c4ce6de4-2a72-3012-8c65-3369a1a83488",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Why Is Target (TGT) Stock Up Today? Dollar Tree's Strong Q3 Lifts Discount Retailers",
-      "summary": "On Tuesday, Nov. 24, Target rose 4.5% to $175.19 alongside discount retailers after Dollar Tree's strong Q3 report",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-target-tgt-stock-today-210033160.html?.tsrc=rss",
-      "time": "2026-11-24T21:00:33+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:c1120fd2-c827-308d-947a-226a32888187",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XLE",
-      "title": "Sector Update: Energy Stocks Advance Late Afternoon",
-      "summary": "Energy stocks rose late Tuesday afternoon with the NYSE Energy Sector Index and the State Street Ene",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-afternoon-205928199.html?.tsrc=rss",
-      "time": "2026-11-24T20:59:28+00:00",
-      "touches": [
-        "XLE"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-24T22:05:00Z",
+  "items": [],
   "atencao": []
 }
