@@ -1,41 +1,68 @@
 {
-  "as_of": "2026-11-24T18:05:00Z",
+  "as_of": "2026-11-24T18:35:00Z",
   "items": [
     {
-      "id": "rss:c2e01d7e-7e84-34bf-85bc-5a563b1d847c",
+      "id": "rss:e677387a-1148-3349-b9dd-259c7497a1d9",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "XOM",
-      "title": "'Exxon Got Walloped': $340 Million Legal Blow Paves The Way For More",
-      "summary": "A district judge recently dealt ExxonMobil (XOM) a $339.56 million blow over oil sludge that's \"continuously seeped\" into soil, surface water, and an aquifer in northwest Louisiana for half a century. Legal experts say the first-of-its-kind judgment paves the way for future citizen lawsuits against oil giants in the state, which has long rated among the most polluted in the...",
-      "link": "https://finance.yahoo.com/m/c2e01d7e-7e84-34bf-85bc-5a563b1d847c/%27exxon-got-walloped%27%3A-%24340.html?.tsrc=rss",
-      "time": "2026-11-24T17:28:30+00:00",
+      "ticker": "MRK",
+      "title": "3 Pharma Stocks That Could Benefit From Sanofi\u2019s Insmed Deal",
+      "summary": "Sanofi\u2019s US$41b move for lung disease specialist Insmed has put pharma deal making firmly back on the radar, and investors do not want to be the last to notice where the next late stage pipelines might sit. Big cheques and a 17% premium can reset expectations across the sector, which creates both opportunity and risk. This article walks through 3 stocks that appear most exposed to this Sanofi catalyst right now. The three stocks below are only a starting sample, since the full screen surfaced...",
+      "link": "https://finance.yahoo.com/healthcare/articles/3-pharma-stocks-could-benefit-181259329.html?.tsrc=rss",
+      "time": "2026-11-24T18:12:59+00:00",
       "touches": [
-        "XOM"
+        "MRK"
       ],
       "tags": [
-        "legal"
+        "deal"
       ],
+      "new": true
+    },
+    {
+      "id": "rss:8a0b4bc9-14af-347c-8756-3fa4348b1b01",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLE",
+      "title": "Exchange-Traded Funds, US Equities Mixed After Midday",
+      "summary": "Broad Market Indicators Broad-market exchange-traded fund IWM rose while IVV fell. Actively tr",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-us-equities-181033633.html?.tsrc=rss",
+      "time": "2026-11-24T18:10:33+00:00",
+      "touches": [
+        "XLE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:066a78f0-5b26-3ea0-a12f-21337eb84431",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "FDX",
+      "title": "Why Jim Cramer Thought FedEx Could Gain on UPS Even in a Slow Economy",
+      "summary": "We just published Don\u2019t Panic, Buy These Instead: Jim Cramer\u2019s Emergency 10-Stock Portfolio, and FedEx Corporation (NYSE:FDX) ranked 8th on this list. By November 18, the S&P 500 had fallen for five straight sessions, its longest losing streak since June. Yet the index was still up 7% for the year, according to the Associated Press. [\u2026]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-jim-cramer-thought-fedex-180223217.html?.tsrc=rss",
+      "time": "2026-11-24T18:02:23+00:00",
+      "touches": [
+        "FDX"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:f0fbb418-1732-32ab-837d-9a28adf1f09e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "FDX",
+      "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey\u2019s bank",
+      "summary": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
+      "link": "https://finance.yahoo.com/technology/articles/electric-truck-startup-harbinger-gets-172909606.html?.tsrc=rss",
+      "time": "2026-11-24T17:29:09+00:00",
+      "touches": [
+        "FDX"
+      ],
+      "tags": [],
       "new": true
     }
   ],
-  "atencao": [
-    {
-      "id": "rss:c2e01d7e-7e84-34bf-85bc-5a563b1d847c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XOM",
-      "title": "'Exxon Got Walloped': $340 Million Legal Blow Paves The Way For More",
-      "summary": "A district judge recently dealt ExxonMobil (XOM) a $339.56 million blow over oil sludge that's \"continuously seeped\" into soil, surface water, and an aquifer in northwest Louisiana for half a century. Legal experts say the first-of-its-kind judgment paves the way for future citizen lawsuits against oil giants in the state, which has long rated among the most polluted in the...",
-      "link": "https://finance.yahoo.com/m/c2e01d7e-7e84-34bf-85bc-5a563b1d847c/%27exxon-got-walloped%27%3A-%24340.html?.tsrc=rss",
-      "time": "2026-11-24T17:28:30+00:00",
-      "touches": [
-        "XOM"
-      ],
-      "tags": [
-        "legal"
-      ],
-      "new": true
-    }
-  ]
+  "atencao": []
 }
