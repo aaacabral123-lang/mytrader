@@ -43,12 +43,6 @@
       "pct": 5
     },
     {
-      "id": "vigia-XLV",
-      "symbol": "XLV",
-      "type": "pct_move",
-      "pct": 5
-    },
-    {
       "id": "vigia-XOM",
       "symbol": "XOM",
       "type": "pct_move",

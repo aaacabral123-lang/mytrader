@@ -1,79 +1,35 @@
 {
-  "as_of": "2026-11-24T14:35:00Z",
+  "as_of": "2026-11-24T15:05:00Z",
   "items": [
     {
-      "id": "rss:0661f8aa-73e6-3ca5-b0a0-d94ba6aacafd",
+      "id": "rss:4a6affe6-6cfb-3605-bbfc-4b6b6b9f91db",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "HD",
-      "title": "Don\u2019t Panic, Buy These Instead: Jim Cramer\u2019s Emergency 5-Stock Portfolio",
-      "summary": "By November 18, the S&P 500 had fallen for five straight sessions, its longest losing streak since June. Yet the index was still up 7% for the year, according to the Associated Press. Investors looking at their own accounts had reason to wonder how both things could be true. On the previous evening\u2019s Mad Money, [\u2026]",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/don-t-panic-buy-instead-142222405.html?.tsrc=rss",
-      "time": "2026-11-24T14:22:22+00:00",
+      "ticker": "ADBE",
+      "title": "Global Document Collaboration Market Report 2026: Size, Share, Trends and Forecast to 2030 | Capitalize on AI, Cloud and Secure Workflows with Microsoft, Google, Adobe and Box",
+      "summary": "Boost ROI with AI automation, cloud/hybrid deployment, workflow integrations, secure real-time collaboration, mobile access, and tools that reduce errors and manual work.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Document Collaboration Global Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global document collaboration market is experiencing rapid growth as organizations invest in digital platforms that improve productivity, content management, and coordination acros",
+      "link": "https://finance.yahoo.com/technology/articles/global-document-collaboration-market-report-142900939.html?.tsrc=rss",
+      "time": "2026-11-24T14:29:00+00:00",
       "touches": [
-        "HD"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:38916321-cf2a-3955-b88b-4cdfd3807b20",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Symbotic Stock Earnings Beat Has The Bull Case Changed",
-      "summary": "Symbotic reported full year 2026 revenue of US$2,804.91 million and GAAP net income of US$27.57 million, with quarterly earnings and sales ahead of analyst estimates. The expanded Walmart automation agreement and the potential SymMicro rollout to roughly 400 stores together point to a materially larger contracted and prospective backlog for Symbotic. Now the focus is on how Symbotic's first full year of GAAP profitability reshapes the investment narrative around backlog and execution. Scan...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/symbotic-stock-earnings-beat-bull-140915960.html?.tsrc=rss",
-      "time": "2026-11-24T14:09:15+00:00",
-      "touches": [
-        "WMT"
+        "ADBE"
       ],
       "tags": [
-        "earnings"
+        "earnings",
+        "capital"
       ],
       "new": true
     },
     {
-      "id": "rss:c6ba0bc9-d350-3ae7-8577-f0238975b49d",
+      "id": "rss:daf8946c-95f7-3821-90fc-90d2fc2a3e59",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "WMT",
-      "title": "GCT or SYM: Which Technology Services Stock Is Better-Placed for Now?",
-      "summary": "GCT and SYM offer distinct growth opportunities, but strong expansion efforts, attractive valuation and financial strength give one stock an edge over the other.",
-      "link": "https://finance.yahoo.com/technology/articles/gct-sym-technology-services-stock-131000869.html?.tsrc=rss",
-      "time": "2026-11-24T13:10:00+00:00",
+      "ticker": "XLE",
+      "title": "Sector Update: Energy Stocks Edge Higher Pre-Bell Tuesday",
+      "summary": "Energy stocks were edging higher pre-bell Tuesday, with the State Street Energy Select Sector SPDR E",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-edge-higher-142401057.html?.tsrc=rss",
+      "time": "2026-11-24T14:24:01+00:00",
       "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:af57b646-60b9-3197-9775-c1fc93928ac1",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "HD",
-      "title": "The Home Depot, Inc. (HD) is Attracting Investor Attention: Here is What You Should Know",
-      "summary": "Recently, Zacks.com users have been paying close attention to Home Depot (HD). This makes it worthwhile to examine what the stock has in store.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-inc-hd-attracting-130005617.html?.tsrc=rss",
-      "time": "2026-11-24T13:00:05+00:00",
-      "touches": [
-        "HD"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:5a3bf1a7-f6a5-3b34-9599-7cc98cebf0ac",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Walmart Inc. (WMT) Is a Trending Stock: Facts to Know Before Betting on It",
-      "summary": "Walmart (WMT) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-inc-wmt-trending-stock-130005748.html?.tsrc=rss",
-      "time": "2026-11-24T13:00:05+00:00",
-      "touches": [
-        "WMT"
+        "XLE"
       ],
       "tags": [],
       "new": true

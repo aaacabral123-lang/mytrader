@@ -1,9 +1,9 @@
 {
-  "as_of": "2026-11-24T14:35:02Z",
+  "as_of": "2026-11-24T15:05:04Z",
   "source": "yahoo",
   "note": "Delayed quotes for alerts and sizing checks. Your broker's price is the one that fills.",
   "prices": {
-    "ADBE": 226.235,
+    "ADBE": 233.2,
     "BLK": 1210.11,
     "GOOGL": 290.802,
     "MSFT": 543.02,
@@ -13,25 +13,25 @@
     "SPY": 722.4,
     "UNP": 297.275,
     "XLK": 170.25,
-    "XLE": 59.675,
+    "XLE": 60.53,
     "REGN": 908.95,
-    "VOO": 656.135,
-    "HD": 345.42,
+    "VOO": 661.72,
+    "HD": 349.285,
     "V": 414.56,
-    "XOM": 157.255,
+    "XOM": 158.92,
     "YUM": 158.46,
-    "WMT": 130.935,
+    "WMT": 131.9,
     "XLB": 49.81,
     "XLY": 119.25,
     "DIA": 494.92,
-    "FDX": 307.705,
+    "FDX": 307.8,
     "XLV": 180.44,
-    "MRK": 135.723
+    "MRK": 138.02
   },
   "detail": {
     "ADBE": {
       "prev_close": 223.98,
-      "time": "2026-11-24T14:35:00Z",
+      "time": "2026-11-24T15:05:03Z",
       "source": "yahoo"
     },
     "BLK": {
@@ -80,8 +80,8 @@
       "source": "yahoo"
     },
     "XLE": {
-      "prev_close": 59.85,
-      "time": "2026-11-24T14:35:05Z",
+      "prev_close": 59.87,
+      "time": "2026-11-24T15:05:06Z",
       "source": "yahoo"
     },
     "REGN": {
@@ -90,13 +90,13 @@
       "source": "yahoo"
     },
     "VOO": {
-      "prev_close": 664.18,
-      "time": "2026-11-24T14:35:02Z",
+      "prev_close": 663.91,
+      "time": "2026-11-24T15:05:05Z",
       "source": "yahoo"
     },
     "HD": {
-      "prev_close": 346.35,
-      "time": "2026-11-24T14:35:03Z",
+      "prev_close": 346.06,
+      "time": "2026-11-24T15:05:04Z",
       "source": "yahoo"
     },
     "V": {
@@ -105,8 +105,8 @@
       "source": "yahoo"
     },
     "XOM": {
-      "prev_close": 156.96,
-      "time": "2026-11-24T14:35:05Z",
+      "prev_close": 156.9,
+      "time": "2026-11-24T15:05:00Z",
       "source": "yahoo"
     },
     "YUM": {
@@ -116,7 +116,7 @@
     },
     "WMT": {
       "prev_close": 129.58,
-      "time": "2026-11-24T14:35:05Z",
+      "time": "2026-11-24T15:05:06Z",
       "source": "yahoo"
     },
     "XLB": {
@@ -135,8 +135,8 @@
       "source": "yahoo"
     },
     "FDX": {
-      "prev_close": 310.78,
-      "time": "2026-11-24T14:33:10Z",
+      "prev_close": 310.67,
+      "time": "2026-11-24T15:04:49Z",
       "source": "yahoo"
     },
     "XLV": {
@@ -145,8 +145,8 @@
       "source": "yahoo"
     },
     "MRK": {
-      "prev_close": 135.46,
-      "time": "2026-11-24T14:35:03Z",
+      "prev_close": 135.47,
+      "time": "2026-11-24T15:05:05Z",
       "source": "yahoo"
     }
   }
