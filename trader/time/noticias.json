@@ -1,5 +1,115 @@
 {
-  "as_of": "2026-11-24T11:05:00Z",
-  "items": [],
+  "as_of": "2026-11-24T11:35:00Z",
+  "items": [
+    {
+      "id": "rss:4c9b0d01-59b3-3165-a062-52af09b98ead",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Tesla Leads Goldman's Hedge Fund Short List With $26.4 Billion in Bearish Bets",
+      "summary": "Palantir and Walmart follow as Goldman identifies the largest short positions among S&P 500 companies.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-leads-goldmans-hedge-fund-110429117.html?.tsrc=rss",
+      "time": "2026-11-24T11:04:29+00:00",
+      "touches": [
+        "WMT",
+        "XOM"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:df67067d-55a6-3a3f-b062-7e62c3e861f4",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "MRK",
+      "title": "State Street Health Care SPDR (XLV) Sells Eli Lilly and J&J on Friday",
+      "summary": "The fund sold $283.4 million of stock, cutting all 60 positions and adding nothing, led by a $47.7 million reduction in Eli Lilly.",
+      "link": "https://finance.yahoo.com/healthcare/articles/state-street-health-care-spdr-110402940.html?.tsrc=rss",
+      "time": "2026-11-24T11:04:02+00:00",
+      "touches": [
+        "MRK",
+        "XLV"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:021e7a97-8b6a-30be-8808-7ec592c659e6",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "First Trust Alerian NextGen Infra (FTQI) Buys $22 Million More Walmart on Nov. 20",
+      "summary": "The fund added $22.0 million of Walmart and $21.9 million of SpaceX, while exiting Microsoft and Palo Alto Networks, on $43.6 million in net buying.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/first-trust-alerian-nextgen-infra-110348918.html?.tsrc=rss",
+      "time": "2026-11-24T11:03:48+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:74ad6de0-b869-3a71-a98c-0ed93f28d0a1",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XLE",
+      "title": "State Street Energy Select SPDR (XLE) Sells $109.1 Million of Exxon on Friday",
+      "summary": "The fund sold $451.3 million of stock and bought nothing on Friday, Nov. 20, cutting all 21 of its positions.",
+      "link": "https://finance.yahoo.com/energy/articles/state-street-energy-select-spdr-110334769.html?.tsrc=rss",
+      "time": "2026-11-24T11:03:34+00:00",
+      "touches": [
+        "XLE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:3f4d6221-9b17-3b8a-8cce-0f23a4be880f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "ETFs Are Buying Walmart (WMT) on Nov. 20",
+      "summary": "ETFs bought $162.2 million of Walmart stock on Friday.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-buying-walmart-wmt-nov-110151407.html?.tsrc=rss",
+      "time": "2026-11-24T11:01:51+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:73bd9a01-316a-4b3f-be4a-6df5ddbc5e78",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Hyliion's founder turned an EV downturn into an energy power play",
+      "summary": "Hyliion founder and CEO Thomas Healy took his EV truck company public, watched the industry collapse, and rebuilt it into a power generation business that bought a division from GE and works with the United States Navy. He joins host Elizabeth Gore to talk about the pivot, the coming AI-fueled energy crisis, using 3D printers to build a new kind of power plant, and more.",
+      "link": "https://finance.yahoo.com/video/hyliions-founder-turned-ev-downturn-110000768.html?.tsrc=rss",
+      "time": "2026-11-24T11:00:00+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:9562dc20-4e2a-3734-b07f-7694334fe0df",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "VOO",
+      "title": "Should Vanguard 500 Index Fund ETF Shares (VOO) Be on Your Investing Radar?",
+      "summary": "Style Box ETF report for VOO",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vanguard-500-index-fund-etf-102002927.html?.tsrc=rss",
+      "time": "2026-11-24T10:20:02+00:00",
+      "touches": [
+        "VOO"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
