@@ -1,23 +1,5 @@
 {
-  "as_of": "2026-11-24T02:05:00Z",
-  "items": [
-    {
-      "id": "rss:9221467f-8919-3930-9152-19ec24ab93a5",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Review & Preview: Reverse Uno",
-      "summary": "Markets bounced on the news that Jensen Huang is back as Nvidia CEO.",
-      "link": "https://finance.yahoo.com/m/9221467f-8919-3930-9152-19ec24ab93a5/review-%26-preview%3A-reverse-uno.html?.tsrc=rss",
-      "time": "2026-11-24T00:55:00+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "people"
-      ],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-24T02:35:00Z",
+  "items": [],
   "atencao": []
 }
