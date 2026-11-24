@@ -1,15 +1,15 @@
 {
-  "as_of": "2026-11-24T15:05:00Z",
+  "as_of": "2026-11-24T15:35:00Z",
   "items": [
     {
-      "id": "rss:4a6affe6-6cfb-3605-bbfc-4b6b6b9f91db",
+      "id": "rss:bdc6bec6-9356-3406-be28-5c8418e15983",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "ADBE",
-      "title": "Global Document Collaboration Market Report 2026: Size, Share, Trends and Forecast to 2030 | Capitalize on AI, Cloud and Secure Workflows with Microsoft, Google, Adobe and Box",
-      "summary": "Boost ROI with AI automation, cloud/hybrid deployment, workflow integrations, secure real-time collaboration, mobile access, and tools that reduce errors and manual work.Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Document Collaboration Global Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global document collaboration market is experiencing rapid growth as organizations invest in digital platforms that improve productivity, content management, and coordination acros",
-      "link": "https://finance.yahoo.com/technology/articles/global-document-collaboration-market-report-142900939.html?.tsrc=rss",
-      "time": "2026-11-24T14:29:00+00:00",
+      "title": "Asia-Pacific Digital Transformation Market: Size, Trends, and Forecast (2026-2034) Featuring Intelligence on Accenture, Google (Alphabet), IBM, Microsoft, Oracle, HPE, SAP, EMC (Dell EMC), Cognex, Adobe and Siemens",
+      "summary": "Dublin, Nov. 24, 2026 (GLOBE NEWSWIRE) -- \"Asia-Pacific Digital Transformation Market Report - Size, Trends and Forecast 2026-2034\" has been added to ResearchAndMarkets.com's offering. The report projects that the Asia Pacific digital transformation market will grow from US$ 515.69 Billion in 2025 to US$ 2.86 trillion by 2034, registering a CAGR of 21% from 2026 to 2034. Enterprise modernization, cloud adoption, artificial intelligence, intelligent automation and government-backed digital econom",
+      "link": "https://finance.yahoo.com/technology/articles/asia-pacific-digital-transformation-market-152900939.html?.tsrc=rss",
+      "time": "2026-11-24T15:29:00+00:00",
       "touches": [
         "ADBE"
       ],
@@ -20,18 +20,20 @@
       "new": true
     },
     {
-      "id": "rss:daf8946c-95f7-3821-90fc-90d2fc2a3e59",
+      "id": "rss:07856d4d-3027-48c3-9aa3-4216dbd59513",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "XLE",
-      "title": "Sector Update: Energy Stocks Edge Higher Pre-Bell Tuesday",
-      "summary": "Energy stocks were edging higher pre-bell Tuesday, with the State Street Energy Select Sector SPDR E",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-edge-higher-142401057.html?.tsrc=rss",
-      "time": "2026-11-24T14:24:01+00:00",
+      "ticker": "WMT",
+      "title": "Earnings: Late economic cycle anxiety isn't holding retail spending back",
+      "summary": "The 8:30 team is joined by Barron's reporter Jacob Sonenshine to assess the state of the retail sector as fresh earnings results are released Tuesday morning.",
+      "link": "https://finance.yahoo.com/video/earnings-late-economic-cycle-anxiety-isnt-holding-retail-spending-back-150150635.html?.tsrc=rss",
+      "time": "2026-11-24T15:01:50+00:00",
       "touches": [
-        "XLE"
+        "WMT"
       ],
-      "tags": [],
+      "tags": [
+        "earnings"
+      ],
       "new": true
     }
   ],
