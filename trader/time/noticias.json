@@ -1,30 +1,32 @@
 {
-  "as_of": "2026-11-24T13:35:00Z",
+  "as_of": "2026-11-24T14:05:00Z",
   "items": [
     {
-      "id": "rss:d110ac3d-b2ba-3c8d-8f15-274f2cd95b50",
+      "id": "rss:5dc2acf0-55e4-3cf0-8034-36c58d71fe38",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MRK",
-      "title": "Will 'Anti-Pharma' Democrats Chop Away At Biotech Stocks' Big Wins?",
-      "summary": "Biotech stocks have traded somewhat uneasily in the wake of the blue tsunami that swept Washington D.C. earlier this month.",
-      "link": "https://finance.yahoo.com/m/d110ac3d-b2ba-3c8d-8f15-274f2cd95b50/will-%27anti-pharma%27-democrats.html?.tsrc=rss",
-      "time": "2026-11-24T13:01:37+00:00",
+      "ticker": "ADBE",
+      "title": "RH-ISAC Report: Familiar Fraud Tactics Expected to Arrive Through AI-Driven Traffic This Holiday Season",
+      "summary": "RH-ISAC, the Retail & Hospitality Information Sharing and Analysis Center, released its 2026 Holiday Threat Trends report, which examines how agentic commerce is entering the holiday shopping season. According to the report, the RH-ISAC intelligence team assesses with moderate confidence that the most agentic commerce risk this season will come from existing fraud types, such as card testing, account takeover, and checkout page card theft, delivered through a growing volume of AI-driven web traf",
+      "link": "https://finance.yahoo.com/technology/ai/articles/rh-isac-report-familiar-fraud-135500312.html?.tsrc=rss",
+      "time": "2026-11-24T13:55:00+00:00",
       "touches": [
-        "MRK"
+        "ADBE"
       ],
-      "tags": [],
+      "tags": [
+        "deal"
+      ],
       "new": true
     },
     {
-      "id": "rss:c1fd1105-a8cf-3567-8afd-e4d876a96247",
+      "id": "rss:41615996-7f56-3693-9155-b8bc00014890",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "WMT",
-      "title": "Walmart Leadership to Participate in Upcoming Investor Events",
-      "summary": "BENTONVILLE, Ark., November 24, 2026--Walmart Inc. (Nasdaq: WMT) announced today that company leadership will participate in upcoming investor events. Links to those with live webcasts can be found on Walmart\u2019s investor relations website at stock.walmart.com.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-leadership-participate-upcoming-investor-130000815.html?.tsrc=rss",
-      "time": "2026-11-24T13:00:00+00:00",
+      "title": "Three retail stocks to watch this holiday season: Walmart, Target and TJX",
+      "summary": "Investing.com -- Holiday sales are expected to rise 4.2%, but inflation-adjusted growth may be only 2.2%. That makes value, traffic, and margins the real scoreboard. Read more (Nov 23, 2026)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/three-retail-stocks-watch-holiday-135156984.html?.tsrc=rss",
+      "time": "2026-11-24T13:51:56+00:00",
       "touches": [
         "WMT"
       ],
