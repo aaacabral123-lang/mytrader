@@ -1,17 +1,17 @@
 {
-  "as_of": "2026-11-24T12:05:00Z",
+  "as_of": "2026-11-24T12:35:00Z",
   "items": [
     {
-      "id": "rss:1a895fc7-0d7e-3630-93de-4f852c9313ee",
+      "id": "rss:8ec8436f-fe61-3e4c-8e50-20f14ba38884",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "MRK",
-      "title": "Merck to Participate in the 9th Annual Evercore Healthcare Conference",
-      "summary": "RAHWAY, N.J., November 24, 2026--Merck to Participate in the 9th Annual Evercore Healthcare Conference",
-      "link": "https://finance.yahoo.com/healthcare/articles/merck-participate-9th-annual-evercore-114500862.html?.tsrc=rss",
-      "time": "2026-11-24T11:45:00+00:00",
+      "ticker": "WMT",
+      "title": "E-Commerce Is Unstoppable. But Bricks and Mortar May Still Have a Bright Future.",
+      "summary": "Some stores have gone dark. But other retail operators may have a new lease on life.",
+      "link": "https://finance.yahoo.com/m/8ec8436f-fe61-3e4c-8e50-20f14ba38884/e-commerce-is-unstoppable..html?.tsrc=rss",
+      "time": "2026-11-24T11:00:00+00:00",
       "touches": [
-        "MRK"
+        "WMT"
       ],
       "tags": [],
       "new": true
