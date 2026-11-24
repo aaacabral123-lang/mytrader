@@ -1,17 +1,32 @@
 {
-  "as_of": "2026-11-24T13:05:00Z",
+  "as_of": "2026-11-24T13:35:00Z",
   "items": [
     {
-      "id": "rss:991650ee-742c-3a28-8d47-acf777580217",
+      "id": "rss:d110ac3d-b2ba-3c8d-8f15-274f2cd95b50",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "MRK",
-      "title": "Merck Manuals Shares What Patients Should Expect During a Neurologic Exam",
-      "summary": "A neurologic exam can help identify and diagnose a wide range of disorders affecting the brain, spinal cord, or nerves. Many of these conditions are complex and difficult to diagnose. Yet a neurologic exam relies on simple exercises and basic medical tools to help clinicians establish a diagnosis.",
-      "link": "https://finance.yahoo.com/healthcare/articles/merck-manuals-shares-patients-expect-130000279.html?.tsrc=rss",
-      "time": "2026-11-24T13:00:00+00:00",
+      "title": "Will 'Anti-Pharma' Democrats Chop Away At Biotech Stocks' Big Wins?",
+      "summary": "Biotech stocks have traded somewhat uneasily in the wake of the blue tsunami that swept Washington D.C. earlier this month.",
+      "link": "https://finance.yahoo.com/m/d110ac3d-b2ba-3c8d-8f15-274f2cd95b50/will-%27anti-pharma%27-democrats.html?.tsrc=rss",
+      "time": "2026-11-24T13:01:37+00:00",
       "touches": [
         "MRK"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:c1fd1105-a8cf-3567-8afd-e4d876a96247",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Walmart Leadership to Participate in Upcoming Investor Events",
+      "summary": "BENTONVILLE, Ark., November 24, 2026--Walmart Inc. (Nasdaq: WMT) announced today that company leadership will participate in upcoming investor events. Links to those with live webcasts can be found on Walmart\u2019s investor relations website at stock.walmart.com.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-leadership-participate-upcoming-investor-130000815.html?.tsrc=rss",
+      "time": "2026-11-24T13:00:00+00:00",
+      "touches": [
+        "WMT"
       ],
       "tags": [],
       "new": true
