@@ -1,51 +1,22 @@
 {
-  "as_of": "2026-11-24T17:05:00Z",
+  "as_of": "2026-11-24T17:35:00Z",
   "items": [
     {
-      "id": "rss:ad00036d-5934-3452-a69b-46e66a8f7673",
+      "id": "rss:2eaa27b4-0e15-32c1-be2f-a1f01d3f08a7",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "WMT",
-      "title": "Retail stocks surge into Black Friday amid earnings beats",
-      "summary": "Investing.com - U.S. retail stocks are rallying broadly Tuesday as a rotation out of AI and technology names accelerates into the holiday season, with Kohl\u2019s Corp (NYSE:KSS) leading the group with a 14.2% surge after its most recent quarter beat consensus by $1.76 per share. The State Street\u00ae SPDR\u00ae S&P\u00ae Retail ETF (NYSE:XRT) is gaining 1.84% alongside its largest constituents as money flows out of technology and into consumer-facing value plays with Black Friday three days away.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/retail-stocks-surge-black-friday-163741483.html?.tsrc=rss",
-      "time": "2026-11-24T16:37:41+00:00",
+      "title": "Symbotic Q4 Earnings Call Details Walmart Deal and Revenue Timing",
+      "summary": "SYM's expanded Walmart deal is set to add nearly $7B to backlog as the company outlines fiscal 2027 revenue timing and in-store automation plans.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/symbotic-q4-earnings-call-details-161300983.html?.tsrc=rss",
+      "time": "2026-11-24T16:13:00+00:00",
       "touches": [
         "WMT"
       ],
       "tags": [
-        "earnings"
+        "earnings",
+        "deal"
       ],
-      "new": true
-    },
-    {
-      "id": "rss:a0d0a6d0-6793-357a-b89e-085bab673273",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Consumer Mood Improves Into\u00a0Holidays, But Risks Loom",
-      "summary": "US consumer confidence surged in November to the highest in nearly two years as Americans grew more optimistic about the economy and the job market. Seema Shah, VP: Insights at Sensor Tower, discusses consumer trends and spending ahead of Black Friday and the holidays.",
-      "link": "https://finance.yahoo.com/video/consumer-mood-improves-holidays-risks-160317427.html?.tsrc=rss",
-      "time": "2026-11-24T16:03:17+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:7480a716-ad99-34d1-910e-991c6b06a9cf",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "MRK",
-      "title": "Can Pfizer's Expanding Oncology Portfolio Fuel Long-Term Growth?",
-      "summary": "Pfizer's oncology revenues are growing on Padcev and Lorbrena strength, while pipeline advances and expanded drug approvals offer long-term growth potential.",
-      "link": "https://finance.yahoo.com/healthcare/articles/pfizers-expanding-oncology-portfolio-fuel-154600439.html?.tsrc=rss",
-      "time": "2026-11-24T15:46:00+00:00",
-      "touches": [
-        "MRK"
-      ],
-      "tags": [],
       "new": true
     }
   ],
