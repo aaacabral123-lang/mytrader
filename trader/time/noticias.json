@@ -1,32 +1,77 @@
 {
-  "as_of": "2026-11-24T14:05:00Z",
+  "as_of": "2026-11-24T14:35:00Z",
   "items": [
     {
-      "id": "rss:5dc2acf0-55e4-3cf0-8034-36c58d71fe38",
+      "id": "rss:0661f8aa-73e6-3ca5-b0a0-d94ba6aacafd",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ADBE",
-      "title": "RH-ISAC Report: Familiar Fraud Tactics Expected to Arrive Through AI-Driven Traffic This Holiday Season",
-      "summary": "RH-ISAC, the Retail & Hospitality Information Sharing and Analysis Center, released its 2026 Holiday Threat Trends report, which examines how agentic commerce is entering the holiday shopping season. According to the report, the RH-ISAC intelligence team assesses with moderate confidence that the most agentic commerce risk this season will come from existing fraud types, such as card testing, account takeover, and checkout page card theft, delivered through a growing volume of AI-driven web traf",
-      "link": "https://finance.yahoo.com/technology/ai/articles/rh-isac-report-familiar-fraud-135500312.html?.tsrc=rss",
-      "time": "2026-11-24T13:55:00+00:00",
+      "ticker": "HD",
+      "title": "Don\u2019t Panic, Buy These Instead: Jim Cramer\u2019s Emergency 5-Stock Portfolio",
+      "summary": "By November 18, the S&P 500 had fallen for five straight sessions, its longest losing streak since June. Yet the index was still up 7% for the year, according to the Associated Press. Investors looking at their own accounts had reason to wonder how both things could be true. On the previous evening\u2019s Mad Money, [\u2026]",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/don-t-panic-buy-instead-142222405.html?.tsrc=rss",
+      "time": "2026-11-24T14:22:22+00:00",
       "touches": [
-        "ADBE"
+        "HD"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:38916321-cf2a-3955-b88b-4cdfd3807b20",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Symbotic Stock Earnings Beat Has The Bull Case Changed",
+      "summary": "Symbotic reported full year 2026 revenue of US$2,804.91 million and GAAP net income of US$27.57 million, with quarterly earnings and sales ahead of analyst estimates. The expanded Walmart automation agreement and the potential SymMicro rollout to roughly 400 stores together point to a materially larger contracted and prospective backlog for Symbotic. Now the focus is on how Symbotic's first full year of GAAP profitability reshapes the investment narrative around backlog and execution. Scan...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/symbotic-stock-earnings-beat-bull-140915960.html?.tsrc=rss",
+      "time": "2026-11-24T14:09:15+00:00",
+      "touches": [
+        "WMT"
       ],
       "tags": [
-        "deal"
+        "earnings"
       ],
       "new": true
     },
     {
-      "id": "rss:41615996-7f56-3693-9155-b8bc00014890",
+      "id": "rss:c6ba0bc9-d350-3ae7-8577-f0238975b49d",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "WMT",
-      "title": "Three retail stocks to watch this holiday season: Walmart, Target and TJX",
-      "summary": "Investing.com -- Holiday sales are expected to rise 4.2%, but inflation-adjusted growth may be only 2.2%. That makes value, traffic, and margins the real scoreboard. Read more (Nov 23, 2026)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/three-retail-stocks-watch-holiday-135156984.html?.tsrc=rss",
-      "time": "2026-11-24T13:51:56+00:00",
+      "title": "GCT or SYM: Which Technology Services Stock Is Better-Placed for Now?",
+      "summary": "GCT and SYM offer distinct growth opportunities, but strong expansion efforts, attractive valuation and financial strength give one stock an edge over the other.",
+      "link": "https://finance.yahoo.com/technology/articles/gct-sym-technology-services-stock-131000869.html?.tsrc=rss",
+      "time": "2026-11-24T13:10:00+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:af57b646-60b9-3197-9775-c1fc93928ac1",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "HD",
+      "title": "The Home Depot, Inc. (HD) is Attracting Investor Attention: Here is What You Should Know",
+      "summary": "Recently, Zacks.com users have been paying close attention to Home Depot (HD). This makes it worthwhile to examine what the stock has in store.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-inc-hd-attracting-130005617.html?.tsrc=rss",
+      "time": "2026-11-24T13:00:05+00:00",
+      "touches": [
+        "HD"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:5a3bf1a7-f6a5-3b34-9599-7cc98cebf0ac",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Walmart Inc. (WMT) Is a Trending Stock: Facts to Know Before Betting on It",
+      "summary": "Walmart (WMT) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-inc-wmt-trending-stock-130005748.html?.tsrc=rss",
+      "time": "2026-11-24T13:00:05+00:00",
       "touches": [
         "WMT"
       ],

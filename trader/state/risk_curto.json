@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "paper": true,
   "results": [
     {
       "index": 1,
-      "symbol": "XLE",
-      "side": "buy",
-      "amount": "$244",
-      "value_usd": 244.0,
-      "fingerprint": "ac498b30ea1102fd",
+      "symbol": "XLV",
+      "side": "sell",
+      "amount": "1.363034336 shares",
+      "value_usd": 246.04,
+      "fingerprint": "0c2b444806cdb7d4",
       "verdict": "PASS",
       "reasons": [],
       "warnings": []
@@ -17,8 +17,8 @@
   "pass": 1,
   "block": 0,
   "warnings": [],
-  "cash_after": 488.86,
-  "prices_as_of": "2026-11-23T20:05:06Z",
-  "checked_at": "2026-11-23T20:05:07",
+  "cash_after": 734.91,
+  "prices_as_of": "2026-11-24T14:35:07Z",
+  "checked_at": "2026-11-24T14:35:08",
   "orders_file": "trader/curto/orders.json"
 }
