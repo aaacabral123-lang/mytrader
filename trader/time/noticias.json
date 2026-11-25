@@ -1,5 +1,53 @@
 {
-  "as_of": "2026-11-25T21:05:00Z",
-  "items": [],
+  "as_of": "2026-11-25T22:05:00Z",
+  "items": [
+    {
+      "id": "rss:6514d06c-a4c2-38e8-b866-72479a030f07",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "JPMorgan Sees $450 Billion AI Debt Blitz in 2027 Before Plateau",
+      "summary": "Companies will tap public high-grade debt markets for $450 billion next year to finance their artificial intelligence-related capital expenditures, even as a growth plateau looms for the burgeoning industry further down the road, according to analysts at JPMorgan Chase & Co.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-sees-450-billion-ai-211721263.html?.tsrc=rss",
+      "time": "2026-11-25T21:17:21+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:9d2fb19e-b792-3a3e-aecc-6dfbf55af3f8",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "C",
+      "title": "Citigroup (C) Explores Venezuela Banking Return As It Seeks Sanctions Waivers",
+      "summary": "Citigroup (NYSE:C) is in talks with U.S. officials about resuming banking services in Venezuela after a five year hiatus. The bank is exploring potential sanctions waivers that would be required before offering services to clients in the Venezuelan market. Citi exited most banking activities in Venezuela in 2019, keeping only limited operations focused on winding down prior business. Citi\u2019s push to secure U.S. sanctions relief for a Venezuela return only captures one angle of what may...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-c-explores-venezuela-banking-211524552.html?.tsrc=rss",
+      "time": "2026-11-25T21:15:24+00:00",
+      "touches": [
+        "C"
+      ],
+      "tags": [
+        "capital"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:767ae320-0bc1-3401-b2ad-69f62d866b2c",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "Jensen Huang\u2019s Return Is Off to a Rough Start. The Market Isn\u2019t the Only Thing Paying the Price.",
+      "summary": "Nvidia will never be the same. Neither will the rest of us.",
+      "link": "https://finance.yahoo.com/m/767ae320-0bc1-3401-b2ad-69f62d866b2c/jensen-huang%E2%80%99s-return-is-off.html?.tsrc=rss",
+      "time": "2026-11-25T19:55:00+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
