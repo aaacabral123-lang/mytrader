@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-25T19:05:01Z",
+  "as_of": "2026-11-25T19:35:01Z",
   "source": "yahoo",
   "note": "Delayed quotes for alerts and sizing checks. Your broker's price is the one that fills.",
   "prices": {
@@ -18,13 +18,13 @@
     "VOO": 642.38,
     "HD": 353.16,
     "V": 414.56,
-    "XOM": 159.3,
+    "XOM": 159.06,
     "YUM": 158.46,
     "WMT": 133.04,
     "XLB": 49.81,
     "XLY": 119.25,
     "DIA": 494.92,
-    "FDX": 310.265,
+    "FDX": 310.032,
     "XLV": 180.44,
     "MRK": 141.715
   },
@@ -106,7 +106,7 @@
     },
     "XOM": {
       "prev_close": 158.23,
-      "time": "2026-11-25T19:04:55Z",
+      "time": "2026-11-25T19:35:00Z",
       "source": "yahoo"
     },
     "YUM": {
@@ -136,7 +136,7 @@
     },
     "FDX": {
       "prev_close": 308.29,
-      "time": "2026-11-25T19:04:50Z",
+      "time": "2026-11-25T19:34:52Z",
       "source": "yahoo"
     },
     "XLV": {

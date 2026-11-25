@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-25T19:05:00Z",
-  "items": [],
+  "as_of": "2026-11-25T19:35:00Z",
+  "items": [
+    {
+      "id": "rss:0596791a-3d31-3310-982d-4bf46e0de44a",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "Energy Stocks Benefit From Supply Disruptions: Can Momentum Last?",
+      "summary": "Rising crude prices and diesel shortages drive gains for Valero, Cheniere, Chevron and ExxonMobil, but recovering oil supplies could test their momentum.",
+      "link": "https://finance.yahoo.com/energy/articles/energy-stocks-benefit-supply-disruptions-175400730.html?.tsrc=rss",
+      "time": "2026-11-25T17:54:00+00:00",
+      "touches": [
+        "XOM"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
