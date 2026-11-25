@@ -3,12 +3,12 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "WMT",
+      "symbol": "HD",
       "side": "sell",
-      "qty": "2.396852029",
+      "qty": "0.855091383",
       "type": "market",
       "time_in_force": "day",
-      "why": "pares, sa\u00edda: a dist\u00e2ncia de COST/WMT voltou ao normal (z -0.02)"
+      "why": "pares, sa\u00edda: a dist\u00e2ncia de HD/LOW voltou ao normal (z 0.07)"
     }
   ]
 }

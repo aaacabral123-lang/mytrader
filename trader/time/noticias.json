@@ -1,30 +1,30 @@
 {
-  "as_of": "2026-11-25T14:35:00Z",
+  "as_of": "2026-11-25T15:05:00Z",
   "items": [
     {
-      "id": "rss:867cdbaf-2d24-3fa7-9538-067f1de2477d",
+      "id": "rss:088567d1-cd63-405d-aa2b-a2ddace2c6cd",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "XLE",
-      "title": "Sector Update: Energy Stocks Lean Lower Pre-Bell Wednesday",
-      "summary": "Energy stocks were leaning lower pre-bell Wednesday, with the State Street Energy Select Sector SPDR",
-      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lean-lower-142158117.html?.tsrc=rss",
-      "time": "2026-11-25T14:21:58+00:00",
+      "ticker": "ADBE",
+      "title": "Tanking gas prices could be the setup needed for strong holiday season",
+      "summary": "US gas prices (RB=F) have slipped lower for 31 straight days, setting retailers up for what could be a hotter-than-expected holiday shopping season. Yahoo Finance Executive Editor Brian Sozzi dives into the factors loosening up spending money for US consumers ahead of the Black Friday holiday.",
+      "link": "https://finance.yahoo.com/video/tanking-gas-prices-could-be-the-setup-needed-for-strong-holiday-season-145638621.html?.tsrc=rss",
+      "time": "2026-11-25T14:56:38+00:00",
       "touches": [
-        "XLE"
+        "ADBE"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:8b6d398b-69b2-3991-9832-9aad84448421",
+      "id": "rss:2c441f79-6901-301d-93db-bfbe0d4f56ae",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "FDX",
-      "title": "Global Biopharmaceutical Cold Chain Logistics Market Report 2026 | Capitalize on 9.5% CAGR Through 2030 as DHL, UPS, FedEx, Cencora, and Maersk Scale AI and IoT Logistics",
-      "summary": "Boost ROI via reusable packaging, IoT/AI monitoring, active containers, stronger last-mile and storage networks, and acquisitions that expand cold-chain capabilities.Dublin, Nov. 25, 2026 (GLOBE NEWSWIRE) -- \"Biopharmaceutical Cold Chain Logistics Global Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global biopharmaceutical cold chain logistics market is experiencing strong growth as pharmaceutical manufacturers, biotechnology companies, healthcare providers, and r",
-      "link": "https://finance.yahoo.com/healthcare/articles/global-biopharmaceutical-cold-chain-logistics-141500913.html?.tsrc=rss",
-      "time": "2026-11-25T14:15:00+00:00",
+      "title": "Healthcare Cold Chain Logistics - Global Strategic Business Report 2026: Capitalize on the $107 Billion Market by 2032 as DHL Group, FedEx, DB Schenker, and GEODIS Accelerate Competition",
+      "summary": "Cut spoilage and compliance costs with real-time monitoring, smart packaging, IoT, AI and blockchain while capturing biologics, vaccine and emerging-market demand.Dublin, Nov. 25, 2026 (GLOBE NEWSWIRE) -- \"Healthcare Cold Chain Logistics - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global healthcare cold chain logistics market was valued at US$60.6 billion in 2025 and is projected to reach US$107 billion by 2032, expanding at a compound annual",
+      "link": "https://finance.yahoo.com/healthcare/articles/healthcare-cold-chain-logistics-global-144000406.html?.tsrc=rss",
+      "time": "2026-11-25T14:40:00+00:00",
       "touches": [
         "FDX"
       ],
@@ -34,65 +34,19 @@
       "new": true
     },
     {
-      "id": "rss:22bd8538-af69-3bd0-91fe-9b356d9c91ae",
+      "id": "rss:9e3ef389-e405-3b7a-a3b9-20dfa2c5fc3a",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Santa at NYSE Ahead of Macy's Thanksgiving Day Parade: NYSE Content Update",
-      "summary": "The New York Stock Exchange (NYSE) provides a daily pre-market update directly from the NYSE Trading Floor. Access today's NYSE Pre-market update for market insights before trading begins.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/santa-nyse-ahead-macys-thanksgiving-135500910.html?.tsrc=rss",
-      "time": "2026-11-25T13:55:00+00:00",
+      "ticker": "XOM",
+      "title": "Global Ethyl Derivatives Market Report 2026: Executive Strategy and Forecast to 2030 | Capitalize on Bio-Based and Pharma Demand with BASF, Dow, Arkema, Clariant, and Exxon Mobil",
+      "summary": "Boost ROI with bio-based feedstocks, low-VOC products, high-purity pharma compounds, specialty coatings and adhesives, and export-led supply integration.Dublin, Nov. 25, 2026 (GLOBE NEWSWIRE) -- \"Ethyl Derivatives or Ethyl Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global ethyl derivatives market is set for strong growth as demand increases across pharmaceutical manufacturing, paints and coatings, adhesives, industrial solvents, specialty chemicals, and other en",
+      "link": "https://finance.yahoo.com/markets/commodities/articles/global-ethyl-derivatives-market-report-143100666.html?.tsrc=rss",
+      "time": "2026-11-25T14:31:00+00:00",
       "touches": [
-        "ADBE"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:27f7074b-4923-373b-a99a-78a5cff4a854",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
-      "summary": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/flipkart-ceo-kalyan-krishnamurthy-step-130819116.html?.tsrc=rss",
-      "time": "2026-11-25T13:08:19+00:00",
-      "touches": [
-        "WMT"
+        "XOM"
       ],
       "tags": [
-        "people"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:1f14d25c-f26d-3d5d-977c-316ae4eb91b9",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Here is What to Know Beyond Why Adobe Inc. (ADBE) is a Trending Stock",
-      "summary": "Adobe (ADBE) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-adobe-inc-130005121.html?.tsrc=rss",
-      "time": "2026-11-25T13:00:05+00:00",
-      "touches": [
-        "ADBE"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:404cef8c-bf49-3c21-8981-7347699b4dd0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "Adobe's Cash Flow Strengthens: Can It Support Bigger Share Buybacks?",
-      "summary": "ADBE's record operating cash flow, growing subscription revenues and $24.55 billion in remaining buyback authorization give it room for bigger repurchases.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/adobes-cash-flow-strengthens-support-125000448.html?.tsrc=rss",
-      "time": "2026-11-25T12:50:00+00:00",
-      "touches": [
-        "ADBE"
-      ],
-      "tags": [
+        "earnings",
         "capital"
       ],
       "new": true

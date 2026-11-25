@@ -109,6 +109,16 @@
       "id": "5fcd2463-68eb-4943-861f-b72f6366ce40",
       "approved_by": "robo (automatic, paper)",
       "why": "pares, sa\u00edda: a dist\u00e2ncia de COST/WMT voltou ao normal (z -0.02)"
+    },
+    {
+      "date": "2026-11-25",
+      "at": "2026-11-25T15:05:06Z",
+      "status": "placed",
+      "symbol": "HD",
+      "side": "sell",
+      "id": "90324bb3-2958-4021-afb5-43cdd0278085",
+      "approved_by": "robo (automatic, paper)",
+      "why": "pares, sa\u00edda: a dist\u00e2ncia de HD/LOW voltou ao normal (z 0.07)"
     }
   ]
 }

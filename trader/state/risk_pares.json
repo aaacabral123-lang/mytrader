@@ -4,11 +4,11 @@
   "results": [
     {
       "index": 1,
-      "symbol": "WMT",
+      "symbol": "HD",
       "side": "sell",
-      "amount": "2.396852029 shares",
-      "value_usd": 318.91,
-      "fingerprint": "4d9e28087e79a1cb",
+      "amount": "0.855091383 shares",
+      "value_usd": 302.47,
+      "fingerprint": "ee8b7a6bec51c1c5",
       "verdict": "PASS",
       "reasons": [],
       "warnings": []
@@ -17,8 +17,8 @@
   "pass": 1,
   "block": 0,
   "warnings": [],
-  "cash_after": 637.64,
-  "prices_as_of": "2026-11-25T14:35:07Z",
-  "checked_at": "2026-11-25T14:35:24",
+  "cash_after": 939.32,
+  "prices_as_of": "2026-11-25T15:05:06Z",
+  "checked_at": "2026-11-25T15:05:12",
   "orders_file": "trader/pares/orders.json"
 }

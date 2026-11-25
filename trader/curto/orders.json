@@ -3,12 +3,12 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "XLV",
+      "symbol": "XLE",
       "side": "sell",
-      "qty": "1.363034336",
+      "qty": "4.064467766",
       "type": "market",
       "time_in_force": "day",
-      "why": "curto prazo, sa\u00edda: repique: $180.51 acima da m\u00e9dia de 5 dias ($179.20)"
+      "why": "curto prazo, sa\u00edda: repique: $60.80 acima da m\u00e9dia de 5 dias ($60.51)"
     }
   ]
 }
