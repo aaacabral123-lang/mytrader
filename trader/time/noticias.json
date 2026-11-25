@@ -1,49 +1,15 @@
 {
-  "as_of": "2026-11-25T12:35:00Z",
+  "as_of": "2026-11-25T13:05:00Z",
   "items": [
     {
-      "id": "rss:4105060f-f19e-3bd8-8b33-f444c0167287",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XLE",
-      "title": "Why Chevron Investors Could Make Sense Of ETFs Now",
-      "summary": "You might like Chevron for its global energy reach, but owning the stock directly means carrying its specific risks by yourself. Simply Wall St highlights one of those: that earnings are forecast to decline an average of 5.2% per year over the next 3 years. Holding Chevron through a fund that also owns other businesses spreads how much those company specific issues can swing your portfolio, and also spreads out how much its success can help you. Right now the story has fresh twists. Venezuela...",
-      "link": "https://finance.yahoo.com/energy/articles/why-chevron-investors-could-sense-121452095.html?.tsrc=rss",
-      "time": "2026-11-25T12:14:52+00:00",
-      "touches": [
-        "XLE"
-      ],
-      "tags": [
-        "earnings"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:5fa6dfcd-d469-3ec4-88f2-f4d0ac329825",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Market Chatter: Walmart-Backed PhonePe Resumes IPO Process; Seeks Up to $15 Billion in Valuation",
-      "summary": "Walmart (WMT)-backed PhonePe has restarted preparations for an initial public offering, targeting a",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-walmart-backed-phonepe-121130205.html?.tsrc=rss",
-      "time": "2026-11-25T12:11:30+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [
-        "capital"
-      ],
-      "new": true
-    },
-    {
-      "id": "rss:17643985-e4fc-388e-a94b-ad64c46ca5ad",
+      "id": "rss:ced7366f-af6d-322c-a59e-6e8cc736c22c",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "HD",
-      "title": "How To Avoid Turning Holiday Shopping Into A Yearlong Debt Trap",
-      "summary": "It's the season to spend. But there's a downside to using a credit card to buy gifts and fund other holiday expenses.",
-      "link": "https://finance.yahoo.com/m/17643985-e4fc-388e-a94b-ad64c46ca5ad/how-to-avoid-turning-holiday.html?.tsrc=rss",
-      "time": "2026-11-25T12:00:56+00:00",
+      "title": "Home Depot vs. Williams-Sonoma: Which Stock Holds More Promise?",
+      "summary": "HD and WSM compete for market share, but which stock stands out on growth prospects, valuation, digital capabilities and stock momentum?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-vs-williams-sonoma-113800868.html?.tsrc=rss",
+      "time": "2026-11-25T11:38:00+00:00",
       "touches": [
         "HD"
       ],
