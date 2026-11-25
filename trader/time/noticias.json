@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-25T18:05:00Z",
-  "items": [],
+  "as_of": "2026-11-25T18:35:00Z",
+  "items": [
+    {
+      "id": "rss:5bce3c41-76e5-3df3-b5d7-7d3a3eecb9b3",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "FDX",
+      "title": "3 Logistics Stocks With Lower Fuel Costs Supporting Margins",
+      "summary": "Oil\u2019s sharp 20% slide in November has flipped the script for fuel heavy businesses, just as inflation and financing pressures start to feel less relentless. That combination can reshape cost structures and sentiment, creating openings for investors who move before the story feels obvious. This article unpacks the fuel and inflation shock, then walks through 3 stocks exposed to this shift and what that could mean for your portfolio decisions. The three stocks below are just a starting sample...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-logistics-stocks-lower-fuel-181224099.html?.tsrc=rss",
+      "time": "2026-11-25T18:12:24+00:00",
+      "touches": [
+        "FDX"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
