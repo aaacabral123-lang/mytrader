@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-25",
   "paper": true,
   "results": [
     {
       "index": 1,
       "symbol": "VOO",
       "side": "sell",
-      "amount": "1.9654 shares",
-      "value_usd": 1350.89,
-      "fingerprint": "adf296a405f77622",
+      "amount": "2.97608681 shares",
+      "value_usd": 1918.5,
+      "fingerprint": "fb615f7645d7f078",
       "verdict": "PASS",
       "reasons": [],
       "warnings": []
@@ -17,8 +17,8 @@
   "pass": 1,
   "block": 0,
   "warnings": [],
-  "cash_after": 227.28,
-  "prices_as_of": "2026-11-10T16:35:03Z",
-  "checked_at": "2026-11-10T16:35:08",
+  "cash_after": 2145.87,
+  "prices_as_of": "2026-11-25T15:35:16Z",
+  "checked_at": "2026-11-25T15:35:17",
   "orders_file": "trader/orders.json"
 }

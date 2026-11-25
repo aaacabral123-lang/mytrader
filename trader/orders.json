@@ -1,0 +1,14 @@
+{
+  "created_by": "robo (longo prazo desligado)",
+  "paper": true,
+  "orders": [
+    {
+      "symbol": "VOO",
+      "side": "sell",
+      "qty": "2.97608681",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "longo prazo desligado: vende tudo e passa o dinheiro para os pares"
+    }
+  ]
+}

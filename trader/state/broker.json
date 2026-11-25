@@ -499,6 +499,16 @@
       "id": "2debefd7-7d88-4218-836d-77a8d5aee315",
       "approved_by": "robo (automatic, paper)",
       "why": "drifted +59.4 points from its 90.0% target (band 2)"
+    },
+    {
+      "date": "2026-11-25",
+      "at": "2026-11-25T15:35:15Z",
+      "status": "placed",
+      "symbol": "VOO",
+      "side": "sell",
+      "id": "ad225871-1637-46ca-8320-2b288bc8a9f7",
+      "approved_by": "robo (automatic, paper)",
+      "why": "longo prazo desligado: vende tudo e passa o dinheiro para os pares"
     }
   ]
 }
