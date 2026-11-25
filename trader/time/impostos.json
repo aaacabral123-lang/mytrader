@@ -1,54 +1,8 @@
 {
-  "as_of": "2026-11-24T21:35:00Z",
+  "as_of": "2026-11-25T21:35:00Z",
   "report": {
-    "lots": [
-      {
-        "ticker": "ADBE",
-        "id": "ADBE-alpaca",
-        "date": "2026-10-28",
-        "shares": 2.7337e-05,
-        "cost": 0.01,
-        "price": 232.13,
-        "value": 0.01,
-        "gain": -0.0,
-        "term": "short",
-        "long_term_on": "2027-10-29"
-      },
-      {
-        "ticker": "VOO",
-        "id": "VOO-alpaca",
-        "date": "2026-11-10",
-        "shares": 2.97608681,
-        "cost": 2047.7,
-        "price": 658.16,
-        "value": 1958.74,
-        "gain": -88.96,
-        "term": "short",
-        "long_term_on": "2027-11-11"
-      }
-    ],
-    "positions": [
-      {
-        "ticker": "ADBE",
-        "shares": 2.7337e-05,
-        "cost": 0.01,
-        "value": 0.01,
-        "short": -0.0,
-        "long": 0.0,
-        "gain": -0.0,
-        "pct": 0.0
-      },
-      {
-        "ticker": "VOO",
-        "shares": 2.97608681,
-        "cost": 2047.7,
-        "value": 1958.74,
-        "short": -88.96,
-        "long": 0.0,
-        "gain": -88.96,
-        "pct": -4.34
-      }
-    ],
+    "lots": [],
+    "positions": [],
     "missing_prices": [],
     "realized_ytd": {
       "short": 0.0,
