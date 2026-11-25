@@ -370,7 +370,8 @@ def long_positions(api, robo):
     pc = pares_robo.settings(robo)
     if pc["enabled"]:
         other |= pares_robo.symbols(pc)
-    return [p for p in api.positions() if p["symbol"] not in other]
+    # leftovers under $1 (rounding dust from earlier sales) cannot be sold under trader-risk's minimum order
+    return [p for p in api.positions() if p["symbol"] not in other and abs(float(p.get("market_value") or 0)) >= 1]
 
 
 def sync_portfolio(api, robo, state, targets):
@@ -630,6 +631,23 @@ def move_to_short_term(state, log):
            % (amount, st["cash"]), tags=["zap"])
 
 
+def move_to_pairs(state, log, what="longo prazo"):
+    """With the long-term (or short-term) sleeve off, its cash joins the pairs sleeve."""
+    st = state.get("pares")
+    src = state if what == "longo prazo" else state.get("curto")
+    amount = round(src["cash"], 2) if src else 0.0
+    if st is None or abs(amount) < 0.01:
+        return
+    st["cash"] = round(st["cash"] + amount, 2)
+    st["start"] = round(st["start"] + amount, 2)
+    src["cash"] = 0.0
+    if what != "longo prazo":
+        src["start"] = 0.0
+    log("%s desligado: $%.2f passados para os pares (caixa dos pares: $%.2f)" % (what, amount, st["cash"]))
+    notify("Dinheiro passado para os pares", "$%.2f do %s foram para a estratégia dos pares. Caixa dos pares: $%.2f."
+           % (amount, what, st["cash"]), tags=["link"])
+
+
 def propose(robo, held, new_13f, cash, targets_path, config_path):
     """Write trader/orders.json via budget (first buy) or rebalance. Returns the orders."""
     if os.path.exists(path("orders.json")):
@@ -699,6 +717,10 @@ def run(dry_run=False):
         new_13f = new_13f or flipped
     curto.setup(state, cfg, robo, log, notify)
     pares_robo.setup(state, cfg, robo, log, notify)
+    pairs_only = not long_term and not curto.settings(robo)["enabled"] and pares_robo.settings(robo)["enabled"]
+    if pairs_only and state.get("curto"):
+        # the short-term ETFs now count as long-term positions and are sold below; its cash goes now
+        move_to_pairs(state, log, "curto prazo")
     held, positions = sync_portfolio(api, robo, state, targets)
     panel = (lambda: write_panel(api, robo, cfg, state, targets, now)) if not dry_run else None
     if robo.get("daily_report"):
@@ -706,7 +728,10 @@ def run(dry_run=False):
     ny_time = str(clock["timestamp"])[11:16]
     long_pending = [r for r in state["pending"] if r.get("sleeve") not in ("curto", "pares")]
     if not long_term and not positions and not long_pending:
-        move_to_short_term(state, log)
+        if pairs_only:
+            move_to_pairs(state, log)
+        else:
+            move_to_short_term(state, log)
     curto.run(api, robo, cfg, state, today, ny_time, now, log, notify, skill_json, read_json, write_json, path,
               dry_run=dry_run)
     pares_robo.run(api, robo, cfg, state, today, ny_time, now, log, notify, skill_json, read_json, write_json, path,
@@ -719,10 +744,15 @@ def run(dry_run=False):
     config_path = "trader/config.json"
     if not long_term:
         # long-term sleeve switched off: sell its stocks; the cash moves to the short-term sleeve next run
+        dest = "os pares" if pairs_only else "o curto prazo"
         orders = [{"symbol": p["symbol"], "side": "sell", "qty": p["qty"], "type": "market", "time_in_force": "day",
-                   "why": "longo prazo desligado: vende tudo e passa o dinheiro para o curto prazo"}
+                   "why": "longo prazo desligado: vende tudo e passa o dinheiro para " + dest}
                   for p in positions]
         if orders:
+            # one fund (VOO) can be worth more than the per-order cap meant for buys; selling it all is the point
+            big = max([float(cfg.get("max_order_usd") or 0)] + [2 * abs(float(p.get("market_value") or 0)) for p in positions])
+            write_json(path("state", "config_desligado.json"), dict(cfg, max_order_usd=round(big, 2)))
+            config_path = "trader/state/config_desligado.json"
             write_json(path("orders.json"), {"created_by": "robo (longo prazo desligado)", "paper": True,
                                              "orders": orders})
     else:
