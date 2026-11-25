@@ -1,14 +1,14 @@
 {
-  "as_of": "2026-11-25T19:35:02Z",
+  "as_of": "2026-11-25T20:05:03Z",
   "paper": true,
   "strategy": "indice",
   "rules": "Growing, profitable, not priced for perfection",
   "start": 5000.0,
-  "total": 4641.91,
+  "total": 4641.12,
   "invested": 0,
   "cash": 0.0,
-  "change": -358.09,
-  "change_pct": -7.16,
+  "change": -358.88,
+  "change_pct": -7.18,
   "positions": [],
   "targets": [
     {
@@ -25,30 +25,63 @@
   "curto": null,
   "pares": {
     "start": 4627.69,
-    "cash": 4066.89,
-    "value": 4641.91,
-    "change": 14.22,
-    "change_pct": 0.31,
+    "cash": 1282.92,
+    "value": 4641.12,
+    "change": 13.43,
+    "change_pct": 0.29,
     "positions": [
+      {
+        "symbol": "C",
+        "qty": 8.18530605,
+        "avg": 113.37267,
+        "price": 113.36,
+        "value": 927.89,
+        "pl": -0.1,
+        "pl_pct": -0.01,
+        "since": "2026-11-25",
+        "pair": "C/WFC"
+      },
       {
         "symbol": "FDX",
         "qty": 0.921045186,
         "avg": 318.106,
-        "price": 310.0323,
-        "value": 285.55,
-        "pl": -7.44,
-        "pl_pct": -2.54,
+        "price": 309.315,
+        "value": 284.89,
+        "pl": -8.1,
+        "pl_pct": -2.76,
         "since": "2026-11-18",
         "pair": "UPS/FDX"
+      },
+      {
+        "symbol": "JPM",
+        "qty": 2.924829803,
+        "avg": 317.28,
+        "price": 317.29,
+        "value": 928.02,
+        "pl": 0.03,
+        "pl_pct": 0.0,
+        "since": "2026-11-25",
+        "pair": "JPM/BAC"
+      },
+      {
+        "symbol": "VZ",
+        "qty": 19.544860994,
+        "avg": 47.48,
+        "price": 47.475,
+        "value": 927.89,
+        "pl": -0.1,
+        "pl_pct": -0.01,
+        "since": "2026-11-25",
+        "pair": "T/VZ"
       },
       {
         "symbol": "XOM",
         "qty": 1.820128869,
         "avg": 164.818,
-        "price": 159.04,
-        "value": 289.47,
-        "pl": -10.52,
-        "pl_pct": -3.51,
+        "price": 159.06,
+        "value": 289.51,
+        "pl": -10.48,
+        "pl_pct": -3.49,
         "since": "2026-11-10",
         "pair": "XOM/CVX"
       }
@@ -57,8 +90,8 @@
   "benchmark": {
     "symbol": "SPY",
     "since": "2026-10-28",
-    "value": 4646.26,
-    "change_pct": -7.07
+    "value": 4643.86,
+    "change_pct": -7.12
   },
   "long_term": false,
   "regime": {
@@ -73,6 +106,36 @@
   "long_value": 0.0,
   "pending": 0,
   "fills": [
+    {
+      "at": "2026-11-25T20:05:07Z",
+      "symbol": "C",
+      "side": "buy",
+      "qty": 8.185306,
+      "price": 113.37267,
+      "amount": 927.99,
+      "why": "pares, entrada: C ficou para tr\u00e1s de WFC (z -1.73, correla\u00e7\u00e3o 0.72)",
+      "sleeve": "pares"
+    },
+    {
+      "at": "2026-11-25T20:05:05Z",
+      "symbol": "JPM",
+      "side": "buy",
+      "qty": 2.92483,
+      "price": 317.28,
+      "amount": 927.99,
+      "why": "pares, entrada: JPM ficou para tr\u00e1s de BAC (z -1.76, correla\u00e7\u00e3o 0.77)",
+      "sleeve": "pares"
+    },
+    {
+      "at": "2026-11-25T20:05:09Z",
+      "symbol": "VZ",
+      "side": "buy",
+      "qty": 19.544861,
+      "price": 47.48,
+      "amount": 927.99,
+      "why": "pares, entrada: VZ ficou para tr\u00e1s de T (z 2.17, correla\u00e7\u00e3o 0.85)",
+      "sleeve": "pares"
+    },
     {
       "at": "2026-11-25T15:35:19Z",
       "symbol": "VOO",
@@ -341,36 +404,6 @@
       "price": 687.38,
       "amount": 1350.98,
       "why": "drifted +59.4 points from its 90.0% target (band 2)",
-      "sleeve": "longo"
-    },
-    {
-      "at": "2026-11-10T14:35:44Z",
-      "symbol": "VOO",
-      "side": "buy",
-      "qty": 4.941487,
-      "price": 688.05,
-      "amount": 3399.99,
-      "why": "drifted -90.0 points from its 90.0% target (band 2)",
-      "sleeve": "longo"
-    },
-    {
-      "at": "2026-11-10T14:35:35Z",
-      "symbol": "UNP",
-      "side": "sell",
-      "qty": 1.9281,
-      "price": 297.36,
-      "amount": 573.34,
-      "why": "not in your targets; selling the whole position (--sell-untracked)",
-      "sleeve": "longo"
-    },
-    {
-      "at": "2026-11-10T14:35:53Z",
-      "symbol": "ORCL",
-      "side": "sell",
-      "qty": 4.795958,
-      "price": 118.720724,
-      "amount": 569.38,
-      "why": "not in your targets; selling the whole position (--sell-untracked)",
       "sleeve": "longo"
     }
   ],
@@ -1660,6 +1693,11 @@
       "t": "2026-11-25T19:35:02Z",
       "v": 4641.91,
       "b": 4646.26
+    },
+    {
+      "t": "2026-11-25T20:05:03Z",
+      "v": 4641.12,
+      "b": 4643.86
     }
   ],
   "report": "trader/relatorios/2026-11-25.md",

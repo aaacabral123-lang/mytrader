@@ -4,21 +4,43 @@
   "results": [
     {
       "index": 1,
-      "symbol": "HD",
-      "side": "sell",
-      "amount": "0.855091383 shares",
-      "value_usd": 302.47,
-      "fingerprint": "ee8b7a6bec51c1c5",
+      "symbol": "VZ",
+      "side": "buy",
+      "amount": "$928",
+      "value_usd": 928.0,
+      "fingerprint": "835a2032506f94b2",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 2,
+      "symbol": "JPM",
+      "side": "buy",
+      "amount": "$928",
+      "value_usd": 928.0,
+      "fingerprint": "50b55694ab81b325",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 3,
+      "symbol": "C",
+      "side": "buy",
+      "amount": "$928",
+      "value_usd": 928.0,
+      "fingerprint": "88f2fc8af79451e9",
       "verdict": "PASS",
       "reasons": [],
       "warnings": []
     }
   ],
-  "pass": 1,
+  "pass": 3,
   "block": 0,
   "warnings": [],
-  "cash_after": 939.32,
-  "prices_as_of": "2026-11-25T15:05:06Z",
-  "checked_at": "2026-11-25T15:05:12",
+  "cash_after": 1282.89,
+  "prices_as_of": "2026-11-25T20:05:03Z",
+  "checked_at": "2026-11-25T20:05:04",
   "orders_file": "trader/pares/orders.json"
 }

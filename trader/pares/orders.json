@@ -3,12 +3,28 @@
   "paper": true,
   "orders": [
     {
-      "symbol": "HD",
-      "side": "sell",
-      "qty": "0.855091383",
+      "symbol": "VZ",
+      "side": "buy",
+      "notional": "928",
       "type": "market",
       "time_in_force": "day",
-      "why": "pares, sa\u00edda: a dist\u00e2ncia de HD/LOW voltou ao normal (z 0.07)"
+      "why": "pares, entrada: VZ ficou para tr\u00e1s de T (z 2.17, correla\u00e7\u00e3o 0.85)"
+    },
+    {
+      "symbol": "JPM",
+      "side": "buy",
+      "notional": "928",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "pares, entrada: JPM ficou para tr\u00e1s de BAC (z -1.76, correla\u00e7\u00e3o 0.77)"
+    },
+    {
+      "symbol": "C",
+      "side": "buy",
+      "notional": "928",
+      "type": "market",
+      "time_in_force": "day",
+      "why": "pares, entrada: C ficou para tr\u00e1s de WFC (z -1.73, correla\u00e7\u00e3o 0.72)"
     }
   ]
 }

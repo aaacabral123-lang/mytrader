@@ -1,8 +1,8 @@
 {
-  "budget": 1500.0,
+  "budget": 4627.69,
   "cash_buffer_pct": 0,
   "max_position_pct": 30.0,
-  "max_order_usd": 1500.0,
+  "max_order_usd": 4627.69,
   "min_order_usd": 5,
   "max_orders_per_day": 20,
   "fractional": true,
