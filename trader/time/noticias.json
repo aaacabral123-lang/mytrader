@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-25T15:35:00Z",
-  "items": [
-    {
-      "id": "rss:91579315-dd97-32c7-b52d-b1a8836d72d8",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XOM",
-      "title": "Can Chevron Build a Lithium Business in the Smackover Formation?",
-      "summary": "CVX is putting its oil and gas expertise to work in lithium, targeting opportunities in energy storage, from electric vehicle batteries to power grids.",
-      "link": "https://finance.yahoo.com/energy/articles/chevron-build-lithium-business-smackover-141200752.html?.tsrc=rss",
-      "time": "2026-11-25T14:12:00+00:00",
-      "touches": [
-        "XOM"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-25T17:05:00Z",
+  "items": [],
   "atencao": []
 }

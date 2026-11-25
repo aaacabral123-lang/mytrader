@@ -1,14 +1,14 @@
 {
-  "as_of": "2026-11-25T16:35:32Z",
+  "as_of": "2026-11-25T17:05:18Z",
   "paper": true,
   "strategy": "indice",
   "rules": "Growing, profitable, not priced for perfection",
   "start": 5000.0,
-  "total": 4633.65,
+  "total": 4635.94,
   "invested": 0,
   "cash": 0.0,
-  "change": -366.35,
-  "change_pct": -7.33,
+  "change": -364.06,
+  "change_pct": -7.28,
   "positions": [],
   "targets": [
     {
@@ -26,18 +26,18 @@
   "pares": {
     "start": 4627.69,
     "cash": 4066.89,
-    "value": 4633.65,
-    "change": 5.96,
-    "change_pct": 0.13,
+    "value": 4635.94,
+    "change": 8.25,
+    "change_pct": 0.18,
     "positions": [
       {
         "symbol": "FDX",
         "qty": 0.921045186,
         "avg": 318.106,
-        "price": 303.475,
-        "value": 279.51,
-        "pl": -13.48,
-        "pl_pct": -4.6,
+        "price": 305.04,
+        "value": 280.96,
+        "pl": -12.03,
+        "pl_pct": -4.11,
         "since": "2026-11-18",
         "pair": "UPS/FDX"
       },
@@ -45,10 +45,10 @@
         "symbol": "XOM",
         "qty": 1.820128869,
         "avg": 164.818,
-        "price": 157.82,
-        "value": 287.25,
-        "pl": -12.74,
-        "pl_pct": -4.25,
+        "price": 158.28,
+        "value": 288.09,
+        "pl": -11.9,
+        "pl_pct": -3.97,
         "since": "2026-11-10",
         "pair": "XOM/CVX"
       }
@@ -57,8 +57,8 @@
   "benchmark": {
     "symbol": "SPY",
     "since": "2026-10-28",
-    "value": 4527.76,
-    "change_pct": -9.44
+    "value": 4561.93,
+    "change_pct": -8.76
   },
   "long_term": false,
   "regime": {
@@ -1630,6 +1630,11 @@
       "t": "2026-11-25T16:35:32Z",
       "v": 4633.65,
       "b": 4527.76
+    },
+    {
+      "t": "2026-11-25T17:05:18Z",
+      "v": 4635.94,
+      "b": 4561.93
     }
   ],
   "report": "trader/relatorios/2026-11-25.md",
