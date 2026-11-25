@@ -1,5 +1,5 @@
 {
-  "cash": 4.26,
+  "cash": 318.73,
   "source": "pares: a\u00e7\u00f5es dos pares + caixa dos pares",
   "positions": [
     {
@@ -9,10 +9,6 @@
     {
       "ticker": "HD",
       "shares": 0.855091383
-    },
-    {
-      "ticker": "MRK",
-      "shares": 2.219106247
     },
     {
       "ticker": "WMT",

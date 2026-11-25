@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "paper": true,
   "results": [
     {
       "index": 1,
-      "symbol": "MRK",
+      "symbol": "WMT",
       "side": "sell",
-      "amount": "2.219106247 shares",
-      "value_usd": 314.51,
-      "fingerprint": "b0074ab894bae503",
+      "amount": "2.396852029 shares",
+      "value_usd": 318.91,
+      "fingerprint": "4d9e28087e79a1cb",
       "verdict": "PASS",
       "reasons": [],
       "warnings": []
@@ -17,8 +17,8 @@
   "pass": 1,
   "block": 0,
   "warnings": [],
-  "cash_after": 318.77,
-  "prices_as_of": "2026-11-24T20:35:37Z",
-  "checked_at": "2026-11-24T20:35:38",
+  "cash_after": 637.64,
+  "prices_as_of": "2026-11-25T14:35:07Z",
+  "checked_at": "2026-11-25T14:35:24",
   "orders_file": "trader/pares/orders.json"
 }

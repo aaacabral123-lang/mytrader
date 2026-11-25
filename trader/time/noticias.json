@@ -1,51 +1,100 @@
 {
-  "as_of": "2026-11-25T13:35:00Z",
+  "as_of": "2026-11-25T14:35:00Z",
   "items": [
     {
-      "id": "rss:f17f146b-eb20-3da2-a86a-2a2751d86fe6",
+      "id": "rss:867cdbaf-2d24-3fa7-9538-067f1de2477d",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "WMT",
-      "title": "Top 3 holiday consumer stocks: Walmart, Hasbro, and Ulta Beauty",
-      "summary": "Investing.com -- The strongest three candidates are Walmart, Hasbro, and Ulta Beauty. This screen required US consumer stocks above $10B market cap, positive three-month returns, revenue growth, and positive analyst-target upside.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-holiday-consumer-stocks-132110158.html?.tsrc=rss",
-      "time": "2026-11-25T13:21:10+00:00",
+      "ticker": "XLE",
+      "title": "Sector Update: Energy Stocks Lean Lower Pre-Bell Wednesday",
+      "summary": "Energy stocks were leaning lower pre-bell Wednesday, with the State Street Energy Select Sector SPDR",
+      "link": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lean-lower-142158117.html?.tsrc=rss",
+      "time": "2026-11-25T14:21:58+00:00",
       "touches": [
-        "WMT"
+        "XLE"
       ],
       "tags": [],
       "new": true
     },
     {
-      "id": "rss:5e334032-885c-36a1-9ef3-fb8bae0d1716",
+      "id": "rss:8b6d398b-69b2-3991-9832-9aad84448421",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "FDX",
+      "title": "Global Biopharmaceutical Cold Chain Logistics Market Report 2026 | Capitalize on 9.5% CAGR Through 2030 as DHL, UPS, FedEx, Cencora, and Maersk Scale AI and IoT Logistics",
+      "summary": "Boost ROI via reusable packaging, IoT/AI monitoring, active containers, stronger last-mile and storage networks, and acquisitions that expand cold-chain capabilities.Dublin, Nov. 25, 2026 (GLOBE NEWSWIRE) -- \"Biopharmaceutical Cold Chain Logistics Global Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global biopharmaceutical cold chain logistics market is experiencing strong growth as pharmaceutical manufacturers, biotechnology companies, healthcare providers, and r",
+      "link": "https://finance.yahoo.com/healthcare/articles/global-biopharmaceutical-cold-chain-logistics-141500913.html?.tsrc=rss",
+      "time": "2026-11-25T14:15:00+00:00",
+      "touches": [
+        "FDX"
+      ],
+      "tags": [
+        "capital"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:22bd8538-af69-3bd0-91fe-9b356d9c91ae",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "ADBE",
-      "title": "How Upcoming Earnings Will Impact Adobe (ADBE) Investors",
-      "summary": "StreamWork announced that its review and approval plugins for Adobe Premiere, Photoshop, and InDesign are now live on the Adobe Marketplace, letting Creative Cloud users send work directly into StreamWork, sync comments, and manage AI-assisted multi stage signoffs inside their core tools. The integration tightens Adobe\u2019s role at the center of creative workflows by plugging Creative Cloud into a wider ecosystem of AI review, legal and brand checks, and connected tools like Asana, monday.com,...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/upcoming-earnings-impact-adobe-adbe-130745110.html?.tsrc=rss",
-      "time": "2026-11-25T13:07:45+00:00",
+      "title": "Santa at NYSE Ahead of Macy's Thanksgiving Day Parade: NYSE Content Update",
+      "summary": "The New York Stock Exchange (NYSE) provides a daily pre-market update directly from the NYSE Trading Floor. Access today's NYSE Pre-market update for market insights before trading begins.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/santa-nyse-ahead-macys-thanksgiving-135500910.html?.tsrc=rss",
+      "time": "2026-11-25T13:55:00+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:27f7074b-4923-373b-a99a-78a5cff4a854",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+      "summary": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/flipkart-ceo-kalyan-krishnamurthy-step-130819116.html?.tsrc=rss",
+      "time": "2026-11-25T13:08:19+00:00",
+      "touches": [
+        "WMT"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:1f14d25c-f26d-3d5d-977c-316ae4eb91b9",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Here is What to Know Beyond Why Adobe Inc. (ADBE) is a Trending Stock",
+      "summary": "Adobe (ADBE) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-adobe-inc-130005121.html?.tsrc=rss",
+      "time": "2026-11-25T13:00:05+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:404cef8c-bf49-3c21-8981-7347699b4dd0",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "Adobe's Cash Flow Strengthens: Can It Support Bigger Share Buybacks?",
+      "summary": "ADBE's record operating cash flow, growing subscription revenues and $24.55 billion in remaining buyback authorization give it room for bigger repurchases.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/adobes-cash-flow-strengthens-support-125000448.html?.tsrc=rss",
+      "time": "2026-11-25T12:50:00+00:00",
       "touches": [
         "ADBE"
       ],
       "tags": [
-        "earnings"
+        "capital"
       ],
-      "new": true
-    },
-    {
-      "id": "rss:e7d5c784-9be9-3f68-9e84-22ff1a172e5c",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Target vs Walmart holiday outlook: defensive strength against recovery potential",
-      "summary": "Investing.com -- Into the holidays, Walmart Inc (WMT) offers the stronger defensive setup, while Target Corporation (TGT) offers the stronger recovery setup.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/target-vs-walmart-holiday-outlook-130617796.html?.tsrc=rss",
-      "time": "2026-11-25T13:06:17+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
       "new": true
     }
   ],

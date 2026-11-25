@@ -99,6 +99,16 @@
       "id": "b3ce0fa6-2ccd-4ef1-a6ec-169e242dd56d",
       "approved_by": "robo (automatic, paper)",
       "why": "pares, sa\u00edda: a dist\u00e2ncia de PFE/MRK voltou ao normal (z -0.14)"
+    },
+    {
+      "date": "2026-11-25",
+      "at": "2026-11-25T14:35:07Z",
+      "status": "placed",
+      "symbol": "WMT",
+      "side": "sell",
+      "id": "5fcd2463-68eb-4943-861f-b72f6366ce40",
+      "approved_by": "robo (automatic, paper)",
+      "why": "pares, sa\u00edda: a dist\u00e2ncia de COST/WMT voltou ao normal (z -0.02)"
     }
   ]
 }
