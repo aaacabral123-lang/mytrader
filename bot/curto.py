@@ -226,9 +226,9 @@ def run(api, robo, cfg, state, today, ny_time, now, log, notify, skill_json, rea
 def summary(api, state, robo):
     """The sleeve's value and positions, for the dashboard and the report."""
     st = state.get("curto")
-    if not st:
-        return None
     c = settings(robo)
+    if not st or not c["enabled"]:
+        return None
     tracks = {v.upper(): k.upper() for k, v in c["inverse"].items()}
     pos = []
     for p in api.positions():
