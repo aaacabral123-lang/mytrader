@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-24",
+  "as_of": "2026-11-25",
   "companies": [
     {
       "ticker": "ADBE",
@@ -47,22 +47,6 @@
       "gross_margin": 32.8,
       "operating_margin": 12.6,
       "net_margin": 8.6,
-      "source": "SEC XBRL company facts"
-    },
-    {
-      "ticker": "MRK",
-      "name": "Merck & Co., Inc.",
-      "cik": "0000310158",
-      "period_end": "2026-09-30",
-      "revenue_ttm": 67378000000,
-      "net_income_ttm": 2453000000,
-      "eps_ttm": 0.97,
-      "revenue_growth_yoy": 4.7,
-      "eps_growth_yoy": -12.1,
-      "net_income_growth_yoy": -12.4,
-      "gross_margin": 72.9,
-      "operating_margin": null,
-      "net_margin": 28.0,
       "source": "SEC XBRL company facts"
     },
     {

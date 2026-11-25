@@ -1,51 +1,5 @@
 {
-  "as_of": "2026-11-25T11:35:00Z",
-  "items": [
-    {
-      "id": "rss:327d0441-4b21-3fcb-92ab-d3fb9df5ba97",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "State Street Consumer Staples SPDR (XLP) Adds Walmart and Costco on Nov. 23",
-      "summary": "The fund bought $266.6 million of stock and sold nothing, lifting all 33 of its positions.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-consumer-staples-spdr-110513471.html?.tsrc=rss",
-      "time": "2026-11-25T11:05:13+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:38690341-f426-4f47-9ab6-f44a76b6d83f",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "ADBE",
-      "title": "AI is crushing software stocks \u2014 and a debt wall looms: Chart of the Day",
-      "summary": "AI fears are spreading from software stocks to software loans, with a big debt wall due in 2028 and 2029.",
-      "link": "https://finance.yahoo.com/markets/article/ai-is-crushing-software-stocks--and-a-debt-wall-looms-chart-of-the-day-110000479.html?.tsrc=rss",
-      "time": "2026-11-25T11:00:00+00:00",
-      "touches": [
-        "ADBE"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:f139e5c6-13fb-3ec3-85d1-35341362d2fc",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "WMT",
-      "title": "Walmart\u2019s shopper base is shifting: High earners lead its gains as low-income shoppers turn to Amazon",
-      "summary": "Upper-income households led Walmart's market-share gains last quarter, while Numerator data shows lower-income shoppers shifting to Amazon and dollar stores.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-shopper-shifting-high-earners-083200748.html?.tsrc=rss",
-      "time": "2026-11-25T08:32:00+00:00",
-      "touches": [
-        "WMT"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-25T12:05:00Z",
+  "items": [],
   "atencao": []
 }
