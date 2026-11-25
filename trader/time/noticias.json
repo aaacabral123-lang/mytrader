@@ -1,5 +1,437 @@
 {
-  "as_of": "2026-11-25T20:05:00Z",
-  "items": [],
+  "as_of": "2026-11-25T20:35:00Z",
+  "items": [
+    {
+      "id": "rss:d9a18887-b941-3708-8c77-32148a82f7a7",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "ExxonMobil (XOM) Stock Looks Cheap Against Future Cash Flow Estimates",
+      "summary": "ExxonMobil Holdings has posted a powerful 5 year share gain, which makes the recent pullback a natural moment to ask whether the current price can still be explained by the cash flows the business is expected to generate. With the stock now trading at US$158.23 after a weaker month, the key issue is how that market value lines up against what a Discounted Cash Flow (DCF) view of its future money generation suggests. ExxonMobil is up 212.9% over 5 years, which puts a lot of weight on the idea...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-xom-stock-looks-cheap-201551703.html?.tsrc=rss",
+      "time": "2026-11-25T20:15:51+00:00",
+      "touches": [
+        "XOM"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:10583a9b-643b-3170-ae94-98aa70aba69c",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "VZ",
+      "title": "Charter Communications (CHTR) Stock Is Up 7.4% Today Without Company News",
+      "summary": "On Wednesday, Nov. 25, the shares rose 7.4% without company-specific news as the S&P 500 fell 1.3%",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/charter-communications-chtr-stock-7-180017476.html?.tsrc=rss",
+      "time": "2026-11-25T18:00:17+00:00",
+      "touches": [
+        "VZ"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:d1320795-1650-371d-bdea-f376b94cbcd3",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "C",
+      "title": "FRN Variable Rate Fix",
+      "summary": "LONDON, November 25, 2026-- Re:Hyundai Capital Services, Inc",
+      "link": "https://finance.yahoo.com/markets/options/articles/frn-variable-rate-fix-165400755.html?.tsrc=rss",
+      "time": "2026-11-25T16:54:00+00:00",
+      "touches": [
+        "C"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:85f045bc-c7f7-3ec2-96f8-eca062314830",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "Robinhood, JPMorgan, Other Financial Stocks Slump Amid Broad Market Rout",
+      "summary": "Shares of banks, brokerage firms, and wealth management companies fell on Wednesday morning.",
+      "link": "https://finance.yahoo.com/m/85f045bc-c7f7-3ec2-96f8-eca062314830/robinhood%2C-jpmorgan%2C-other.html?.tsrc=rss",
+      "time": "2026-11-25T16:32:00+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:abc3d4dc-dd64-41d2-ad20-b540b066a73e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "Tariffs are back as Anthropic sinks further below its IPO price",
+      "summary": "The 8:30 hosts Julie Hyman and Jake Conley, joined on the couch by BD8 Capital Partners CEO and CIO Barbara Doran, tackle the top stories of the day. Including the Trump administration's sweeping new Section 301 tariffs of 20% on China and dozens of other economies, in-line PCE inflation and a third-quarter GDP revision up to 4.3% that keep a December Fed hike in play, Anthropic sliding toward $78 and well below its $83 IPO price, and whether Jensen Huang is the right leader for Nvidia in a new regulatory era.",
+      "link": "https://finance.yahoo.com/video/tariffs-are-back-as-anthropic-sinks-further-below-its-ipo-price-160524926.html?.tsrc=rss",
+      "time": "2026-11-25T16:05:24+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:26a78290-2224-3666-aa54-4da1dae1703c",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "C",
+      "title": "Former Citibank Trader Says Your Kids Might Never Inherit The Family Home, Even If It's Worth More Than Ever",
+      "summary": "Quick Read Gary Stevenson says rising home prices can make retirees feel wealthier without improving their financial security. Retirees may have to sell their homes to pay their bills or cover care costs, leaving little or nothing for their kids...",
+      "link": "https://finance.yahoo.com/real-estate/articles/former-citibank-trader-says-kids-153725092.html?.tsrc=rss",
+      "time": "2026-11-25T15:37:25+00:00",
+      "touches": [
+        "C"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:577ee720-9fa6-3315-82d1-4d8753b85a97",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "VZ",
+      "title": "Why Is Verizon (VZ) Up 7.4% Since Last Earnings Report?",
+      "summary": "Verizon (VZ) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-verizon-vz-7-4-153005447.html?.tsrc=rss",
+      "time": "2026-11-25T15:30:05+00:00",
+      "touches": [
+        "VZ"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:b269b4db-ab8d-3b8f-8a39-8fef18479be7",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "VZ",
+      "title": "Liberty Global (LBTYB) Stock Is Up 6.4% Today Without Company News",
+      "summary": "On Wednesday, Nov. 25, the shares rose 6.4% without company-specific news as the S&P 500 fell 2.6%.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/liberty-global-lbtyb-stock-6-151517039.html?.tsrc=rss",
+      "time": "2026-11-25T15:15:17+00:00",
+      "touches": [
+        "VZ"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:ea8d977c-bf84-39ca-a23c-2436988c6fca",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "C",
+      "title": "Citigroup Eyes Venezuela Re-Entry: Can It Grow Cross-Border Payments?",
+      "summary": "C is weighing a Venezuela return to expand cross-border payments, earn transaction fees and deepen its Latin American banking business.",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/citigroup-eyes-venezuela-entry-grow-142000834.html?.tsrc=rss",
+      "time": "2026-11-25T14:20:00+00:00",
+      "touches": [
+        "C",
+        "JPM"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:58645a6a-9231-3123-85a4-104f420c7107",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "This Asian market could be your portfolio\u2019s best anchor in 2027: JPM",
+      "summary": "Investing.com -- JPMorgan told clients in a new note that Japanese stocks should be an attractive anchor for equity portfolios in 2027.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asian-market-could-portfolio-best-141633303.html?.tsrc=rss",
+      "time": "2026-11-25T14:16:33+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:6c1ea9af-fb2c-343b-8f28-107f67520bdf",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "VZ",
+      "title": "Can Lumen's Improved Debt Profile Accelerate Its Digital Transition?",
+      "summary": "LUMN's debt reduction, lower interest costs and strategic investments are enhancing financial flexibility as it pivots toward digital infrastructure.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/lumens-improved-debt-profile-accelerate-134900263.html?.tsrc=rss",
+      "time": "2026-11-25T13:49:00+00:00",
+      "touches": [
+        "VZ"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:453d8691-b530-3621-a737-a5e635554750",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "Bank Bond Losses Hit $486 Billion: How Exposed Is Bank of America?",
+      "summary": "BAC faces mounting balance-sheet pressure as U.S. banks' unrealized securities losses hit $486 billion, threatening margin growth and flexibility.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-bond-losses-hit-486-134500736.html?.tsrc=rss",
+      "time": "2026-11-25T13:45:00+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:0110c9a8-8a0f-3676-82b4-d51998e4e026",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "VZ",
+      "title": "Verizon Communications Inc. (VZ) is Attracting Investor Attention: Here is What You Should Know",
+      "summary": "Recently, Zacks.com users have been paying close attention to Verizon (VZ). This makes it worthwhile to examine what the stock has in store.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/verizon-communications-inc-vz-attracting-130004286.html?.tsrc=rss",
+      "time": "2026-11-25T13:00:04+00:00",
+      "touches": [
+        "VZ"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:e86ea6ab-5705-3028-9929-b67753cc131d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "J.P. Morgan sees cost inflation limiting European staples upside in 2027",
+      "summary": "Investing.com -- J.P. Morgan downgraded Anheuser-Busch InBev to \u201cneutral\u201d from \u201coverweight,\u201d saying the brewer\u2019s shares were fairly valued after a strong year and a re-rating, in its 2027 outlook for European consumer staples on Wednesday.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/j-p-morgan-sees-cost-125859829.html?.tsrc=rss",
+      "time": "2026-11-25T12:58:59+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [
+        "analyst"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:b1e5e11f-032c-3ead-9c0a-6187765347a6",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "Market Chatter: JPMorgan Weighs Scaling Back UK Investments After Bank Tax Increase",
+      "summary": "JPMorgan Chase & Co. (JPM) is considering scaling back planned investments in the UK after the gover",
+      "link": "https://finance.yahoo.com/economy/policy/articles/market-chatter-jpmorgan-weighs-scaling-115843710.html?.tsrc=rss",
+      "time": "2026-11-25T11:58:43+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:5897a0f4-0c80-3476-bc9d-07586c554d87",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "FDIC-Insured Banks' Q3 Earnings Grow Y/Y, Asset Quality Holds Steady",
+      "summary": "FDIC-insured banks' Q3 earnings rise 7% year over year as higher revenues, lower credit loss provisions, loan growth and deposit inflows support resilience.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fdic-insured-banks-q3-earnings-110800983.html?.tsrc=rss",
+      "time": "2026-11-25T11:08:00+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:8f53a13f-c3c1-38fe-baf4-4a88294c3544",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "State Street Financial SPDR (XLF) Buys $83.4 Million More Berkshire on Monday",
+      "summary": "The fund added $611.7 million across all 76 positions, led by an $83.4 million increase in Berkshire Hathaway.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-financial-spdr-xlf-110431476.html?.tsrc=rss",
+      "time": "2026-11-25T11:04:31+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:b044b08c-c464-3c69-9360-36af9a1ebd5c",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "JPMorgan Chase (JPM) Sees $92.2 Million in Net ETF Buying on Nov. 23",
+      "summary": "ETFs bought $92.2 million of JPMorgan Chase shares, with 35 funds buying and 16 selling.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-jpm-sees-92-110101868.html?.tsrc=rss",
+      "time": "2026-11-25T11:01:01+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:3c2be290-8ffb-3e75-a7f0-a4aa788a865a",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "Big Banks Carry Heavy Debt\u2014This Bond-Trading Network Surged 26%",
+      "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/big-banks-carry-heavy-debt-092349714.html?.tsrc=rss",
+      "time": "2026-11-25T09:23:49+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:ecf9b4ed-550e-3795-a306-bda8ae1decc3",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "C",
+      "title": "Starbucks weighs sale of Japan business worth several billion dollars - Bloomberg",
+      "summary": "Investing.com-- Starbucks Corporation (NASDAQ:SBUX) has hired advisers including Citigroup (NYSE:C) and Morgan Stanley (NYSE:MS) to explore a potential sale of its Japan business, which could be valued at several billion dollars, Bloomberg News reported on Wednesday, citing people familiar with the matter.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/starbucks-weighs-sale-japan-business-040718275.html?.tsrc=rss",
+      "time": "2026-11-25T04:07:18+00:00",
+      "touches": [
+        "C"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:d9ba07db-8f7c-3b93-a991-8be16da1d7fb",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "MINISO (MNSO) Stock Fair Value Edges Higher On Overseas Large Format Rollout",
+      "summary": "The fair value estimate for MINISO Group Holding has been adjusted slightly higher, moving from US$14.16 to US$14.76 in the latest update. This shift comes as analysts factor in MINISO\u2019s ongoing rollout of large format concepts overseas in 2026, including new MINISO LAND and SUPER MINISO locations in the U.S. and Canada. In the sections that follow, you will see how these valuation changes fit into the wider story and how to keep track of the evolving narrative around MINISO Group...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/miniso-mnso-stock-fair-value-011104891.html?.tsrc=rss",
+      "time": "2026-11-25T01:11:04+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:ff62c679-ccd5-3d7c-8373-ccacfbd295d8",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "C",
+      "title": "Market Chatter: Citigroup Weighs Return to Venezuela Banking, Discusses Sanctions Waivers With US",
+      "summary": "Citigroup (C) is weighing a return to providing banking services in Venezuela five years after its e",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-citigroup-weighs-return-000911272.html?.tsrc=rss",
+      "time": "2026-11-25T00:09:11+00:00",
+      "touches": [
+        "C"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:0cc0a307-0910-31b8-83e1-31c65bee4c74",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "C",
+      "title": "Attovia Therapeutics to Participate in Citi\u2019s 2026 Global Healthcare Conference",
+      "summary": "SAN CARLOS, Calif., Nov. 24, 2026 (GLOBE NEWSWIRE) -- Attovia Therapeutics, Inc. (\u201cAttovia\u201d or the \u201cCompany\u201d) (Nasdaq: ATTO), a clinical-stage biopharmaceutical company developing next-generation biotherapeutics for immune-mediated diseases with high unmet need, today announced that company management will participate in the following upcoming investor conference: Citi\u2019s 2026 Global Healthcare ConferenceFormat: Fireside chatDate: Wednesday, December 2, 2026Time: 9:00 - 9:35 am ET The webcast of",
+      "link": "https://finance.yahoo.com/healthcare/articles/attovia-therapeutics-participate-citi-2026-210500716.html?.tsrc=rss",
+      "time": "2026-11-24T21:05:00+00:00",
+      "touches": [
+        "C"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:f11a07d1-dc5f-30b4-bd61-98d98755db4d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "VZ",
+      "title": "Liberty Global (LBTYB) Stock Is Down 6.2% Today Without Company News",
+      "summary": "On Tuesday, Nov. 24, the shares fell 6.2% without company-specific news",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/liberty-global-lbtyb-stock-down-173102557.html?.tsrc=rss",
+      "time": "2026-11-24T17:31:02+00:00",
+      "touches": [
+        "VZ"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:4bbbe0fd-8e65-34f9-a6e4-b2691c325fd7",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "C",
+      "title": "Zacks Industry Outlook Highlights Citigroup and BGC",
+      "summary": "Citigroup and BGC Group stand out as recovering dealmaking, sustained trading activity and technology investments strengthen investment banking prospects.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-citigroup-144500583.html?.tsrc=rss",
+      "time": "2026-11-24T14:45:00+00:00",
+      "touches": [
+        "C"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:30e38640-9318-38f6-90b1-db550473ec29",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "C",
+      "title": "Citi sees short-squeeze risk in Russell 2000 as bearish equity positioning builds",
+      "summary": "Investing.com -- Global equity positioning turned increasingly bearish last week as investors added new short bets across most major indices, according to Citi's Equity Markets Positioning Model.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/citi-sees-short-squeeze-risk-142450017.html?.tsrc=rss",
+      "time": "2026-11-24T14:24:50+00:00",
+      "touches": [
+        "C"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:5033f5dd-5288-343e-a73a-c4073b65bfab",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "C",
+      "title": "Is Earnings Rebound Altering The Investment Case For Citigroup (C)?",
+      "summary": "Citigroup has recently raised multiple tranches of fixed rate senior unsecured notes across maturities from 2028 to 2056, while also making leadership hires in equity capital markets and U.S. retail branches, and hosting a Taiwan Corporate Day that highlights its global services reach. The mix of fresh bond funding, regional leadership changes, and deepening institutional engagement points to Citigroup focusing on balance sheet flexibility, capital markets execution and cross border client...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-rebound-altering-investment-case-011727539.html?.tsrc=rss",
+      "time": "2026-11-24T01:17:27+00:00",
+      "touches": [
+        "C"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:fae3ddf8-8ef4-30dd-8a9b-4b2f96af21af",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "VZ",
+      "title": "AST SpaceMobile Stock Gets FCC Approval for Direct to Device Service",
+      "summary": "AST SpaceMobile secured FCC approval for direct-to-device satellite service and outlined plans for intermittent nationwide coverage by late 2026 across key markets including the US, Canada, Japan, Saudi Arabia and the UK. The combination of regulatory clearance and rollout plans, backed by partnerships with AT&T and Verizon, puts greater attention on AST SpaceMobile\u2019s execution, capital use and timeline risk in building a usable space-based cellular network. We will now see how AST...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-stock-gets-fcc-002319879.html?.tsrc=rss",
+      "time": "2026-11-24T00:23:19+00:00",
+      "touches": [
+        "VZ"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }

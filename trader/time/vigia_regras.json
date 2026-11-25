@@ -1,8 +1,26 @@
 {
   "rules": [
     {
+      "id": "vigia-C",
+      "symbol": "C",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
       "id": "vigia-FDX",
       "symbol": "FDX",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
+      "id": "vigia-JPM",
+      "symbol": "JPM",
+      "type": "pct_move",
+      "pct": 5
+    },
+    {
+      "id": "vigia-VZ",
+      "symbol": "VZ",
       "type": "pct_move",
       "pct": 5
     },
