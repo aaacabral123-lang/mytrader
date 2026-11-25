@@ -1,18 +1,5 @@
 {
-  "cash": 227.37,
-  "positions": [
-    {
-      "ticker": "VOO",
-      "shares": 2.97608681,
-      "lots": [
-        {
-          "id": "VOO-alpaca",
-          "shares": 2.97608681,
-          "cost": 2047.69653,
-          "date": "2026-11-10"
-        }
-      ]
-    }
-  ],
+  "cash": 2145.67,
+  "positions": [],
   "source": "Alpaca paper positions + robot cash ledger"
 }

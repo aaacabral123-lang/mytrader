@@ -1,12 +1,6 @@
 {
   "rules": [
     {
-      "id": "vigia-ADBE",
-      "symbol": "ADBE",
-      "type": "pct_move",
-      "pct": 5
-    },
-    {
       "id": "vigia-FDX",
       "symbol": "FDX",
       "type": "pct_move",
