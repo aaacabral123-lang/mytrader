@@ -1,17 +1,49 @@
 {
-  "as_of": "2026-11-25T13:05:00Z",
+  "as_of": "2026-11-25T13:35:00Z",
   "items": [
     {
-      "id": "rss:ced7366f-af6d-322c-a59e-6e8cc736c22c",
+      "id": "rss:f17f146b-eb20-3da2-a86a-2a2751d86fe6",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "HD",
-      "title": "Home Depot vs. Williams-Sonoma: Which Stock Holds More Promise?",
-      "summary": "HD and WSM compete for market share, but which stock stands out on growth prospects, valuation, digital capabilities and stock momentum?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-vs-williams-sonoma-113800868.html?.tsrc=rss",
-      "time": "2026-11-25T11:38:00+00:00",
+      "ticker": "WMT",
+      "title": "Top 3 holiday consumer stocks: Walmart, Hasbro, and Ulta Beauty",
+      "summary": "Investing.com -- The strongest three candidates are Walmart, Hasbro, and Ulta Beauty. This screen required US consumer stocks above $10B market cap, positive three-month returns, revenue growth, and positive analyst-target upside.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/top-3-holiday-consumer-stocks-132110158.html?.tsrc=rss",
+      "time": "2026-11-25T13:21:10+00:00",
       "touches": [
-        "HD"
+        "WMT"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:5e334032-885c-36a1-9ef3-fb8bae0d1716",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "ADBE",
+      "title": "How Upcoming Earnings Will Impact Adobe (ADBE) Investors",
+      "summary": "StreamWork announced that its review and approval plugins for Adobe Premiere, Photoshop, and InDesign are now live on the Adobe Marketplace, letting Creative Cloud users send work directly into StreamWork, sync comments, and manage AI-assisted multi stage signoffs inside their core tools. The integration tightens Adobe\u2019s role at the center of creative workflows by plugging Creative Cloud into a wider ecosystem of AI review, legal and brand checks, and connected tools like Asana, monday.com,...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/upcoming-earnings-impact-adobe-adbe-130745110.html?.tsrc=rss",
+      "time": "2026-11-25T13:07:45+00:00",
+      "touches": [
+        "ADBE"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:e7d5c784-9be9-3f68-9e84-22ff1a172e5c",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "WMT",
+      "title": "Target vs Walmart holiday outlook: defensive strength against recovery potential",
+      "summary": "Investing.com -- Into the holidays, Walmart Inc (WMT) offers the stronger defensive setup, while Target Corporation (TGT) offers the stronger recovery setup.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/target-vs-walmart-holiday-outlook-130617796.html?.tsrc=rss",
+      "time": "2026-11-25T13:06:17+00:00",
+      "touches": [
+        "WMT"
       ],
       "tags": [],
       "new": true
