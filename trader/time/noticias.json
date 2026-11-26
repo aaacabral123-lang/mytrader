@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-26T06:35:00Z",
-  "items": [
-    {
-      "id": "rss:535e2705-a042-38b6-9a9a-e1e743df5f27",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "FDX",
-      "title": "Is the Stock Market Open Today? Here Are the Trading Hours for Thanksgiving.",
-      "summary": "It\u2019s time to give thanks. What traders should know about the stock market on Thanksgiving.",
-      "link": "https://finance.yahoo.com/m/535e2705-a042-38b6-9a9a-e1e743df5f27/is-the-stock-market-open.html?.tsrc=rss",
-      "time": "2026-11-26T05:01:00+00:00",
-      "touches": [
-        "FDX"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-26T07:05:00Z",
+  "items": [],
   "atencao": []
 }
