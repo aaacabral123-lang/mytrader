@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-26T19:05:00Z",
-  "items": [],
+  "as_of": "2026-11-26T19:35:00Z",
+  "items": [
+    {
+      "id": "rss:e69a3f1a-2a6b-32ee-9440-05d1c486a2d0",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "Exxon Mobil Stocks Edge Lower as Brent Jumps 3.5% on Refinery Attack",
+      "summary": "Houthis claimed a strike on Saudi Arabia's Ras Tanura refinery, yet Exxon shares barely moved ahead of the OPEC+ meeting.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exxon-mobil-stocks-edge-lower-190142696.html?.tsrc=rss",
+      "time": "2026-11-26T19:01:42+00:00",
+      "touches": [
+        "XOM"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
