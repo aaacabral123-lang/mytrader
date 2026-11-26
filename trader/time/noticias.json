@@ -1,19 +1,37 @@
 {
-  "as_of": "2026-11-26T15:05:00Z",
+  "as_of": "2026-11-26T15:35:00Z",
   "items": [
     {
-      "id": "rss:afee2a14-9c94-3787-817d-930d46cef4f8",
+      "id": "rss:8fb25205-6fc7-3ff5-8edf-4e4f2c00c981",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "C",
-      "title": "GS vs. C: Which Bank Stock Deserves a Spot in Your Portfolio?",
-      "summary": "Goldman and Citigroup are pursuing distinct growth strategies amid resilient dealmaking and robust trading revenues. Which bank stock is a better buy?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/gs-vs-c-bank-stock-132400176.html?.tsrc=rss",
-      "time": "2026-11-26T13:24:00+00:00",
+      "title": "Will Bank of America's Swiss Expansion Fuel Further Fee Income Growth?",
+      "summary": "BAC's Swiss expansion is driving rapid client growth and broader European capabilities, potentially boosting cross-border opportunities and fee income.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bank-americas-swiss-expansion-fuel-141100657.html?.tsrc=rss",
+      "time": "2026-11-26T14:11:00+00:00",
       "touches": [
-        "C"
+        "C",
+        "JPM"
       ],
       "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:07adcb88-e4c9-3712-9c5b-1dfd1b18b338",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "JPMorgan Rethinks UK Investments: Will Higher Taxes Hurt Growth?",
+      "summary": "JPM reconsiders major U.K. investments as rising banking taxes threaten profitability, raising concerns over future expansion and long-term earnings growth.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-rethinks-uk-investments-higher-140500776.html?.tsrc=rss",
+      "time": "2026-11-26T14:05:00+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [
+        "earnings"
+      ],
       "new": true
     }
   ],
