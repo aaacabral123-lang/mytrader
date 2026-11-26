@@ -1,32 +1,5 @@
 {
-  "as_of": "2026-11-26T00:35:00Z",
-  "new": [
-    {
-      "doc_id": "20036908",
-      "type": "P",
-      "type_name": "Periodic Transaction Report",
-      "last": "Onder",
-      "first": "Robert For",
-      "name": "Hon. Robert For Onder",
-      "district": "MO03",
-      "year": 2026,
-      "filed": "2026-11-24",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036908.pdf"
-    },
-    {
-      "doc_id": "20036875",
-      "type": "P",
-      "type_name": "Periodic Transaction Report",
-      "last": "Hern",
-      "first": "Kevin",
-      "name": "Hon. Kevin Hern",
-      "district": "OK01",
-      "year": 2026,
-      "filed": "2026-11-24",
-      "url": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20036875.pdf"
-    }
-  ],
-  "hits": [
-    "Robert For Onder: venda VZ, $1,001 - $15,000"
-  ]
+  "as_of": "2026-11-26T02:35:00Z",
+  "new": [],
+  "hits": []
 }
