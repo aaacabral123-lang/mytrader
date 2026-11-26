@@ -1,5 +1,36 @@
 {
-  "as_of": "2026-11-26T16:35:00Z",
-  "items": [],
+  "as_of": "2026-11-26T17:05:00Z",
+  "items": [
+    {
+      "id": "rss:169a0be7-d838-3f26-aefd-4869205e4df2",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "Oil Markets Face Another Potential Threat to Household Fuel Costs",
+      "summary": "A familiar global threat could complicate America's inflation outlook.",
+      "link": "https://finance.yahoo.com/energy/articles/oil-markets-face-another-potential-162336490.html?.tsrc=rss",
+      "time": "2026-11-26T16:23:36+00:00",
+      "touches": [
+        "XOM"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:4d8f9a94-e49c-30f6-9d2f-dae98f1a2f01",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "VZ",
+      "title": "Can VZ's New Apple Deals and Loyalty Benefits Drive Subscriber Growth?",
+      "summary": "Verizon's 2026 holiday deals feature iPhone 18 Pro offers, free Apple devices, affordable wireless plans and loyalty rewards to attract and retain subscribers.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/vzs-apple-deals-loyalty-benefits-152600217.html?.tsrc=rss",
+      "time": "2026-11-26T15:26:00+00:00",
+      "touches": [
+        "VZ"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
