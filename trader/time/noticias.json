@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-26T08:05:00Z",
-  "items": [],
+  "as_of": "2026-11-26T08:35:00Z",
+  "items": [
+    {
+      "id": "rss:eadab990-f233-30dd-9ecf-f00c223fcc7f",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "What Is JPMorgan Chase (JPM) Saying With Its $450 Billion AI Debt Call?",
+      "summary": "JPMorgan Chase (NYSE:JPM) analysts project that AI related capital expenditure will drive US$450b in investment grade debt issuance in 2027. The bank links this expected borrowing to funding for artificial intelligence infrastructure and hardware across corporate issuers. JPMorgan Chase frames the potential 2027 AI funding wave as a key theme for debt capital markets and sector funding models. This projected US$450b AI funding spike through investment grade bonds fits into a wider capital...",
+      "link": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-chase-jpm-saying-450-080838063.html?.tsrc=rss",
+      "time": "2026-11-26T08:08:38+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
