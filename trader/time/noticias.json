@@ -1,5 +1,23 @@
 {
-  "as_of": "2026-11-26T22:05:00Z",
-  "items": [],
+  "as_of": "2026-11-26T22:35:00Z",
+  "items": [
+    {
+      "id": "rss:31f83d2d-4dcb-3376-91ff-0413f510fe4d",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "Is Standard Chartered (LSE:STAN) Undervalued Following Its J.P. Morgan Conference Appearance?",
+      "summary": "Conference spotlight on Standard Chartered Standard Chartered (LSE:STAN) will participate in the J.P. Morgan UK Leaders Conference on 18 November 2026 in London, with Group CFO Manus James MacGregor Costello set to outline the bank\u2019s current position for institutional investors. Recent trading tells a mixed story for Standard Chartered. The 1-day share price return of 1.32% comes after 7-day and 90-day share price declines of 7.10% and 13.41%, while the 5-year total shareholder return of...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/standard-chartered-lse-stan-undervalued-220908677.html?.tsrc=rss",
+      "time": "2026-11-26T22:09:08+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [
+        "people"
+      ],
+      "new": true
+    }
+  ],
   "atencao": []
 }
