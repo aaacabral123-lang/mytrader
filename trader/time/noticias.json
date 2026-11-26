@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-26T14:35:00Z",
-  "items": [],
+  "as_of": "2026-11-26T15:05:00Z",
+  "items": [
+    {
+      "id": "rss:afee2a14-9c94-3787-817d-930d46cef4f8",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "C",
+      "title": "GS vs. C: Which Bank Stock Deserves a Spot in Your Portfolio?",
+      "summary": "Goldman and Citigroup are pursuing distinct growth strategies amid resilient dealmaking and robust trading revenues. Which bank stock is a better buy?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/gs-vs-c-bank-stock-132400176.html?.tsrc=rss",
+      "time": "2026-11-26T13:24:00+00:00",
+      "touches": [
+        "C"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
