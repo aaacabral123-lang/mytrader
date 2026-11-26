@@ -1,36 +1,5 @@
 {
-  "as_of": "2026-11-26T16:05:00Z",
-  "items": [
-    {
-      "id": "rss:e51c1037-0964-33b4-86d2-d948e1ad2f88",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "JPM",
-      "title": "JPMorgan Sees $450 Billion AI Debt Wave as Credit Risks Mount",
-      "summary": "Growing artificial intelligence infrastructure spending could drive corporate borrowing and investment banking activity.",
-      "link": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-sees-450-billion-ai-154741192.html?.tsrc=rss",
-      "time": "2026-11-26T15:47:41+00:00",
-      "touches": [
-        "JPM"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:f78f2472-7f7a-3c2d-9f73-ae811d9d6000",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "FDX",
-      "title": "UPS or FDX: Which Parcel Delivery Giant Is a Better Play Now?",
-      "summary": "UPS and FedEx are cutting costs to counter sluggish demand, but differences in valuation, financial strength and growth prospects give one stock an edge.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ups-fdx-parcel-delivery-giant-143600408.html?.tsrc=rss",
-      "time": "2026-11-26T14:36:00+00:00",
-      "touches": [
-        "FDX"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-26T16:35:00Z",
+  "items": [],
   "atencao": []
 }
