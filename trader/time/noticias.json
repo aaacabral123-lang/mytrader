@@ -1,5 +1,36 @@
 {
-  "as_of": "2026-11-26T11:05:00Z",
-  "items": [],
+  "as_of": "2026-11-26T11:35:00Z",
+  "items": [
+    {
+      "id": "rss:e01ea4a8-0bf7-333e-abae-c6af2aa2cc3a",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "What State Street Financial Sel Sector SPDR (XLF) Bought: Berkshire Leads on Nov. 24",
+      "summary": "The fund added $266.5 million across all 76 holdings on Tuesday, led by a $36.3 million increase in Berkshire Hathaway.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-financial-sel-sector-110458586.html?.tsrc=rss",
+      "time": "2026-11-26T11:04:58+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:4c94d3e0-8420-3c32-ac29-ab0f40117647",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "iShares S&P 500 Value ETF (IVE) Buys $31.4 Million More Apple on Nov. 24",
+      "summary": "The $49.63 billion fund added to 429 positions and sold nothing, with Apple, Amazon and Exxon Mobil its largest purchases.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-p-500-value-etf-110442447.html?.tsrc=rss",
+      "time": "2026-11-26T11:04:42+00:00",
+      "touches": [
+        "XOM"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
