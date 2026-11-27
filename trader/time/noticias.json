@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-27T18:35:00Z",
-  "items": [
-    {
-      "id": "rss:7d6fb73d-c8de-3d0e-ac44-cc682f6700fc",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "XOM",
-      "title": "XOM Boosts Angola Prospects With Kizomba Redevelopment & New Discovery",
-      "summary": "ExxonMobil strengthens its Angola prospects with a $4 billion investment in Block 15 and a new hydrocarbon discovery, unlocking long-term production opportunities.",
-      "link": "https://finance.yahoo.com/energy/articles/xom-boosts-angola-prospects-kizomba-171600732.html?.tsrc=rss",
-      "time": "2026-11-27T17:16:00+00:00",
-      "touches": [
-        "XOM"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-27T19:05:00Z",
+  "items": [],
   "atencao": []
 }
