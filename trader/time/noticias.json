@@ -1,21 +1,39 @@
 {
-  "as_of": "2026-11-27T20:35:00Z",
+  "as_of": "2026-11-27T21:35:00Z",
   "items": [
     {
-      "id": "rss:40eeec4d-b6f2-3927-98eb-2179da393d52",
+      "id": "rss:93c8cf79-46e9-3964-a89d-df76bde6f8ee",
       "source": "Yahoo Finance",
       "kind": "headline",
+      "ticker": "JPM",
+      "title": "Why JPMorgan Chase Fans May Look To ETFs Right Now",
+      "summary": "If you like JPMorgan Chase for its global reach and mix of banking services, owning the stock outright means living with its company specific issues on their own. Simply Wall St points out that heavier long term spending on marketing, technology and artificial intelligence could grow faster than revenue and squeeze profit margins. Holding JPMorgan Chase inside an exchange traded fund spreads that single company risk across a basket of businesses, and also reduces how much its performance can...",
+      "link": "https://finance.yahoo.com/markets/options/articles/why-jpmorgan-chase-fans-may-211349086.html?.tsrc=rss",
+      "time": "2026-11-27T21:13:49+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "sec:0001193125-26-480258",
+      "source": "SEC EDGAR",
+      "kind": "filing",
+      "form": "8-K",
       "ticker": "C",
-      "title": "3 Stocks With Rising Earnings Estimates to Buy Before 2027",
-      "summary": "Three stocks across energy, banking and healthcare are seeing rising earnings estimates, backed by strong results and growth opportunities heading into 2027.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-rising-earnings-estimates-190000034.html?.tsrc=rss",
-      "time": "2026-11-27T19:00:00+00:00",
+      "title": "CITIGROUP INC filed a 8-K",
+      "summary": "Current report",
+      "items": [
+        "9.01"
+      ],
+      "important": false,
+      "link": "https://www.sec.gov/Archives/edgar/data/831001/000119312526480258/0001193125-26-480258-index.htm",
+      "time": "2026-11-27T21:05:36+00:00",
       "touches": [
         "C"
       ],
-      "tags": [
-        "earnings"
-      ],
+      "tags": [],
       "new": true
     }
   ],
