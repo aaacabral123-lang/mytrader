@@ -1,17 +1,17 @@
 {
-  "as_of": "2026-11-27T14:05:00Z",
+  "as_of": "2026-11-27T14:35:00Z",
   "items": [
     {
-      "id": "rss:092c99a5-83ed-3e15-9240-5d26777ee684",
+      "id": "rss:fd1b92a2-2578-3cd1-9002-085aac058693",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "JPM",
-      "title": "Why history suggests a sharp rally could be near",
-      "summary": "Investing.com -- JPMorgan said the worst of the recent sell-off in European momentum and AI-linked stocks is likely over and a sharp rebound could be next; however, the bank warned that markets risk drifting lower in 2027.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-history-suggests-sharp-rally-132322740.html?.tsrc=rss",
-      "time": "2026-11-27T13:23:22+00:00",
+      "ticker": "XOM",
+      "title": "ExxonMobil Holdings Corporation (XOM) is Attracting Investor Attention: Here is What You Should Know",
+      "summary": "Recently, Zacks.com users have been paying close attention to Exxon (XOM). This makes it worthwhile to examine what the stock has in store.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-holdings-corporation-xom-attracting-130003011.html?.tsrc=rss",
+      "time": "2026-11-27T13:00:03+00:00",
       "touches": [
-        "JPM"
+        "XOM"
       ],
       "tags": [],
       "new": true
