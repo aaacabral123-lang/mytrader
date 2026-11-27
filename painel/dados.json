@@ -1,14 +1,14 @@
 {
-  "as_of": "2026-11-27T15:05:39Z",
+  "as_of": "2026-11-27T15:35:04Z",
   "paper": true,
   "strategy": "indice",
   "rules": "Growing, profitable, not priced for perfection",
   "start": 5000.0,
-  "total": 4675.94,
+  "total": 4680.99,
   "invested": 0,
   "cash": 0.0,
-  "change": -324.06,
-  "change_pct": -6.48,
+  "change": -319.01,
+  "change_pct": -6.38,
   "positions": [],
   "targets": [
     {
@@ -26,18 +26,18 @@
   "pares": {
     "start": 4627.69,
     "cash": 1282.92,
-    "value": 4675.94,
-    "change": 48.25,
-    "change_pct": 1.04,
+    "value": 4680.99,
+    "change": 53.3,
+    "change_pct": 1.15,
     "positions": [
       {
         "symbol": "C",
         "qty": 8.18530605,
         "avg": 113.37267,
-        "price": 115.145,
-        "value": 942.5,
-        "pl": 14.51,
-        "pl_pct": 1.56,
+        "price": 115.025,
+        "value": 941.51,
+        "pl": 13.52,
+        "pl_pct": 1.46,
         "since": "2026-11-25",
         "pair": "C/WFC"
       },
@@ -45,10 +45,10 @@
         "symbol": "FDX",
         "qty": 0.921045186,
         "avg": 318.106,
-        "price": 309.875,
-        "value": 285.41,
-        "pl": -7.58,
-        "pl_pct": -2.59,
+        "price": 310.94,
+        "value": 286.39,
+        "pl": -6.6,
+        "pl_pct": -2.25,
         "since": "2026-11-18",
         "pair": "UPS/FDX"
       },
@@ -56,10 +56,10 @@
         "symbol": "JPM",
         "qty": 2.924829803,
         "avg": 317.28,
-        "price": 321.75,
-        "value": 941.06,
-        "pl": 13.07,
-        "pl_pct": 1.41,
+        "price": 323.07,
+        "value": 944.92,
+        "pl": 16.93,
+        "pl_pct": 1.82,
         "since": "2026-11-25",
         "pair": "JPM/BAC"
       },
@@ -67,10 +67,10 @@
         "symbol": "VZ",
         "qty": 19.544860994,
         "avg": 47.48,
-        "price": 47.68,
-        "value": 931.9,
-        "pl": 3.91,
-        "pl_pct": 0.42,
+        "price": 47.695,
+        "value": 932.19,
+        "pl": 4.2,
+        "pl_pct": 0.45,
         "since": "2026-11-25",
         "pair": "T/VZ"
       },
@@ -78,10 +78,10 @@
         "symbol": "XOM",
         "qty": 1.820128869,
         "avg": 164.818,
-        "price": 160.51,
-        "value": 292.15,
-        "pl": -7.84,
-        "pl_pct": -2.61,
+        "price": 161.01,
+        "value": 293.06,
+        "pl": -6.93,
+        "pl_pct": -2.31,
         "since": "2026-11-10",
         "pair": "XOM/CVX"
       }
@@ -90,8 +90,8 @@
   "benchmark": {
     "symbol": "SPY",
     "since": "2026-10-28",
-    "value": 4667.3,
-    "change_pct": -6.65
+    "value": 4688.85,
+    "change_pct": -6.22
   },
   "long_term": false,
   "regime": {
@@ -1713,6 +1713,11 @@
       "t": "2026-11-27T15:05:39Z",
       "v": 4675.94,
       "b": 4667.3
+    },
+    {
+      "t": "2026-11-27T15:35:04Z",
+      "v": 4680.99,
+      "b": 4688.85
     }
   ],
   "report": "trader/relatorios/2026-11-27.md",
