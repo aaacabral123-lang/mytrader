@@ -1,37 +1,35 @@
 {
-  "as_of": "2026-11-27T17:05:00Z",
+  "as_of": "2026-11-27T17:35:00Z",
   "items": [
     {
-      "id": "rss:292f97f2-6927-3afa-bfb8-08b1858e6727",
+      "id": "rss:1462794b-cce8-3e94-831d-4afa0797dc51",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "VZ",
-      "title": "Why Is T-Mobile (TMUS) Up 12.9% Since Last Earnings Report?",
-      "summary": "T-Mobile (TMUS) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-t-mobile-tmus-12-153024295.html?.tsrc=rss",
-      "time": "2026-11-27T15:30:24+00:00",
+      "title": "Anterix (ATEX) Stock Is Up 9.7% Today Without Company News",
+      "summary": "On Friday, Nov. 27, the stock rose 9.7% without company-specific news, as the broader market rallied",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/anterix-atex-stock-9-7-171515553.html?.tsrc=rss",
+      "time": "2026-11-27T17:15:15+00:00",
       "touches": [
         "VZ"
       ],
-      "tags": [
-        "earnings"
-      ],
+      "tags": [],
       "new": true
     },
     {
-      "id": "rss:706c98ea-a103-3caf-8324-248a0305fd49",
+      "id": "rss:e879d386-69d3-36f6-8c9e-e207d49aec2a",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "FDX",
-      "title": "FedEx (FDX) Up 0.3% Since Last Earnings Report: Can It Continue?",
-      "summary": "FedEx (FDX) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/fedex-fdx-0-3-since-153014225.html?.tsrc=rss",
-      "time": "2026-11-27T15:30:14+00:00",
+      "ticker": "C",
+      "title": "Qfin Holdings (QFIN) Stock Sees Fair Value Cut As Analysts Turn More Neutral",
+      "summary": "The updated fair value for Qfin Holdings has shifted from US$14.82 to US$13.12, and some analysts have also lowered price targets to levels such as US$11 and US$5.20. These changes sit alongside a move toward more neutral ratings, as recent research frames the stock as more balanced on risk and reward while still flagging regulatory and legal overhangs. As you read on, you will see how these revised targets fit into the wider analyst narrative and what to watch as the story evolves. Analyst...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/qfin-holdings-qfin-stock-sees-171137714.html?.tsrc=rss",
+      "time": "2026-11-27T17:11:37+00:00",
       "touches": [
-        "FDX"
+        "C"
       ],
       "tags": [
-        "earnings"
+        "analyst"
       ],
       "new": true
     }
