@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-27T13:05:00Z",
-  "items": [],
+  "as_of": "2026-11-27T14:05:00Z",
+  "items": [
+    {
+      "id": "rss:092c99a5-83ed-3e15-9240-5d26777ee684",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "Why history suggests a sharp rally could be near",
+      "summary": "Investing.com -- JPMorgan said the worst of the recent sell-off in European momentum and AI-linked stocks is likely over and a sharp rebound could be next; however, the bank warned that markets risk drifting lower in 2027.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-history-suggests-sharp-rally-132322740.html?.tsrc=rss",
+      "time": "2026-11-27T13:23:22+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
