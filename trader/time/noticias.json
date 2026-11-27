@@ -1,15 +1,45 @@
 {
-  "as_of": "2026-11-27T14:35:00Z",
+  "as_of": "2026-11-27T15:05:00Z",
   "items": [
     {
-      "id": "rss:fd1b92a2-2578-3cd1-9002-085aac058693",
+      "id": "rss:27c2a04e-4c94-4e24-ac24-4f1fe2bdc999",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "VZ",
+      "title": "SpaceX, Tesla have had a bumpy 2026 thus far: What to know",
+      "summary": "Yahoo Finance Executive Editor Brian Sozzi focuses on Elon Musk's two public companies \u2014 SpaceX (SPCX) and Tesla (TSLA) \u2014 and their respective stock performances in 2026. While getting a slight boost at the time of this video's posting, SpaceX is still trading below its IPO price of $135 per share.",
+      "link": "https://finance.yahoo.com/video/spacex-tesla-have-had-a-bumpy-2026-thus-far-what-to-know-145849441.html?.tsrc=rss",
+      "time": "2026-11-27T14:58:49+00:00",
+      "touches": [
+        "VZ"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:b8c983ec-35b1-3e61-a685-770479520c9b",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "JPMorgan Flags Major Turning Point for AI Stocks",
+      "summary": "The technology spending boom could reach a critical crossroads.",
+      "link": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-flags-major-turning-point-143359163.html?.tsrc=rss",
+      "time": "2026-11-27T14:33:59+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:a1b0c246-0fdb-3f72-af49-c29df91b6695",
       "source": "Yahoo Finance",
       "kind": "headline",
       "ticker": "XOM",
-      "title": "ExxonMobil Holdings Corporation (XOM) is Attracting Investor Attention: Here is What You Should Know",
-      "summary": "Recently, Zacks.com users have been paying close attention to Exxon (XOM). This makes it worthwhile to examine what the stock has in store.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/exxonmobil-holdings-corporation-xom-attracting-130003011.html?.tsrc=rss",
-      "time": "2026-11-27T13:00:03+00:00",
+      "title": "Oil Prices Remain High: Boon for BP's Energy Operations?",
+      "summary": "High oil prices and major exploration discoveries brighten BP's near- and long-term upstream outlook.",
+      "link": "https://finance.yahoo.com/energy/articles/oil-prices-remain-high-boon-134300933.html?.tsrc=rss",
+      "time": "2026-11-27T13:43:00+00:00",
       "touches": [
         "XOM"
       ],
