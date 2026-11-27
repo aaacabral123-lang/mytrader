@@ -1,5 +1,40 @@
 {
-  "as_of": "2026-11-27T16:35:00Z",
-  "items": [],
+  "as_of": "2026-11-27T17:05:00Z",
+  "items": [
+    {
+      "id": "rss:292f97f2-6927-3afa-bfb8-08b1858e6727",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "VZ",
+      "title": "Why Is T-Mobile (TMUS) Up 12.9% Since Last Earnings Report?",
+      "summary": "T-Mobile (TMUS) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-t-mobile-tmus-12-153024295.html?.tsrc=rss",
+      "time": "2026-11-27T15:30:24+00:00",
+      "touches": [
+        "VZ"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:706c98ea-a103-3caf-8324-248a0305fd49",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "FDX",
+      "title": "FedEx (FDX) Up 0.3% Since Last Earnings Report: Can It Continue?",
+      "summary": "FedEx (FDX) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/fedex-fdx-0-3-since-153014225.html?.tsrc=rss",
+      "time": "2026-11-27T15:30:14+00:00",
+      "touches": [
+        "FDX"
+      ],
+      "tags": [
+        "earnings"
+      ],
+      "new": true
+    }
+  ],
   "atencao": []
 }
