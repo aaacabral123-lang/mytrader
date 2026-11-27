@@ -1,41 +1,21 @@
 {
-  "as_of": "2026-11-27T18:05:00Z",
+  "as_of": "2026-11-27T18:35:00Z",
   "items": [
     {
-      "id": "rss:48d1ffc2-0ca8-3f08-a39f-03c0675390b0",
+      "id": "rss:7d6fb73d-c8de-3d0e-ac44-cc682f6700fc",
       "source": "Yahoo Finance",
       "kind": "headline",
-      "ticker": "JPM",
-      "title": "Banks Facing Bond Price-Fixing Trial Agree to Pay Over $400 Million",
-      "summary": "Wall Street firms including some of the industry\u2019s biggest banks are nearing an agreement to pay more than $400 million to end a high-stakes lawsuit claiming they schemed to fix prices in the muni bond market.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/banks-facing-bond-price-fixing-161219624.html?.tsrc=rss",
-      "time": "2026-11-27T16:12:19+00:00",
+      "ticker": "XOM",
+      "title": "XOM Boosts Angola Prospects With Kizomba Redevelopment & New Discovery",
+      "summary": "ExxonMobil strengthens its Angola prospects with a $4 billion investment in Block 15 and a new hydrocarbon discovery, unlocking long-term production opportunities.",
+      "link": "https://finance.yahoo.com/energy/articles/xom-boosts-angola-prospects-kizomba-171600732.html?.tsrc=rss",
+      "time": "2026-11-27T17:16:00+00:00",
       "touches": [
-        "JPM"
+        "XOM"
       ],
-      "tags": [
-        "legal"
-      ],
+      "tags": [],
       "new": true
     }
   ],
-  "atencao": [
-    {
-      "id": "rss:48d1ffc2-0ca8-3f08-a39f-03c0675390b0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "JPM",
-      "title": "Banks Facing Bond Price-Fixing Trial Agree to Pay Over $400 Million",
-      "summary": "Wall Street firms including some of the industry\u2019s biggest banks are nearing an agreement to pay more than $400 million to end a high-stakes lawsuit claiming they schemed to fix prices in the muni bond market.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/banks-facing-bond-price-fixing-161219624.html?.tsrc=rss",
-      "time": "2026-11-27T16:12:19+00:00",
-      "touches": [
-        "JPM"
-      ],
-      "tags": [
-        "legal"
-      ],
-      "new": true
-    }
-  ]
+  "atencao": []
 }
