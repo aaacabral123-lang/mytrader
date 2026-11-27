@@ -1,5 +1,22 @@
 {
-  "as_of": "2026-11-27T04:35:00Z",
-  "items": [],
+  "as_of": "2026-11-27T05:05:00Z",
+  "items": [
+    {
+      "id": "rss:67693fee-1eda-3f7b-92a6-a655479a2499",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "C",
+      "title": "AI Risk Is 'Moving Somewhere Harder to See': Citigroup, JPMorgan Reportedly Look to Offload AI Debt as Investors Grow Wary of Buildout",
+      "summary": "Banks have reportedly put portfolios of artificial intelligence-related loans on the market to shed risk or free up capacity to lend more, as investor appetite for the debt behind the buildout tests. Banks Shop Their AI Loans Citigroup Inc. (NYSE:C) and JPMorgan Chase & Co. (NYSE:JPM) are among the banks trying to \u201coffload some of their exposure to AI-related debt,\u201d according to a Semafor report, citing people familiar with the deals. In some cases, they are also trying to \u201cready themselves to t",
+      "link": "https://finance.yahoo.com/technology/ai/articles/ai-risk-moving-somewhere-harder-033352825.html?.tsrc=rss",
+      "time": "2026-11-27T03:33:52+00:00",
+      "touches": [
+        "C",
+        "JPM"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
