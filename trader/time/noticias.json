@@ -1,5 +1,56 @@
 {
-  "as_of": "2026-11-27T11:05:00Z",
-  "items": [],
+  "as_of": "2026-11-27T11:35:00Z",
+  "items": [
+    {
+      "id": "rss:c1655663-5aa5-3069-a956-d4028b7383d1",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "Banco Bradesco (BOVESPA:BBDC4) Stock Sees Fair Value Cut As Analysts Turn More Cautious",
+      "summary": "The fair value estimate for Banco Bradesco has been reset from R$22.25 to R$20.00, which now lines up with the updated price target range on the stock. This shift mirrors more cautious analyst views, with several firms moving to Neutral or Market Perform ratings and clustering their targets between R$16 and R$20. As you read on, you will see how these revised targets fit into the broader Banco Bradesco story and what to watch to keep up with the evolving narrative. Analyst Price Targets don't...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/banco-bradesco-bovespa-bbdc4-stock-111053785.html?.tsrc=rss",
+      "time": "2026-11-27T11:10:53+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [
+        "analyst"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:7cbc5b23-f86d-381d-8cb3-b32c33695a34",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "3 Great Dividend Stocks To Own In November 2026",
+      "summary": "Central banks are back in the spotlight as the Federal Reserve signals another interest rate hike, which keeps pressure on bond yields and short term income options. That puts steady dividend payers in focus for anyone who wants cash flow that is not reset at every policy meeting. This article looks at three large companies with long records of raising dividends and compares their yields, growth and payout ratios. The three stocks in this article are just a sample set, and the full screen...",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-great-dividend-stocks-own-110954380.html?.tsrc=rss",
+      "time": "2026-11-27T11:09:54+00:00",
+      "touches": [
+        "JPM",
+        "XOM"
+      ],
+      "tags": [
+        "capital"
+      ],
+      "new": true
+    },
+    {
+      "id": "rss:23fe76b1-2102-3411-89c4-741362d42bcf",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "XOM",
+      "title": "Chevron Stock Leads The Oil Price Shock Theme For Integrated Energy Investors",
+      "summary": "Oil prices pushing toward triple digits, supply routes under threat and refineries disrupted have put global energy back in the spotlight. That mix creates both potential openings and risks for investors watching integrated oil and gas producers. This article walks through three stocks from our Global Integrated Oil & Gas Producers screener that appear positively exposed to the latest headlines and explains how the same shock can play out very differently across their businesses. The stocks...",
+      "link": "https://finance.yahoo.com/energy/articles/chevron-stock-leads-oil-price-110947231.html?.tsrc=rss",
+      "time": "2026-11-27T11:09:47+00:00",
+      "touches": [
+        "XOM"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
