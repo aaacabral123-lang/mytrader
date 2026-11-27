@@ -1,5 +1,36 @@
 {
-  "as_of": "2026-11-27T22:05:00Z",
-  "items": [],
+  "as_of": "2026-11-27T23:05:00Z",
+  "items": [
+    {
+      "id": "rss:2c3388f7-833c-32d6-859f-20669db70acb",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "C",
+      "title": "Citigroup (C) Outperforms Broader Market: What You Need to Know",
+      "summary": "In the latest trading session, Citigroup (C) closed at $115.59, marking a +1.99% move from the previous day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/citigroup-c-outperforms-broader-market-214502507.html?.tsrc=rss",
+      "time": "2026-11-27T21:45:02+00:00",
+      "touches": [
+        "C"
+      ],
+      "tags": [],
+      "new": true
+    },
+    {
+      "id": "rss:927a8f90-d0f1-36cb-b3ba-f3cd9cad0306",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "JPMorgan Chase & Co. (JPM) Outpaces Stock Market Gains: What You Should Know",
+      "summary": "In the closing of the recent trading day, JPMorgan Chase & Co. (JPM) stood at $322.96, denoting a +1.96% move from the preceding trading day.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-co-jpm-outpaces-214502182.html?.tsrc=rss",
+      "time": "2026-11-27T21:45:02+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
