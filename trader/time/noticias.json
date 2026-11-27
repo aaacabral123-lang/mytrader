@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-27T06:35:00Z",
-  "items": [],
+  "as_of": "2026-11-27T07:05:00Z",
+  "items": [
+    {
+      "id": "rss:59f6de8f-22b7-3936-a702-52611c591c0e",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "FDX",
+      "title": "Is the Stock Market Open Today? Here Are the Trading Hours for Black Friday.",
+      "summary": "A while lot of businesses are open on Black Friday but what about the stock market?",
+      "link": "https://finance.yahoo.com/m/59f6de8f-22b7-3936-a702-52611c591c0e/is-the-stock-market-open.html?.tsrc=rss",
+      "time": "2026-11-27T05:01:00+00:00",
+      "touches": [
+        "FDX"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
