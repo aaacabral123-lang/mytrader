@@ -1,52 +1,5 @@
 {
-  "as_of": "2026-11-27T12:35:00Z",
-  "items": [
-    {
-      "id": "rss:eeae6ec6-ecdd-377e-8d27-e2504593d2b0",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "C",
-      "title": "JPMorgan, BofA, Citigroup issue same red alert over US bank accounts \u2014 official policy changes shift liability to you",
-      "summary": "\"There\u2019s a liability transfer.\"",
-      "link": "https://finance.yahoo.com/markets/currencies/articles/jpmorgan-bofa-citigroup-issue-same-123000336.html?.tsrc=rss",
-      "time": "2026-11-27T12:30:00+00:00",
-      "touches": [
-        "C",
-        "JPM"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:238f7509-b68f-30d5-92f6-f6eb33d5383f",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "C",
-      "title": "Meituan swings to Q3 profit as revenue beats, adjusted profit misses",
-      "summary": "Investing.com -- Meituan returned to profit in the third quarter as revenue beat expectations, though adjusted net profit fell short of estimates.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/meituan-swings-q3-profit-revenue-115920831.html?.tsrc=rss",
-      "time": "2026-11-27T11:59:20+00:00",
-      "touches": [
-        "C"
-      ],
-      "tags": [],
-      "new": true
-    },
-    {
-      "id": "rss:2d27b5a5-ed70-3479-a324-4477676bb810",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "VOO",
-      "title": "BofA Sees S&P 500 Rising 8% in 2027: Are Your ETFs Ready for a Soft Landing?",
-      "summary": "BofA forecasts 8.3% S&P 500 upside by 2027, but fading buybacks and rising risks make these three low-cost ETFs worth a closer look.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/bofa-sees-p-500-rising-110800608.html?.tsrc=rss",
-      "time": "2026-11-27T11:08:00+00:00",
-      "touches": [
-        "VOO"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-27T13:05:00Z",
+  "items": [],
   "atencao": []
 }
