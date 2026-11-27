@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-27T07:35:00Z",
-  "items": [],
+  "as_of": "2026-11-27T08:05:00Z",
+  "items": [
+    {
+      "id": "rss:60ed44c0-7043-34d4-8c40-0f50a03c6190",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "J.P. Morgan sees luxury sales stagnating in 2027, but which category stands out?",
+      "summary": "Investing.com -- European luxury goods sales are likely to show no growth in 2027 as a drag from Chinese consumers offsets a positive contribution from U.S. shoppers, J.P. Morgan said on Friday, adding that sporting goods growth will slow.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/j-p-morgan-sees-luxury-072816536.html?.tsrc=rss",
+      "time": "2026-11-27T07:28:16+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
