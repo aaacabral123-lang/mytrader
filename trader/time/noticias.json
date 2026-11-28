@@ -1,5 +1,21 @@
 {
-  "as_of": "2026-11-28T13:05:00Z",
-  "items": [],
+  "as_of": "2026-11-28T13:35:00Z",
+  "items": [
+    {
+      "id": "rss:e3857ea0-9907-3405-b152-a27db135d63c",
+      "source": "Yahoo Finance",
+      "kind": "headline",
+      "ticker": "JPM",
+      "title": "The AI stock crash is mostly over, JPMorgan says \u2014 but a worse phase could be coming in 2027",
+      "summary": "The crash in artificial-intelligence stocks has just about run its course, but a worse phase could be in store for next year, say JPMorgan\u2019s European quant team.",
+      "link": "https://www.marketwatch.com/story/the-ai-stock-crash-is-mostly-over-jpmorgan-says-but-a-worse-phase-could-be-coming-in-2027-fa769fbd?.tsrc=rss",
+      "time": "2026-11-27T10:32:00+00:00",
+      "touches": [
+        "JPM"
+      ],
+      "tags": [],
+      "new": true
+    }
+  ],
   "atencao": []
 }
