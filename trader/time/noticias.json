@@ -1,21 +1,5 @@
 {
-  "as_of": "2026-11-28T07:05:00Z",
-  "items": [
-    {
-      "id": "rss:855442c7-61a0-3cfe-a5dc-39696aeb843a",
-      "source": "Yahoo Finance",
-      "kind": "headline",
-      "ticker": "VZ",
-      "title": "What Does Verizon Communications (VZ) Gain From Its New Motorsport IoT Partnership?",
-      "summary": "Verizon Communications (NYSE:VZ) has partnered with Bosch Motorsport to provide global IoT connectivity for race events via its ThingSpace platform. The collaboration centralizes management of race-day sensors worldwide so Bosch Motorsport can run devices under a single orchestration layer. ThingSpace connectivity is designed to support data handling for rules compliance and safety monitoring in high-pressure international motorsport settings. Verizon's Bosch Motorsport IoT partnership is...",
-      "link": "https://finance.yahoo.com/technology/articles/does-verizon-communications-vz-gain-060821186.html?.tsrc=rss",
-      "time": "2026-11-28T06:08:21+00:00",
-      "touches": [
-        "VZ"
-      ],
-      "tags": [],
-      "new": true
-    }
-  ],
+  "as_of": "2026-11-28T07:35:00Z",
+  "items": [],
   "atencao": []
 }
